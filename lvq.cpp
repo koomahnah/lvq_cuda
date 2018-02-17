@@ -24,6 +24,26 @@ namespace fs = boost::filesystem;
 
 #define THREADS_PER_BLOCK 32
 
+struct {
+    int input_dim;
+    int output_dim;
+    int neuron_count;
+    int text_count;
+
+    CUfunction init;
+    CUfunction distance;
+
+    int *text_array;
+    int *text_class;
+    float *neuron_dist;
+
+    CUdeviceptr neuron_class_d;
+    CUdeviceptr neuron_weight_d;
+    CUdeviceptr neuron_bias_d;
+    CUdeviceptr neuron_dist_d;
+    CUdeviceptr text_array_d;
+} l;
+
 string convert_word(string in) {
     string out;
     transform(in.begin(), in.end(), in.begin(), ::tolower);
@@ -157,27 +177,23 @@ void build_text_array(fs::path target_dir, map<string,int> dict, int input_dim,
     *text_cnt_out = text_cnt;
 }
 
-int compete(CUfunction distance, int input_dim,
-            CUdeviceptr neuron_weight_d, int neuron_count,
-            CUdeviceptr text_array_d, int text_index,
-            CUdeviceptr neuron_dist_d)
+int compete(int text_index)
 {
-    static int *neuron_dist = new int[neuron_count];
+    void* args[] = {&l.input_dim, &l.neuron_weight_d, &l.text_array_d,
+                    &text_index,  &l.neuron_dist_d};
 
-    void* args[] = {&input_dim, &neuron_weight_d, &text_array_d, &text_index,
-                     &neuron_dist_d};
-    CHECK_ERROR(cuLaunchKernel(distance, neuron_count,
+    CHECK_ERROR(cuLaunchKernel(l.distance, l.neuron_count,
             1, 1, THREADS_PER_BLOCK, 1, 1, 0, 0, args, 0));
     CHECK_ERROR(cuCtxSynchronize());
 
-    cuMemcpyDtoH(neuron_dist, neuron_dist_d, sizeof(int) * neuron_count);
+    cuMemcpyDtoH(l.neuron_dist, l.neuron_dist_d, sizeof(int) * l.neuron_count);
 
     float min_dist = numeric_limits<float>::max();
     int min_index = -1;
-    for (int i = 0; i < neuron_count; i++) {
-        if (neuron_dist[i] < min_dist) {
+    for (int i = 0; i < l.neuron_count; i++) {
+        if (l.neuron_dist[i] < min_dist) {
             min_index = i;
-            min_dist = neuron_dist[i];
+            min_dist = l.neuron_dist[i];
         }
     }
     assert(min_index != -1);
@@ -197,55 +213,46 @@ int main() {
     CHECK_ERROR(cuModuleLoad(&cuModule, "lvq.ptx"));
 
     map<string,int> dict = create_dict(fs::path("./texts"));
-    int input_dim = dict.size();
-    int neuron_count = 4;
-    int text_count;
-    int output_dim = 2; // number of classes
+    l.input_dim = dict.size();
+    l.neuron_count = 4;
+    l.output_dim = 2; // number of classes
 
     cout << "Created dict. Building text array..." << endl;
 
-    int *text_array, *text_class;
+    build_text_array(fs::path("./texts"), dict, l.input_dim, &l.text_array,
+            &l.text_class, &l.text_count);
 
-    build_text_array(fs::path("./texts"), dict, input_dim, &text_array,
-            &text_class, &text_count);
+    cout << "Text count is " << l.text_count << ", input dim " << l.input_dim << endl;
 
-    cout << "Text count is " << text_count << ", input dim " << input_dim << endl;
-
-    for (int i = 0; i < text_count * input_dim; i++) {
-        cout << text_array[i] << " ";
-        if (i % input_dim == input_dim - 1)
+    for (int i = 0; i < l.text_count * l.input_dim; i++) {
+        cout << l.text_array[i] << " ";
+        if (i % l.input_dim == l.input_dim - 1)
             cout << endl;
     }
     cout << endl;
 
-    CUdeviceptr neuron_class_d;
-    CUdeviceptr neuron_weight_d;
-    CUdeviceptr neuron_bias_d;
-    CUdeviceptr text_array_d;
-    CUdeviceptr neuron_dist_d;
+    l.neuron_dist = new float[l.neuron_count];
 
-    CUfunction init;
-    CUfunction distance;
+    CHECK_ERROR(cuMemAlloc(&l.neuron_class_d, l.neuron_count * sizeof(int)));
+    CHECK_ERROR(cuMemAlloc(&l.neuron_weight_d, l.neuron_count * l.input_dim * sizeof(float)));
+    CHECK_ERROR(cuMemAlloc(&l.neuron_bias_d, l.neuron_count * sizeof(int)));
+    CHECK_ERROR(cuMemAlloc(&l.neuron_dist_d, l.neuron_count * sizeof(float)));
+    CHECK_ERROR(cuMemAlloc(&l.text_array_d, l.text_count * l.input_dim * sizeof(int)));
 
-    CHECK_ERROR(cuMemAlloc(&neuron_class_d, neuron_count * sizeof(int)));
-    CHECK_ERROR(cuMemAlloc(&neuron_weight_d, neuron_count * input_dim * sizeof(float)));
-    CHECK_ERROR(cuMemAlloc(&neuron_bias_d, neuron_count * sizeof(int)));
-    CHECK_ERROR(cuMemAlloc(&neuron_dist_d, neuron_count * sizeof(float)));
-    CHECK_ERROR(cuMemAlloc(&text_array_d, text_count * input_dim * sizeof(int)));
+    CHECK_ERROR(cuMemcpyHtoD(l.text_array_d, l.text_array, l.text_count * l.input_dim * sizeof(int)));
 
-    CHECK_ERROR(cuMemcpyHtoD(text_array_d, text_array, text_count * input_dim * sizeof(int)));
+    CHECK_ERROR(cuModuleGetFunction(&l.init, cuModule, "init"));
+    CHECK_ERROR(cuModuleGetFunction(&l.distance, cuModule, "distance"));
 
-    CHECK_ERROR(cuModuleGetFunction(&init, cuModule, "init"));
-    CHECK_ERROR(cuModuleGetFunction(&distance, cuModule, "distance"));
+    void* args[] = {&l.input_dim, &l.output_dim, &l.neuron_count, &l.neuron_class_d,
+                    &l.neuron_weight_d, &l.neuron_bias_d};
 
-    void* args[] = {&input_dim, &output_dim, &neuron_count, &neuron_class_d, &neuron_weight_d,
-                    &neuron_bias_d};
-    CHECK_ERROR(cuLaunchKernel(init, neuron_count/2,
+    CHECK_ERROR(cuLaunchKernel(l.init, l.neuron_count/2,
             1, 1, 2, 1, 1, 0, 0, args, 0));
     CHECK_ERROR(cuCtxSynchronize());
 
-    int winner = compete(distance, input_dim, neuron_weight_d, neuron_count,
-            text_array_d, 0, neuron_dist_d);
+    int winner = compete(0);
+
     cuCtxDestroy(context);
 
     return 0;
