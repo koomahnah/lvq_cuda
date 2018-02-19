@@ -1,5 +1,7 @@
 #include "cuda.h"
 #include <iostream>
+#include <cstdlib>
+#include <ctime>
 #include <fstream>
 #include <algorithm>
 #include <boost/filesystem.hpp>
@@ -32,14 +34,15 @@ struct {
 
     CUfunction init;
     CUfunction distance;
+    CUfunction attract;
 
     int *text_array;
     int *text_class;
     float *neuron_dist;
+    int *neuron_bias;
+    int *neuron_class;
 
-    CUdeviceptr neuron_class_d;
     CUdeviceptr neuron_weight_d;
-    CUdeviceptr neuron_bias_d;
     CUdeviceptr neuron_dist_d;
     CUdeviceptr text_array_d;
 } l;
@@ -177,8 +180,26 @@ void build_text_array(fs::path target_dir, map<string,int> dict, int input_dim,
     *text_cnt_out = text_cnt;
 }
 
-int compete(int text_index)
+#define round_to(x, base) ((((x)+(base)-1)*(base)) / (base))
+#define BIAS_BASE 2
+
+int attract(int neuron_index, int text_index, float step) {
+    assert(text_index < l.text_count);
+    assert(neuron_index < l.neuron_count);
+
+    void* args[] = {&l.input_dim, &l.neuron_weight_d, &neuron_index, &l.text_array_d,
+                    &text_index, &step};
+
+    cout << "launching " << round_to(l.input_dim, 1024) / 1024 << " blocks" << endl;
+    CHECK_ERROR(cuLaunchKernel(l.attract, round_to(l.input_dim, 1024) / 1024,
+            1, 1, 1024, 1, 1, 0, 0, args, 0));
+    CHECK_ERROR(cuCtxSynchronize());
+}
+
+int compete(int text_index, bool count_bias)
 {
+    assert(text_index < l.text_count);
+
     void* args[] = {&l.input_dim, &l.neuron_weight_d, &l.text_array_d,
                     &text_index,  &l.neuron_dist_d};
 
@@ -186,12 +207,16 @@ int compete(int text_index)
             1, 1, THREADS_PER_BLOCK, 1, 1, 0, 0, args, 0));
     CHECK_ERROR(cuCtxSynchronize());
 
-    cuMemcpyDtoH(l.neuron_dist, l.neuron_dist_d, sizeof(int) * l.neuron_count);
+    cuMemcpyDtoH(l.neuron_dist, l.neuron_dist_d, sizeof(float) * l.neuron_count);
 
     float min_dist = numeric_limits<float>::max();
     int min_index = -1;
     for (int i = 0; i < l.neuron_count; i++) {
-        if (l.neuron_dist[i] < min_dist) {
+        float dist = l.neuron_dist[i];
+        if (count_bias)
+            dist *= pow(BIAS_BASE, l.neuron_bias[i]);
+        cout << "distance of neuron" << i << " is " << dist << endl;
+        if (dist < min_dist) {
             min_index = i;
             min_dist = l.neuron_dist[i];
         }
@@ -207,6 +232,8 @@ int main() {
     CUdevice device;
     CUcontext context;
     CUmodule cuModule = (CUmodule)0;
+
+    srand(time(NULL));
 
     CHECK_ERROR(cuDeviceGet(&device, 0));
     CHECK_ERROR(cuCtxCreate(&context, CU_CTX_SCHED_SPIN | CU_CTX_MAP_HOST, device));
@@ -232,10 +259,15 @@ int main() {
     cout << endl;
 
     l.neuron_dist = new float[l.neuron_count];
+    l.neuron_bias = new int[l.neuron_count];
+    l.neuron_class = new int[l.neuron_count];
 
-    CHECK_ERROR(cuMemAlloc(&l.neuron_class_d, l.neuron_count * sizeof(int)));
+    for (int i = 0; i < l.neuron_count; i++) {
+        l.neuron_bias[i] = 0;
+        l.neuron_class[i] = i * l.output_dim / l.neuron_count;
+    }
+
     CHECK_ERROR(cuMemAlloc(&l.neuron_weight_d, l.neuron_count * l.input_dim * sizeof(float)));
-    CHECK_ERROR(cuMemAlloc(&l.neuron_bias_d, l.neuron_count * sizeof(int)));
     CHECK_ERROR(cuMemAlloc(&l.neuron_dist_d, l.neuron_count * sizeof(float)));
     CHECK_ERROR(cuMemAlloc(&l.text_array_d, l.text_count * l.input_dim * sizeof(int)));
 
@@ -243,15 +275,30 @@ int main() {
 
     CHECK_ERROR(cuModuleGetFunction(&l.init, cuModule, "init"));
     CHECK_ERROR(cuModuleGetFunction(&l.distance, cuModule, "distance"));
+    CHECK_ERROR(cuModuleGetFunction(&l.attract, cuModule, "attract"));
 
-    void* args[] = {&l.input_dim, &l.output_dim, &l.neuron_count, &l.neuron_class_d,
-                    &l.neuron_weight_d, &l.neuron_bias_d};
+    void* args[] = {&l.input_dim, &l.output_dim, &l.neuron_count,
+                    &l.neuron_weight_d};
 
     CHECK_ERROR(cuLaunchKernel(l.init, l.neuron_count/2,
             1, 1, 2, 1, 1, 0, 0, args, 0));
     CHECK_ERROR(cuCtxSynchronize());
 
-    int winner = compete(0);
+    for (int i = 0; i < 10; i++) {
+        int text = rand() % l.text_count;
+        cout << "====================" << endl;
+        cout << "Training text " << text << ", class " << l.text_class[text] << endl;
+        int winner = compete(text, true);
+        cout << "Winner is " << winner << ", class " << l.neuron_class[winner] << endl;
+        if (l.text_class[text] == l.neuron_class[winner]) {
+            attract(winner, text, 0.9);
+            cout << "Attract..." << endl;
+        } else {
+            attract(winner, text, -0.5);
+            cout << "Repel..." << endl;
+        }
+        compete(text, true);
+    }
 
     cuCtxDestroy(context);
 
