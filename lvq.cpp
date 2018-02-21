@@ -38,7 +38,7 @@ struct {
 
     int *text_array;
     int *text_class;
-    float *neuron_dist;
+    double *neuron_dist;
     int *neuron_bias;
     int *neuron_class;
 
@@ -56,32 +56,7 @@ string convert_word(string in) {
     return out;
 }
 
-vector<bool> text_to_vec(fs::path text, map<string,int> dict) {
-    std::ifstream file;
-    string word;
-    vector<bool> vec(dict.size(), 0);
-
-    cout << "opening " << text.c_str() << endl;
-    file.open(text.c_str());
-    while (file >> word) {
-        string out = convert_word(word);
-
-        cout << "on word " << out << endl;
-        if (out.length() < 2)
-            continue;
-
-        if (dict.find(out) != dict.end()) {
-            int word_index = dict[out];
-            assert(word_index < vec.size());
-            vec[word_index] =  true;
-        }
-    }
-    file.close();
-
-    return vec;
-}
-
-map <string,int> create_dict(fs::path target_dir) {
+map <string,int> create_dict(fs::path target_dir, int text_per_category) {
     std::ifstream file;
     fs::directory_iterator it(target_dir), eod;
     int word_index = 0;
@@ -93,10 +68,10 @@ map <string,int> create_dict(fs::path target_dir) {
         cout << "on directory " << p << endl;
         int count = 0;
         BOOST_FOREACH(fs::path const &subp, make_pair(it2, eod)) {
-            if (count++ > 100)
+            if (count++ > text_per_category)
                 break;
             string word;
-            cout << "on file " << subp << endl;
+//            cout << "on file " << subp << endl;
 
             file.open(subp.c_str());
             if (!fs::is_regular_file(subp))
@@ -110,10 +85,10 @@ map <string,int> create_dict(fs::path target_dir) {
 
                 if (word_dict.find(out) == word_dict.end()) {
                     word_dict[out] = word_index++;
-                    cout << word_index - 1 << " " << out << endl;
+//                    cout << word_index - 1 << " " << out << endl;
                 }
             }
-            cout << endl;
+//            cout << endl;
             file.close();
         }
     }
@@ -122,7 +97,8 @@ map <string,int> create_dict(fs::path target_dir) {
 }
 
 void build_text_array(fs::path target_dir, map<string,int> dict, int input_dim,
-                      int **text_array_out, int **text_class_out, int *text_cnt_out) {
+                      int **text_array_out, int **text_class_out, int *text_cnt_out,
+                      int *output_dim, int text_per_category) {
     std::ifstream file;
     fs::directory_iterator it(target_dir), eod;
     int word_index = 0;
@@ -147,10 +123,10 @@ void build_text_array(fs::path target_dir, map<string,int> dict, int input_dim,
         cout << "on directory " << p << endl;
         int count = 0;
         BOOST_FOREACH(fs::path const &subp, make_pair(it2, eod)) {
-            if (count++ > 100)
+            if (count++ > text_per_category)
                 break;
             string word;
-            cout << "on file " << subp << endl;
+//            cout << "on file " << subp << endl;
 
             file.open(subp.c_str());
             if (!fs::is_regular_file(subp))
@@ -170,7 +146,6 @@ void build_text_array(fs::path target_dir, map<string,int> dict, int input_dim,
             }
             text_class[text_id] = class_id;
             text_id++;
-            cout << endl;
             file.close();
         }
         class_id++;
@@ -178,25 +153,26 @@ void build_text_array(fs::path target_dir, map<string,int> dict, int input_dim,
     *text_array_out = text_array;
     *text_class_out = text_class;
     *text_cnt_out = text_cnt;
+    *output_dim = class_id;
 }
 
 #define round_to(x, base) ((((x)+(base)-1)*(base)) / (base))
 #define BIAS_BASE 2
 
-int attract(int neuron_index, int text_index, float step) {
+int attract(int neuron_index, int text_index, double step) {
     assert(text_index < l.text_count);
     assert(neuron_index < l.neuron_count);
 
     void* args[] = {&l.input_dim, &l.neuron_weight_d, &neuron_index, &l.text_array_d,
                     &text_index, &step};
 
-    cout << "launching " << round_to(l.input_dim, 1024) / 1024 << " blocks" << endl;
+//    cout << "launching " << round_to(l.input_dim, 1024) / 1024 << " blocks" << endl;
     CHECK_ERROR(cuLaunchKernel(l.attract, round_to(l.input_dim, 1024) / 1024,
             1, 1, 1024, 1, 1, 0, 0, args, 0));
     CHECK_ERROR(cuCtxSynchronize());
 }
 
-int compete(int text_index, bool count_bias)
+int compete(int text_index, bool count_bias, double *d)
 {
     assert(text_index < l.text_count);
 
@@ -207,22 +183,27 @@ int compete(int text_index, bool count_bias)
             1, 1, THREADS_PER_BLOCK, 1, 1, 0, 0, args, 0));
     CHECK_ERROR(cuCtxSynchronize());
 
-    cuMemcpyDtoH(l.neuron_dist, l.neuron_dist_d, sizeof(float) * l.neuron_count);
+    cuMemcpyDtoH(l.neuron_dist, l.neuron_dist_d, sizeof(double) * l.neuron_count);
 
-    float min_dist = numeric_limits<float>::max();
+    double min_dist = numeric_limits<double>::max();
     int min_index = -1;
     for (int i = 0; i < l.neuron_count; i++) {
-        float dist = l.neuron_dist[i];
+        double dist = l.neuron_dist[i];
         if (count_bias)
             dist *= pow(BIAS_BASE, l.neuron_bias[i]);
-        cout << "distance of neuron" << i << " is " << dist << endl;
-        if (dist < min_dist) {
+//        cout << "distance of neuron" << i << " is " << dist << endl;
+        if (dist <= min_dist) {
             min_index = i;
-            min_dist = l.neuron_dist[i];
+            min_dist = dist;
         }
     }
-    assert(min_index != -1);
+    if (min_index == -1) {
+        cout << "Warning! Minimum distance neuron not found." << endl;
+        return -1;
+    }
 
+    if (d != NULL)
+        *d = min_dist;
     return min_index;
 }
 
@@ -232,6 +213,7 @@ int main() {
     CUdevice device;
     CUcontext context;
     CUmodule cuModule = (CUmodule)0;
+    int text_per_category;
 
     srand(time(NULL));
 
@@ -239,26 +221,31 @@ int main() {
     CHECK_ERROR(cuCtxCreate(&context, CU_CTX_SCHED_SPIN | CU_CTX_MAP_HOST, device));
     CHECK_ERROR(cuModuleLoad(&cuModule, "lvq.ptx"));
 
-    map<string,int> dict = create_dict(fs::path("./texts"));
+    cout << "How many texts to use (per category)? ";
+    cin >> text_per_category;
+
+    map<string,int> dict = create_dict(fs::path("./texts"), text_per_category);
     l.input_dim = dict.size();
     l.neuron_count = 4;
-    l.output_dim = 2; // number of classes
+    cout << "Created dict. How many neurons to use? ";
+    cin >> l.neuron_count;
 
-    cout << "Created dict. Building text array..." << endl;
-
+    cout << "Building text array..." << endl;
     build_text_array(fs::path("./texts"), dict, l.input_dim, &l.text_array,
-            &l.text_class, &l.text_count);
+            &l.text_class, &l.text_count, &l.output_dim, text_per_category);
 
-    cout << "Text count is " << l.text_count << ", input dim " << l.input_dim << endl;
+    cout << l.text_count << " texts in " << l.output_dim << " classes." << endl;
+    cout << "Input dimension is " << l.input_dim << endl;
 
+#ifdef DEBUG
     for (int i = 0; i < l.text_count * l.input_dim; i++) {
         cout << l.text_array[i] << " ";
         if (i % l.input_dim == l.input_dim - 1)
             cout << endl;
     }
-    cout << endl;
+#endif
 
-    l.neuron_dist = new float[l.neuron_count];
+    l.neuron_dist = new double[l.neuron_count];
     l.neuron_bias = new int[l.neuron_count];
     l.neuron_class = new int[l.neuron_count];
 
@@ -267,11 +254,12 @@ int main() {
         l.neuron_class[i] = i * l.output_dim / l.neuron_count;
     }
 
-    CHECK_ERROR(cuMemAlloc(&l.neuron_weight_d, l.neuron_count * l.input_dim * sizeof(float)));
-    CHECK_ERROR(cuMemAlloc(&l.neuron_dist_d, l.neuron_count * sizeof(float)));
+    CHECK_ERROR(cuMemAlloc(&l.neuron_weight_d, l.neuron_count * l.input_dim * sizeof(double)));
+    CHECK_ERROR(cuMemAlloc(&l.neuron_dist_d, l.neuron_count * sizeof(double)));
     CHECK_ERROR(cuMemAlloc(&l.text_array_d, l.text_count * l.input_dim * sizeof(int)));
 
     CHECK_ERROR(cuMemcpyHtoD(l.text_array_d, l.text_array, l.text_count * l.input_dim * sizeof(int)));
+    delete[] l.text_array;
 
     CHECK_ERROR(cuModuleGetFunction(&l.init, cuModule, "init"));
     CHECK_ERROR(cuModuleGetFunction(&l.distance, cuModule, "distance"));
@@ -280,25 +268,47 @@ int main() {
     void* args[] = {&l.input_dim, &l.output_dim, &l.neuron_count,
                     &l.neuron_weight_d};
 
-    CHECK_ERROR(cuLaunchKernel(l.init, l.neuron_count/2,
-            1, 1, 2, 1, 1, 0, 0, args, 0));
+    CHECK_ERROR(cuLaunchKernel(l.init, l.neuron_count/32,
+            1, 1, 32, 1, 1, 0, 0, args, 0));
     CHECK_ERROR(cuCtxSynchronize());
 
-    for (int i = 0; i < 10; i++) {
+    float attract_step = 0.9, repel_step = -0.5;
+    int limit = 100000;
+//    cout << "How many training iterations? ";
+//    cin >> limit;
+    for (int i = 0; i < limit; i++) {
         int text = rand() % l.text_count;
-        cout << "====================" << endl;
-        cout << "Training text " << text << ", class " << l.text_class[text] << endl;
-        int winner = compete(text, true);
-        cout << "Winner is " << winner << ", class " << l.neuron_class[winner] << endl;
+        attract_step = 0.05 + 0.9 * (1.0 - (double)i/(double)limit);
+        repel_step = -0.01 - 0.49 * (1.0 - (double)i/(double)limit);
+//        cout << "====================" << endl;
+//        cout << "Training text " << text << ", class " << l.text_class[text] << endl;
+        double d;
+        int winner = compete(text, true, &d);
+//        cout << "Winner is " << winner << ", class " << l.neuron_class[winner];
+//        cout << ", bias " << l.neuron_bias[winner] <<" distance " << d << endl;
+        if (winner == -1)
+            break;
         if (l.text_class[text] == l.neuron_class[winner]) {
-            attract(winner, text, 0.9);
-            cout << "Attract..." << endl;
+//            cout << "Attract (step " << attract_step << ")..." << endl;
+            attract(winner, text, attract_step);
         } else {
-            attract(winner, text, -0.5);
-            cout << "Repel..." << endl;
+//            cout << "Repel (step " << repel_step << ")..." << endl;
+            attract(winner, text, repel_step);
         }
-        compete(text, true);
+//        winner = compete(text, true, &d);
+//        cout << "After training winner is " << winner << " with dist " << d << endl;
+        l.neuron_bias[winner] += 1.5;
     }
+
+    int success = 0;
+    for (int i = 0; i < l.text_count; i++) {
+        int winner = compete(i, false, NULL);
+        if (l.text_class[i] == l.neuron_class[winner])
+            success++;
+    }
+
+    cout << "Random choice accuracy would be " << (1.0 / (float) l.output_dim) << "." << endl;
+    cout << "Neural network accuracy " << ((float)success / (float) l.text_count) << "." << endl;
 
     cuCtxDestroy(context);
 
