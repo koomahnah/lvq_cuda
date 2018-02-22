@@ -1,0 +1,50 @@
+A catecholamine (CA) is a monoamine, an organic compound that has a catechol (benzene with two hydroxyl side groups) and a side-chain amine.
+Catechol is a chemical, but a catechol may also be used as the name of a substituent, where it represents a 1,2-dihydroxybenzene group.
+Catecholamines are derived from the amino acid tyrosine. Catecholamines are water-soluble and are 50%-bound to plasma proteins in circulation.
+Included among catecholamines are: epinephrine (adrenaline), norepinephrine (noradrenaline) and dopamine; all of which are produced from phenylalanine and tyrosine. Release of the hormones epinephrine and norepinephrine from the adrenal medulla of the adrenal glands is part of the fight-or-flight response.
+Tyrosine is created from phenylalanine by hydroxylation by the enzyme phenylalanine hydroxylase. Tyrosine is also ingested directly from dietary protein. Catecholamine-secreting cells use several reactions to convert tyrosine serially to L-DOPA and then to dopamine. Depending on the cell type, dopamine may be further converted to norepinephrine or even further converted to epinephrine.
+Various stimulant drugs are catecholamine analogues.
+
+
+
+Catecholamines have the distinct structure of a benzene ring with two hydroxyl groups, an intermediate ethyl chain, and a terminal amine group. Phenylethanolamines such as norepinephrine have a hydroxyl group on the ethyl chain.
+
+
+
+
+
+
+Catecholamines are produced mainly by the chromaffin cells of the adrenal medulla and the postganglionic fibers of the sympathetic nervous system. Dopamine, which acts as a neurotransmitter in the central nervous system, is largely produced in neuronal cell bodies in two areas of the brainstem: the substantia nigra and the ventral tegmental area. The similarly melanin-pigmented cell bodies of the locus ceruleus produce norepinephrine.
+
+
+
+Dopamine is the first catecholamine synthesized from DOPA. In turn, norepinephrine and epinephrine are derived from further metabolic modification of dopamine. The enzyme dopamine hydroxylase requires copper as a cofactor (not shown) and DOPA decarboxylase requires PLP (not shown). The rate limiting step in catecholamine biosynthesis is hydroxylation of tyrosine.
+
+Catecholamine synthesis is inhibited by alpha-methyl-p-tyrosine (AMPT), which inhibits tyrosine hydroxylase.
+
+
+
+Catecholamines have a half-life of a few minutes when circulating in the blood. They can be degraded either by methylation by catechol-O-methyltransferases (COMT) or by deamination by monoamine oxidases (MAO).
+MAOIs bind to MAO, thereby preventing it from breaking down catecholamines and other monoamines.
+
+
+
+
+
+
+Two catecholamines, norepinephrine and dopamine, act as neuromodulators in the central nervous system and as hormones in the blood circulation. The catecholamine norepinephrine is a neuromodulator of the peripheral sympathetic nervous system but is also present in the blood (mostly through "spillover" from the synapses of the sympathetic system).
+High catecholamine levels in blood are associated with stress, which can be induced from psychological reactions or environmental stressors such as elevated sound levels, intense light, or low blood sugar levels.
+Extremely high levels of catecholamines (also known as catecholamine toxicity) can occur in central nervous system trauma due to stimulation and/or damage of nuclei in the brainstem, in particular those nuclei affecting the sympathetic nervous system. In emergency medicine, this occurrence is widely known as catecholamine dump.
+Extremely high levels of catecholamine can also be caused by neuroendocrine tumors in the adrenal medulla, a treatable condition known as pheochromocytoma.
+High levels of catecholamines can also be caused by monoamine oxidase A (MAO-A) deficiency. As MAO-A is one of the enzymes responsible for degradation of these neurotransmitters, its deficiency increases the bioavailability of these neurotransmitters considerably. It occurs in the absence of pheochromocytoma, neuroendocrine tumors, and carcinoid syndrome, but it looks similar to carcinoid syndrome such as facial flushing and aggression.
+
+
+
+Catecholamines cause general physiological changes that prepare the body for physical activity (fight-or-flight response). Some typical effects are increases in heart rate, blood pressure, blood glucose levels, and a general reaction of the sympathetic nervous system. Some drugs, like tolcapone (a central COMT-inhibitor), raise the levels of all the catecholamines.
+
+
+
+
+"They have been found in 44 plant families, but no essential metabolic function has been established for them. They are precursors of benzo[c]phenanthridine alkaloids, which are the active principal ingredients of many medicinal plant extracts. CAs have been implicated to have a possible protective role against insect predators, injuries, and nitrogen detoxification. They have been shown to promote plant tissue growth, somatic embryogenesis from in vitro cultures, and flowering. CAs inhibit indole-3-acetic acid oxidation and enhance ethylene biosynthesis. They have also been shown to enhance synergistically various effects of gibberellins."
+
+

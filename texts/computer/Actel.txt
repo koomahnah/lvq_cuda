@@ -1,0 +1,28 @@
+Actel Corporation (formerly NASDAQ:ACTL) (now Microsemi) is a manufacturer of nonvolatile, low-power field-programmable gate arrays (FPGAs), mixed-signal FPGAs, and programmable logic solutions. It is headquartered in Mountain View, California, with offices worldwide.
+
+
+
+Actel became a publicly traded company in 1985 and became known for its high-reliability and antifuse-based FPGAs, used in the military and aerospace markets.
+In 2000, Actel acquired GateField which expanded Actel's antifuse FPGA offering to include flash-based FPGAs. In 2004, Actel announced it had shipped the one-millionth unit of its flash-based ProASICPLUS FPGA.
+In 2005, Actel introduced a new technology known as Fusion to bring FPGA programmability to mixed-signal solutions. Fusion was the first technology to integrate mixed-signal analog capabilities with flash memory and FPGA fabric in a monolithic device.
+In 2006, to address the tight power budgets of the portable market, Actel introduced the IGLOO FPGA. The IGLOO family of FPGAs was based on Actel's nonvolatile flash technology and the ProASIC 3 FPGA architecture. Two new IGLOO derivatives were added in 2008: IGLOO PLUS FPGAs with enhanced I/O capabilities, and IGLOO nano FPGAs, the industry's lowest power solution at 2  W. A nano version of ProASIC3 also became available in 2008.
+In 2010, Actel introduced the SmartFusion line of FPGAs. SmartFusion includes both analog components and a programmable flash-based logic fabric within the same chip. SmartFusion was the first FPGA product to additionally include a hard ARM processor core.
+Altera and Xilinx are the other key players in the market, however their main focus is on SRAM FPGAs. Lattice Semiconductor is another competitor.
+In November 2010, Actel Corporation was acquired by Microsemi Corporation.
+
+
+
+Actel's portfoliion, IGLOO, and ProASIC3 families).
+Actel's antifuse FPGAs have been known for their nonvolatility, live at power-up operation, single-chip form factor, and security. Actel's flash-based FPGA families include these same characteristics and are also reprogrammable and low power.
+Actel also develops system-critical FPGAs (RTAX and ProASIC3 families), including extended temperature automotive, military, and aerospace FPGAs, plus a wide variety of space-class radiation-tolerant devices. These flash and antifuse FPGAs have high levels of reliability and firm-error immunity.
+
+
+
+In March 2012, researchers from Cambridge University discovered that a backdoor exists in the JTAG interface of the ProASIC3 family of low-powered FPGAs. They defended their theory at a cryptography workshop held in Belgium in September 2012.
+
+
+
+
+
+
+Corporate website

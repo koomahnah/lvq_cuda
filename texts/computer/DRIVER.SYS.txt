@@ -1,0 +1,9 @@
+.sys is a filename extension in Microsoft Windows and DOS-type operating system.
+Most .sys files are real mode device drivers. Certain files using this extension are not, however: MSDOS.SYS and IO.SYS are core operating system files in MS-DOS and Windows 9x. The CONFIG.SYS text file contains various configuration options and specifies what device drivers will be loaded. COUNTRY.SYS is a binary database containing country and codepage related information for use with the CONFIG.SYS COUNTRY directive and the NLSFUNC driver, whereas KEYBOARD.SYS is a binary database containing keyboard layout related information including short P-code sequences to be executed by an interpreter inside the KEYB keyboard driver.
+.sys files are mainly stored in the C:\Windows\system32\drivers directory of Windows computers, and also in the C:\Windows\WinSxS folder, particularly in Windows Vista and its successors.
+
+
+
+VxD
+
+

@@ -1,0 +1,35 @@
+Cardiac glycosides are organic compounds containing a glycoside (sugar) that act on the contractile force of the cardiac muscle. Because of their potency in disrupting the function of the heart, most are extremely toxic. These glycosides are found as secondary metabolites in several plants, but also in some insects, such as the milkweed butterflies.
+
+Chemically, the aglycone [non-sugar] part of cardiac glycoside is a steroidal moiety. 
+
+
+
+From ancient times, humans have used cardiac-glycoside-containing plants and their crude extracts as arrow coatings, homicidal or suicidal aids, rat poisons, heart tonics, diuretics and emetics. In modern times, purified extracts or synthetic analogues of a few have been adapted for the treatment of congestive heart failure and cardiac arrhythmia.
+Therapeutic uses of cardiac glycosides primarily involve the treatment of cardiac failure. Their utility results from an increased cardiac output by increasing the force of contraction. By increasing intracellular calcium as described below, cardiac glycosides increase calcium-induced calcium release and thus contraction.
+Bufalin, ouabain and digoxin are a few toxic cardiac glycosides. Digoxin from the foxglove plant is used clinically, whereas bufalin and ouabain are used only experimentally due to their extremely high potency.
+
+
+
+Normally, sodium-potassium pumps in the membrane of cells (in this case, cardiac myocytes) pump potassium ions in and sodium ions out. Cardiac glycosides inhibit this pump by stabilizing it in the E2-P transition state, so that sodium cannot be extruded: intracellular sodium concentration therefore increases. A second membrane ion exchanger, NCX, is responsible for 'pumping' calcium ions out of the cell and sodium ions in (3Na/Ca); raised intracellular sodium levels inhibit this pump, so calcium ions are also not extruded and will begin to build up inside the cell, as well.
+Increased cytoplasmic calcium concentrations cause increased calcium uptake into the sarcoplasmic reticulum (SR) via the SERCA2 transporter. Raised calcium stores in the SR allow for greater calcium release on stimulation, so the myocyte can achieve faster and more powerful contraction by cross-bridge cycling. The refractory period of the AV node is increased, so cardiac glycosides also function to regulate heart rate.
+Binding of cardiac glycoside to Na-K ATPase is slow, and after binding, intracellular calcium increases gradually. Thus, the action of digitalis (even on IV injection) is delayed.
+Raised extracellular potassium decreases binding of cardiac glycoside to Na-K ATPase. As a consequence, increased toxicity of these drugs is observed in the presence of hypokalemia.
+If SR calcium stores become too high, some ions are released spontaneously through SR ryanodine receptors. This effect leads initially to bigeminy: regular ectopic beats following each ventricular contraction. If higher glycoside doses are given, rhythm is lost and ventricular tachycardia ensues, followed by fibrillation.
+
+
+
+Examples of plants producing cardiac glycosides:
+Cardenolide type:
+Lily of the Valley (Convallaria majalis)
+Antiaris toxicaria
+Strophanthus   ouabain g/k/e-strophanthin
+Digitalis lanata and Digitalis purpurea   digoxin, digitoxin
+Nerium oleander - oleandrin
+Asclepias sp.
+Calotropis gigantea
+
+Bufadienolide type:
+Drimia maritima
+Kalanchoe daigremontiana and other Kalanchoe species   daigremontianin and others
+
+

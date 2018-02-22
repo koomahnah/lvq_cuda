@@ -1,0 +1,40 @@
+A programmable logic array (PLA) is a kind of programmable logic device used to implement combinational logic circuits. The PLA has a set of programmable AND gate planes, which link to a set of programmable OR gate planes, which can then be conditionally complemented to produce an output. This layout allows for a large number of logic functions to be synthesized in the sum of products (and sometimes product of sums) canonical forms.
+PLA's differ from Programmable Array Logic devices (PALs and GALs) in that both the AND and OR gate planes are programmable.
+
+
+
+In 1970, Texas Instruments developed a mask-programmable IC based on the IBM read-only associative memory or ROAM. This device, the TMS2000, was programmed by altering the metal layer during the production of the IC. The TMS2000 had up to 17 inputs and 18 outputs with 8 JK flip flop for memory. TI coined the term Programmable Logic Array for this device.
+
+
+
+Preparation in SOP (sum of products) form.
+Obtain the minimum SOP form to reduce the number of product terms to a minimum.
+Decide the input connection of the AND matrix for generating the required product term.
+Then decide the input connections of OR matrix to generate the sum terms.
+Decide the connections of invert matrix.
+Program the PLA.
+PLA block diagram:
+
+
+
+The desired outputs for each combination of inputs could be programmed into a read-only memory, with the inputs being loaded onto the address bus and the outputs being read out as data. However, that would require a separate memory location for every possible combination of inputs, including combinations that are never supposed to occur, and also duplicating data for "don't care" conditions (for example, logic like "if input A is 1, then, as far as output X is concerned, we don't care what input B is": in a ROM this would have to be written out twice, once for each possible value of B, and as more "don't care" inputs are added, the duplication grows exponentially); therefore, a programmable logic array can often implement a piece of logic using fewer transistors than the equivalent in read-only memory. This is particularly valuable when it is part of a processing chip where transistors are scarce (for example, the original 6502 chip contained a PLA to direct various operations of the processor).
+
+
+
+One application of a PLA is to implement the control over a datapath. It defines various states in an instruction set, and produces the next state (by conditional branching). [e.g. if the machine is in state 2, and will go to state 4 if the instruction contains an immediate field; then the PLA should define the actions of the control in state 2, will set the next state to be 4 if the instruction contains an immediate field, and will define the actions of the control in state 4]. Programmable logic arrays should correspond to a state diagram for the system.
+Other commonly used programmable logic devices are PAL, CPLD and FPGA.
+Note that the use of the word "programmable" does not indicate that all PLAs are field-programmable; in fact many are mask-programmed during manufacture in the same manner as a mask ROM. This is particularly true of PLAs that are embedded in more complex and numerous integrated circuits such as microprocessors. PLAs that can be programmed after manufacture are called FPGA (Field-programmable gate array), or less frequently FPLA (Field-programmable logic array)..
+The Commodore 64 home computer released in 1982 used a "906114-01 PLA" to handle system signals.
+
+
+
+Programmable logic device
+Field-programmable gate array
+Gate array
+Programmable array logic
+
+
+
+
+Introduction to PLAs from the University of Maryland
+Java Applet tool from the University of Hamburg

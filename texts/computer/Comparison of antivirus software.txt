@@ -1,0 +1,48 @@
+This is a non-exhaustive list of notable antivirus and Internet Security software, in the form of comparison tables, according to their platform (e.g. desktop and server, mobile, etc.) and their operating systems (e.g. Microsoft Windows, Apple OS X, Linux, Oracle Solaris, Google Android, Apple iOS, Ubuntu Touch, Windows Phone, etc.).
+
+
+
+The term "on-demand scan" refers to the possibility of performing a manual scan (by the user) on the entire computer/device, while "on-access scan" refers to the ability of a product to automatically scan every file at its creation and/or subsequent modification.
+The term "CloudAV" refers to the ability of a product to automatically perform scans on the cloud.
+The term "Email Security" refers to the protection of emails from viruses and malware, while "AntiSpam" refers to the protection from spam, scam and phishing attacks.
+The term "Web protection" usually includes protection from: infected and malicious URLs, phishing websites, online identity protection (privacy) and online banking protection.
+Many antivirus products use "third-party antivirus engine", this means that the antivirus engine is made by another producer, however the malware signature and/or other parts of the product may (or may not) be done from the owner of the product itself.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This list excludes Windows Phone 7 and Windows Phone 8 as they do not support running protection programs.
+
+
+
+
+
+
+
+

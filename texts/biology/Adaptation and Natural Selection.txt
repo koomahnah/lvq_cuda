@@ -1,0 +1,32 @@
+Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought is a 1966 book by the American evolutionary biologist George C. Williams. Williams, in what is now considered a classic by evolutionary biologists, outlines a gene-centered view of evolution, disputes notions of evolutionary progress, and criticizes contemporary models of group selection, including the theories of Alfred Emerson, A. H. Sturtevant, and to a smaller extent, the work of V. C. Wynne-Edwards. The book takes its title from a lecture by George Gaylord Simpson in January 1947 at the Princeton University. Aspects of Williams' book were popularised by Richard Dawkins' in his 1976 book The Selfish Gene.
+The aim of the book is to "clarify certain issues in the study of adaptation and the underlying evolutionary processes." Though more technical than a popular science book, its target audience is not specialists but biologists in general and the more advanced students of the topic. It was mostly written in the summer of 1963 when Williams utilized the University of California, Berkeley's library.
+
+
+
+Introduction
+Natural Selection, Adaptation, and Progress
+Natural Selection, Ecology and Morphogenesis
+Group Selection
+Adaptations of the Genetic System
+Reproductive Physiology and Behavior
+Social Adaptations
+Other Supposedly Group-Related Adaptations
+The Scientific Study of Adaptation
+In the first chapter Williams introduces some of his main arguments. Adaptation is "a special and onerous concept that should not be used unnecessarily". He writes that something should not be assigned a function unless it is uncontroversially the result of design rather than chance. For instance he considers mutations to be errors only, not a process that has persisted to provide variation and evolutionary potential. If something is considered (after critical appraisal) to be an adaptation, then we should assume the unit of selection in the process was as simple as possible, provided it is compatible with the evidence. For example selection between individuals should be preferred to group selection as an explanation if both seem plausible. Finally, Williams writes that the only way adaptations can come into existence or persist is by natural selection.
+The next chapter deals with the idea of evolutionary progress. Firstly, it is argued that for natural selection to work, there have to be "certain quantitative relationships among sampling errors, selection coefficients, and rates of random change." It is put forward that Mendelian selection of alleles (alternative versions of a gene) is the only kind of selection imaginable that satisfies these requirements. Elaborating on the nature of selection, he writes that it only works on the basis of whether alleles are better or worse than others in the population, in terms of their immediate fitness effects. Survival of the population is beside the point, e.g. populations don't take any measures to avoid impending extinction. Finally he evaluates various ideas about progress in evolution, denying that selection will bring about the kind of progress that some have suggested. The author concludes that his view on the topic is similar to that of most of his colleagues, but worries that it is misrepresented to the public "when biologists become self-consciously philosophical".
+
+
+
+Ecology
+Genetic anthropomorphism
+Morphogenesis
+Reproduction
+Scientific method
+Social animal
+
+
+
+
+
+
+Adaptation and Natural Selection, Princeton University Press

@@ -1,0 +1,25 @@
+Cytomegalovirus (from the Greek cyto-, "cell", and megalo-, "large") is a genus of viruses in the order Herpesvirales, in the family Herpesviridae, in the subfamily Betaherpesvirinae. Human and monkeys serve as natural hosts. There are currently eight species in this genus including the type species human herpesvirus 5. Diseases associated with HHV-5 include mononucleosis, and pneumonias. It is typically abbreviated as CMV.
+The species that infects humans is commonly known as human CMV (HCMV) or human herpesvirus-5 (HHV-5), and is the most studied of all cytomegaloviruses. Within Herpesviridae, CMV belongs to the Betaherpesvirinae subfamily, which also includes the genera Muromegalovirus and Roseolovirus (HHV-6 and HHV-7). It is related to other herpesviruses within the subfamilies of Alphaherpesvirinae that includes herpes simplex viruses (HSV)-1 and -2 and varicella-zoster virus (VZV), and the Gammaherpesvirinae subfamily that includes Epstein Barr virus.
+All herpesviruses share a characteristic ability to remain latent within the body over long periods. Although they may be found throughout the body, CMV infections are frequently associated with the salivary glands in humans and other mammals. Other CMV viruses are found in several mammal species, but species isolated from animals differ from HCMV in terms of genomic structure, and have not been reported to cause human disease.
+
+
+
+Group: dsDNA
+
+
+
+Several species of Cytomegalovirus have been identified and classified for different mammals. The most studied is Human cytomegalovirus (HCMV), which is also known as Human herpesvirus 5 (HHV-5). Other primate CMV species include Chimpanzee cytomegalovirus (CCMV) that infects chimpanzees and orangutans, and Simian cytomegalovirus (SCCMV) and Rhesus cytomegalovirus (RhCMV) that infect macaques; CCMV is known as both Panine herpesvirus 2 (PaHV-2) and Pongine herpesvirus-4 (PoHV-4). SCCMV is called Cercopithecine herpesvirus-5 (CeHV-5) and RhCMV, Cercopithecine herpesvirus 8 (CeHV-8). A further two viruses found in the night monkey are tentatively placed in the Cytomegalovirus genus, and are called Herpesvirus aotus 1 and Herpesvirus aotus 3. Rodents also have viruses previously called cytomegaloviruses that are now reclassified under the genus Muromegalovirus; this genus contains Mouse cytomegalovirus (MCMV) is also known as Murid herpesvirus 1 (MuHV-1) and the closely related Murid herpesvirus 2 (MuHV-2) that is found in rats. In addition, there many other viral species with the name Cytomegalovirus identified in distinct mammals that are as yet not completely classified; these were predominantly isolated from primates and rodents.
+
+
+
+Viruses in Cytomegalovirus are enveloped, with icosahedral, Spherical to pleomorphic, and Round geometries, and T=16 symmetry. The diameter is around 150-200 nm. Genomes are linear and non-segmented, around 200kb in length.
+
+
+
+Viral replication is nuclear, and is lysogenic. Entry into the host cell is achieved by attachment of the viral glycoproteins to host receptors, which mediates endocytosis. Replication follows the dsDNA bidirectional replication model. DNA templated transcription, with some alternative splicing mechanism is the method of transcription. Translation takes place by leaky scanning. The virus exits the host cell by nuclear egress, and budding. Human and monkeys serve as the natural host. Transmission routes are contact, urine, and saliva.
+
+
+
+The CMV promoter is commonly included in vectors used in genetic engineering work conducted in mammalian cells, as it is a strong promoter and drives constitutive expression of genes under its control.
+
+

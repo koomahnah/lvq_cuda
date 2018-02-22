@@ -1,0 +1,31 @@
+Collagen, type I, alpha 1, also known as alpha-1 type I collagen, is a protein that in humans is encoded by the COL1A1 gene. COL1A1 encodes the major component of type I collagen, the fibrillar collagen found in most connective tissues, including cartilage.
+
+
+
+Collagen is a protein that strengthens and supports many tissues in the body, including cartilage, bone, tendon, skin and the white part of the eye (sclera). The COL1A1 gene produces a component of type I collagen, called the pro-alpha1(I) chain. This chain combines with another pro-alpha1(I) chain and also with a pro-alpha2(I) chain (produced by the COL1A2 gene) to make a molecule of type I procollagen. These triple-stranded, rope-like procollagen molecules must be processed by enzymes outside the cell. Once these molecules are processed, they arrange themselves into long, thin fibrils that cross-link to one another in the spaces around cells. The cross-links result in the formation of very strong mature type I collagen fibers.
+
+
+
+The COL1A1 gene is located on the long (q) arm of chromosome 17 between positions 21.3 and 22.1, from base pair 45,616,455 to base pair 45,633,991.
+
+
+
+Mutations in the COL1A1 gene are associated with the following conditions:
+Ehlers-Danlos syndrome, arthrochalasia type is caused by mutations in the COL1A1 gene. The mutations in the COL1A1 gene that cause this disorder instruct the cell to leave out a part of the pro-alpha1(I) chain that contains a segment used to attach one molecule to another. When this part of the protein is missing, the structure of type I collagen is compromised. Tissues that are rich in type I collagen, such as the skin, bones, and tendons, are affected by this change. Ehlers-Danlos type IV is most attributed to abnormalities in the reticular fibers (collagen Type III).
+Ehlers-Danlos syndrome, classical type: In rare cases, a mutation in the COL1A1 gene has been shown to cause the classical type of Ehlers-Danlos syndrome. This mutation substitutes the amino acid cysteine for the amino acid arginine at position 134 in the protein made by the gene. (The mutation can also be written as Arg134Cys.) The altered protein interacts abnormally with other collagen-building proteins, disrupting the structure of type I collagen fibrils and trapping collagen in the cell. Researchers believe that these changes in collagen cause the signs and symptoms of the disorder. Ehlers-Danlos type IV is most attributed to abnormalities in the reticular fibers (collagen Type III). Without the hydroxylation of lysine, by the enzyme lysyl hydroxlase, the final colagen structure cannot form.
+Osteogenesis imperfecta, type I: Osteogenesis imperfecta is the most common disorder caused by mutations in this gene. Mutations that inactivate one of the two copies of the COL1A1 gene cause osteogenesis imperfecta type I. The mutated copy of the gene does not produce any pro-alpha1(I) collagen chains. Because only one copy of the gene is directing the cell to make pro-alpha1(I) chains, cells from people with this disorder make only half of the normal amount of type I collagen, which results in bone fragility and other symptoms.
+Osteogenesis imperfecta, type II: Many different types of mutations in the COL1A1 gene can cause osteogenesis imperfecta type II. These mutations range from missing pieces of the COL1A1 gene to amino acid substitutions, in which the amino acid glycine is replaced by another amino acid in the protein strand. Sometimes one end of the gene (called the C-terminus) is altered, which interferes with the association of the protein strands. All of these changes prevent the normal production of mature type I collagen, which results in this severe condition, type II osteogenesis imperfecta.
+Osteogenesis imperfecta, type III: Mutations in the COL1A1 gene may result in the production of a protein that is missing segments, making it unusable for collagen production. Other mutations cause the amino acid glycine to be replaced by a different amino acid in the pro-alpha1(I) chain, which inhibits the essential interaction between protein chains. Type I collagen production is inhibited by the inability of the altered procollagen strands to associate and form the triple-stranded, ropelike structure of mature collagen. These alterations negatively affect tissues that are rich in type I collagen, such as the skin, bones, teeth, and tendons, leading to the signs and symptoms of type III osteogenesis imperfecta.
+Osteogenesis imperfecta, type IV: Several different types of mutations in the COL1A1 gene cause osteogenesis imperfecta type IV. These mutations may involve missing pieces of the COL1A1 gene or changes in base pairs (the building blocks of DNA). These gene alterations result in a protein that is missing segments or has amino acid substitutions; specifically, the amino acid glycine is replaced by another amino acid. All of these changes interfere with the formation of the mature triple-stranded collagen molecule and prevent the production of mature type I collagen, which results in type IV osteogenesis imperfecta.
+Osteoporosis: Osteoporosis is a condition that makes bones progressively more brittle and prone to fracturing. A particular variation (polymorphism) in the COL1A1 gene appears to increase the risk of developing osteoporosis. A specific variation at Sp1 binding site is shown to be associated with increased risk of low bone mass and vertebral fracture, because of the changes the COL1A1 protein produced from one copy of the gene. Several studies have shown that women with this particular genetic variation at Sp1 site are more likely to have signs of osteoporosis than are women without the variation.
+
+
+
+
+
+
+GeneReviews/NCBI/NIH/UW entry on Osteogenesis Imperfecta
+Online 'Mendelian Inheritance in Man' (OMIM) 120150
+EntrezGene 1277
+COL1A1 GeneCard
+Database of human type I and type III collagen mutations

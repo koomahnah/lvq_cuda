@@ -1,0 +1,57 @@
+Cell physiology (including cellular electrophysiology) is the biological study of the cell's mechanism and interaction in its environment. The term "physiology" refers to all the normal functions that take place in a living organism. Absorption of water by roots, production of food in the leaves, and growth of shoots towards light are examples of plant physiology. The heterotrophic metabolism of food derived from plants and animals and the use of movement to obtain nutrients (even if the organism itself remains in a relatively stationary position) are characteristic of animal physiology.
+In the context of human physiology, the term cell physiology often specifically applies to the physiology of membrane transport, neuron transmission, and (less frequently) muscle contraction. In general, these cover the digestion of food, circulation of blood, and contraction of muscles and, therefore, are important aspects of human physiology. For a more complete description of the general physiological function of human cells (as well as the cells of other life forms), see the article on cell biology.
+
+
+
+There are two types of cells, Prokaryotes and Eukaryotes.
+Prokaryotes first came into existence and contain no self-contained nucleus, therefore making their mechanisms much simpler compared to the later-evolved Eukaryotes, which do contain a nucleus enveloping the cell's DNA and nuclear organelles. Because viruses, viroids, prions and such (see Acytota/Aphanobionta) depend entirely on the physiology of other cells (i.e., cells containing their own physiology), the former entities are often not considered to be "living" by the biologists who study them.
+All living cells, whether prokaryotes or eukaryotes, contain the following distinguishing characteristics:
+Based on the properties shared by all independently living organisms on Earth,
+The genetic code is based on DNA.
+The DNA is composed of four nucleotides (deoxyadenosine, deoxycytidine, deoxythymidine and deoxyguanosine), to the exclusion of other possible deoxynucleotides.
+The genetic code is composed of three-nucleotide codons, thus producing 64 different codons. Since only 20 amino acids are used, multiple codons code for the same amino acids. This structure is arbitrary and shared by all eukaryotes and prokaryotes. Archaea and mitochondria use a similar code with minor differences.
+The DNA is kept double-stranded by a template-dependent DNA polymerase.
+The integrity of the DNA is maintained by a group of maintenance enzymes, including DNA topoisomerase, DNA ligase and other DNA repair enzymes. The DNA is also protected by DNA-binding proteins like histones.
+
+The genetic code is expressed via RNA intermediates, which are single-stranded.
+RNA is produced by a DNA-dependent RNA polymerase using nucleotides similar to those of DNA with the exception of Thymidine in DNA, replaced by Uridine in RNA.
+
+The genetic code is expressed into proteins. All other properties of the organism (e.g. synthesis of lipids or carbohydrates) are the result of protein enzymes.
+Proteins are assembled from free amino acids by translation of an mRNA by ribosomes, tRNA and a group of related proteins.
+Ribosomes are composed of two subunits, one big and one small.
+Each ribosomal subunit is composed of a core of ribosomal RNA surrounded by ribosomal proteins.
+The RNA molecules (rRNA and tRNA) play an important role in the catalytic activity of the ribosomes
+
+Only 20 amino acids are used, to the exclusion of countless non-standard amino acids; only the L-isomers are used.
+Amino acids must be synthesized from glucose by a group of specialized enzymes; the synthesis pathways are arbitrary and conserved.
+
+Glucose can be used as a source of energy and carbon; only the D-isomer is used.
+Glycolysis goes through an arbitrary degradation pathway.
+
+ATP is used as an energy intermediate.
+The cell is surrounded by a cellular membrane composed of a lipid bilayer.
+Inside the cell, the concentration of sodium is lower, and potassium is higher, than outside. This gradient is maintained by specific ion pumps.
+The cell multiplies by duplicating all its contents followed by cellular division.
+The earliest ancestor of all life that is hypothesized to contain these attributes is known as the last common ancestor.
+
+
+
+Movement of proteins   The movement of proteins about the cell for use in structure and in enzymatic processes.
+Active transport and Passive transport   The processes facilitating the movement of molecules into and out of cells.
+Autophagy   The process whereby cells "eat" their own internal components or microbial invaders.
+Adhesion   The chemical processes whereby cells and other tissues are held together.
+Cell division   a eukaryotic cell process resulting in the formation of daughter cells; there are two major types: that of mitosis (asexual reproduction) and meiosis (sexual reproduction).
+Cell movement: Chemotaxis, Contraction, Cilia and Flagella.
+Cell signaling   Regulation of cell behavior by signals from outside, such as the use of hormones or neurotransmitters.
+DNA repair and Cell death
+Metabolism: Glycolysis, Respiration, Photosynthesis   Processes whereby energy is stored and/or liberated for use by the cell.
+Transcription and mRNA splicing   Processes by which genes express themselves, primarily by way of RNA and protein transcription.
+
+
+
+
+
+
+Overview at Medical College of Georgia
+cell physiology at the US National Library of Medicine Medical Subject Headings (MeSH)
+electrophysiology at the US National Library of Medicine Medical Subject Headings (MeSH)

@@ -1,0 +1,56 @@
+Duplicate code is a computer programming term for a sequence of source code that occurs more than once, either within a program or across different programs owned or maintained by the same entity. Duplicate code is generally considered undesirable for a number of reasons. A minimum requirement is usually applied to the quantity of code that must appear in a sequence for it to be considered duplicate rather than coincidentally similar. Sequences of duplicate code are sometimes known as code clones or just clones, the automated process of finding duplications in source code is called clone detection.
+The following are some of the ways in which two code sequences can be duplicates of each other:
+character-for-character identical
+character-for-character identical with white space characters and comments being ignored
+token-for-token identical
+token-for-token identical with occasional variation (i.e., insertion/deletion/modification of tokens)
+functionally identical
+
+
+
+There are a number of reasons why duplicate code may be created, including:
+Copy and paste programming, or scrounging, in which a section of code is copied "because it works". In most cases this operation involves slight modifications in the cloned code such as renaming variables or inserting/deleting code.
+Functionality that is very similar to that in another part of a program is required and a developer independently writes code that is very similar to what exists elsewhere. Studies suggest, that such independently rewritten code is typically not syntactically similar.
+Plagiarism, where code is simply copied without permission or attribution.
+Generated code, where having duplicate code may be desired to increase speed or ease of development. Note that the actual generator will not contain duplicates in its source code, only the output it produces.
+
+
+
+Inappropriate code duplication may increase maintenance costs, and may be indicative of a sloppy design. Appropriate code duplication may occur for many reasons, including facilitating the development of a device driver for a device that is similar to some existing device 
+
+
+
+A number of different algorithms have been proposed to detect duplicate code. For example:
+Baker's algorithm.
+Rabin Karp string search algorithm.
+Using Abstract Syntax Trees.
+Visual clone detection.
+Count Matrix Clone Detection.
+
+
+
+Consider the following code snippet for calculating the average of an array of integers
+
+The two loops can be rewritten as the single function:
+
+Using the above function will give source code that has no loop duplication:
+
+Note that in this trivial case, the compiler may choose to inline both calls to the function, such that the resulting machine code is identical for both the duplicated and non-duplicated examples above. If the function is not inlined, and is trivial in complexity, then the additional overhead of the function calls may incur a runtime cost greater than any practical benefit gained by avoiding code duplication.
+
+
+
+Abstraction principle (programming)
+Anti-pattern
+Code smell
+Don't repeat yourself
+List of tools for static code analysis
+Redundant code
+Rule of three (computer programming)
+
+
+
+
+
+
+The University of Alabama at Birmingham: Code Clones Literature
+Finding duplicate code in C#, VB.Net, ASPX, Ruby, Python, Java, C, C++, ActionScript, or XAML

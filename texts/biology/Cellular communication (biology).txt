@@ -1,0 +1,69 @@
+Cellular communication is an umbrella term used in biology and more indepth in biophysics and biochemistry to identify different types of communication methods between living cells. Some of the methods include cell signaling among others. This process allows millions of cells to communicate and work together to perform important bodily processes that are necessary to survival. Both multicellular and unicellular organisms heavily rely on cell-cell communication.
+
+
+
+Intercellular communication refers to the communication between cells. Membrane vesicle trafficking has an important role in intercellular communications in humans and animals, e.g., in synaptic transmission, hormone secretion via vesicular exocytosis. Inter-species and interkingdom signaling is the latest field of research for microbe-microbe and microbe-animal/plant interactions for variety of purposes at the host-pathogen interface.
+
+
+
+
+
+
+Reception occurs when the target cell detects a signal coming from a molecule outside the cell. Once the signaling molecule binds to a receptor protein on the cells surface (or inside the cell), the message is officially  detected . Reception is the target cell's detection of a signaling molecule coming from outside the cell. Receptor proteins span the cell s plasma membrane and provide specific sites for water-soluble signaling molecules to bind to. These trans-membrane receptors are able to transmit information from outside the cell to the inside because they change shape when a specific ligand binds to it. By looking at three major types of receptors, (G protein coupled receptors, receptor tyrosine kinases, and ion channel receptors) scientists are able to see how trans-membrane receptors work. Cell surface receptors play an essential role in the biological systems of organisms and are associated with cancer, heart disease, and asthma when damaged or malfunctioning.
+
+
+
+When binding to the signaling molecule, the receptor protein changes in some way and starts the process of transduction. A specific cellular response is the result of the newly converted signal. Usually, transduction requires a series of changes in a sequence of different molecules (called a signal transduction pathway) but sometimes can occur in a single step. The molecules that compose these pathways are known as relay molecules. The multistep process of the transduction stage is often composed of the activation of proteins by addition or removal of phosphate groups or even the release of other small molecules or ions that can act as messengers. The amplifying of a signal is one of the benefits to this multiple step sequence. Other benefits include more opportunities for regulation than simpler systems do and the fine- tuning of the response, in both unicellular and multicellular organism.
+
+
+
+A specific cellular response is the result of the transduced signal in the final stage of cell signaling. This response can essentially be any cellular activity that is present in a body. It can spur the rearrangement of the cytoskeleton, or even as catalysis by an enzyme. These three steps of cell signaling all ensure that the right cells are behaving as told, at the right time, and in synchronization with other cells and their own functions within the organism. At the end, the end of a signal pathway leads to the regulation of a cellular activity. This response can take place in the nucleus or in the cytoplasm of the cell. A majority of signaling pathways control protein synthesis by turning certain genes on and off in the nucleus. 
+
+
+
+
+
+
+Communicating through direct contact is one form of local signaling for eukaryotic cells. Plant and animal cells possess junctions that connect the cytoplasm of cells adjacent to one another. These connections allow for signaling substances that were dissolved in the cytosol to easily pass between the cells that are connected. Animal cells contain gap junctions and can communicate through these junctions in a process called cell-cell recognition. Plant cells are connected through plasmodesmata. Embryonic development and the immune response rely heavily on this type of local signaling. In other types of local signaling, the signaling cell secretes messenger molecules that only travel short distances. These local regulators influence cells in the vicinity and can stimulate nearby target cells to perform an action. A number of cells can receive messages and respond to another molecule within their vicinity at the same time. This process of local signaling within animal cells is known as paracrine signaling.
+
+
+
+Hormones are used by both plant and animal cells for long-distance signaling. In animal cells, specialized cells release these hormones and send them through the circulatory system to other parts of the body. They then reach target cells, which can recognize and respond to the hormones and produce a result. This is also known as endocrine signaling. Plant growth regulators, or plant hormones, move through cells or by diffusing through the air as a gas to reach their targets.
+
+
+
+Membrane vesicle trafficking
+Communication
+Biochemistry
+Biophysics
+Translation (biology)
+Calcium Buffering
+Host-pathogen interface
+
+
+
+Analysis of connexin expression during mouse Schwann cell development identifies Connexin29 as a novel marker for the transition of neural crest to precursor cells. Authors/Editors/Inventors: Li, Jing (Author); Habbes, Hans-Werner (Author); Eiberger, Juergen (Author); Willecke, Klaus (Author); Dermietzel, Rolf (Author); Meier, Carola (Author) [a]. Glia. Vol. 55 (1). JAN 1 2007. 93-103
+A rate equation approach to elucidate the kinetics and robustness of the TGF-beta pathway. Authors/Editors/Inventors:Melke, Pontus (Author); Jonsson, Henrik (Author); Pardali, Evangelia (Author); ten Dijke, Peter (Author); Peterson, Carsten (Author) [a]. Biophysical Journal. Vol. 91 (12). DEC 2006.
+Man1, an inner nuclear membrane protein, regulates vascular remodeling by modulating transforming growth factor beta signaling. Ishimura, Akihiko (Author); Ng, Jennifer K. (Author); Taira, Masanori (Author); Young, Stephen G. (Author); Osada, Shin-ichi. Development (Cambridge). Vol. 133 (19). OCT 1 2006.
+Protein expression changes in the nucleus accumbens and amygdala of inbred alcohol-preferring rats given either continuous or scheduled access to ethanol. Bell, R. L. (Author) [a]; Kimpel, M. W. (Author); Rodd, Z. A. (Author); Strother, W. N. (Author); Bai, F. (Author); Peper, C. L. (Author); Mayfield, R. D. (Author); Lumeng, L. (Author); Crabb, D. W. (Author); McBride, W. J. (Author); Witzmann, F. A. (Author): Alcohol. Vol. 40 (1). AUG 2006. 3-17
+
+
+
+Books
+Handbook of Cell Signaling / edited by Ralph Bradshaw and Edward Dennis. Academic Press, 2009. ISBN 0-12-374145-9
+Cox, Rody P., 1926-). [1974]. Cell communication, edited by Rody P. Cox. New York, Wiley. ISBN 0-471-18135-8
+Cell communication in health and disease : readings from Scientific American magazine / edited by Howard Rasmussen. New York : Freeman, c1991. xii, 185 p. : ill. (some col.) ; 24 cm. ISBN 0-7167-2224-0
+Cell communication in nervous and immune system / [edited by] Eckart D. Gundelfinger, Constanze I. Seidenbecher, Burkhart Schraven. 1st ed. New York : Springer, 2006. ISBN 3-540-36828-0.
+Journals
+Cell adhesion & communication. Yverdon, Switzerland ; New York : Harwood Academic Publishers, 1993-c2000. Vol. 1, issue 1 (May 1993)-v. 7, no. 6 (2000). ISSN: 1061-5385
+Cell communication & adhesion. Basingstoke, Hants, UK : Harwood Academic Publishers, c2001-). Vol. 8, issue 1 (2001)- ISSN: 1541-9061
+Friedman, Michael, 1955-). Cell communication : understanding how information is stored and used in cells / Michael Friedman and Brett Friedman. 1st ed. New York : Rosen Pub. Group, 2005. ISBN 1-4042-0319-2
+Intercellular communication / edited by Feliksas Bukauskas. Manchester ; New York : Manchester University Press ; New York, N.Y., USA : Distributed exclusively in the USA and Canada by St. Martin s Press, c1991. ISBN 0-7190-3269-5
+Intercellular communication / edited by Walmor C. De Mello. New York : Plenum Press, c1977. Description: ISBN 0-306-30958-0
+International Leucocyte Culture Conference (15th : 1982 : Asilomar and Pacific Grove, Calif.) Intercellular communication in leucocyte function : proceedings of the 15th International Leucocyte Culture Conference, Asilomar, Pacific Grove, California, December 1982 / [edited by] John W. Parker and Richard L. O Brien. Chichester ; New York : Wiley, c1984. ISBN 0-471-90161-X :
+Fleming, Andrew J.(Ed.). (2005). Intercellular communication in plants. Oxford : Blackwell. ISBN 1-4051-2068-1
+Intercellular communication in plants : studies on plasmodesmata / edited by B. E. S. Gunning and A. W. Robards.Berlin ; New York : Springer-Verlag, 1976. ISBN 0-387-07570-4
+Intercellular communication through gap junctions / editors, Y. Kanno ... [et al.]. Amsterdam ; New York : Elsevier, 1995. ISBN 0-444-81929-0
+Articles
+
+

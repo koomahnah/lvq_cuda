@@ -1,0 +1,18 @@
+A complex programmable logic device (CPLD) is a programmable logic device with complexity between that of PALs and FPGAs, and architectural features of both. The main building block of the CPLD is a macrocell, which contains logic implementing disjunctive normal form expressions and more specialized logic operations.
+
+
+
+Some of the CPLD features are in common with PALs:
+Non-volatile configuration memory. Unlike many FPGAs, an external configuration ROM isn't required, and the CPLD can function immediately on system start-up.
+For many legacy CPLD devices, routing constrains most logic blocks to have input and output signals connected to external pins, reducing opportunities for internal state storage and deeply layered logic. This is usually not a factor for larger CPLDs and newer CPLD product families.
+Other features are in common with FPGAs:
+Large number of gates available. CPLDs typically have the equivalent of thousands to tens of thousands of logic gates, allowing implementation of moderately complicated data processing devices. PALs typically have a few hundred gate equivalents at most, while FPGAs typically range from tens of thousands to several million.
+Some provisions for logic more flexible than sum-of-product expressions, including complicated feedback paths between macro cells, and specialized logic for implementing various commonly used functions, such as integer arithmetic.
+The most noticeable difference between a large CPLD and a small FPGA is the presence of on-chip non-volatile memory in the CPLD. The characteristic of non-volatility makes the CPLD devices used in modern digital designs for performing "boot loader" functions before handing over control to other devices not having this capability. A good example is where a CPLD is used to load configuration data for an FPGA from non-volatile memory.
+
+
+
+CPLDs were an evolutionary step from even smaller devices that preceded them, PLAs (first shipped by Signetics), and PALs. These in turn were preceded by standard logic products, that offered no programmability and were used to build logic functions by physically wiring several standard logic chips together (usually with wiring on a printed circuit board, but sometimes, especially for prototyping, using wire wrap wiring).
+The main distinction between FPGA and CPLD device architectures is that FPGAs are internally based on look-up tables (LUTs) while CPLDs form the logic functions with sea-of-gates (for example, sum of products).
+
+

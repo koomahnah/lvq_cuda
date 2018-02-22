@@ -1,0 +1,46 @@
+An activity tracker is a device or application for monitoring and tracking fitness-related metrics such as distance walked or run, calorie consumption, and in some cases heartbeat and quality of sleep. The term is now primarily used for dedicated electronic monitoring devices that are synced, in many cases wirelessly, to a computer or smartphone for long-term data tracking, an example of wearable technology. There are also independent smartphone and Facebook apps.
+
+
+
+The term "activity trackers" now primarily refers to wearable devices that monitor and record a person's fitness activity. The concept grew out of written logs that led to spreadsheet-style computer logs in which entries were made manually, such as that provided in the US by the President's Council on Physical Fitness and Sports as part of The President's Challenge. Improvements in technology in the late 20th and early 21st century have made it possible to automate the monitoring and recording of fitness activities and to integrate them into more easily worn equipment. Early examples of this technology include wristwatch-sized bicycle computers that monitored speed, duration, distance, etc., available at least by the early 1990s. Wearable heart rate monitors for athletes were available in 1981. Wearable fitness tracking devices, including wireless heart rate monitoring that integrated with commercial-grade fitness equipment found in gyms, were available in consumer-grade electronics by at least the early 2000s. Wearable fitness tracking computers with tightly integrated fitness training and planning software were available as consumer products by at least 2006.
+Electronic activity trackers are fundamentally upgraded versions of pedometers; in addition to counting steps, they use accelerometers and altimeters to calculate mileage, graph overall physical activity, calculate calorie expenditure, and in some cases also monitor and graph heart rate and quality of sleep. Some also include a silent alarm. Some newer models approach the US definition of a Class II medical monitor, and some manufacturers hope to eventually make them capable of alerting to a medical problem, although FDA approval would be required. Early versions such as the original Fitbit (2009), were worn clipped to the waist; formats have since diversified to include wristbands and armbands (smart bands) and smaller devices that can be clipped wherever preferred. Apple and Nike together developed the Nike+iPod, a sensor-equipped shoe that worked with an iPod Nano. In addition, logging apps exist for smartphones and Facebook; the Nike+ system now works without the shoe sensor, through the GPS unit in the phone. The new Apple Watch and some other smart watches offer activity tracker functions. In the US, BodyMedia has developed a disposable activity tracker to be worn for a week, which is aimed at medical and insurance providers and employers seeking to measure employees' fitness, and Jawbone's UP for Groups aggregates and anonymizes data from the company's wearable activity trackers and apps for employers. Other activity trackers are intended to monitor vital signs in the elderly, epileptics, and people with sleep disorders and alert a caregiver to a problem.
+Earbuds and headphones are a better location for measuring some data, including core body temperature; Valencell has developed sensor technology for new activity trackers that take their readings at the ear rather than the wrist, arm, or waist.
+There are collar-mounted activity trackers for dogs.
+Much of the appeal of activity trackers that makes them effective tools in increasing personal fitness comes from their making it into a game, and from the social dimension of sharing via social media and resulting rivalry. The device can serve as a means of identification with a community, which extends to broader participation.
+The standard activity-tracking smartphone or web apps present data in statistical form meant to be viewed after the activity has ended. However, research suggests that if we want a richer understanding of the data, we need intelligent computing to be included in the systems that run the apps.
+Some users and reviewers remain ambivalent towards the technology, making the point that in such a "mirror" displaying one's identity, misrepresentations are problematic. All forms of lifelogging also carry privacy implications. Social networks associated with activity trackers have led to breaches of privacy such as involuntary publication of sexual activity, and the potential for advertisers and health insurers to access private health data through the devices is a concern.
+
+
+
+Activity tracking Technology is been widely used as wearable sensors for human body in the field of medical sciences, sports and security. Wearable sensors detect ubnormal and unforeseen situations and monitoring physiological parameters and other symptoms through these trackers. This technology has lead to great transformation in healthcare system as continuous monitoring of the patients can be done without hospitalization. In the medical field, it is possible to monitor patients  body temperature, heart rate, brain activity, muscle motion and other critical data though these trackers.Moreover, in the sport domain there is an increasing demand of using various wearable sensors while training. Something, for example, measurement of sweat rate which was possible only in the laboratory based system a few years back is now possible using wearable sensors.
+
+
+
+
+Basis (owned by Intel) - Basis Carbon Steel Edition
+Bomdic - Gomore
+Fitbit - Fitbit Flex, Fitbit One, Fitbit Zip, Fitbit Surge, Fitbit Charge (replacement for Fitbit Force, which was recalled because some users experienced skin irritation), Fitbit Charge HR
+Garmin - Garmin Vivofit, Garmin Vivofit 2, Garmin Vivosmart, Garmin Vivoactive
+Huawei - Huawei Talkband B1
+I Measure U
+Jawbone - Jawbone UP, Jawbone UP2, Jawbone UP3, Jawbone UP4
+LG Electronics - LifeBand Touch and heart-monitoring headphones
+Microsoft - Microsoft Band
+Misfit Wearables - Misfit Shine, Misfit Flash
+Nike - Nike+ FuelBand and Nike+ FuelBand SE
+Pivotal Corporation - Pivotal Tracker 1
+Polar Electro - Polar Loop
+Razer - Nabu
+Runtastic
+Samsung - Samsung Gear Fit
+Sony - Sony SmartBand SWR10, Sony SmartBand Talk SWR30
+Spire - Spire
+Withings - Withings Pulse O2, Withings Pulse
+Nudge: an app dashboard for activity trackers
+Xiaomi: Xiaomi Mi Band
+Cooey - Smart blood pressure monitor, scale and glucometer devices
+oDrive Multi-Tracking Physical Challenges monitor
+Apple Watch Sport By Apple
+Moov Now By Moov
+
+

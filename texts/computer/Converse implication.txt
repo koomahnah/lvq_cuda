@@ -1,0 +1,33 @@
+Converse implication is the converse of implication. That is to say; that for any two propositions P and Q, if Q implies P, then P is the converse implication of Q.
+It may take the following forms:
+
+p q, Bpq, or p q
+
+
+
+
+
+
+The truth table of A B
+
+
+
+The Venn diagram of "If B then A" (the white area shows where the statement is false)
+
+
+
+truth-preserving: The interpretation under which all variables are assigned a truth value of 'true' produces a truth value of 'true' as a result of converse implication.
+
+
+
+
+
+
+"Not q without p."
+"p if q."
+
+
+
+(A + B')
+
+

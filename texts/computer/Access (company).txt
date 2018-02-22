@@ -1,0 +1,58 @@
+ACCESS CO., LTD. ( ACCESS, Kabushiki-gaisha Akusesu), founded in April 1979 and incorporated in February 1984 in Tokyo, Japan, by Arakawa Toru and Kamada Tomihisa, is a company providing a variety of software for connected and mobile devices, such as mobile phones, PDAs, video game consoles and set top boxes.
+The company has gained wide recognition for its NetFront software series, which has been deployed in over 1 billion devices, representing over 2,000 models, as of the end of January 2011, and which has been used as a principal element of the widely successful i-mode data service of NTT DoCoMo in Japan. NetFront is also used by a large number of consumer electronic devices beyond mobile phones, such as the Sony PSP and the Amazon Kindle, both of which have their web browsers powered by NetFront. In addition, the NetFront Browser and related products are used on a wide variety of mobile phones, including those from Nokia, Samsung, LG Corp., Motorola, Sony Ericsson, and others.
+In September 2005, ACCESS acquired PalmSource, the owner of the Palm OS and BeOS. The company has used these assets and expertise to create the Access Linux Platform, an open-source Linux-based platform for smartphones and other mobile devices, with some proprietary parts including the user interface and some middleware. The Access Linux Platform 3.0 was released to the market in October 2008. Two of the world's largest operators, NTT DoCoMo and Orange, have announced support for Access Linux Platform-based handsets.
+In March 2006, ACCESS acquired IP Infusion, Inc., a provider of intelligent networking software, providing Layer 2 and Layer 3 carrier-class switching and routing as well as a comprehensive forwarding plane implementation supporting L2, L3 (IPv4 & v6), multicast and MPLS/Traffic Engineering.
+ACCESS is active in open source-related efforts, including memberships in the Linux Foundation and the Linux Phone Standards Forum. In 2007, ACCESS employees presented at GUADEC (which the company also sponsored) and the Ottawa Linux Symposium.
+As of January 2013, ACCESS employs approximately 615 people globally, with headquarters in Tokyo, Japan and facilities in the USA (Sunnyvale), Germany (Oberhausen), Korea (Seoul), the PRC (Beijing), Taiwan (Taipei) and Indonesia (Jakarta) .
+The company reports consolidated revenues of  11.7 billion (for the fiscal year ending January 2013).
+
+
+
+ACCESS was founded in April 1979 by Toru Arakawa and Tomihisa Kamada and has since grown into a global company with approximately 1,000 employees. ACCESS is headquartered in Tokyo, Japan and has opened offices in the U.S., Germany, China, Korea, Taiwan and Indonesia. Incorporated in 1984, ACCESS stock is publicly traded on the Tokyo Stock Exchange Mother s Index under the number 4813.
+
+
+
+
+
+
+Digital Living Network Alliance
+Hybrid Broadcast Broadband TV consortium
+Digital Transmission Content Protection
+GENIVI Alliance
+Infrared Data Association
+LiMo Foundation
+SD Association
+UPnP
+World Wide Web Consortium
+Marlin Trust Management Organization
+Smart TV Alliance
+International Digital Publishing Forum
+Bluetooth Special Interest Group
+Wi-Sun Alliance
+
+
+
+Qtopia
+Symbian OS
+Windows Mobile
+
+
+
+^ a b c ACCESS Company Profile, ACCESS. Archived July 22, 2012 at the Wayback Machine
+^ Eugenia Loli-Queru. Introduction to Phone Web Browsers in OSnews, January 26, 2006. Archived November 10, 2013 at the Wayback Machine
+^ a b Kamada, Tomihasa
+^ Ryan Kairer, PalmSource Acquired By ACCESS, PalmInfocenter, September 8, 2005 Archived January 7, 2014 at the Wayback Machine
+^ ACCESS Completes Acquisition of PalmSource ACCESS press release, November 14, 2005. Archived June 20, 2012 at the Wayback Machine
+^ a b "ACCESS & Open Source FAQs". Archived from the original on March 7, 2012. 
+^ Brad Linder. ACCESS Linux Platform 3.0 released: Yes it's another mobile phone OS, DownloadSquad, October 24, 2008. Archived August 21, 2009 at the Wayback Machine
+^ Japan s DoCoMo Developing Mobile Linux Operator Pack in MobileLinuxInfo, April 21, 2008 Archived January 4, 2011 at the Wayback Machine
+^ Ed Hardy. Orange Releasing ALP-Powered Smartphone this Summer on Brighthand.com, February 13, 2008. Archived January 7, 2014 at the Wayback Machine
+^ ACCESS to Acquire IP Infusion Inc. in Wireless Watch Japan, March 3, 2006. Archived April 19, 2012 at the Wayback Machine
+^ Sponsors | Gran Canaria Desktop Summit Website Archived March 25, 2014 at the Wayback Machine
+^ Talks | Ottawa Linux Symposium Presentation Listings for 2007 Archived March 6, 2012 at the Wayback Machine
+^ ACCESS: Global Offices Archived July 14, 2012 at the Wayback Machine
+
+
+
+Official website
+IP Infusion

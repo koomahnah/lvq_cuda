@@ -1,0 +1,10 @@
+ACM Transactions on Graphics (TOG) is a peer-reviewed scientific journal that aims to disseminate the latest findings of note in the field of computer graphics. It has been published since 1982 by the Association for Computing Machinery. Six issues are published per year, including special issues. Starting in 2003, all papers accepted for presentation at the annual SIGGRAPH conference are printed in a special summer issue of the journal. Beginning in 2008, papers presented at SIGGRAPH Asia are printed in a special November/December issue.
+In a 2008 ranking, TOG had the 5th highest impact factor in the field of computer science. A more recent ranking by Thomson Reuters InCites gives TOG an impact factor of 3.725 and a 5-year impact factor of 4.529, placing it first among software engineering journals. As of 2013, it also ranks 12th in the field of computer science for total number of citations.
+
+
+
+
+
+
+ACM Transactions on Graphics website.
+ACM Transactions on Graphics in ACM Digital Library.

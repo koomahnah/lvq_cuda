@@ -1,0 +1,7 @@
+Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial is an enzyme that in humans is encoded by the ALDH4A1 gene.
+This protein belongs to the aldehyde dehydrogenase family of proteins. This enzyme is a mitochondrial matrix NAD-dependent dehydrogenase that catalyzes the second step of the proline degradation pathway, converting pyrroline-5-carboxylate to glutamate. Deficiency of this enzyme is associated with type II hyperprolinemia, an autosomal recessive disorder characterized by accumulation of delta-1-pyrroline-5-carboxylate (P5C) and proline. Two transcript variants encoding the same protein have been identified for this gene.
+
+
+
+
+

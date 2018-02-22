@@ -1,0 +1,81 @@
+A digital subscriber line (DSL) modem is a device used to connect a computer or router to a telephone line which provides the digital subscriber line service for connectivity to the Internet, which is often called DSL broadband.
+The term DSL modem is technically used to describe a modem which connects to a single computer, through an Ethernet Port, USB port, or is installed in a computer PCI slot. The more common DSL router is a standalone device that combines the function of a DSL modem and a router, and can connect multiple computers through multiple Ethernet ports or an integral wireless access point. Also called a residential gateway, a DSL router usually manages the connection and sharing of the DSL service in a home or small office network.
+
+
+
+A DSL router consists of a box which has an RJ11 jack to connect to a standard subscriber telephone line. It has several RJ45 jacks for Ethernet cables to connect it to computers or printers, creating a local network. It usually also has a USB jack which can be used to connect to computers via a USB cable, to allow connection to computers without an Ethernet port. A wireless DSL router also has antennas to allow it to act as a wireless access point, so computers can connect to it forming a wireless network. Power is usually supplied by a cord from a wall wart transformer.
+It usually has a series of LED status lights which show the status of parts of the DSL communications link:
+Power light - indicates that the modem is turned on and has power.
+Ethernet lights - There is usually a light over each Ethernet jack. A steady (or sometimes flashing) light indicates that the Ethernet link to that computer or device is functioning
+DSL light - a steady light indicates that the modem has established contact with the equipment in the local telephone exchange (DSLAM) so the DSL link over the telephone line is functioning. Newer modems that support ADSL2+ bonding will have one light for each line.
+Internet light - a steady light indicates that the IP address and DHCP protocol are initialized and working, so the system is connected to the Internet
+Wireless light - only in wireless DSL modems, this indicates that the wireless network is initialized and working
+Many routers provide an internal web page to the local network for device configuration and status reporting. Most DSL routers are designed to be installed by the customer for which a CD or DVD containing an installation program is supplied. The program may also activate the DSL service. Upon powering the router it may take several minutes for the local network and DSL link to initialize, usually indicated by the status lights turning green.
+
+
+
+
+
+
+The public switched telephone network, the network of switching centers, trunk lines, amplifiers and switches which transmits telephone calls from one phone to another, is designed to carry voice frequency signals, and is therefore limited to a bandwidth of 3.4 kHz. Before DSL, voice-band modems transmitted information through the telephone network with audio frequencies within that bandwidth, which limited them to a data rate of about 56 kbit/s. However, the copper wires that connect telephones with the local switching center (telephone exchange), called the subscriber loop, are actually able to carry a much wider band of frequencies, up to several megahertz. This capacity is unused in normal phone service. DSL uses these higher frequencies to send digital data between the DSL modem and the local switching center, without interfering with normal telephone service. At the local switching center the data is transferred directly between the customer's phone line and internet lines, so DSL signals do not travel through the telephone network itself. It is not necessary to dial a telephone number to initiate a connection; the DSL connection is "on" whenever the modem is on.
+
+
+
+The device at the local switching center which communicates with the DSL modem is called a Digital Subscriber Line Access Multiplexer (DSLAM), which is connected directly to the Internet. The local switching center must be equipped with these devices to offer DSL service.
+With ADSL, the modem and the DSLAM communicate by a protocol called discrete multitone modulation (DMT), which is a form of frequency division multiplexing. The modem only uses frequencies above 8 kHz, to avoid interfering with normal phone service. The bandwidth of the line between 8 kHz and about 1 MHz is divided into 247 separate channels, each 4 kHz wide. A separate carrier signal carries information in each channel. Thus the system acts like 247 separate modems operating simultaneously. The bits of the incoming digital data are split up and sent in parallel over the channels. Each data stream is sent using an error-correcting code to allow minor bit errors due to noise to be corrected at the receiving end. Most of the channels are unidirectional, carrying download data from the DSLAM to the modem, but some on the low frequency end are bidirectional, to carry the smaller quantity of upload traffic. The modem constantly monitors the transmission quality on each channel, and if it is too impaired it will shift the signal to other channels. The modem is constantly shifting data between channels searching for the best transmission rates. Thus interference or poor quality lines will generally not interrupt transmission, but only cause the data rate of the modem to degrade.
+For example, when downloading a web page, the packets of web page data travel over optical fiber Internet lines directly to the DSLAM at the neighborhood telephone exchange. At the DSLAM they are split into as many as 247 parallel data streams. Each is modulated onto a separate carrier signal and sent through a separate frequency channel over the subscriber's telephone line to the DSL modem. The modem demodulates the carrier, extracting the data stream from each carrier signal, performs error correction, puts the data together again in the proper order, and sends it to the computer over the Ethernet line.
+
+
+
+Most consumer DSL lines use one of several varieties of Asymmetric DSL (ADSL). The "asymmetric" means that more of the bandwidth of the line is dedicated to downstream (download) data than upstream (upload) data, so, download rates are faster than upload rates, because most users download much larger quantities of data than they upload. Because the telephone lines were never designed to carry such high frequency signals, DSL is distance-sensitive. The farther away from the switching center the modem is, the longer the telephone wires, the weaker the signal, and the lower the data rate that the modem can achieve. Users in cities, close to switching centers, may have access to higher rate service, up to 8 Mbit/s. The most widely available ADSL service today has rates of 1.5 Mbit/s download and 64 to 640 kbit/s upload. The distance limit for ADSL is 18 000 feet (5.5 km or 3.4 miles). However, other devices installed in telephone lines by the phone company, such as loading coils and bridge taps, block the signal, and may disqualify a given phone line from DSL service. Many local telephone companies are currently replacing the copper telephone wiring on utility poles with high bandwidth optical fiber, so that the copper wire subscriber loops only extend to the local utility pole (or underground trunkline), where the DSLAMs are located. This allows the company to offer much higher speed DSL rates.
+
+
+
+
+To prevent the DSL signal from entering the phone lines into telephones, answering machines, faxes and other devices where it could cause interference, DSL modems come with low pass filters which must be plugged into the phone lines going to all voiceband devices on the same line. The filter blocks all frequencies above 4 kHz, so it blocks the DSL signal while allowing voice frequency signals through. A filter must not be inserted in the phone line going to the DSL modem, because it would block the communication between the modem and switching center.
+
+
+
+A DSL modem modulates high-frequency tones for transmission to a digital subscriber line access multiplexer (DSLAM), and receives and demodulates them from the DSLAM. It serves fundamentally the same purpose as the voice-band modem that was a mainstay in the late 20th century, but differs from it in important ways.
+DSL modems transfer data at a rate which is at least 10 to 20 times that of a voice-band modem.
+DSL does not interfere with normal telephone calls on the telephone line, and does not require dialing a telephone number to initiate a connection, it is always "on". A voice-band modem dials a telephone number to initiate a connection, and while it is connected the telephone line cannot be used for normal telephone service.
+DSL routers, the most common form of DSL modem, are external to the computer and wired to the computer's Ethernet port or its USB port, whereas voice-band modems are usually internal devices installed in the computer itself in a PCI interface slot in the back. Internal DSL modems are rare but available.
+Microsoft Windows and other operating systems regard voice-band modems as part of the hardware of the computer, and similarly to other parts of the computer's hardware such as the mouse or hard disk are configured through the Windows Control Panel. In contrast, DSL routers are regarded as separate nodes in the LAN (local area network). DSL modems rarely require manual configuration or attention, but when they do they can be accessed using the internet browser. Routers usually have a webpage, accessed by typing an IP address given in the router's manual into the browser's address bar, with which various technical changes can be made, such as changing the wireless network's password, and adjusting the router's firewall.
+For external DSL modems connected by USB, Microsoft Windows and other operating systems generally recognize these as a Network interface controller.
+For internal DSL modems, Microsoft Windows and other operating systems provide interfaces similar to those provided for voice-band modems. This is based on the assumption that in the future, as CPU speeds increase, internal DSL modems may become more mainstream.
+DSL modems use frequencies from 25 kHz to above 1 MHz (see Asymmetric Digital Subscriber Line), in order not to interfere with voice service which is primarily 0 4 kHz. Voice-band modems use the same frequency spectrum as ordinary telephones, and will interfere with voice service - it is usually impossible to make a telephone call on a line which is being used by a voice-band modem. Because a single phone line commonly carries DSL and voice, DSL filters are used to separate the two uses.
+DSL modems vary in data speed from hundreds of kilobits per second to many megabits, while voice-band modems are nominally 56K modems and actually limited to approximately 50 kbit/s.
+DSL modems exchange data with only the DSLAM to which they are wired, which in turn connects them to the Internet, while most voice-band modems can dial directly anywhere in the world.
+DSL modems are intended for particular protocols and sometimes won't work on another line even from the same company, while most voice-band modems use international standards and can "fall back" to find a standard that will work.
+Most of these differences are of little interest to consumers, except the greater speed of DSL and the ability to use the telephone even when the computer is online.
+
+
+
+
+As technology advances, functions that are provided by multiple chips can be integrated onto one chip. Higher levels of integration have benefited DSL just as they benefited other computer hardware. A DSL modem requires the following for its operation; exactly what is on the circuit card and how it is arranged can change as technology improves:
+Power supply: Transformer and capacitor
+Data connection and power circuitry (for example, USB, Ethernet, PCI)
+DSL digital data pump
+DSL analog chip and line driver
+Micro controller
+Filter
+
+
+
+
+Apart from connecting to a DSL service, many modems offer additional integrated features, forming a residential gateway:
+Router functionality that includes Network Address Translation (NAT) to share a single IPv4 address.
+An 802.11b, 802.11g or 802.11n wireless access point
+A built-in switch (typically 4 ports)
+Virtual Private Network termination
+Dynamic Host Configuration Protocol (DHCP) server
+Dynamic DNS (Domain Name System) clients
+Voice over Internet Protocol functionality including Quality of Service (priority control for data flows between users)
+
+
+
+Residential gateway
+Registered jack
+Home network
+
+

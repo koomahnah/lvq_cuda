@@ -1,0 +1,202 @@
+In biological classification, rank is the relative level of a group of organisms (a taxon) in a taxonomic hierarchy. Examples of taxonomic ranks are species, genus, family, class, kingdom, etc.
+A given rank subsumes under it less general categories, that is, more specific descriptions of life forms. Above it, each rank is classified within more general categories of organisms and groups of organisms related to each other through inheritance of traits or features from common ancestors. The rank of any species and the description of its genus is basic; which means that to identify a particular organism, it is usually not necessary to specify ranks other than these first two.
+Consider a particular species, the red fox Vulpes vulpes: its next rank, the genus Vulpes, comprises all the 'true foxes'. Their closest relatives are in the immediately higher rank, the family Canidae, which includes dogs, wolves, jackals, all foxes, and other caniforms; the next higher rank, the order Carnivora, includes feliforms and caniforms (lions, tigers, bears, hyenas, wolverines, and all those mentioned above), plus other carnivorous mammals. As one group of the class Mammalia, all of the above are classified among those with backbones in the Chordata phylum rank, and with them among all the animals in the Animalia kingdom rank. Finally, all of the above will find their earliest relatives somewhere in their domain rank Eukarya.
+The International Code of Zoological Nomenclature defines rank as:
+The level, for nomenclatural purposes, of a taxon in a taxonomic hierarchy (e.g. all families are for nomenclatural purposes at the same rank, which lies between superfamily and subfamily)
+
+
+
+In his landmark publications, such as the Systema Naturae, Carolus Linnaeus used a ranking scale limited to: kingdom, class, order, genus, species, and one rank below species. Today, nomenclature is regulated by the nomenclature codes. There are seven main taxonomic ranks: kingdom, phylum or division, class, order, family, genus, species. In addition, the domain (proposed by Carl Woese) is now widely used as one of the fundamental ranks, although it is not mentioned in any of the nomenclature codes.
+A taxon is usually assigned a rank when it is given its formal name. The basic ranks are species and genus. When an organism is given a species name it is assigned to a genus, and the genus name is part of the species name.
+The species name is also called a binomial, that is, a two-term name. For example, the zoological name for the human species is Homo sapiens. This is usually italicized in print and underlined when italics are not available. In this case, Homo is the generic name and it is capitalized; sapiens indicates the species and it is not capitalized.
+
+
+
+There are definitions of the following taxonomic ranks in the International Code of Zoological Nomenclature: superfamily, family, subfamily, tribe, subtribe, genus, subgenus, species, subspecies.
+The International Code of Zoological Nomenclature divides names into "family-group names", "genus-group names" and "species-group names". The Code explicitly mentions:
+Superfamily
+Family
+Subfamily
+Tribe
+Subtribe
+Genus
+Subgenus
+Species
+Subspecies
+The rules in the Code apply to the ranks of superfamily to subspecies, and only to some extent to those above the rank of superfamily. In the "genus group" and "species group" no further ranks are allowed. Among zoologists, additional terms such as species group, species subgroup, species complex and superspecies are sometimes used for convenience as extra, but unofficial, ranks between the subgenus and species levels in taxa with many species (e.g. the genus Drosophila).
+At higher ranks (family and above) a lower level may be denoted by adding the prefix "infra", meaning lower, to the rank. For example, infraorder (below suborder) or infrafamily (below subfamily).
+
+
+
+A taxon above the rank of species has a scientific name in one part (a uninominal name).
+A species has a name composed of two parts (a binomial name or binomen): generic name + specific name; for example Canis lupus.
+A subspecies has a name composed of three parts (a trinomial name or trinomen): generic name + specific name + subspecific name; for example Canis lupus familiaris. As there is only one possible rank below that of species, no connecting term to indicate rank is needed or used.
+
+
+
+According to Art 3.1 of the International Code of Nomenclature for algae, fungi, and plants (ICN) the most important ranks of taxa are: kingdom, division or phylum, class, order, family, genus, and species. According to Art 4.1 the secondary ranks of taxa are tribe, section, series, variety and form. There is an indeterminate number of ranks. The ICN explicitly mentions:
+primary ranks
+secondary ranks
+further ranks
+
+kingdom (regnum)
+
+subregnum
+
+division or phylum (divisio, phylum)
+
+subdivisio or subphylum
+
+class (classis)
+
+subclassis
+
+order (ordo)
+
+subordo
+
+family (familia)
+
+subfamilia
+
+tribe (tribus)
+subtribus
+
+genus (genus)
+
+subgenus
+
+section (sectio)
+subsection
+
+series (series)
+subseries
+
+species (species)
+
+subspecies
+
+variety (varietas)
+subvarietas
+
+form (forma)
+subforma
+
+There are definitions of the following taxonomic categories in the International Code of Nomenclature for Cultivated Plants: cultivar group, cultivar, grex.
+The rules in the ICN apply primarily to the ranks of family and below, and only to some extent to those above the rank of family. Also see descriptive botanical names.
+
+
+
+Of the botanical ranks used by Linnaeus only names of genera, species and varieties are still used.
+Taxa at the rank of genus and above have a botanical name in one part (unitary name); those at the rank of species and above (but below genus) have a botanical name in two parts (binary name); all taxa below the rank of species have a botanical name in three parts (an infraspecific name). To indicate the rank of the infraspecific name, a "connecting term" is needed. Thus Poa secunda subsp. juncifolia, where "subsp." is an abbreviation for "subspecies", is the name of a subspecies of Poa secunda.
+Hybrids can be specified either by a "hybrid formula" that specifies the parentage, or may be given a name. For hybrids getting a hybrid name, the same ranks apply, prefixed with notho (Greek: "bastard"), with nothogenus as the highest permitted rank.
+
+
+
+If a different term for the rank was used in an old publication, but the intention is clear, botanical nomenclature specifies certain substitutions:
+If names were "intended as names of orders, but published with their rank denoted by a term such as": "cohors" [Latin for "cohort"], "nixus", "alliance", or "Reihe" instead of "order" (Article 17.2), they are treated as names of orders.
+"Family" is substituted for "order" (ordo) or "natural order" (ordo naturalis) under certain conditions where the modern meaning of "order" was not intended. (Article 18.2)
+"Subfamily is substituted for "suborder" (subordo) under certain conditions where the modern meaning of "suborder" was not intended. (Article 19.2)
+In a publication prior to 1 January 1890, if only one infraspecific rank is used, it is considered to be that of variety. (Article 35.4) This commonly applies to publications that labelled infraspecific taxa with Greek letters,  ,  ,  , ...
+
+
+
+Classifications of five species follow: the fruit fly so familiar in genetics laboratories (Drosophila melanogaster), humans (Homo sapiens), the peas used by Gregor Mendel in his discovery of genetics (Pisum sativum), the "fly agaric" mushroom Amanita muscaria, and the bacterium Escherichia coli. The eight major ranks are given in bold; a selection of minor ranks are given as well.
+Table notes
+The ranks of higher taxa, especially intermediate ranks, are prone to revision as new information about relationships is discovered. For example, the traditional classification of primates (class Mammalia   subclass Theria   infraclass Eutheria   order Primates) has been modified by new classifications such as McKenna and Bell (class Mammalia   subclass Theriformes   infraclass Holotheria) with Theria and Eutheria assigned lower ranks between infraclass and the order Primates. See mammal classification for a discussion. These differences arise because there are only a small number of ranks available and a large number of branching points in the fossil record.
+Within species further units may be recognised. Animals may be classified into subspecies (for example, Homo sapiens sapiens, modern humans) or morphs (for example Corvus corax varius morpha leucophaeus, the Pied Raven). Plants may be classified into subspecies (for example, Pisum sativum subsp. sativum, the garden pea) or varieties (for example, Pisum sativum var. macrocarpon, snow pea), with cultivated plants getting a cultivar name (for example, Pisum sativum var. macrocarpon 'Snowbird'). Bacteria may be classified by strains (for example Escherichia coli O157:H7, a strain that can cause food poisoning).
+Mnemonics are available at mnemonic-device.eu and thefreedictionary.com.
+
+
+
+Taxa above the genus level are often given names based on the type genus, with a standard termination. The terminations used in forming these names depend on the kingdom (and sometimes the phylum and class) as set out in the table below.
+Pronunciations given are the most Anglicized. More Latinate pronunciations are also common, particularly / / rather than /e / for stressed a.
+Table notes
+In botany and mycology names at the rank of family and below are based on the name of a genus, sometimes called the type genus of that taxon, with a standard ending. For example, the rose family Rosaceae is named after the genus Rosa, with the standard ending "-aceae" for a family. Names above the rank of family are also formed from a generic name, or are descriptive (like Gymnospermae or Fungi).
+For animals, there are standard suffixes for taxa only up to the rank of superfamily.
+Forming a name based on a generic name may be not straightforward. For example, the Latin "homo" has the genitive "hominis", thus the genus "Homo" (human) is in the Hominidae, not "Homidae".
+The ranks of epifamily, infrafamily and infratribe (in animals) are used where the complexities of phyletic branching require finer-than-usual distinctions. Although they fall below the rank of superfamily, they are not regulated under the International Code of Zoological Nomenclature and hence do not have formal standard endings. The suffixes listed here are regular, but informal.
+
+
+
+There is an indeterminate number of ranks, as a taxonomist may invent a new rank at will, at any time, if they feel this is necessary. In doing so, there are some restrictions, which will vary with the nomenclature code which applies.
+The following is an artificial synthesis, solely for purposes of demonstration of relative rank (but see notes), from most general to most specific:
+Domain or Empire
+Kingdom
+Subkingdom
+Infrakingdom
+
+Superphylum (or Superdivision in botany)
+Phylum (or Division in botany)
+Subphylum (or Subdivision in botany)
+Infraphylum (or Infradivision in botany)
+Microphylum
+
+Superclass
+Class
+Subclass
+Infraclass
+Parvclass
+
+Superdivision (zoology)Division (zoology)Subdivision (zoology)Infradivision (zoology)
+
+Superlegion (zoology)
+Legion (zoology)
+Sublegion (zoology)
+Infralegion (zoology)
+
+Supercohort (zoology)Cohort (zoology)Subcohort (zoology)Infracohort (zoology)
+
+Gigaorder (zoology)Magnorder or Megaorder (zoology)Grandorder or Capaxorder (zoology)Mirorder or Hyperorder (zoology)Superorder
+Series (for fish)
+Order
+Parvorder (position in some zoological classifications)
+Nanorder (zoology)
+Hypoorder (zoology)
+Minorder (zoology)
+Suborder
+Infraorder
+Parvorder (usual position) or Microorder (zoology)
+
+Section (zoology)
+Subsection (zoology)
+
+Gigafamily (zoology)
+Megafamily (zoology)
+Grandfamily (zoology)
+Hyperfamily (zoology)
+Superfamily
+Epifamily (zoology)
+Series (for Lepidoptera)
+Group (for Lepidoptera)
+Family
+Subfamily
+Infrafamily
+
+Supertribe
+Tribe
+Subtribe
+Infratribe
+
+Genus
+Subgenus
+Section (botany)
+Subsection (botany)
+Series (botany)
+Subseries (botany)
+
+Superspecies or Species-group
+Species
+Subspecies (or Forma Specialis for fungi, or Variety for bacteria)
+Variety (botany) or Form/Morph (zoology)
+Subvariety (botany)
+Form (botany)
+Subform (botany)
+
+
+
+Ranks are assigned based on subjective dissimilarity, and do not fully reflect the gradational nature of variation within nature. In most cases, higher taxonomic groupings arise further back in time: not because the rate of diversification was higher in the past, but because each subsequent diversification event results in an increase of diversity and thus increases the taxonomic rank assigned by present-day taxonomists.
+Of these many ranks, the most basic is species. However, this is not to say that a taxon at any other rank may not be sharply defined, or that any species is guaranteed to be sharply defined. It varies from case to case. Ideally, a taxon is intended to represent a clade, that is, the phylogeny of the organisms under discussion, but this is not a requirement.
+Classification, in which all taxa have formal ranks, cannot adequately reflect our knowledge about phylogeny; at the same time, if taxon names are dependent on ranks, rank-free taxa can't be supplied with names. This problem is dissolved in cladoendesis, where the specially elaborated rank-free nomenclatures are used.
+
+

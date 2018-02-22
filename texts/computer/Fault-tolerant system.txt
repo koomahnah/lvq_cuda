@@ -1,0 +1,106 @@
+Fault tolerance is the property that enables a system to continue operating properly in the event of the failure of (or one or more faults within) some of its components. If its operating quality decreases at all, the decrease is proportional to the severity of the failure, as compared to a naively designed system in which even a small failure can cause total breakdown. Fault tolerance is particularly sought after in high-availability or life-critical systems.
+A fault-tolerant design enables a system to continue its intended operation, possibly at a reduced level, rather than failing completely, when some part of the system fails. The term is most commonly used to describe computer systems designed to continue more or less fully operational with, perhaps, a reduction in throughput or an increase in response time in the event of some partial failure. That is, the system as a whole is not stopped due to problems either in the hardware or the software. An example in another field is a motor vehicle designed so it will continue to be drivable if one of the tires is punctured. A structure is able to retain its integrity in the presence of damage due to causes such as fatigue, corrosion, manufacturing flaws, or impact.
+Within the scope of an individual system, fault tolerance can be achieved by anticipating exceptional conditions and building the system to cope with them, and, in general, aiming for self-stabilization so that the system converges towards an error-free state. However, if the consequences of a system failure are catastrophic, or the cost of making it sufficiently reliable is very high, a better solution may be to use some form of duplication. In any case, if the consequence of a system failure is so catastrophic, the system must be able to use reversion to fall back to a safe mode. This is similar to roll-back recovery but can be a human action if humans are present in the loop.
+
+
+
+
+A highly fault-tolerant system might continue at the same level of performance even though one or more components have failed. For example, a building with a backup electrical generator will provide the same voltage to wall outlets even if the grid power fails.
+A system that is designed to fail safe, or fail-secure, or fail gracefully, whether it functions at a reduced level or fails completely, does so in a way that protects people, property, or data from injury, damage, intrusion, or disclosure. In computers, a program might fail-safe by executing a graceful exit (as opposed to an uncontrolled crash) in order to prevent data corruption after experiencing an error. A similar distinction is made between "failing well" and "failing badly".
+Fail-deadly is the opposite strategy, which can be used in weapon systems that are designed to kill or injure targets even if part of the system is damaged or destroyed.
+A system that is designed to experience graceful degradation, or to fail soft (used in computing, similar to "fail safe") operates at a reduced level of performance after some component failures. For example, a building may operate lighting at reduced levels and elevators at reduced speeds if grid power fails, rather than either trapping people in the dark completely or continuing to operate at full power. In computing an example of graceful degradation is that if insufficient network bandwidth is available to stream an online video, a lower-resolution version might be streamed in place of the high-resolution version. Progressive enhancement is an example in computing, where web pages are available in a basic functional format for older, small-screen, or limited-capability web browsers, but in an enhanced version for browsers capable of handling additional technologies or that have a larger display available.
+In fault-tolerant computer systems, programs that are considered robust are designed to continue operation despite an error, exception, or invalid input, instead of crashing completely. Software brittleness is the opposite of robustness. Resilient networks continue to transmit data despite the failure of some links or nodes; resilient buildings and infrastructure are likewise expected to prevent complete failure in situations like earthquakes, floods, or collisions.
+A system with high failure transparency will alert users that a component failure has occurred, even if it continues to operate with full performance, so that failure can be repaired or imminent complete failure anticipated. Likewise, a fail-fast component is designed to report at the first point of failure, rather than allow downstream components to fail and generate reports then. This allows easier diagnosis of the underlying problem, and may prevent improper operation in a broken state.
+
+
+
+If each component, in turn, can continue to function when one of its subcomponents fails, this will allow the total system to continue to operate as well. Using a passenger vehicle as an example, a car can have "run-flat" tires, which each contain a solid rubber core, allowing them to be used even if a tire is punctured. The punctured "run-flat" tire may be used for a limited time at a reduced speed.
+
+
+
+
+Redundancy is the provision of functional capabilities that would be unnecessary in a fault-free environment. This can consist of backup components which automatically "kick in" should one component fail. For example, large cargo trucks can lose a tire without any major consequences. They have many tires, and no one tire is critical (with the exception of the front tires, which are used to steer). The idea of incorporating redundancy in order to improve the reliability of a system was pioneered by John von Neumann in the 1950s.
+Two kinds of redundancy are possible: space redundancy and time redundancy. Space redundancy provides additional components, functions, or data items that are unnecessary for fault-free operation. Space redundancy is further classified into hardware, software and information redundancy, depending on the type of redundant resources added to the system. In time redundancy the computation or data transmission is repeated and the result is compared to a stored copy of the previous result.
+
+
+
+Providing fault-tolerant design for every component is normally not an option. Associated redundancy brings a number of penalties: increase in weight, size, power consumption, cost, as well as time to design, verify, and test. Therefore, a number of choices have to be examined to determine which components should be fault tolerant:
+How critical is the component? In a car, the radio is not critical, so this component has less need for fault tolerance.
+How likely is the component to fail? Some components, like the drive shaft in a car, are not likely to fail, so no fault tolerance is needed.
+How expensive is it to make the component fault tolerant? Requiring a redundant car engine, for example, would likely be too expensive both economically and in terms of weight and space, to be considered.
+An example of a component that passes all the tests is a car's occupant restraint system. While we do not normally think of the primary occupant restraint system, it is gravity. If the vehicle rolls over or undergoes severe g-forces, then this primary method of occupant restraint may fail. Restraining the occupants during such an accident is absolutely critical to safety, so we pass the first test. Accidents causing occupant ejection were quite common before seat belts, so we pass the second test. The cost of a redundant restraint method like seat belts is quite low, both economically and in terms or weight and space, so we pass the third test. Therefore, adding seat belts to all vehicles is an excellent idea. Other "supplemental restraint systems", such as airbags, are more expensive and so pass that test by a smaller margin.
+
+
+
+The basic characteristics of fault tolerance require:
+No single point of failure   If a system experiences a failure, it must continue to operate without interruption during the repair process.
+Fault isolation to the failing component   When a failure occurs, the system must be able to isolate the failure to the offending component. This requires the addition of dedicated failure detection mechanisms that exist only for the purpose of fault isolation. Recovery from a fault condition requires classifying the fault or failing component. The National Institute of Standards and Technology (NIST) categorizes faults based on locality, cause, duration, and effect.
+Fault containment to prevent propagation of the failure   Some failure mechanisms can cause a system to fail by propagating the failure to the rest of the system. An example of this kind of failure is the "rogue transmitter" which can swamp legitimate communication in a system and cause overall system failure. Firewalls or other mechanisms that isolate a rogue transmitter or failing component to protect the system are required.
+Availability of reversion modes
+In addition, fault-tolerant systems are characterized in terms of both planned service outages and unplanned service outages. These are usually measured at the application level and not just at a hardware level. The figure of merit is called availability and is expressed as a percentage. For example, a five nines system would statistically provide 99.999% availability.
+Fault-tolerant systems are typically based on the concept of redundancy.
+
+
+
+Spare components address the first fundamental characteristic of fault tolerance in three ways:
+Replication: Providing multiple identical instances of the same system or subsystem, directing tasks or requests to all of them in parallel, and choosing the correct result on the basis of a quorum;
+Redundancy: Providing multiple identical instances of the same system and switching to one of the remaining instances in case of a failure (failover);
+Diversity: Providing multiple different implementations of the same specification, and using them like replicated systems to cope with errors in a specific implementation.
+All implementations of RAID, redundant array of independent disks, except RAID 0, are examples of a fault-tolerant storage device that uses data redundancy.
+A lockstep fault-tolerant machine uses replicated elements operating in parallel. At any time, all the replications of each element should be in the same state. The same inputs are provided to each replication, and the same outputs are expected. The outputs of the replications are compared using a voting circuit. A machine with two replications of each element is termed dual modular redundant (DMR). The voting circuit can then only detect a mismatch and recovery relies on other methods. A machine with three replications of each element is termed triple modular redundant (TMR). The voting circuit can determine which replication is in error when a two-to-one vote is observed. In this case, the voting circuit can output the correct result, and discard the erroneous version. After this, the internal state of the erroneous replication is assumed to be different from that of the other two, and the voting circuit can switch to a DMR mode. This model can be applied to any larger number of replications.
+Lockstep fault-tolerant machines are most easily made fully synchronous, with each gate of each replication making the same state transition on the same edge of the clock, and the clocks to the replications being exactly in phase. However, it is possible to build lockstep systems without this requirement.
+Bringing the replications into synchrony requires making their internal stored states the same. They can be started from a fixed initial state, such as the reset state. Alternatively, the internal state of one replica can be copied to another replica.
+One variant of DMR is pair-and-spare. Two replicated elements operate in lockstep as a pair, with a voting circuit that detects any mismatch between their operations and outputs a signal indicating that there is an error. Another pair operates exactly the same way. A final circuit selects the output of the pair that does not proclaim that it is in error. Pair-and-spare requires four replicas rather than the three of TMR, but has been used commercially.
+
+
+
+Fault-tolerant design's advantages are obvious, while many of its disadvantages are not:
+Interference with fault detection in the same component. To continue the above passenger vehicle example, with either of the fault-tolerant systems it may not be obvious to the driver when a tire has been punctured. This is usually handled with a separate "automated fault-detection system". In the case of the tire, an air pressure monitor detects the loss of pressure and notifies the driver. The alternative is a "manual fault-detection system", such as manually inspecting all tires at each stop.
+Interference with fault detection in another component. Another variation of this problem is when fault tolerance in one component prevents fault detection in a different component. For example, if component B performs some operation based on the output from component A, then fault tolerance in B can hide a problem with A. If component B is later changed (to a less fault-tolerant design) the system may fail suddenly, making it appear that the new component B is the problem. Only after the system has been carefully scrutinized will it become clear that the root problem is actually with component A.
+Reduction of priority of fault correction. Even if the operator is aware of the fault, having a fault-tolerant system is likely to reduce the importance of repairing the fault. If the faults are not corrected, this will eventually lead to system failure, when the fault-tolerant component fails completely or when all redundant components have also failed.
+Test difficulty. For certain critical fault-tolerant systems, such as a nuclear reactor, there is no easy way to verify that the backup components are functional. The most infamous example of this is Chernobyl, where operators tested the emergency backup cooling by disabling primary and secondary cooling. The backup failed, resulting in a core meltdown and massive release of radiation.
+Cost. Both fault-tolerant components and redundant components tend to increase cost. This can be a purely economic cost or can include other measures, such as weight. Manned spaceships, for example, have so many redundant and fault-tolerant components that their weight is increased dramatically over unmanned systems, which don't require the same level of safety.
+Inferior components. A fault-tolerant design may allow for the use of inferior components, which would have otherwise made the system inoperable. While this practice has the potential to mitigate the cost increase, use of multiple inferior components may lower the reliability of the system to a level equal to, or even worse than, a comparable non-fault-tolerant system.
+
+
+
+Hardware fault tolerance sometimes requires that broken parts be taken out and replaced with new parts while the system is still operational (in computing known as hot swapping). Such a system implemented with a single backup is known as single point tolerant, and represents the vast majority of fault-tolerant systems. In such systems the mean time between failures should be long enough for the operators to have time to fix the broken devices (mean time to repair) before the backup also fails. It helps if the time between failures is as long as possible, but this is not specifically required in a fault-tolerant system.
+Fault tolerance is notably successful in computer applications. Tandem Computers built their entire business on such machines, which used single-point tolerance to create their NonStop systems with uptimes measured in years.
+Fail-safe architectures may encompass also the computer software, for example by process replication (computer science).
+Data formats may also be designed to degrade gracefully. HTML for example, is designed to be forward compatible, allowing new HTML entities to be ignored by Web browsers which do not understand them without causing the document to be unusable.
+
+
+
+There is a difference between fault tolerance and systems that rarely have problems. For instance, the Western Electric crossbar systems had failure rates of two hours per forty years, and therefore were highly fault resistant. But when a fault did occur they still stopped operating completely, and therefore were not fault tolerant.
+
+
+
+Control reconfiguration
+Defence in depth
+Elegant degradation
+Error-tolerant design (human-error-tolerant design)
+Fault-tolerant computer systems
+List of system quality attributes
+Resilience (ecology)
+Resilience (network)
+Safe-life design
+
+
+
+
+
+
+
+
+
+Implementation and evaluation of failsafe computer-controlled systems
+Seminar on Self-Healing Systems
+Interview with Robert Hanmer about his book Patterns for Fault Tolerant Software (Part One, Part Two) (Podcast)
+Article "Practical Considerations in Making CORBA Services Fault-Tolerant" by Priya Narasimhan
+Article "Experiences, Strategies and Challenges in Building Fault-Tolerant CORBA Systems" by Pascal Felber and Priya Narasimhan
+Dependability And Its Threats: A Taxonomy by Algirdas Avizienis, Jean-Claude Laprie, B. Randell
+EU funded research project HPC4U addressing development of fault tolerant technologies for Grid computing environments
+Fault Tolerance and High Availability Systems
+Graceful Degradation in the RKBExplorer
+Fault Tolerance and High Availability Systems for Check Point Firewall and VPN networks with Resilience line of FCR appliances
+Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing

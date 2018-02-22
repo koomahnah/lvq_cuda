@@ -1,0 +1,97 @@
+Microsoft Active Accessibility (MSAA) is an Application Programming Interface (API) for user interface accessibility. MSAA was introduced as a platform add-on to Microsoft Windows 95 in 1997. MSAA is designed to help Assistive Technology (AT) products interact with standard and custom user interface (UI) elements of an application (or the operating system), as well as to access, identify, and manipulate an application's UI elements. AT products work with MSAA enabled applications in order to provide better access for individuals who have physical or cognitive difficulties, impairments, or disabilities. Some examples of AT products are screen readers for users with limited sight, on screen keyboards for users with limited physical access, or narrators for users with limited hearing. MSAA can also be used for automated testing tools, and computer-based training applications.
+The current and latest specification of MSAA is found in part of Microsoft UI Automation Community Promise Specification.
+
+
+
+Active Accessibility was initially referred to as OLE Accessibility and this heritage is reflected in the naming of its binary components such as oleacc.dll and the header file oleacc.h which contains definitions and declarations. As part of Microsoft's ActiveX branding push in March 1996, OLE Accessibility was renamed ActiveX Accessibility (sometimes referred to as AXA) and presented as such at the Microsoft Professional Developers Conference in San Francisco, March 1996. Later, the ActiveX branding was reserved for internet-specific technologies, and ActiveX Accessibility became Active Accessibility and frequently shortened to MSAA.
+MSAA was originally made available in April 1997 as part of the Microsoft Active Accessibility Software Developers Kit (SDK) version 1.0. The SDK packaged included documentation, programming libraries, sample source code, and a Re-Distributable Kit (RDK) for accessible technology vendors to include with their products. The RDK included updated operating system components for Microsoft Windows 95. Since Windows 98 and Windows NT 4.0 Service Pack 4, MSAA has been built-into all versions of the Windows platform, and has received periodic upgrades and patches over time.
+Programmatic exposure for assistive technology applications on Windows has historically been provided through MSAA. However newer applications are now using Microsoft UI Automation (UIA), which was introduced in Windows Vista and the .NET Framework 3.0.
+
+
+
+The following Active Accessibility versions have been released:
+
+
+
+The motivating factor behind the development of MSAA was to allow an available and seamless communication mechanism between the underlying operating system or applications and assistive technology products.
+The programmatic goal of MSAA is to allow Windows controls to expose basic information, such as name, location on screen, or type of control, and state information such as visibility, enabled, or selected.
+
+
+
+MSAA is based on the Component Object Model (COM). COM defines a mechanism for applications and operating systems to communicate.
+Figure 1 shows a high-level architecture of MSAA.
+Applications (e.g., word processor) are called Servers in MSAA because they provide, or serve, information about their user interfaces (UI). Accessibility tools (e.g., screen readers) are called Clients in MSAA because they consume and interact with UI information from an application.
+The system component of the MSAA framework, Oleacc.dll, aids in the communication between accessibility tools (clients) and applications (servers). The code boundary indicates the programmatic boundaries between applications that provide UI accessibility information and accessibility tools that interact with the UI on behalf of users. The boundary can also be a process boundary when MSAA clients have their own process.
+
+The UI is represented as a hierarchy of accessible objects; changes and actions are represented as WinEvents.
+
+
+
+The accessible object is the central interface of MSAA, and is represented by an IAccessible COM interface and an integer ChildId. It allows applications to expose a tree structure that represents the structure of the UI. Each element of this tree exposes a set of properties and methods that allow the corresponding UI element to be manipulated. MSAA clients can access the programmatic UI information through a standard API.
+
+
+
+MSAA communicates information by sending small chunks of information about elements of a program to the assistive technology object (AT). The four critical pieces of information on which the AT relies to help users interact with applications are an element's role, name, value, and state:
+Role: Conveys to users via AT what type of object a control is, such as a button or a table. The IAccessible method for this is get_accRole.
+Name: Provides a label for an element, such as Next on a button that moves users to the next page, or First Name for an edit box. The IAccessible method for this is get_accName.
+Value: Provides the value of the specified object such as the value on a slider bar, or the information in an editable text box. Not all objects have a value. The IAccessible method for this is get_accValue.
+State: Identifies the current condition of the control, such as checked for a checkbox. State advises whether a control can be selected, focused, and/or other types of changeable functionality. The IAccessible method for this is get_accState.
+Microsoft provides a complete list of controls and their functions.
+
+
+
+Role information is based on the type of UI control with which a developer wants to interact. For example, if a developer is implementing a button that is clickable, the developer would select Pushbutton as the Role to implement. The following table shows an example list of MSAA Roles and their related descriptions.
+
+
+
+The Names for elements in an application are assigned in the code by the developer. Many objects such as icons, menus, check boxes, combo boxes, and other controls have labels that are displayed to users. Any label that is displayed to users on a control (e.g., a button) is the default for the object's name property. Ensure the Name of the object makes sense to a user and describes the control properly. The Name property must not include the control role or type information, such as button or list, or it will conflict with the text from the role property (acquired from GetRoleText function of MSAA API).
+
+
+
+Value is used when a developer wants to return information from objects in the form of a string. Value may be returned for objects where percentages, integers, textual or visual information is contained in the object. For example, the property values returned from scroll bar and trackbar accessible objects can indicate percentages in strings.
+Not all objects have a Value assigned to them.
+
+
+
+The State property describes an object's status at a moment in time. Microsoft Active Accessibility provides object state constants, defined in oleacc.h, that are combined to identify an object's state. If predefined state values are returned, clients use GetStateText to retrieve a localized string that describes the state. All objects support the State property.
+
+
+
+Microsoft designed the Active Accessibility object model during and after the release of Windows 95. The model is based on roles, each role representing a type of a user interface element. These roles are limited to user interface elements in common use at the time. For example, there is no text object model to help assistive technologies deal split buttons which combine multiple UI elements into one. MSAA does not attempt to represent styled text such as markup text or rich text documents. While MSAA still has the Value property, it can host only simple, non-styled text in its value. At the time, it was felt that the Microsoft Text Object Model (MS-TOM) would be more appropriate for expressing the attributes of formatted text. However, MS-TOM's complexity and limited initial adoption outside of Microsoft hampered access to rich text.
+Another limitation involves navigating the object model. MSAA represents the UI as a hierarchy of accessible objects in a manner similar to Windows' Window Manager. Clients navigate from one accessible object to another using the IAccessible::accNavigate method. However, servers implemented accNavigate in unpredictable ways and often not at all. Clients, however, must be able to deal with all approaches for any MSAA server. This ambiguity means extra work for client implementers, and the complexity can contribute to problems depending on the server implementations.
+Being a COM-based binary interface, IAccessible is immutable and cannot be changed without creating another interface. The result is that you cannot expose new roles, behavior or properties through the existing IAccessible-based object model. While intended to be a common subset of information about base UI elements, it was found to be difficult to extend to include information about new interaction methods.
+
+
+
+MSAA was initially available as an add-on to Windows 95. It has been integrated with all subsequent Windows versions, up to and including Windows 7.
+
+
+
+Microsoft UI Automation (UIA): The successor to MSAA was User Interface Automation (UIA). However, since there are still MSAA based applications in existence, bridges are used to allow communication between UI Automation and MSAA applications. So information can be shared between the two APIs, an MSAA-to-UI Automation Proxy and UI Automation-to-MSAA Bridge were developed. The former is a component that consumes MSAA information and makes it available through the UI Automation client API. The latter enables client applications using MSAA access applications that implement UI Automation.
+Accessible Rich Internet Applications (WAI-ARIA): There is a general mapping from ARIA attributes to MSAA properties.
+IAccessible2: MSAA provides the roots of IAccessible2. IAccessible2 leverages the work done on MSAA, and adds additional functionality.
+Windows Automation API: Starting with Windows 7, Microsoft is packaging its accessibility technologies under a framework called Windows Automation API. MSAA will be part of this framework.
+
+
+
+Active Accessibility is available for developers in all versions of Windows since Windows 95. Since its original introduction, MSAA has been used as a way to add support for programmatic access to the UI for many business and consumer applications, including Microsoft Internet Explorer, Mozilla Firefox, Microsoft Office, etc. In addition to accessibility aids such as screen readers, screen magnifiers, Augmentative and Alternative Communication (AAC) devices, the technology has been used by Test automation software, such as QuickTest Pro, Functional Tester, and SilkTest.
+More implementations of MSAA in applications and AT products can be found by searching on the Microsoft Accessibility sites or on the AT Information website.
+
+
+
+^ NFB-RD Mailing List February 1996, "OLAE [sic] accessibility"
+^ Supported Platforms: Active Accessibility - MSDN
+^ Microsoft Developer Network (MSDN): https://msdn.microsoft.com/en-us/library/bb773173(VS.85).aspx Windows Controls.
+^ Microsoft Developer Network (MSDN): UI Automation Specification
+^ Microsoft: Accessibility in Microsoft Products.
+^ Microsoft: History of Microsoft's Commitment to Accessibility.
+^ Trace Center: Assistive Technology Information Links.
+
+
+
+Official website
+History of Microsoft's Commitment to Accessibility
+UI Accessibility Checker
+UIA Verify
+Profiles of Accessibility in Action
+Accessibility Development Center

@@ -1,0 +1,24 @@
+The Cosmic Calendar is a method to visualize the vast history of the universe in which its 13.8 billion year lifetime is condensed down into a single year. In this visualization, the Big Bang took place at the beginning of January 1 at midnight, and the current moment is mapped onto the end of December 31 at midnight. At this scale, there are 438 years per second, 1.58 million years per hour, and 37.8 million years per day. This concept was popularized by Carl Sagan in his book The Dragons of Eden and on his television series Cosmos. In the 2014 sequel series, Cosmos: A Spacetime Odyssey, host Neil deGrasse Tyson presents the same concept of a Cosmic Calendar, but using the revised age of the universe of 13.8 billion years as an improvement on Sagan's 1980 figure of 15 billion years. Sagan goes on to extend the comparison in terms of surface area, explaining that if the Cosmic Calendar is scaled to the size of a football field, then "all of human history would occupy an area the size of [his] hand". 
+
+
+
+
+
+
+Date in year calculated from formula
+T(days) = 365.25 days * ( 1- T_bya/13.8 )
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+

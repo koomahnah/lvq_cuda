@@ -1,0 +1,49 @@
+In computing, Intel's Advanced Programmable Interrupt Controller (APIC) is a family of interrupt controllers. As its name suggests, the APIC is more advanced than Intel's 8259 Programmable Interrupt Controller (PIC), particularly enabling the construction of multiprocessor systems. It is one of several architectural designs intended to solve interrupt routing efficiency issues in multiprocessor computer systems.
+The APIC is a split architecture design, with a local component (LAPIC) usually integrated into the processor itself, and an optional I/O APIC on a system bus. The first APIC was the 82489DX    it was a discrete chip that functioned both as local and I/O APIC. The 82489DX enabled construction of symmetric multiprocessor (SMP) systems with the Intel 486 and early Pentium processors; for example, the reference two-way 486 SMP system used three 82489DX chips, two as local APICs and one as I/O APIC. Starting with the P54C processor, the local APIC functionality was integrated into the Intel processors' silicon. The first dedicated I/O APIC was the Intel 82093AA, which was intended for PIIX3-based systems.
+
+
+
+There are two components in the Intel APIC system, the local APIC (LAPIC) and the I/O APIC. There is one LAPIC in each CPU in the system. In the very first implementation, the LAPIC was a discrete circuit, the 82489DX, but thereafter it was integrated in Intel processors. There is typically one I/O APIC for each peripheral bus in the system. In original system designs, LAPICs and I/O APICs were connected by a dedicated APIC bus. Newer systems use the system bus for communication between all APIC components.
+Each APIC, whether a discrete chip or integrated in a CPU, has a version register containing a four-bit version number for its specific APIC implementation. For example, the 82489DX has an APIC version number of 0, while version 1 was assigned to the first generation of local APICs integrated in the Pentium 90 and 100 processors.
+In systems containing an 8259 PIC, the 8259 may be connected to the LAPIC in the system's bootstrap processor (BSP), or to one of the system's I/O APICs, or both. Logically, however, the 8259 is only connected once at any given time.
+
+
+
+The first-generation Intel APIC chip, the 82489DX, which was meant to be used with Intel 80486 and early Pentium processors, is actually an external local and I/O APIC in one circuit. The Intel MP 1.4 specification refers to it as "discrete APIC" in contrast with the "integrated APIC" found in most of the Pentium processors. The 82489DX had 16 interrupt lines; it also had a quirk that it could lose some ISA interrupts.
+In a multiprocessor 486 system, each CPU had to be paired with its own 82489DX; additionally a supplementary 82489DX had to be used as I/O APIC. The 82489DX could not emulate the 8259A (XT-PIC) so these also had to be included as physical chips for backwards compatibility. The 82489DX was a packaged as a 132-pin PQFP.
+
+
+
+Local APICs (LAPICs) manage all external interrupts for some specific processor in an SMP system. In addition, they are able to accept and generate inter-processor interrupts (IPIs) between LAPICs. LAPICs may support up to 224 usable interrupt vectors from an I/O APIC. Vector numbers 0 to 31, out of 0 to 255, are reserved for exception handling by x86 processors.
+All Intel processors starting with the P54C have a built-in local APIC. However, if the local APIC is disabled in a P5 processor, it cannot be re-enabled by software; this limitation no longer exists in the P6 processors and later ones. In single-processor systems, the major advantage of the local APIC is that PCI cards no longer need to have their interrupts mapped to ISA interrupts, but can use virtual PCI IRQs above 15, resulting in fewer conflicts and better performance.
+In the Microsoft family of operating system, Windows XP was the first to properly make use of virtual IRQs provided by the local APIC, with some partial support present in Windows 2000. In Windows 2000, the spreading of PCI card interrupts to virtual IRQ happens only if the machine also has an I/O APIC. Microsoft blamed their Windows 2000 implementation on information they had received from Intel supposedly promising that all future systems would contain an I/O APIC as well, something that in retrospect did not happen. (A Microsoft document from that era even claimed that "without an I/O APIC in the system, the local APICs are useless. In such a situation, Windows 2000 has to revert to using the 8259 PIC.") The sudden widespread use of the local APIC with Windows XP did expose a number of bugs in various BIOS implementations. In particular, Microsoft was forced to retain the PCI IRQ stacking behavior for any machine with a CardBus controller (and without an I/O APIC).
+The Message Signaled Interrupts (MSI) feature of the PCI 2.2 and later specifications cannot be used without the local APIC being enabled. Use of MSI obviates the need for an I/O APIC. Additionally, up to 224 interrupts are supported in MSI mode, and IRQ sharing is not allowed.
+
+
+
+Another advantage of the local APIC is that it also provides a high-resolution (on the order of one microsecond or better) timer that can be used in both interval and one-off mode.
+The APIC timer had its initial acceptance woes. A Microsoft document from 2002 (which advocated for the adoption of High Precision Event Timer instead) criticized the LAPIC timer for having "poor resolution" and stating that "the clocks silicon is sometimes very buggy". Nevertheless, the APIC timer is used for example by Windows 7 when profiling is enabled, and by Windows 8 in all circumstances. (Before Windows 8 claimed exclusive rights to this timer, it was also used by some programs like CPU-Z.) Under Microsoft Windows the APIC timer is not a shareable resource.
+The aperiodic interrupts offered by the APIC timer are used by the Linux kernel from 2.6.18 onwards to implement its tickless kernel feature; the legacy 8253 Programmable Interval Timer is no longer used by tickless kernels. A VMware document notes that "software does not have a reliable way to determine its frequency. Generally, the only way to determine the local APIC timer s frequency is to measure it using the PIT or CMOS timer, which yields only an approximate result."
+
+
+
+I/O APICs contain a redirection table, which is used to route the interrupts it receives from peripheral buses to one or more local APICs. The first-generation dedicated I/O APIC, the 82093AA, had support for 24 interrupt lines. It was packaged as a 64-Pin PQFP. The 82093AA normally connected to the PIIX3 and used its integrated legacy 8259 PICs.
+According to a 2009 Intel benchmark using Linux, the I/O APIC reduced interrupt latency by a factor of almost three relative to the 8259 emulation (XT-PIC), while using MSI reduced the latency even more, by a factor of nearly seven relative to the XT-PIC baseline.
+
+
+
+The xAPIC was introduced with the Pentium 4, while the x2APIC is the most recent generation of the Intel's programmable interrupt controller, introduced with the Nehalem microarchitecture. The major improvements of the x2APIC address the number of supported CPUs and performance of the interface.
+APICv is the Intel's brand name for hardware virtualization support aimed at reducing interrupt overhead in guests. APICv was introduced in the Ivy Bridge-EP processors. AMD announced a similar technology called AVIC, but has yet to ship products using it.
+
+
+
+There are a number of known bugs in implementations of APIC systems, especially with concern to how the 8254 is connected. Defective BIOSes may not set up interrupt routing properly, or provide incorrect ACPI tables and Intel MultiProcessor Specification (MPS) tables.
+The APIC can also be a cause of system failure when the operating system does not support it properly. On older operating systems, the I/O and local APICs often had to be disabled. While this is not possible anymore due to the prevalence of symmetric multiprocessor and multi-core systems, the bugs in the firmware and the operating systems are now a rare occurrence.
+
+
+
+
+AMD and Cyrix once proposed as somewhat similar-in-purpose OpenPIC architecture supporting up to 32 processors; it had at least declarative support from IBM and Compaq around 1995. No x86 motherboard was released with OpenPIC however. After the OpenPIC's failure in the x86 market, AMD licensed Intel's APIC for its AMD Athlon and later processors.
+IBM however developed their MultiProcessor Interrupt Controller (MPIC) based on the OpenPIC register specifications. MPIC was used in PowerPC based designs, including those of IBM, for instance in some RS/6000 systems, but also by Apple, as late as their Power Mac G5s.
+
+

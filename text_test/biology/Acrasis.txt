@@ -1,0 +1,23 @@
+The glaucophytes, also known as glaucocystophytes or glaucocystids, are a small group of rare freshwater microscopic algae. Together with the red algae (Rhodophyta) and green algae plus land plants (Viridiplantae or Chloroplastida), they form the Archaeplastida. However, the relationships among the red algae, green algae and glaucophytes are unclear, in large part due to limited study of the glaucophytes.
+The glaucophytes are of interest to biologists studying the development of chloroplasts because some studies suggest they may be similar to the original algal type that led to green plants and red algae in that they may be basal Archaeplastida
+
+
+
+The chloroplasts of glaucophytes are known as 'cyanelles' or 'cyanoplasts'. Unlike the chloroplasts in other organisms, they have a peptidoglycan layer, believed to be a relic of the endosymbiotic origin of plastids from cyanobacteria. Glaucophytes contain the photosynthetic pigment chlorophyll a. Along with red algae and cyanobacteria, they harvest light via phycobilisomes, structures consisting largely of phycobiliproteins. The green algae and land plants have lost that pigment.
+Glaucophytes have mitochondria with flat cristae, and undergo open mitosis without centrioles. Motile forms have two unequal flagella, which may have fine hairs and are anchored by a multilayered system of microtubules, both of which are similar to forms found in some green algae.
+
+
+
+Only 13 species of glaucophytes are known, none of which is particularly common in nature. The four included genera are:
+Glaucocystis is immotile, though it retains very short vestigial flagella, and has a cellulose wall.
+Cyanophora is motile and lacks a cell wall.
+Gloeochaete has both motile and immotile stages, and its cell wall does not appear to be composed of cellulose.
+Cyanoptyche is the least studied of the four genera
+The glaucophytes were considered before as part of family Oocystaceae, in the order Chlorococcales.
+
+
+
+
+
+
+Guiry, M.D.; Guiry, G.M. (2008). "Glaucophyta". AlgaeBase. World-wide electronic publication, National University of Ireland, Galway.

@@ -1,0 +1,66 @@
+Computers can be classified, or typed, in many ways. Some common classifications are summarized below. For others see Category:Classes of computers. 
+
+
+
+
+
+
+Microcomputers are the most common kind of computers in use as of 2014. The term  microcomputer  was introduced with the advent of systems based on single chip microprocessors. The best-known early system was the Altair 8800, introduced in 1975. The term "microcomputer" has practically become an anachronism.
+These computers include:
+Desktop computers   A case and a display, put under and on a desk.
+In-car computers (carputers)   Built into a car, for entertainment, navigation, etc.
+Game consoles   Fixed computers specialized for entertainment purposes (video games).
+Smaller microcomputers are also called mobile devices:
+Laptops and notebook computers   Portable and all in one case.
+Tablet computer   Like laptops, but with a touch-screen, entirely replacing the physical keyboard.
+Smartphones, smartbooks, PDAs and palmtop computers   Small handheld computers with limited hardware.
+Programmable calculator  Like small handhelds, but specialized on mathematical work.
+Handheld game consoles   The same as game consoles, but small and portable.
+
+
+
+Minicomputers (colloquially, minis) are a class of multi-user computers that lie in the middle range of the computing spectrum, in between the smallest mainframe computers and the largest single-user systems (microcomputers or personal computers). The term superminicomputer or supermini was used to distinguish more powerful minicomputers that approached mainframes in capability. Superminis were usually 32-bit at a time when most minicomputers were 16-bit. The contemporary term for minicomputer is midrange computer, such as the higher-end SPARC, POWER and Itanium-based systems from Oracle Corporation, IBM and Hewlett-Packard.
+
+
+
+The term mainframe computer was created to distinguish the traditional, large, institutional computer intended to service multiple users from the smaller, single user machines. These computers are capable of handling and processing very large amounts of data quickly. Mainframe computers are used in large institutions such as government, banks and large corporations. They are measured in MIPS (million instructions per second) and respond to up to 100s of millions of users at a time.
+
+
+
+A Supercomputer is focused on performing tasks involving intense numerical calculations such as weather forecasting, fluid dynamics, nuclear simulations, theoretical astrophysics, and complex scientific computations. A supercomputer is a computer that is at the front-line of current processing capacity, particularly speed of calculation. The term supercomputer itself is rather fluid, and the speed of today's supercomputers tends to become typical of tomorrow's ordinary computer. Supercomputer processing speeds are measured in floating point operations per second, or FLOPS. An example of a floating point operation is the calculation of mathematical equations in real numbers. In terms of computational capability, memory size and speed, I/O technology, and topological issues such as bandwidth and latency, supercomputers are the most powerful, are very expensive, and not cost-effective just to perform batch or transaction processing. Transaction processing is handled by less powerful computers such as server computers or mainframes.
+
+
+
+
+
+
+Server usually refers to a computer that is dedicated to provide a service. For example, a computer dedicated to a database may be called a "database server". "File servers" manage a large collection of computer files. "Web servers" process web pages and web applications. Many smaller servers are actually personal computers that have been dedicated to provide services for other computers.
+
+
+
+Workstations are computers that are intended to serve one user and may contain special hardware enhancements not found on a personal computer. By the mid 1990s personal computers reached the processing capabilities of Mini computers and Workstations. Also, with the release of multi-tasking systems such as OS/2, Windows NT and Linux, the operating systems of personal computers could do the job of this class of machines.
+
+
+
+Information appliances are computers specially designed to perform a specific "user-friendly" function such as playing music, photography, or editing text. The term is most commonly applied to mobile devices, though there are also portable and desktop devices of this class.
+
+
+
+Embedded computers are computers that are a part of a machine or device. Embedded computers generally execute a program that is stored in non-volatile memory and is only intended to operate a specific machine or device. Embedded computers are very common. Embedded computers are typically required to operate continuously without being reset or rebooted, and once employed in their task the software usually cannot be modified. An automobile may contain a number of embedded computers; however, a washing machine and a DVD player would contain only one. The central processing units (CPUs) used in embedded computers are often sufficient only for the computational requirements of the specific application and may be slower and cheaper than CPUs found in a personal computer.
+
+
+
+
+
+
+Computers that are open for public uses. They are normally fire walled to prevent abuse. Most are restricted to install software. There are many places one can use them such as Cybercafe, Schools, Libraries.etc.
+
+
+
+Computers that are solely for one user. The user has complete access to any part of the computer.
+
+
+
+Computers that are displayed in a shop. These computers are mainly for preview. These computers are rarely firewalled but are monitored. They are likely to have internet access.
+
+

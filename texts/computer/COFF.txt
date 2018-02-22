@@ -1,0 +1,29 @@
+The Common Object File Format (COFF) is a specification of a format for executable, object code, and shared library computer files used on Unix systems. It was introduced in Unix System V, replaced the previously used a.out format, and formed the basis for extended specifications such as XCOFF and ECOFF, before being largely replaced by ELF, introduced with SVR4. COFF and its variants continue to be used on some Unix-like systems, on Microsoft Windows, in EFI environments and in some embedded development systems.
+
+
+
+The original Unix object file format a.out is unable to adequately support shared libraries, foreign format identification, or explicit address linkage. As development of Unix-like systems continued both inside and outside AT&T, different solutions to these and other issues emerged.
+COFF was introduced in AT&T's UNIX System V for non-VAX 32-bit platforms such as the 3B20. Improvements over the existing AT&T a.out format included arbitrary sections, explicit processor declarations, and explicit address linkage.
+However, the COFF design was both too limited and incompletely specified: there was a limit on the maximum number of sections, a limit on the length of section names, included source files, and the symbolic debugging information was incapable of supporting real world languages such as C, much less newer languages like C++, or new processors. All real world implementations of COFF were necessarily violations of the standard as a result. This led to numerous COFF extensions. IBM used the XCOFF format in AIX. DEC, SGI and others used ECOFF; And numerous SysV ports and tool chains targeting embedded development each created their own, incompatible, variations.
+With the release of SVR4, AT&T replaced COFF with ELF.
+While extended versions of COFF continue to be used for some Unix-like platforms, primarily in embedded systems, perhaps the most widespread use of the COFF format today is in Microsoft's Portable Executable (PE) format. Developed for Windows NT, the PE format (sometimes written as PE/COFF) uses a COFF header for object files, and as a component of the PE header for executable files.
+
+
+
+COFF's main improvement over a.out was the introduction of multiple named sections in the object file. Different object files could have different numbers and types of sections.
+
+
+
+The COFF symbolic debugging information consists of symbolic (string) names for program functions and variables, and line number information, used for setting breakpoints and tracing execution.
+Symbolic names are stored in the COFF symbol table. Each symbol table entry includes a name, storage class, type, value and section number. Short names (8 characters or fewer) are stored directly in the symbol table; longer names are stored as an offset into the string table at the end of the COFF object.
+Storage classes describe the type entity the symbol represents, and may include external variables (C_EXT), automatic (stack) variables (C_AUTO), register variables (C_REG), functions (C_FCN), and many others. The symbol type describes the interpretation of the symbol entity's value and includes values for all the C data types.
+When compiled with appropriate options, a COFF object file will contain line number information for each possible break point in the text section of the object file. Line number information takes two forms: in the first, for each possible break point in the code, the line number table entry records the address and its matching line number. In the second form, the entry identifies a symbol table entry representing the start of a function, enabling a breakpoint to be set using the function's name.
+Note that COFF was not capable of representing line numbers or debugging symbols for included source as with header files rendering the COFF debugging information virtually useless without incompatible extensions.
+
+
+
+When a COFF file is generated, it is not usually known where in memory it will be loaded. The virtual address where the first byte of the file will be loaded is called image base address. The rest of the file is not necessarily loaded in a contiguous block, but in different sections.
+Relative virtual addresses (RVAs) are not to be confused with standard virtual addresses. A relative virtual address is the virtual address of an object from the file once it is loaded into memory, minus the base address of the file image. If the file were to be mapped literally from disk to memory, the RVA would be the same as that of the offset into the file, but this is actually quite unusual.
+Note that the RVA term is only used with objects in the image file. Once loaded into memory, the image base address is added, and ordinary VAs are used.
+
+

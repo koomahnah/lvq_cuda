@@ -1,0 +1,7 @@
+The ACM Transactions on Programming Languages and Systems (TOPLAS) is a bimonthly peer-reviewed scientific journal on programming languages published by the Association for Computing Machinery since 1979. The current editor-in-chief is Jens Palsberg. Its scope includes programming language design, implementation, and semantics of programming languages, compilers and interpreters, run-time systems, storage allocation and garbage collection, and formal specification, testing, and verification of software.
+
+
+
+Official website
+ACM Digital Library
+DBLP

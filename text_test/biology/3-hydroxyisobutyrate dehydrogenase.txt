@@ -1,0 +1,18 @@
+In enzymology, a 3-hydroxyisobutyrate dehydrogenase (EC 1.1.1.31) also known as  -hydroxyisobutyrate dehydrogenase or 3-hydroxyisobutyrate dehydrogenase, mitochondrial (HIBADH) is an enzyme that in humans is encoded by the HIBADH gene.
+3-Hydroxyisobutyrate dehydrogenase catalyzes the chemical reaction:
+3-hydroxy-2-methylpropanoate + NAD+  2-methyl-3-oxopropanoate + NADH + H+
+Thus, the two substrates of this enzyme are 3-hydroxy-2-methylpropanoate and NAD+, whereas its 3 products are 2-methyl-3-oxopropanoate, NADH, and H+.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-OH group of donor with NAD+ or NADP+ as acceptor. The systematic name of this enzyme class is 3-hydroxy-2-methylpropanoate:NAD+ oxidoreductase. This enzyme participates in valine, leucine and isoleucine degradation.
+
+
+
+3-hydroxyisobutyrate dehydrogenase is a tetrameric mitochondrial enzyme that catalyzes the NAD+-dependent, reversible oxidation of 3-hydroxyisobutyrate, an intermediate of valine catabolism, to methylmalonate semialdehyde.
+
+
+
+As of late 2007, 5 structures have been solved for this class of enzymes, with PDB accession codes 1WP4, 2CVZ, 2GF2, 2H78, and 2I9P.
+
+
+
+
+

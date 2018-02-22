@@ -1,0 +1,57 @@
+A digital signal is a type of signal that can take on a set of discrete values (a quantized signal). A logic signal is a digital signal with only two possible values, that can represent an arbitrary bit stream. Other types of digital signals can represent three-valued logic or higher valued logics.
+Digital signals can represent a discrete set of values using any discrete set of waveforms. Digital signals can be optical, electrical, acoustic, or others. Digital signals are present in all digital electronics, notably computing equipment and telecommunications.
+
+Although digital signals are strictly a subset of analog signals, they are created and processed differently. With digital signals, system noise, provided it is not too great, will not change the quantification whereas with signals handled using analog processing, noise always degrades the operation to some degree.
+In digital signal processing, digital signals are often described by an abstraction where the signal's value is sampled at regular intervals. These values can be used to describe and process analog as well as digital signals.
+
+
+
+The term digital signal has related definitions in different contexts:
+In digital electronics a digital signal is a pulse train (a pulse amplitude modulated), i.e. a sequence of fixed-width square-wave electrical pulses or light pulses, each occupying one of a discrete number of levels of amplitude. A special case is a logic signal or a binary signal, which varies between a low and a high signal level.
+In digital communications and computer networking, a digital signal is a continuous-time signal, alternating between a discrete number of waveforms (the shape of the waveforms depend on the line coding). In this context, it may either be:
+baseband transmission, used in serial communications, (often but not always fulfulling definition 1 above), or
+passband transmission, also known as digital carrier wave modulation
+
+In digital signal processing, a digital signal is an abstract signal that is considered discrete in time and amplitude, i.e. a sequence of codes,  representing a digitized analog signal signal. It may be stored or transmitted physically as a pulse code modulation (PCM) signal.
+
+
+
+
+In computer architecture and other digital systems, a waveform that switches between two voltage levels (or less commonly, other waveforms) representing the two states of a Boolean value (0 and 1, or Low and High, or false and true) is referred to as a digital signal or logic signal or binary signal when it is interpreted in terms of only two possible digits.
+The clock signal is a special digital signal that is used to synchronize many (but not all) digital circuits. The image shown can be considered the waveform of a clock signal. Logic changes are triggered either by the rising edge or the falling edge.
+The given diagram is an example of the practical pulse and therefore we have introduced two new terms that are:
+Rising edge: the transition from a low voltage (level 1 in the diagram) to a high voltage (level 2).
+Falling edge: the transition from a high voltage to a low one.
+Although in a highly simplified and idealized model of a digital circuit we may wish for these transitions to occur instantaneously, no real world circuit is purely resistive and therefore no circuit can instantly change voltage levels. This means that during a short, finite transition time the output may not properly reflect the input, and will not correspond to either a logically high or low voltage.
+
+
+
+
+The two states of a wire are usually represented by some measurement of an electrical property: Voltage is the most common, but current is used in some logic families. A threshold is designed for each logic family. When below that threshold, the wire is "low", when above "high." Digital circuits establish a "no man's area" or "exclusion zone" that is wider than the tolerances of the components. The circuits avoid that area, in order to avoid indeterminate results.
+It is usual to allow some tolerance in the voltage levels used; for example, 0 to 2 volts might represent logic 0, and 3 to 5 volts logic 1. A voltage of 2 to 3 volts would be invalid, and occur only in a fault condition or during a logic level transition. However, few logic circuits can detect such a condition and most devices will interpret the signal simply as high or low in an undefined or device-specific manner. Some logic devices incorporate schmitt trigger inputs whose behavior is much better defined in the threshold region, and have increased resilience to small variations in the input voltage.
+The levels represent the binary integers or logic levels of 0 and 1. In active-high logic, "low" represents binary 0 and "high" represents binary 1. Active-low logic uses the reverse representation.
+
+
+
+
+To create a digital signal, an analog signal must be modulated with a control signal to produce it. As we have already seen, the simplest modulation, a type of unipolar line coding is simply to switch on and off a DC signal, so that high voltages are a '1' and low voltages are '0'.
+In digital radio schemes one or more carrier waves are amplitude or frequency or phase modulated with a signal to produce a digital signal suitable for transmission.
+In Asymmetric Digital Subscriber Line over telephone wires, ADSL does not primarily use binary logic; the digital signals for individual carriers are modulated with different valued logics, depending on the Shannon capacity of the individual channel.
+
+
+
+
+Often digital signals are "sampled" by a clock signal at regular intervals by passing the signal through an "edge sensitive" flip-flop. When this is done the input is measured at those points in time, and the signal from that time is passed through to the output and the output is then held steady till the next clock.
+This process is the basis of synchronous logic, and the system is also used in digital signal processing.
+However, asynchronous logic also exists, which uses no clocks, and generally operates more quickly, and may use less power, but is significantly harder to design.
+
+
+
+
+If an analog signal is regularly sampled and converted into digital signals, then only the converted digital signal at those sampled moments are significant for further digital processing. Digital signal processing is the discipline for handling these types of discrete time digital signals.
+
+
+
+Intersymbol interference in digital communication
+
+

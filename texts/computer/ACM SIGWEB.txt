@@ -1,0 +1,151 @@
+SIGWEB is one of the Special Interest Groups of the Association for Computing Machinery. SIGWEB was named SIGLINK until November 1998. Its new name welcomes members concerned with the World Wide Web as well as those concerned with other aspects of hypertext and hypermedia. The 34 ACM Special Interest Groups offer a wealth of publications, conferences and resource archives covering a broad spectrum of technical expertise and providing first-hand knowledge of the latest development trends. As one of the ACM Special Interest Groups, SIGWEB is bound by the SIGWEB by-laws.
+
+
+
+SIGWEB is a community of scholars, researchers, and professionals who study and use the concepts and technologies of linked information that were originally conceived as hypertext and are most famously realized on the Web. The SIGWEB community s interests range widely and include hypertext in all its forms, social networks, knowledge management, document engineering, digital libraries, and the Web as both an information tool and a social force. SIGWEB encourages innovative research, open discussion of new ideas and the development of methodologies and standards through conferences and a variety of communication resources for its members and the world. Now in its third decade, SIGWEB has grown considerably and now sponsors six annual conferences of different sizes and covering a wide range of topics.
+
+
+
+SIGWEB promotes and participates in the following activities:
+Promoting and providing facilities for exchange of information in the field of hypertext and the Web.
+Sponsoring conferences, symposia, and workshops.
+Delivering Awards.
+Organizing sessions at conferences.
+Fostering cooperation with other ACM SIGs and other organizations concerned with hypermedia.
+Organizing education, research and development opportunities.
+
+
+
+SIGWEB sponsors 6 Main conferences
+The ACM Conference on Hypertext and Social Media (Hypertext) 
+The Joint Conference on Digital Libraries (JCDL) 
+The ACM Symposium on Document Engineering 
+The Conference on Information and Knowledge Management (CIKM) 
+The ACM Web Science Conference 
+The ACM Web Search and Data Mining Conference (WSDM) 
+
+
+
+
+
+
+The Douglas Engelbart Best Paper Award for best paper which is named after Douglas C. Engelbart, in recognition of his life's work and contributions to the field of hypertext and hypermedia.
+2014 | Georges Gouriten, Silviu Maniu and Pierre Senellart. Scalable, Generic, and Adaptive Systems for Focused Crawling.
+2013 | David E. Millard, Charlie Hargood, Michael O. Jewell, and Mark J. Weal. Canyons, Deltas and Plains: Towards a Unified Sculptural Model of Location-Based Hypertext.
+2012 | Bj rn Elmar Macek, Christoph Scholz, Martin Atzm ller, and Gerd Stumme. Anatomy of a Conference.
+2011 | Ricardo Kawase, George Papadakis, Eelco Herder and Wolfgang Nejdl. Beyond the Usual Suspects: Context-Aware Revisitation Support.
+2010 | James Goulding, Tim Brailsford and Helen Ashman. Hyperorders and Transclusion: Understanding Dimensional Hypertext.
+2009 | Nicolas Neubauer and Klaus Obermayer. Hyperincident Connected Components of Tagging Networks.
+2008 | Xiaolin Shi, Matthew Bonner, Lada Adamic and Anna Gilbert. The Very Small World of the Well-Connected.
+2007 | m. c. schraefel | What is an Analogue for the Semantic Web and Why is Having One Important?
+2006 | Kenneth Anderson, Allan Hansen, and Niels Olof Bouvin. Templates and Queries in Contextual Hypermedia.
+2005 | Stuart Moulthrop. What the Geeks Know: Hypertext and the Problem of Literacy.
+2004 | David Kolb. Twin Media : Hypertext Structure Under Pressure
+2003 | Jocelyne Nanard, Marc Nanard and Peter King. IUHM, a Hypermedia-Based Model for Integrating Open Services, Data and Metadata.
+2002 | E. James Whitehead, Jr. Uniform Comparison of Data Models using Containment Modeling.
+2001 | Samhaa R. El-Beltagy, Wendy Hall, David De Roure, Leslie Carr. Linking in Context.
+2000 | Carole Goble, Simon Harper and Robert Stevens. The Travails of Visually Impaired Web Travellers.
+1999 | Frank M. Shipman, III, Catherine C. Marshall and Mark LeMere. Beyond Location: Hypertext Workspaces and Non-Linear Views.
+1998 | Catherine C. Marshall. Toward an Ecology of Hypertext Annotation.
+1997 | Kaj Gr nb k, Niels Olof Bouvin and Lennert Sloth. Designing Dexter-based Hypermedia Services for the World Wide Web.
+1996 | Nitin Sawhney, David Balcom and Ian Smith. HyperCafe: Narrative and Aesthetic Properties of Hypervideo.
+
+
+
+Ted Nelson Newcomer Award for best newcomer paper which is presented to the best paper written by authors who have never published in earlier Hypertext proceedings.
+2014 | Janette Lehmann, Claudia M ller-Birn, David Laniado, Mounia Lalmas, and Andreas Kaltenbrunner. Readers Preference and Behavior on Wikipedia.
+2013 | Dominic Rout, Daniel Preotiuc-Pietro, Kalina Bontcheva, and Trevor Cohn. Where s @wally? A Classification Approach to Geolocating Users Based on their Social Ties.
+2012 | Eugenia-Maria Kontopoulou, Maria Predari, Thymios Kostakis, and Efstratios Gallopoulos. Graph and Matrix Metrics to Analyze Ergodic Literature for Children.
+2011 | Anna Squicciarini, Smitha Sundareswaran, Dan Lin, and Josh Wede. A3P: Adaptive Policy Prediction for Shared Images over Popular Content Sharing Sites.
+2010 | Heiko Haller and Andreas Abecker. iMapping: A Zooming User Interface Approach for Personal and Semantic Knowledge Management.
+2009 | Thomas Beauvisage. The Dynamics of Personal Territories on the Web.
+2008 | Klaas Dellschaft and Steffen Staab. An Epistemic Dynamic Model for Tagging Systems
+2007 | Elizabeth Brown. Real Users, Real Results: Examining the Limitations of Learning Styles within AEH
+2005 | J. Nathan Matias. Philadelphia Fullerine: A Case Study in Three-Dimensional Hypermedia
+2004 | George Buchanan, Ann Blandford, Matt Jones, and Harold Thimbleby. Integrating Information Seeking and Structuring: Exploring the Role of Spatial Hypertext in a Digital Library
+2003 | Einat Amitay, David Carmel, Adam Darlow, Ronny Lempel, and Aya Soffer. The Connectivity Sonar: Detecting Site Functionality by Structural Patterns
+2002 | Peter Brusilovsky and Riccardo Rizzo: Map-Based Horizontal Navigation in Educational Hypertext
+2001 | Adrian Miles. Hypertext Structure as the Event of Connection
+2000 | Susana Pajares Tosca. TA Pragmatics of Links.
+1999 | Jill Walker. Piecing Together and Tearing Apart: Finding the Story in Afternoon.
+
+
+
+Presented annually at the ACM Symposium on Document Engineering (DocEng). Authors of the winning paper will share a $1000 honorarium and each will receive a plaque.
+2012 | Graeme Gange, Kim Marriott and Peter Stuckey. Optimal Guillotine Layout
+2011 | Niranjan Damera-Venkata, Jos  Bento and Eamonn O'Brien-Strain. Probabilistic Document Model for Automated Document Composition
+2010 | Cheng Thao and Ethan V. Munson. Using Versioned Tree Data Structure, Change Detection and Node Identity for Three-Way XML Merging.
+
+
+
+The Vannevar Bush Best Paper Award is given to the best paper that is presented at the JCDL (and earlier ACM DL) since 1998. All full papers that are accepted for presentation are eligible and the JCDL Steering Committee selects the winner.
+Best paper at the JCDL conference (more information)
+2012 | Hongbo Deng, Jiawei Han, Michael R. Lyu, and Irwin King. Modeling and Exploiting Heterogeneous Bibliographic Networks for Expertise Ranking.
+2011 | Robert Sanderson, Benjamin Albritton, Rafael Schwemmer and Herbert Van De Sompel. SharedCanvas: A Collaborative Model for Medieval Manuscript Layout Dissemination.
+2010 | David Bamman, Alison Babeu and Gregory Crane. Transferring Structural Markup Across Translations Using Multilingual Alignment and Projection.
+2009 | Steven Bethard, Philipp Wetzler, Kirsten Butcher, James H. Martin and Tamara Sumner. Automatically Characterizing Resource Quality for Educational Digital Libraries.
+2008 | Catherine C. Marshall. From Writing and Analysis to the Repository: Taking the Scholars' Perspective on Scholarly Archiving.
+2007 | Shane Ahern, Mor Naaman, Rahul Nair and Jeannie Yang. World Explorer: Visualizing Aggregate Data from Unstructured Text in Geo-Referenced Collections.
+
+
+
+
+
+
+Simon Harper - Chair and Hypertext Liaison
+Dick Bulterman - Vice Chair
+Maria da Gra a Campos Pimentel - Secretary/Treasurer
+Yeliz Yesilada - Information Director
+Jessica Rubart - Newsletter Editor
+Claus Atzenbeck - Member at-large
+Irene Frawley - ACM Contact
+Ethan Munson - Web Science and DocEng Liaison, Past Chair
+Peter Brusilovsky - Member at-large
+Bebo White - Web Science Liaison
+David Hicks - JCDL Liaison
+Charles Nicholas - CIKM Liaison
+
+
+
+Robert Akscyn 1991 - 1993
+Richard Furuta 1993 - 1997
+Marc Nanard 1997 - 1999
+Elli Mylonas 1999 - 2003
+Peter N rnberg 2003 - 2006
+
+
+
+John Leggett
+Ken Anderson
+Simon J. Buckingham Shum
+David Hicks
+Maria da Gra a Campos Pimentel
+
+
+
+Helen Ashman
+Ethan V. Munson
+Simon Harper
+
+
+
+Sigi Reich
+m. c. schraefel
+Fabio Vitali
+Bob Allen
+Allen Renear
+Niels Olof Bouvin
+
+
+
+^ "SIGWEB By-laws". Retrieved 2 November 2012. 
+^ Conference. "ACM Conference on Hypertext and Social Media". ACM. Retrieved 1 November 2012. 
+^ Sponsors. "Joint Conference on Digital Libraries". JCDL. Retrieved 1 November 2012. 
+^ Overview. "The ACM Symposium on Document Engineering". DocEng. Retrieved 1 November 2012. 
+^ Overview. "The Conference on Information and Knowledge Management". CIKM. Retrieved 1 November 2012. 
+^ Conferences. "The ACM Web Science Conference". Web Science Trust. Retrieved 1 November 2012. 
+^ Conferences. "The ACM Web Search and Data Mining Conference". WSDM. Retrieved 1 November 2012. 
+
+
+
+http://www.sigweb.org

@@ -1,0 +1,72 @@
+The Advanced Computing Environment (ACE) was defined by an industry consortium in the early 1990s to be the next generation commodity computing platform, the successor to personal computers based on Intel's 32-bit instruction set architecture. The effort found little support in the market and dissolved due to a lack of sales and infighting within the group.
+
+
+
+
+
+
+The consortium was announced on the 9th of April 1991 by Compaq, Microsoft, MIPS Computer Systems, Digital Equipment Corporation, and the Santa Cruz Operation. At the time it was widely believed that RISC-based systems would maintain a price/performance advantage over the ad hoc Wintel systems. However, it was also widely believed that Windows NT would quickly displace many other operating systems through the combined effects of a wide selection of software and the ease of building Wintel machines that supported it. ACE was formed to provide an alternative platform to Wintel, providing a viable alternative with the same advantages in terms of software support, and greater advantages in terms of performance.
+The environment standardized on the MIPS architecture and two operating systems: SCO UNIX with Open Desktop and what would become Windows NT (originally named OS/2 3.0). The Advanced RISC Computing (ARC) document was produced to give hardware and firmware specifications for the platform. Other members of the consortium included Acer, Control Data Corporation, Kubota, NEC Corporation, NKK, Olivetti, Prime Computer, Pyramid Technology, Siemens, Silicon Graphics, Sony, Sumitomo, Tandem Computers, Wang Laboratories, and Zenith Data Systems. Besides these large companies, several start-up companies built ACE-compliant systems as well.
+Each of the companies involved had their own reasons for joining the ACE effort. The initiative was used by microprocessor companies as an attempt to take market share away from Intel. System companies used the initiative as an attempt to take market share away from the workstation leader, Sun Microsystems. Because of these different goals, the effort was doomed from the start.
+
+
+
+Soon after the initiative was announced, a dissenting faction of seven ACE members declared that the decision to support only little-endian architectures was short-sighted. This subgroup, known as the Apache Group, promoted a big-endian alternative. The group, whose name was conceived as a pun on "Big Indian", was unrelated to the later Apache Software Foundation. It later adopted the name MIPS/Open. A rift within the ACE consortium was averted when it was decided to add support for big-endian SVR4.
+
+
+
+Even so, the ACE initiative (and consortium) began to fall apart little more than a year after it started, as it became apparent that there was not a mass market for an alternative to the Wintel computing platform. The upstart platforms did not offer enough performance improvement from the incumbent PC and there were major cost disadvantages of such systems due to the low volume production. When the initiative started, RISC based systems (running at 100-200 MHz at the time) had substantial performance advantage over Intel 80486 and original Pentium chips (running at approximately 60 MHz at the time). Intel quickly migrated the Pentium design to newer semiconductor process generations and that performance (and operating frequency) advantage slipped away.
+Compaq was the first company to leave the consortium, stating that with the departure of CEO Rod Canion, one of the primary backers behind the formation of ACE, they were shifting priorities away from higher-end systems. This was followed in short order by SCO announcing that they were suspending all work on moving their version of Unix to the MIPS platform.
+There were other potential conflicts: earlier that year, MIPS had been purchased by SGI, which may have also contributed to concerns about the neutrality of the target platform. DEC had released their Alpha processor and were less interested in promoting a competing architecture. And finally, the significant improvements in Intel x86 performance made abandoning it less attractive, and although ACE supported x86 for a time, Intel was never a member.
+
+
+
+The main product of the ACE group is the Advanced RISC Computing specification, or ARC. It was initially based on MIPS-based computer hardware and firmware environment. Although ACE went defunct, and no computer was ever manufactured which fully complied with the ARC standard, the ARC system still exerts a widespread legacy in that all Microsoft Windows NT-based operating systems (such as Windows XP) used ARC conventions for naming boot devices before Windows Vista. Further, SGI used a modified version of the ARC firmware (which it calls ARCS) in its systems. All SGI computers which run IRIX 6.1 or later (such as the Indy, Octane, etc.) boot from an ARCS console (which uses the same drive naming conventions as Windows, accordingly).
+In addition, most of the various RISC-based computers designed to run Windows NT used versions of the ARC boot console to boot NT. Among these computers were:
+MIPS R4000-based systems such as the MIPS Magnum workstation
+all Alpha-based machines with a PCI bus designed prior to the end of support for Windows NT Alpha in September 1999 (the Alpha ARC firmware was also known as AlphaBIOS)
+most Windows NT-capable PowerPC computers (such as the IBM RS/6000 40P).
+It was also predicted that Intel IA-32-based computers would adopt the ARC console, although only SGI ever marketed such IA-32-based machines with ARC firmware (namely, the SGI Visual Workstation series, which went on sale in 1999).
+
+
+
+Products complying (to some degree) with the ARC standard include:
+Alpha
+DEC Multia and AlphaStation/AlphaServer
+DeskStation Raptor
+
+i386
+SGI Visual Workstation
+
+MIPS
+Acer PICA
+Carrera Computers, Inc Cobra R4000 and VIPER
+Digital DECstation 5000
+DeskStation Tyne
+Microsoft Jazz
+MIPS Magnum
+Olivetti M700
+NEC RISCstation
+NeTpower Fastseries MP
+SGI Indigo , Indy, Challenge, Onyx, Origin etc. Big-Endian ARCS
+Siemens-Nixdorf RM200, RM300, RM400
+
+PowerPC
+IBM Personal Computer Power Series 850/830 PReP
+IBM RS/6000 40P, 43P, E20, F30
+Motorola PowerStack
+Tangent MediaStar
+
+
+
+The AIM alliance a competing initiative based on the PowerPC, led by Apple Computer, IBM and Motorola
+
+
+
+
+
+
+NetBSD project description of ACE (contains following links)
+ARC specification pdf file at www.netbsd.org
+Byte Magazine article from 1996 June looking back five years to the announcement of ACE
+Linux-MIPS (ARC) article

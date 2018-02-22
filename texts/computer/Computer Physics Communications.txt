@@ -1,0 +1,11 @@
+Computer Physics Communications is a peer-reviewed scientific journal published by Elsevier under the North-Holland imprint.
+The journal focuses on computational methodology, numerical analysis and hardware and software development in support of physics and physical chemistry. Associated with the journal is the Computer Physics Communications Program Library. This resource houses computer programs which have been described in the journal. Access to the library is bundled with journal subscriptions, although those unaffiliated with a subscribing institution can purchase individual subscriptions.
+The current (2008) principal co-ordinating editor is N. Stanley Scott of Queen's University Belfast, Northern Ireland, who also acts as director of the Program Library.
+The journal's 2010 impact factor was 2.300.
+
+
+
+
+
+
+Computer Physics Communications Table of Contents

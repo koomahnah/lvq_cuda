@@ -1,0 +1,75 @@
+A computer program or app is a sequence of instructions, written to perform a specified task on a computer. A computer requires programs to function, typically executing the program's instructions in a central processor. The program has an executable form that the computer can use directly to execute the instructions. The same program in its human-readable source code form, from which executable programs are derived (e.g., compiled), enables a programmer to study and develop its algorithms. A collection of computer programs and related data is referred to as the software.
+Computer source code is typically written by computer programmers. Source code is written in a programming language that usually follows one of two main paradigms: imperative or declarative programming. Source code may be converted into an executable file (sometimes called an executable program or a binary) by a compiler and later executed by a central processing unit. Alternatively, computer programs may be executed with the aid of an interpreter, or may be embedded directly into hardware.
+Computer programs may be ranked along functional lines: system software and application software. Two or more computer programs may run simultaneously on one computer from the perspective of the user, this process being known as multitasking.
+A computer program can be deemed an industrial or commercial product when that is useful for the concerns of a business model, which involves such aspects as labor, markets, profitability, and quality-control. This is how most proprietary software is classified, though open-source software can also be regarded as a product if a commercial entity specializes in it; e.g. Red Hat, Inc. or SUSE, as both which develop and maintain open-source software products.
+
+
+
+A computer program or app is what makes computers work. Without one, a computer does nothing. The phrase "computer program" is as old as the computer itself. The word "app" however came to being in 21st century. It is a clipping of the word "application". There are several types of apps, based on their platforms: Desktop apps are traditional computer programs that run on desktop computers. Mobile apps, however, run on mobile devices. Web apps run inside a web browser. Both mobile and desktop apps may be purchased from app stores such as Windows Store, Apple App Store, Mac App Store, Google Play or Intel AppUp.
+
+
+
+
+Computer programming is the process of writing or editing source code. Editing source code involves testing, analyzing, refining, and sometimes coordinating with other programmers on a jointly developed program. A person who practices this skill is referred to as a computer programmer, software developer, and sometimes coder.
+The sometimes lengthy process of computer programming is usually referred to as software development. The term software engineering is becoming popular as the process is seen as an engineering discipline.
+
+
+
+
+Computer programs can be categorized by the programming language paradigm used to produce them. Two of the main paradigms are imperative and declarative.
+Imperative programming languages specify an algorithm using declarations, expressions, and statements:
+A declaration couples a variable name to a datatype. For example: var x: integer; .
+An expression yields a value. For example: 2 + 2 yields 4.
+A statement might assign an expression to a variable or use the value of a variable to alter the program's control flow. For example: x := 2 + 2; if x = 4 then do_something();.
+One criticism of imperative languages is the side effect of an assignment statement on a class of variables called non-local variables.
+In turn, declarative programming languages specify the properties that have to be met by the output. They do not specify details expressed in terms of the control flow of the executing machine but of the mathematical relations between the declared objects and their properties. Two broad categories of declarative languages are functional languages and logical languages. The principle behind functional languages (like Haskell) is to not allow side effects, which makes it easier to reason about programs like mathematical functions. The principle behind logical languages (like Prolog) is to define the problem to be solved   the goal   and leave the detailed solution to the Prolog system itself. The goal is defined by providing a list of subgoals. Then each subgoal is defined by further providing a list of its subgoals, etc. If a path of subgoals fails to find a solution, then that subgoal is backtracked and another path is systematically attempted.
+The form in which a program is created may be textual or visual. In a visual language program, elements are graphically manipulated rather than textually specified.
+
+
+
+A computer program in the form of a human-readable, computer programming language is called source code. Source code may be converted into an executable image by a compiler or executed immediately with the aid of an interpreter.
+Either compiled or interpreted programs might be executed in a batch process without human interaction, but interpreted programs allow a user to type commands in an interactive session. In this case, the programs are the separate commands, whose execution occurs sequentially, and thus together. When a language is used to give commands to a software application (such as a Unix shell or other command-line interface), it is called a scripting language.
+Compilers are used to translate source code from a programming language into either object code or machine code. Object code needs further processing to become machine code, and machine code is the central processing unit's native code, ready for execution. Compiled computer programs are commonly referred to as executables, binary images, or simply as binaries   a reference to the binary file format used to store the executable code.
+Interpreted computer programs   in a batch or interactive session   are either decoded and then immediately executed or are decoded into some efficient intermediate representation for future execution. BASIC, Perl, and Python are examples of immediately executed computer programs. Alternatively, Java computer programs are compiled ahead of time and stored as a machine independent code called bytecode. Bytecode is then executed on request by an interpreter called a virtual machine.
+The main disadvantage of interpreters is that computer programs run slower than when compiled. Interpreting code is slower than running the compiled version because the interpreter must decode each statement each time it is loaded and then perform the desired action. However, software development may be faster using an interpreter because testing is immediate when the compiling step is omitted. Another disadvantage of interpreters is that at least one must be present on the computer during computer program execution. By contrast, compiled computer programs need no compiler present during execution.
+No properties of a programming language require it to be exclusively compiled or exclusively interpreted. The categorization usually reflects the most popular method of language execution. For example, BASIC is thought of as an interpreted language and C a compiled language, despite the existence of BASIC compilers and C interpreters. Some systems use just-in-time compilation (JIT) whereby sections of the source are compiled 'on the fly' and stored for subsequent executions.
+
+
+
+A computer program in execution is normally treated as being different from the data the program operates on. However, in some cases, this distinction is blurred when a computer program modifies itself. The modified computer program is subsequently executed as part of the same program. Self-modifying code is possible for programs written in machine code, assembly language, Lisp, C, COBOL, PL/1, Prolog and JavaScript (the eval feature) among others.
+
+
+
+Typically, computer programs are stored in non-volatile memory until requested either directly or indirectly to be executed by the computer user. Upon such a request, the program is loaded into random access memory, by a computer program called an operating system, where it can be accessed directly by the central processor. The central processor then executes ("runs") the program, instruction by instruction, until termination. A program in execution is called a process. Termination is either by normal self-termination or by error   software or hardware error.
+
+
+
+
+Some computer programs are embedded into hardware. A stored-program computer requires an initial computer program stored in its read-only memory to boot. The boot process is to identify and initialize all aspects of the system, from processor registers to device controllers to memory contents. Following the initialization process, this initial computer program loads the operating system and sets the program counter to begin normal operations. Independent of the host computer, a hardware device might have embedded firmware to control its operation. Firmware is used when the computer program is rarely or never expected to change, or when the program must not be lost when the power is off.
+
+
+
+
+Computer programs historically were manually input to the central processor via switches. An instruction was represented by a configuration of on/off settings. After setting the configuration, an execute button was pressed. This process was then repeated. Computer programs also historically were manually input via paper tape or punched cards. After the medium was loaded, the starting address was set via switches and the execute button pressed.
+
+
+
+Generative programming is a style of computer programming that creates source code through generic classes, prototypes, templates, aspects, and code generators to improve programmer productivity. Source code is generated with programming tools such as a template processor or an integrated development environment. The simplest form of source code generator is a macro processor, such as the C preprocessor, which replaces patterns in source code according to relatively simple rules.
+Software engines output source code or markup code that simultaneously become the input to another computer process. Application servers are software engines that deliver applications to client computers. For example, a Wiki is an application server that lets users build dynamic content assembled from articles. Wikis generate HTML, CSS, Java, and JavaScript which are then interpreted by a web browser.
+
+
+
+
+Many operating systems support multitasking which enables many computer programs to appear to run simultaneously on one computer. Operating systems may run multiple programs through process scheduling   a software mechanism to switch the CPU among processes often so users can interact with each program while it runs. Within hardware, modern day multiprocessor computers or computers with multicore processors may run multiple programs.
+One computer program can calculate simultaneously more than one operation using threads or separate processes. Multithreading processors are optimized to execute multiple threads efficiently.
+
+
+
+Many systems have been developed to automatically evaluate the correctness of a program, one such system is proposed here.
+
+
+
+Computer programs may be categorized along functional lines. The main functional categories are system software and application software. System software includes the operating system which couples computer hardware with application software. The purpose of the operating system is to provide an environment in which application software executes in a convenient and efficient manner. In addition to the operating system, system software includes utility programs that help manage and tune the computer. If a computer program is not system software then it is application software. Application software includes middleware, which couples the system software with the user interface. Application software also includes utility programs that help users solve application problems, like the need for sorting.
+Sometimes development environments for software development are seen as a functional category on its own, especially in the context of human-computer interaction and programming language design. Development environments gather system software (such as compilers and system's batch processing scripting languages) and application software (such as IDEs) for the specific purpose of helping programmers create new programs.
+
+

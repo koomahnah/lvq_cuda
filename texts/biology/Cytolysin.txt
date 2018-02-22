@@ -1,0 +1,43 @@
+Cytolysin refers to the substance secreted by microorganisms, plants or animals that is specifically toxic to individual cells, in many cases causing their dissolution through lysis. Cytolysins that have a specific action for certain cells are named accordingly. For instance, the cytolysins responsible for the destruction of red blood cells, thereby liberating hemoglobins, are named hemolysins, and so on. Cytolysins may be involved in immunity as well as in venoms.
+Hemolysin is also used by certain bacteria, such as Listeria monocytogenes, to disrupt the phagosome membrane of macrophages and escape into the cytoplasm of the cell.
+
+
+
+The term "Cytolysin" or "Cytolytic toxin" was first introduced by Alan Bernheimer to describe membrane damaging toxins (MDTs) that have cytolytic effects to cells. The first kind of cytolytic toxin discovered have hemolytic effects on erythrocytes of certain sensitive species, such as Human. For this reason "Hemolysin" was first used to describe any MDTs. In the 1960s certain MDTs were proved to be destructive on cells other than erythrocytes, such as leukocytes. The term "Cytolysin" is then introduced by Bernheimer to replace "Hemolysin". Cytolysins can destruct membranes without creating lysis to cells. Therefore, "membrane damaging toxins" (MDTs) describes the essential actions of cytolysins. Cytolysins comprise more than 1/3 of all bacterial protein toxins. Bacterial protein toxins can be highly poisonous to human. For example, Botulinum is 3x105 more toxic than snake venom to human and its toxic dose is only 0.8x10 8 mg. A wide variety of gram-positive and gram-negative bacteria use cytolysin as their primary weapon for creating diseases, such as Clostridium perfringens and Staphylococcus.
+A diverse range of studies has been done on Cytolysins. Since the 1970s, more than 40 new cytolysins have been discovered and grouped into different families. At genetic level, the genetic structures of about 70 Cytolysin proteins has been studied and published. The detailed process of membrane damage has also been surveyed. Rossjohn et al. presents the crystal structure of perfringolysin O, a thiol-activated cytolysin, which creates membrane holes on eukaryotic cells. A detailed model of membrane channel formation that reveals membrane insertion mechanism is constructed. Shatursky et al. studied the membrane insertion mechanism of Perfringolysin O (PFO), a cholesterol-dependent pore-forming cytolysin produced by pathogenic Clostridium perfringens. Instead of using a single amphipathic   hairpin per plypeptide, PFO monomer contains two amphipathic   hairpins, each spans the whole membrane. Larry et al. focused on the membrane penetrating models of RTX toxins, a family of MDT secreted by many gram-negative bacteria. The insertion and transport process of the protein from RTX to target lipid membrane was revealed.
+
+
+
+The membrane-damaging cytolysins can be classified into three types based on their damaging mechanism:
+Cytolysins which attack eukaryotic cells' bilayer membranes by dissolving their phoshplipids. Representative cytolysins of this type of include C. perfringens  -toxin (phospholipase C), S. aureus  -toxin (shingomyelinase C) and Vibrio damsela (phospholipase D). Farlane et al. recognized C. perfringens  -toxin's molecular mechanism in 1941, which marked the pioneering work on any bacterial protein toxins.
+Cytolysins which attack the hydrophobic regions of membranes and act like "detergents". Examples of this type include the 26-amino-acid  -toxins from Straphylococcus aureus, S. haemolyticus and S. lugdunensis, Bacillus subtilis toxin and the cytolysin from Pseudomonas aeruginosa.
+Cytolysins which form pores on target cells' membranes. These types of cytolysin are also known as pore-forming toxins (PFTs) and comprise the largest portion of all cytolysins. Examples of this type include perfringiolysin O from Clostridium perfringens bacteria, hemolysin from Escherichia coli, and listeriolysin from Listeria monocytogenes. Targets of this type of cytolysins range from general cell membranes to more specific microorganisms, such as cholesterols and phagocyte membranes.
+
+
+
+
+Pore forming cytolysins (PFCs) comprise near 65% of all membrane-damaging cytolysins. The first pore forming cytolysin is discovered by Manfred Mayer in 1972 of the C5-C9 insertion of erythrocytes. PFCs can be produced by a wide variety of sources, such as bacteria, fungi and even plants. The pathogenic process of PFCs normally involves forming channels or pores at the target cells' membranes. Note that the pores can have many structures. A porin-like structure allows molecules of certain sizes to pass through. Electric fields distribute unevenly across the pore and enable the selection molecules that can get through. This type of structure is shown in staphylococcal  -hemolysin. A pore can also be formed through membrane fusions. Controlled by Ca2+, the membrane fusion of vesicles form water-filled pores from proteolipids.
+
+
+
+
+A more complex pore formation process involves a oligomerization process of several PFC monomers. The pore forming process comprise 3 basic steps. The cytolysins are produced by certain microorganisms at first. Sometimes the producer organism needs to create a pore at its own membrane to release such cytolysins, like the case colicins produced by Escherichia coli. Cytolysins are released as protein monomers in a water-soluble state in this step. Note that cytolysins are often toxic to its producing hosts as well. For example, colicins consume nucleic acids of cells by using several enzymes. To prevent such toxicity, host cells produce immunity proteins for binding cytolysins before they do any damage inward.
+In the second step, cytolysins adhere to target cell membranes by matching the "receptors'" on the mebranes. Most receptors are proteins, but they can be other molecules as well, such as lipids or sugars. With the help of receptors, cytolysin monomers combines with each other and form clusters of oligomers. During this stage, cytolysins complete transition from water-soluble monomers state into oligomers state.
+Finally, the formed cytolysin clusters penetrate target cells' membranes and form membrane pores. The size of these pores varies from 1-2 nm ( S. aureus  -toxin, E. coli  -hemolysin, Aeromonas aerolysin) to 25-30 nm (streplysin O, pneumolysin).
+Depending on how the pores are formed, the pore forming cytolysins fall into two categories. Those form pores using helices are named  -PFTs (Pore forming toxins). Those form pores using  -barrel structures are named  -PFTs. Some of the common  -PFTs and  -PFTs are summarized using a table.
+
+
+
+The lethal effects of pole-forming cytolysins are performed by causing influx and outflux disorder in a single cell. Pores that allow ions like Na+ to pass through created imbalance in the target cell which exceeds its ion-balancing capacity. Attacked cells therefore expand to lysis. When target cell membranes are destructed, bacteria which produce the cytolysins can consume the intracellular elements of the cell, such as iron and cytokines. Some enzymes that decompose target-cells' critical structures can enter the cells without obstructions.
+
+
+
+One specific type of cytolysin is the Cholesterol-dependent cytolysin (CDC). CDCs exist in many Gram-positive bacteria. The pore forming process of CDCs require the presence of cholesterols on target-cell membranes. The pore size created by CDC is large (25-30 nm) due to the oligomeric process of cytolysins. Note that cholesterol are not always necessary at during the adhering phase. For example, Intermedilysin requires only the presence of protein receptors when attaching to target cells and cholesterols are required at pore forming. The formation of pores through CDCs involve an additional step than the steps analyzed above. The water-soluble monomers oligomerize to form an intermediate product named "pre-pore" complex and then a  -barrel is penerated into the membrane.
+
+
+
+Hemolysis (microbiology)
+Thiol-activated cytolysin
+Sea anemone cytotoxic protein
+
+

@@ -1,0 +1,142 @@
+The AMD Accelerated Processing Unit (APU), formerly known as Fusion, is a series of 64-bit microprocessors from AMD designed to act as a CPU and graphics accelerator (GPU) on a single chip.
+AMD announced the first generation APUs, Llano for high-performance and Brazos for low-power devices in January 2011. The second-generation Trinity for high-performance and Brazos-2 for low-power devices were announced in June 2012. The third-generation Kaveri for high performance devices was launched in January 2014, while Kabini and Temash for low-power devices were announced in summer 2013.
+The Sony PlayStation 4 and Microsoft Xbox One eighth generation video game consoles both use semi-custom third-generation low-power APUs.
+Although it doesn't use the name "APU", Intel Corporation produces CPU-GPU combinations like its Ivy Bridge that are architecturally very similar.
+
+
+
+The AMD Fusion project started in 2006 with the aim of developing a system on a chip that combined a CPU with a GPU on a single die. AMD took a key step toward realising such a vision when it acquired the graphics chipset manufacturer ATI in 2006. The project reportedly required three internal iterations of the Fusion concept to create a product deemed worthy of release. Reasons contributing to the delay of the project include the technical difficulties of combining a CPU and GPU on the same die at a 45 nm process, and conflicting views on what the role of the CPU and GPU should be within the project.
+The first generation desktop and laptop APU, codenamed Llano, was announced on January 4, 2011 at the 2011 CES show in Las Vegas and released shortly after. It featured K10 CPU cores and a Radeon HD 6000-series GPU on the same die on the FM1 socket. An APU for low-power devices was announced as the Brazos platform, based on the Bobcat microarchitecture and a Radeon HD 6000-series GPU on the same die.
+At a conference in January 2012, corporate fellow Phil Rogers announced that AMD would re-brand the Fusion platform as the Heterogeneous Systems Architecture (HSA), stating that "it's only fitting that the name of this evolving architecture and platform be representative of the entire, technical community that is leading the way in this very important area of technology and programming development." However, it was later revealed that AMD had been the subject of a trademark infringement lawsuit by the Swiss company Arctic, who used the name "Fusion" for a line of power supplies.
+The second generation desktop and laptop APU, codenamed Trinity was announced at AMD's Financial Analyst Day 2010 and released in October 2012. It featured Piledriver CPU cores and Radeon HD 7000 Series GPU cores on the FM2 socket. AMD released a new APU based on the Piledriver microarchitecture on March 12, 2013 for Laptops/Mobile and on June 4, 2013 for desktops under the codename Richland. The second generation APU for low-power devices, Brazos 2.0, used exactly the same APU chip, but ran at higher clock speed and rebranded the GPU as Radeon HD7000 series and used a new IO controller chip.
+Semi-custom chips were introduced in the Microsoft Xbox One and Sony PlayStation 4 video games consoles.
+A third generation of the technology was released on 14 January 2014, featuring greater integration between the CPU and GPU. The desktop and laptop variant is codenamed Kaveri, based on Steamroller architecture, while the low-power variants, codenamed Kabini and Temash, are based on Jaguar architecture.
+
+
+
+
+
+
+
+AMD is a founding member of the HSA Foundation and is consequently actively working on developing the Heterogeneous System Architecture in co-operation with the other members. The following hardware and software implementations are available in AMD's APU-branded products:
+
+
+
+1 Unified shaders : Texture mapping units : Render output units
+2 To feed more than two displays, the additional panels must have native DisplayPort support. Alternatively active DisplayPort-to-DVI/HDMI/VGA adapters can be employed
+
+
+
+
+AMD APUs have a unique architecture: they have AMD CPU modules, cache, and a discrete-class graphics processor all on the same die, using the same bus. This architecture allows for the use of graphics accelerators, such as OpenCL, with the integrated graphics processor. The goal is to create a "fully integrated" APU, which, according to AMD will eventually feature 'heterogeneous cores' capable of processing both CPU and GPU work automatically, depending on the workload requirement.
+
+
+
+
+"Stars" AMD K10-cores
+Integrated Evergreen/VLIW5-based GPU (branded Radeon HD 6000 Series)
+Northbridge
+PCIe
+DDR3 memory controller to arbitrate between coherent and non-coherent memory requests. The physical memory is partitioned between the GPU (up to 512 MB) and the CPU (the remainder).
+Unified Video Decoder
+AMD Eyefinity multi-monitor-support
+The first generation APU, released in June 2011, was used in both desktops and laptops. It was based on the K10 architecture and built on a 32 nm process featuring two to four CPU cores on a TDP of 65-100 W, and integrated graphics based on the Radeon HD6000 Series with support for DirectX 11, OpenGL 4.2 and OpenCL 1.2. In performance comparisons against the similarly priced Intel Core i3-2105, the Llano APU was criticised for its poor CPU performance and praised for its better GPU performance. AMD was later criticised for abandoning Socket FM1 after one generation.
+
+
+
+
+Bobcat-based CPU
+Evergreen/VLIW5-based GPU(branded Radeon HD 6000 Series and Radeon HD 7000 Series)
+Northbridge
+PCIe support.
+DDR3 SDRAM memory controller to arbitrate between coherent and non-coherent memory requests. The physical memory is partitioned between the GPU (up to 512 MB) and the CPU (the remainder).
+Unified Video Decoder (UVD)
+The AMD Brazos platform was introduced on January 4, 2011 targeting the subnotebook, netbook and low power small form factor markets. It features the 9-watt AMD C-Series APU (codename: Ontario) for netbooks and low power devices as well as the 18-watt AMD E-Series APU (codename: Zacate) for mainstream and value notebooks, all-in-ones and small form factor desktops. Both APUs feature one or two Bobcat x86 cores and a Radeon Evergreen Series GPU with full DirectX11, DirectCompute and OpenCL support including UVD3 video acceleration for HD video including 1080p.
+AMD expanded the Brazos platform on June 5, 2011 with the announcement of the 5.9-watt AMD Z-Series APU (codename: Desna) designed for the Tablet market. The Desna APU is based on the 9-watt Ontario APU, energy savings were achieved by lowering the CPU, GPU and north bridge voltages, reducing the idle clocks of the CPU and GPU as well as introducing a hardware thermal control mode. A bidirectional turbo core mode was also introduced.
+AMD announced the Brazos-T platform on October 9, 2012. It comprises the 4.5-watt AMD Z-Series APU (codename: Hondo) and the A55T Fusion Controller Hub (FCH), designed for the tablet computer market. The Hondo APU is a redesign of the Desna APU. AMD lowered energy use by optimizing the APU and FCH for tablet computers.
+The Deccan platform including Krishna and Wichita APUs were cancelled in 2011. AMD originally planned to release them in the second half 2012.
+
+
+
+
+Piledriver-based CPU
+Northern Islands/VLIW4-based GPU (branded Radeon HD 7000 and 8000 Series)
+Unified Northbridge includes AMD Turbo Core 3.0, which enables automatic bi-directional power management between CPU modules and GPU. Power to the CPU and GPU is controlled automatically by changing the clock rate depending on the load. For example, for a non-overclocked A10-5800K APU the CPU frequency can change from 1.4 GHz to 4.2 GHz, and the GPU frequency can change from 304 MHz to 800 MHz. In addition, CC6 mode is capable of powering down individual CPU cores, while PC6 mode is able to lower the power on the entire rail."
+AMD HD Media Accelerator - includes AMD Perfect Picture HD, AMD Quick Stream technology, and AMD Steady Video technology.
+Display controllers: AMD Eyefinity-support for multi-monitor set-ups, HDMI, DisplayPort 1.2, DVI
+Trinity The first iteration of the second generation platform, released in October 2012, brought improvements to CPU and GPU performance to both desktops and laptops. The platform features 2 to 4 Piledriver CPU cores built on a 32 nm process with a TDP between 65 W and 100 W, and a GPU based on the Radeon HD7000 Series with support for DirectX 11, OpenGL 4.2, and OpenCL 1.2. The Trinity APU was praised for the improvements to CPU performance compared to the Llano APU.
+Richland
+"Enhanced Piledriver" CPU cores
+Temperature Smart Turbo Core technology. An advancement of the existing Turbo Core technology, which allows internal software to adjust the CPU and GPU clock speed to maximise performance within the constrains of the Thermal design power of the APU.
+New low-power consumption CPUs with only 45 W TDP
+The release of this second iteration of this generation was 12 March 2013 for mobile parts and 5 June 2013 for desktop parts.
+
+
+
+
+Jaguar (microarchitecture)-based CPU
+Graphics Core Next-based GPU (branded "AMD Radeon R3 graphics"), supports the Mantle API
+Socket FT3 and Socket AM1 support
+In January 2013 the Jaguar-based Kabini and Temash APUs were unveiled as the successors of the Bobcat-based Ontario, Zacate and Hondo APUs. The Kabini APU is aimed at the low-power, subnotebook, netbook, ultra-thin and small form factor markets, the Temash APU is aimed at the tablet, ultra-low power and small form factor markets. The two to four Jaguar cores of the Kabini and Temash APUs feature numerous architectural improvements regarding power requirement and performance, such as support for newer x86-instructions, a higher IPC count, a CC6 power state mode and clock gating. Kabini and Temash are AMD's first, and also the first ever quad-core x86 based SoCs. The integrated Fusion Controller Hubs (FCH) for Kabini and Temash are codenamed "Yangtze" and "Salton" respectively. The Yangtze FCH features support for two USB 3.0 ports, two SATA 6 Gbit/s ports, as well as the xHCI 1.0 and SD/SDIO 3.0 protocols for SD-card support. Both chips feature DirectX 11.1-compliant GCN-based graphics as well as numerous Heterogeneous System Architecture (HSA) improvements. They were fabricated at a 28 nm process in an FT3 BGA package by TSMC, and were released on May 23, 2013.
+The PlayStation 4 and Xbox One were revealed to both be powered by 8-core semi-custom Jaguar-derived APUs.
+
+
+
+A Cortex-A57-based 64-bit server solution SoC will be launched in the second half of 2014 and codenamed "Seattle". The first AMD ARM chip has no GPU and is then not an APU, but later will be. Seattle will feature 8 or 16 core variants, with an expected clockspeed over 2 GHz, and will reportedly deliver up to four times the performance of current Opteron X processors. These ARM processors will incorporate SeaMicro freedom fabric on die, offering up to 10 Gbit/s bandwidth, for server usage; additionally, each ARM processor will support up to 64 GB DRAM.
+
+
+
+
+Steamroller (microarchitecture)-based CPU with 2 to 4 cores
+Graphics Core Next-based GPU with 192 512 shader processors (branded "Radeon R4/5/6/7 graphics")
+15-95 W TDP
+Fastest laptop processor of this series: 35 W AMD FX-7600P laptop processor
+Fastest desktop processor of this series: 95 W AMD A10-7850K desktop processor (Radeon R7 GCN "Sea Islands"), 3.7 GHz Boost4.0 GHz with DirectX 12 support
+Desktop processor uses Socket FM2+
+Heterogeneous System Architecture-enabled zero-copy through pointer passing
+The third generation of the platform, codenamed Kaveri, was partly released on January 14, 2014. Kaveri contains up to four Steamroller CPU cores clocked to 3.9 GHz with a turbo mode of 4.1 GHz, up to a 512-core Graphics Core Next GPU, two decode units per module instead of one (which allows each core to decode four instructions per cycle instead of two), AMD TrueAudio, Mantle API, an on-chip ARM Cortex-A5 MPCore, and will release with a new socket, FM2+. Ian Cutress and Rahul Garg of Anandtech asserted that Kaveri represented the unified system-on-a-chip realisation of AMD's acquisition of ATI. The performance of the 45W A8-7600 Kaveri APU was found to be similar to that of the 100W Richland part, leading to the claim that AMD made significant improvements in on-die graphics performance per watt; however, CPU performance was found to lag behind similarly-specified Intel processors, a lag that was unlikely to be resolved in the Bulldozer family APUs. The A8-7600 component was delayed from a Q1 launch to an H1 launch because the Steamroller architecture components are alleged to not scale well at higher clock speeds.
+AMD announced the release of the Kaveri APU for the mobile market on June 4, 2014 at Computex 2014, shortly after the accidental announcement on the AMD website on May 26, 2014. The announcement included components targeted at the standard voltage, low-voltage, and ultra-low voltage segments of the market. In early-access performance testing of a Kaveri prototype laptop, AnandTech found that the 35W FX-7600P was competitive with the similarly-priced 17W Intel i7-4500U in synthetic CPU-focused benchmarks, and was significantly better than previous integrated GPU systems on GPU-focused benchmarks. Tom's Hardware reported the performance of the Kaveri FX-7600P against the 35W Intel i7-4702MQ, finding that the i7-4702MQ was significantly better than the FX-7600P in synthetic CPU-focused benchmarks, whereas the FX-7600P was significantly better than the i7-4702MQ's Intel HD 4600 iGPU in the four games that could be tested in the time available to the team.
+
+
+
+
+Puma (microarchitecture)-based CPU
+Graphics Core Next-based GPU with 128 shader processors (branded "AMD Radeon R4 graphics", (800 MHz over the 600 MHz of "R3" graphics), supports the Mantle API
+Socket FT3 support
+
+
+
+
+Puma+ (microarchitecture)-based CPU with 2-4 cores 
+Graphics Core Next-based GPU with 128 shader processors (branded "AMD Radeon R3/R4/R5 graphics" in different APU models 
+12-25 W configurable TDP
+Socket FP4 support, pin-compatible with Carrizo 
+
+
+
+
+Excavator (microarchitecture)-based CPU with 4 cores
+Memory controller supports DDR3 SDRAM
+15-35 W configurable TDP
+Integrates Southbridge
+Announced by AMD on YouTube (Nov 19 2014) -- Preview AMD's next gen APU (Carrizo) with John Byrne (Excavator x86 Core + new Graphics Architecture)
+
+
+
+
+Steamroller (microarchitecture)-based CPU with 4 cores
+Fastest APU: A10-7870K (unlocked) 3.9 GHz, Turbo 4.1 GHz, 4MB L2, 866 MHz Radeon R7 GCN "Sea Islands" GPU with DirectX 12 support
+Memory controller supports DDR3 SDRAM at 2133 MHz
+Socket FM2+
+95 W TDP
+http://www.maximumpc.com/leaked_roadmap_details_amds_unreleased_godavari_apu_line_2015
+
+
+
+
+Excavator (microarchitecture)-based CPU with 4 cores and Radeon graphics
+Memory controller supports DDR4 SDRAM
+95 W TDP
+http://www.kitguru.net/components/cpu/anton-shilov/amd-preps-bristol-ridge-apus-carrizo-for-desktops/
+
+

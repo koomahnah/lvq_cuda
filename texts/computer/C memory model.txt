@@ -1,0 +1,64 @@
+In computing, Intel Memory Model refers to a set of six different memory models of the x86 CPU operating in real mode which control how the segment registers are used and the default size of pointers.
+
+
+
+
+Four registers are used to refer to four segments on the 16-bit x86 segmented memory architecture. DS (data segment), CS (code segment), SS (stack segment), and ES (extra segment). Another 16-bit register can act as an offset into a given segment, and so a logical address on this platform is written segment:offset, typically in hexadecimal notation. In real mode, in order to calculate the physical address of a byte of memory, the hardware shifts the contents of the appropriate segment register 4 bits left (effectively multiplying by 16), and then adds the offset.
+For example, the logical address 7522:F139 yields the 20-bit physical address:
+75220 + F139 = 84359
+Note that this process leads to aliasing of memory, such that any given physical address may have multiple logical representations. This means that comparison of pointers in different segments is a complicated process.
+
+
+
+Pointer formats are known as near, far, or huge.
+Near pointers are 16 bit offset to the reference segment, i.e. DS for data and CS for code. They are the fastest pointers, but are limited to point to 64 KB of memory (to the associated segment of the data type).
+
+     MOV BX,word ptr [reg]
+     MOV AX,word ptr [BX]
+     MOV DX,word ptr [BX+2]
+
+Near pointers can be hold in registers (typically SI and DI).
+Far pointers are 32 bit pointer containing a segment and an offset. To use them the segment register ES is used by using the instruction LES Reg, dword ptr [mem]. They may reference up to 1024 KB or 1088 KB of memory. Note that pointer arithmetic (addition and subtraction) does not modify the segment portion of the pointer, only its offset. Operations which exceed the bounds of zero or 65535 (0xFFFF) will undergo modulo 64K operation just as any normal 16 bit operation. The moment counter becomes (0x10000), the resulting absolute address will roll over to 0x5000:0000.
+
+     LES BX,dword ptr [reg]
+     MOV AX,word ptr ES:[BX]
+     MOV DX,word ptr ES:[BX+2]
+
+Huge pointers are essentially far pointers, but are (mostly) normalized every time they are modified so that they have the highest possible segment for that address. This is very slow but allows the pointer to point to multiple segments, and allows for accurate pointer comparisons, as if the platform were a flat memory model: It forbids the aliasing of memory as described above, so two huge pointers that reference the same memory location are always equal.
+
+     LES BX,dword ptr [reg]
+     MOV AX,word ptr ES:[BX]
+     ADD BX,2
+     TEST BX,0FFF0h
+     JZ lbl
+     SUB BX,10h
+     MOV DX,ES
+     INC DX
+     MOV ES,DX
+lbl: MOV DX,word ptr ES:[BX]
+
+
+
+The memory models are:
+* In the Tiny model, all four segment registers point to the same segment.
+** In all models with near data pointers, SS equals DS.
+*** Stack is always limited to at most 64 KByte.
+
+
+
+In protected mode a segment can not be both writable and executable. Therefore, when implementing the Tiny memory model the code segment register must point to the same physical address and have the same limit as the data segment register. This defeated one of the features of the 80286, which makes sure data segments are never executable and code segment are never writable (which means that self-modifying code is never allowed). However, on the 80386, with its paged memory management unit it is possible to protect individual memory pages against writing.
+Memory models are not limited to 16-bit programs. It is possible to use segmentation in 32-bit protected mode as well (resulting in 48-bit pointers) and there exist C language compilers which support that. However segmentation in 32-bit mode does not allow to access a larger address space than what a single segment would cover, unless some segments are not always present in memory and the linear address space is just used as a cache over a larger segmented virtual space. It mostly allows to better protect access to various objects (areas up to 1 MB long can benefit from a one-byte access protection granularity, versus the coarse 4 KiB granularity offered by sole paging), and is therefore only used in specialized applications, like telecommunications software. Technically, the "flat" 32-bit address space is a "tiny" memory model for the segmented address space. Under both reigns all four segment registers contain one and the same value.
+On the x86-64 platform, a total of seven memory models exist, as the majority of symbol references are only 32 bits wide, and if the addresses are known at link time (as opposed to position-independent code). This does not affect the pointers used, which are always flat 64-bit pointers, but only how values that have to be accessed via symbols can be placed.
+
+
+
+Turbo C++ Version 3.0 User's Guide. Borland International, Copyright 1992.
+^ "Intel  64 and IA-32 Architectures Developer's Manual: Vol. 3A". Intel. pp. 3 17. Retrieved 13 September 2011. 
+^ "AMD64 Architecture Programmer's Manual Volume 2: System Programming" (PDF). AMD. pp. 82 84. Retrieved 13 September 2011. 
+^ "Intel  64 and IA-32 Architectures Developer's Manual: Vol. 3A". Intel. pp. 4 41. Retrieved 13 September 2011. 
+^ "AMD64 Architecture Programmer's Manual Volume 2: System Programming" (PDF). AMD. p. 139. Retrieved 13 September 2011. 
+^ "System V Application binary Interface, AMD64 Architecture Processor Supplement, Draft Version 0.99.5" (PDF). pp. 33 35. 
+
+
+
+Protected mode

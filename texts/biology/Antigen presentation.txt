@@ -1,0 +1,25 @@
+Antigen presentation describes a vital process of the immune system. Immune cells cannot "see inside" other cells, which may be infected with viruses or bacteria, and thus rely on information conveyed by fragments of intracellular components being presented on major histocompatibility complex (MHC) molecules on the cell surface. Likewise, many pathogens are too large to be recognised directly by immune cells, and must first be digested into smaller fragments that can be presented by specialised antigen-presenting cells (APCs).
+
+
+
+
+Because disease processes can develop inside the cells of the body and this is hard to recognise from the outside, cytotoxic T cells run a regular molecular health screening program for nucleated cells in the body to ensure they are free from intracellular diseases, thus fit for service. Most often viruses can replicate within host cells; alternatively intracellular bacteria can survive or oncogenes can be translated into tumourigenic gene products. To facilitate screening out these kinds of intracellular health problems, the host cell voluntarily presents bits of its cytosolic content on the outside of the cell for cytotoxic T cells to inspect during periodic visits. To do this, the host cell digests its own cytoplasmic proteins by a specialized enzyme complex, the proteasome, into small peptides. A specialized carrier, the transporter associated with antigen processing (TAP) complex moves the peptide into the endoplasmic reticulum, allowing the antigenic peptide to be coupled to an MHC Class I molecule and transported to the cell surface. in the endoplasmic reticulum, the peptide is anchored to the peptide-binding groove on the floor of the  1- 2 heterodimer of the MHC class I molecule.
+CD8+ Cytotoxic T cells are programmed to recognise peptides coupled to the MHC Class I molecules on all nucleated cells. Cytotoxic T cells (also known as TC, killer T cell, or cytotoxic T-lymphocyte (CTL)) are a population of T cells that are specialized for inducing the death of other cells. Recognition of antigenic peptides through Class I by CTLs leads to the killing of the target cell, which may be infected by virus, intracytoplasmic bacterium, or are otherwise damaged or dysfunctional. On the other hand, tolerated peptides from physiological protein turnover in healthy cells will be ignored. By inducing cytotoxicity in the diseased cells, cytotoxic T cells ensure the body remains healthy; the eliminated cells can be replaced by healthy cells.
+
+
+
+Dendritic cells (DCs) phagocytose exogenous pathogens such as bacteria, parasites, and toxins in the tissues and then migrate, via chemotactic signals, to T cell-enriched lymph nodes. During migration, DCs undergo a process of maturation in which they lose phagocytic capacity and develop an increased ability to communicate with T-cells in the lymph nodes. This maturation process is dependent on signaling from other pathogen-associated molecular pattern (PAMP) molecules through pattern recognition receptors, such as the members of the Toll-like receptor family.
+The DC uses lysosome-associated enzymes to digest pathogen-associated proteins into smaller peptides. In the lymph node, the DC will display these antigenic peptides on its surface by coupling them to MHC Class II molecules. This MHC:antigen complex is then recognized by T cells passing through the lymph node. Exogenous antigens are usually displayed on MHC Class II molecules, which interact with CD4+ helper T cells. CD4+ lymphocytes, or TH, are immune response mediators, and play an important role in establishing and maximizing the capabilities of the adaptive immune response.
+Expression of Class II is more restricted than Class I. High levels of Class II are found on dendritic cells, but can also be observed on activated macrophages, B cells, and several other host cell types in inflammatory conditions.
+
+
+
+Immune system
+Immunology
+Immunological synapse
+Trogocytosis
+
+
+
+ImmPort - Gene summaries, ontologies, pathways, protein/protein interactions and more for genes involved in antigen processing and presentation
+antigen presentation at the US National Library of Medicine Medical Subject Headings (MeSH)

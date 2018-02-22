@@ -1,0 +1,47 @@
+22q13 deletion syndrome (spoken as twenty-two q one three) is a genetic disorder caused by deletions or rearrangements on the q terminal end (long arm) of chromosome 22. Any abnormal genetic variation in the q13 region that presents with significant manifestations (phenotype) typical of a terminal deletion should be diagnosed as 22q13 deletion syndrome. 22q13 deletion syndrome is often placed in the more general category of Phelan-McDermid Syndrome (abbreviated PMS), which includes some mutations and microdeletions. The PMS name is less precise, since there is disagreement among researchers as to which variants belong in the PMS category. The Developmental Synaptopathies Consortium defines PMS as being caused by SHANK3 mutations, a definition that excludes terminal deletions. 
+A prototypical terminal deletion of 22q13 can be uncovered by karyotype analysis, but many terminal and interstitial deletions are too small. The availability of DNA microarray technology for revealing multiple genetic problems simultaneously has been the diagnostic tool of choice. The falling cost for whole exome sequencing and, eventually, whole genome sequencing, may replace DNA microarray technology for candidate evaluation. However, fluorescence in situ hybridization (FISH) tests remain valuable for diagnosing cases of mosaicism (mosaic genetics) and chromosomal rearrangements (e.g., ring chromosome, unbalanced chromosomal translocation). Although early researchers sought a monogenic (single gene genetic disorder) explanation, recent studies have not supported that hypothesis (see Etiology, below).
+22q13 deletion syndrome is characterized by global developmental delay, absent or severely delayed speech, and neonatal hypotonia. There are approximately 1300 diagnosed cases of 22q13 deletion syndrome worldwide.
+
+
+
+The core characteristics of 22q13 Deletion syndrome (listed above) have a major impact on the individual. However, in addition to these characteristics, there are other manifestations than may range from mild to severe:
+Physical
+Absent to severely delayed speech: 99%
+Normal to accelerated growth: 95%
+High tolerance to pain: 77%
+Hypotonia (poor muscle tone): 75%
+Dysplastic toenails: 73%
+Long eyelashes: 73%
+Poor thermoregulation: 68%
+Prominent, poorly formed ears: 65%
+Large or fleshy hands: 63%
+Pointed chin: 62%
+Dolichocephaly (elongated head): 57%
+Ptosis (eyelid) (droopy eyelids): 57%
+Gastroesophageal reflux: 42%
+Epileptic seizures: 27%
+Kidney problems: 26%
+Delayed ability to walk: 18%
+Behavioral
+Chewing on non food items: 85%
+Delayed or unreliable toileting: 76%
+Impulsive behaviors: 47%
+Biting (self or others): 46%
+Problems sleeping: 46%
+Hair pulling: 41%
+Autistic behaviors: 31%
+Episodes of non-stop crying before age 5: 30%
+Teeth grinding: (unknown) %
+
+
+
+Various deletions affect the terminal region of the long arm of chromosome 22 (the paternal chromosome in 75% of cases), from 22q13.3 to 22qter. Although the deletion is most typically a result of a de novo mutation, there is an inherited form resulting from familial chromosomal translocations involving the 22 chromosome. In the de novo form, the size of the terminal deletion is variable and can go from 130 Kb (130,000 base pairs) to 9 Mb. Deletions smaller than 1 Mb are very rare (about 3%). The remaining 97% of terminal deletions impact about 30 to 190 genes (see list, below). At one time it was thought that deletion size was not related to the core clinical features. That observation lead to an emphasis on the SHANK3 gene, which resides close to the terminal end of chromosome 22. Interest in SHANK3 grew as it became associated with Autism Spectrum Disorder (ASD) and Schizophrenia. SHANK3 mutations and microdeletions can produce a phenotype similar to 22q13 deletion syndrome (hence, its inclusion in the PMS category). However, recent work suggests that the phenotype associated with SHANK3 microdeletions and mutations may result from a molecular mechanism very different from that originally described for 22q13 deletion syndrome. The phenotype may result from an over-expression of isoforms (e.g., Shank3b and Shank3e) that interfere with spine development. The traditional mechanism of 22q13 deletion syndrome is whole gene loss (haploinsufficiency). Finding cases of SHANK3 deletion without involvement of other genes highly and/or specifically expressed in the brain may be unrealistic because distal chromosome 22q is a gene rich region. Animal studies may be helpful, but genes on the rodent chromosomes are organized differently than human. Human induced pluripotent stem cell lines could be a more promising approach.
+The core features of 22q13 deletion syndrome are somewhat dependent upon deletion size, and do not necessarily depend on the loss of SHANK3. As noted above, the distal 1 Mb of 22q is a gene rich region. There are too few clinical cases to statistically measure the relationship between deletion size and phenotype in this region. A landmark study of induced pluripotent stem cell neurons cultured from patients with 22q13 deletion syndrome shows that restoration of the SHANK3 protein levels can rescue fewer than half the glutamate neurons of neocortex, another indication of the strong impact of other genes in the distal 1 Mb of chromosome 22.
+There is an interest in the impact of MAPK8IP2 (also called IB2) in 22q13 deletion syndrome. MAPK8IP2 is especially interesting because it regulates the balance between NMDA receptors and AMPA receptors. The genes SULT4A1 and PARVB may cause 22q13 deletion syndrome in cases of more proximal interstitial and large terminal deletions. There are about 187 protein coding genes in the 22q13 region. A group of genes (MPPED1, CYB5R3, FBLN1, NUP50, C22orf9, KIAA1644, PARVB, TRMU, WNT7B and ATXN10), as well as microRNAs may all contribute to loss of language, a feature that does vary with deletion size. The same study found that macrocephaly seen in 22q13 deletion syndrome patients may be associated with WNT7B.
+Table of protein coding genes involved in 22q13 deletion syndrome (based on Human Genome Browser   hg38 assembly ). Underline identifies genes associated with autism. Bold identifies genes associated with hypotonia (based on Human Phenotype Browser  search for 'hypotonia' and the OMIM database ).
+
+
+
+The incidence of the 22q13 deletion syndrome is uncertain. The National Institutes of Health Office of Rare Diseases (http://rarediseases.info.nih.gov/) lists 22q13 deletion syndrome as a rare disease.
+
+

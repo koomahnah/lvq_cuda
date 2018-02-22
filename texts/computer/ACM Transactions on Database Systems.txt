@@ -1,0 +1,9 @@
+The ACM Transactions on Database Systems (TODS) is one of the journals produced by the Association for Computing Machinery. TODS publishes one volume yearly. Each volume has four issues, which appear in March, June, September and December.
+ACM TODS received the highest possible ranking,  A* , in the CORE rankings of computer science journals and conferences. In a study of citation patterns for database publication venues, TODS had the highest long-term impact, as measured by the frequency of citations to its papers, among any of the venues studied; however, most of those citations were outside the two-year window in which the impact factor is conventionally measured. Although its short-term impact factor was the highest among the journals included in the study, it was lower than that of several database conferences. Bernstein et al. (2005) study the timing of the submission process to TODS and the VLDB Journal, another top database journal.
+
+
+
+
+
+
+Journal homepage.

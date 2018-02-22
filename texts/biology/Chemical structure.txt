@@ -1,0 +1,16 @@
+A chemical structure determination includes a chemist's specifying the molecular geometry and, when feasible and necessary, the electronic structure of the target molecule or other solid. Molecular geometry refers to the spatial arrangement of atoms in a molecule and the chemical bonds that hold the atoms together, and can be represented using structural formulae and by molecular models; complete electronic structure descriptions include specifying the occupation of a molecule's molecular orbitals. Structure determination can be applied to a range of targets from very simple molecules (e.g., diatomic oxygen or nitrogen), to very complex ones (e.g., such as of protein or DNA).
+Theories of chemical structure were first developed by August Kekule, Archibald Scott Couper, and Aleksandr Butlerov, among others, from about 1858. These theories were first to state that chemical compounds are not a random cluster of atoms and functional groups, but rather had a definite order defined by the valency of the atoms composing the molecule, giving the molecules a three dimensional structure that could be determined or solved.
+In determining structures of chemical compounds, one generally aims to obtain, minimally, the pattern and multiplicity of bonding between all atoms in the molecule; when possible, one seeks the three dimensional spatial coordinates of the atoms in the molecule (or other solid). The methods by which one can elucidate the structure of a molecule include spectroscopies such as nuclear magnetic resonance (proton and carbon-13 NMR), various methods of mass spectrometry (to give overall molecular mass, as well as fragment masses), and x-ray crystallography when applicable. The last technique can produce three-dimensional models at atomic-scale resolution, as long as crystals are available. When a molecule has an unpaired electron spin in a functional group of its structure, ENDOR and electron-spin resonance spectroscopes may also be performed. Techniques such as absorption spectroscopy and the vibrational spectroscopies, infrared and Raman, provide, respectively, important supporting information about the numbers and adjacencies of multiple bonds, and about the types of functional groups (whose internal bonding gives vibrational signatures); further inferential studies that give insight into the contributing electronic structure of molecules include cyclic voltammetry and X-ray photoelectron spectroscopy. These latter techniques become all the more important when the molecules contain metal atoms, and when the crystals required by crystallography or the specific atom types that are required by NMR are unavailable to exploit in the structure determination. Finally, more specialized methods such as electron microscopy are also applicable in some cases.
+
+
+
+Chemical structure diagram
+Pauli exclusion principle
+Crystallographic database
+
+
+
+
+
+
+Warren Gallagher, 2006, "Lecture 7: Structure Determination by X-ray Crystallography," in Chem 406: Biophysical Chemistry, self-published course notes, Eau Claire, WI, USA:University of Wisconsin-Eau Claire, Department of Chemistry, see [1], accessed 2 July 2014.

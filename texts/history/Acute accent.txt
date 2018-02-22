@@ -1,0 +1,191 @@
+The acute accent (   ) is a diacritic used in many modern written languages with alphabets based on the Latin, Cyrillic, and Greek scripts.
+
+
+
+
+
+
+
+
+
+An early precursor of the acute accent was the apex, used in Latin inscriptions to mark long vowels.
+
+
+
+
+
+
+
+The acute accent was first used in the polytonic orthography of Ancient Greek, where it indicated a syllable with a high pitch. In Modern Greek, a stress accent has replaced the pitch accent, and the acute marks the stressed syllable of a word. The Greek name of the accented syllable was and is oxe a (Modern Greek ox a) "sharp" or "high", which was calqued into Latin as ac ta "sharpened".
+
+
+
+The acute accent marks the stressed vowel of a word in several languages:
+Blackfoot, where acute accents are used to show where stress is placed on a word, for example, soy pokistsi "leaves".
+Bulgarian. Stress, which is variable in Bulgarian, is not usually indicated in Bulgarian except in dictionaries and sometimes in homonyms which are only distinguished by stress. However, Bulgarian usually uses the grave accent to mark the vowel in a stressed syllable, unlike Russian, which uses the acute accent.
+Catalan, where it is used in stressed vowels:  ,  ,  ,  .
+Dutch, where the acute is used to mark stress (v rkomen   voork men, meaning occur and prevent respectively) or a more closed vowel (h    h , equivalent to English hey and heh), where this is not clear from context. Sometimes it is simply used for disambiguation, as in  n   een, meaning "one" and "a(n)".
+Galician
+Lakota. For example, k khi "in that direction", but kakh  "take something to someone back there".
+Leonese, where it is used for marking stress or disambiguation.
+Modern Greek, where it marks the stressed vowel of every polysyllabic word:   ( ),   ( ),   ( ),   ( ),   ( ),   ( ),   ( ).
+Hopi, where the acute marks a higher tone as in p ngqawu, which means say
+Navajo where the acute marks a higher tone as in ch , car, sh ne, mine and sh , I
+Occitan, where it is used in stressed vowels:  ,  ,  ,  ,  .
+Portuguese:  ,  ,  ,  ,  . It may also indicate height (see below).
+Russian. Stress is irregular in Russian, and in the reference and teaching materials (dictionaries, books for children or foreigners) stress is indicated by an acute accent "  " above the stressed vowel. The acute accent can be used both in the Cyrillic and sometimes in the romanised text.
+Spanish. Used to mark stressed syllables in words that deviate from the standardized stress patterns. It is also used to distinguish minimal pairs, such as el (the) and  l (he).
+Norwegian, Swedish and Danish. The acute accent is used to indicate that a terminal syllable with the vowel e is stressed, and is often written out only when it changes the meaning. For example: armen (first syllable stressed) means "the arm", while arm (e)n means "the army"; ide (first syllable stressed) means "bear's den", while id  means "idea". Also stress-related are the different spellings of the words en/ n and et/ t (the indefinite article and the word "one" in Danish and Norwegian). In this case the acute points out that there is one and only one of the object. This derives from the obsolete spelling(s) een and eet. Some loan-words, mainly from French, are also written with the acute accent, like fil  and kaf .
+Welsh word stress usually falls on the penultimate syllable, but one way of indicating stress on a final (short) vowel is through the use of the acute accent. In theory this can be on any vowel:  ,  ,  ,  ,  ,  , or  , for example, cas u [ka sa , ka sai] "to hate", sigar t [s a r t] "cigarette", ymbar l [ mba r l] "umbrella".
+
+
+
+The acute accent marks the height of some stressed vowels in various Romance languages.
+To mark high vowels:
+Catalan. The acute marks the quality of the vowels   [e] (as opposed to   [ ]), and   [o] (as opposed to   [ ]).
+French. The acute is used only on  . It is known as accent aigu, in contrast to the accent grave which is the accent sloped the other way. It distinguishes   [e] from   [ ],   [ ], and e [ ]. Unlike in other Romance languages, the accent marks do not imply stress in French.
+Italian. The acute accent (sometimes called accento chiuso, "closed accent" in Italian) is compulsory only in words of more than one syllable stressed on their final vowel (and a few other words). Words ending in stressed -o are never marked with an acute accent ( ), but with a grave accent ( ). Therefore, only   and   are normally contrasted, typically in words ending in -ch , such as perch  ("why/because"); in the conjugated copula   ("is"); in ambiguous monosyllables such as n  ('neither') vs. ne ('of it') and s  ('itself') vs. se ('if'); and some verb forms, e.g. pot  ("he/she/it could" (past tense)). The symbol   can be used in the body of a word for disambiguation, for instance between b tte ("barrel") and b tte ("beating"), though this is not mandatory: in fact standard Italian keyboards lack a dedicated   key.
+Occitan. The acute marks the quality of the vowels   [e] (as opposed to   [ ]),   [u] (as opposed to   [ ]) and   [ /e] (as opposed to   [a]).
+Scottish Gaelic (a Celtic rather than Romance language) uses/used a system in which   [e ] is contrasted with   [ ] and   [o ] with   [ ]. Both the grave and acute indicate stress;  /  and  /  are also contrasted with e [e], [ ] and o [o], [ ] or [ ] respectively. For historical reasons   appears in the words   and  s but is otherwise identical to   [a ]. The other vowels (i and u) only appear either without an accent or with a grave. Since the 1980s the SQA (which sets school standards and thus the de facto standard language) and most publishers have abandoned the acute accent, using grave accents in all situations (analogous to the use of the acute in Irish). However, universities, some publishers and many speakers continue to use acute accents.
+
+To mark low vowels:
+Portuguese. The vowels   /a/,   / / and   / / are stressed low vowels, in opposition to   / /,   /e/ and   /o/ which are stressed high vowels. However, the accent is only used in words whose stressed syllable is in an unpredictable location within the word: where the location of the stressed syllable is predictable, no accent is used, and the height of the stressed vowel cannot then usually be determined solely from the word's spelling.
+
+
+
+The acute accent marks long vowels in several languages:
+Classical Latin (the apex)
+Czech:  ,  ,  ,  ,  ,   are the long versions of a, e, i, o, u, y. The accent is known as  rka. To indicate a long u in the middle or at the end of a word, a krou ek (ring) is used instead, to form  .
+Hungarian:  ,  ,  ,  ,   are the long equivalents of the vowels a, e, i, o, u (the former two also implying a change in quality, see below), while  ,   (see double acute accent) are the long equivalents of  ,  .
+Irish:  ,  ,  ,  ,   are the long equivalents of the vowels a, e, i, o, u, for example, Se n (sounds like "Shawn"). The accent is known as a s neadh fada / i n   fad / (length accent), usually abbreviated to fada.
+Old Norse:  ,  ,  ,  ,  ,   are the long versions of a, e, i, o, u, y. Sometimes   is used as the long version of  , but   is used more often. Sometimes the short-lived Old Icelandic long   (also written  ) is written using an acute-accented form,  , or a version with a macron,  , but more often it is not distinguished from  , from which it is derived by u-mutation.
+Slovak. The acute accent is called d e  in Slovak. In addition to the long vowels  ,  ,  ,  ,   and   d e  is used to mark two syllabic consonants   and  , which are the long counterparts of syllabic r and l.
+Arabic and Persian:  ,  ,   were used in western transliteration of Islamic language texts from the 18th to early 20th centuries. Representing the long vowels, they are typically transcribed with a macron today. (But cf. Bah '  orthography.)
+The acute accent marks short vowels in:
+Ligurian. In the official orthography,   is used for the short [e], and   is used for the short [u] sound.
+
+
+
+A graphically similar, but not identical, mark is indicative of a palatalized sound in several languages.
+In Polish, such a mark is known as a kreska (English: stroke) and is an integral part of several letters: four consonants and one vowel. When appearing in consonants, it indicates palatalization, similar to the use of the h ek in Czech and other Slavic languages (e.g. sze  [ t ] "six"). However, in contrast to the h ek which is usually used for postalveolar consonants, the kreska denotes alveolo-palatal consonants. In traditional Polish typography, the kreska is more nearly vertical than the acute accent, and placed slightly right of center. A similar rule applies to the Belarusian Latin alphabet Lacinka. However, for computer use, Unicode conflates the codepoints for these letters with those of the accented Latin letters of similar appearance.
+In Serbo-Croatian, as in Polish, the letter   is used to represent a palatalized t.
+In the romanization of Macedonian,   and   represent the Cyrillic letters   and  , which stand for palatal or alveolo-palatal consonants, though gj and kj (or   and  ) are more commonly used for this purpose. The same two letters are used to transcribe the postulated Proto-Indo-European phonemes / / and /k /.
+
+
+
+In the Qu c Ng  system for Vietnamese, the Yale romanization for Cantonese and the Pinyin romanization for Mandarin Chinese, the acute accent indicates a rising tone. In Mandarin, the alternative to the acute accent is the number 2 after the syllable: l i = lai2. In Cantonese Yale, the acute accent is either tone 2, or tone 5 if the vowel(s) are followed by 'h' (if the number form is used, 'h' is omitted): m  = ma2, m h - ma5.
+In African languages and Athabaskan languages, it frequently marks a high tone, e.g., Yoruba ap  'arm', Nobiin f nt  'sweet date', Ekoti kal wa 'boat', Navajo t  'just'.
+The acute accent is used in Croatian dictionaries and linguistic publications to indicate a high-rising accent. It is not used in everyday writing.
+
+
+
+The acute accent is used to disambiguate certain words which would otherwise be homographs in the following languages:
+Catalan. Examples: s n "they are" vs. son "tiredness", m s "more" vs. mes "month".
+Danish. Examples:  n "one" vs. en "a/an"; f r "went" vs. for "for"; v d "know(s)" vs. ved "by"; g r "bark(s)" vs. g r "do(es)"; d r "die(s)" vs. d r "door"; all  "alley" vs. alle "everybody". Furthermore, it is also used for the imperative form of verbs ending in -ere, which lose their final e and might be mistaken for plurals of a noun (which most often end in -er): analys r is the imperative form of at analysere "to analyse", analyser is "analyses", plural of the noun analyse "analysis". Using an acute accent is always optional, never required.
+Modern Greek. Although all polysyllabic words have an acute accent on the stressed syllable, in monosyllabic words the presence or absence of an accent may disambiguate. The most common case is  , the feminine definite article ("the"), versus  , meaning "or". Other cases include   ("who"/"which") versus   ("where") and   ("that", as in "he told me that...") versus   ("how").
+Norwegian. It is used to indicate stress on a vowel otherwise not expected to have stress. Most words are stressed on the first syllable and diacritical marks are rarely used. Although incorrect, it is frequently used to mark the imperative form of verbs ending in -ere as it is in Danish: kontroll r is the imperative form of "to control", kontroller is the noun "controls". The simple past of the verb   fare, "to travel", can optionally be written f r, to distinguish it from for (preposition "for" as in English), f r "feed" n./"lining", or f r (only in Nynorsk) "narrow ditch, trail by plow (all the diacritics in these examples are optional.)
+Spanish. Covers various question word / relative pronoun pairs where the first is stressed and the second is a clitic, such as c mo (interrogative "how") and como (non-interrogative "how", comparative "like", "I eat"), differentiates qu  (what) from que (that), d nde and donde "where", and some other words such as t  "you" and tu "your," t  "tea" and te "you" (direct/indirect object),  l "he/him" and el ("the", masculine). This usage of the acute accent is called tilde diacr tica.
+Russian. Acute accents (technically, stress marks) are used in dictionaries to indicate the stressed syllable. They may also be optionally used to disambiguate both between minimal pairs, such as   (read as z mak, means "castle") and   (read as zam k, means "lock"), and between question words and relative pronouns such as   ("what", stressed, or "that", unstressed), similarly to Spanish. This is rare, however, as usually meaning is determined by context and no stress mark is written. The same rules apply to Ukrainian, Rusyn, Belarusian and Bulgarian.
+
+
+
+In Dutch, the acute accent can also be used to emphasize an individual word within a sentence. For example, Dit is  nze auto, niet die van jullie, "This is our car, not yours." In this example,  nze is merely an emphasized form of onze. Also in family names like Pi t, Pi l, Plusj , Hofst .
+In Danish, the acute accent can also be used for emphasis, especially on the word der (there), as in Der kan ikke v re mange mennesker d r, meaning "There can't be many people there" or D r skal vi hen meaning "That's where we're going".
+
+
+
+In Faroese, the acute accent is used on five of the vowels (a, i, o, u and y), but these letters,  ,  ,  ,   and   are considered separate letters with separate pronunciations.
+ : long [ a], short [ ] and before [a]: [ ]
+ / : long [ i ], short [ i]
+ : long [ u], [ u] or [ u], short: [ ], except Su uroy: [ ]
+When   is followed by the skerping -gv, it is pronounced [ ], except in Su uroy where it is [ ]
+
+ : long [ u], short [ ]
+When   is followed by the skerping -gv, it is pronounced [ ]
+
+In Hungarian, the acute accent marks a difference in quality on two vowels, apart from vowel length:
+The (short) vowel a is open back rounded ( ), but   is open front unrounded (a) (and long).
+Similarly, the (short) vowel e is open-mid front unrounded ( ), while (long)   is close-mid front unrounded (e).
+Despite this difference, these two pairs are arranged as equal in collation, just like the other pairs (see above) that only differ in length.
+
+In Icelandic the acute accent is used on all 6 of the vowels (a, e, i, o, u and y), and, like in Faroese, these are considered separate letters.
+
+ : [au( )]
+ : long [je ], short [j ]
+ / : [i( )]
+ : [ou( )]
+ : [u( )]
+All can be either short or long, but note that the pronunciation of   is not the same short and long.
+Etymologically, vowels with an acute accent in these languages correspond to their Old Norse counterparts, which were long vowels but in many cases have become diphthongs. The only exception is  , which in Faroese has become  .
+
+In Kashubian and Polish, the acute on " " indicates a pronunciation change into [u], and historically it was used to indicate a long vowel.
+In Turkmen, the letter   is a consonant: [j].
+
+
+
+Many Norwegian words of French origin retain an acute accent, such as all , kaf , id , komit . Popular usage can be sketchy and often neglects the accent, or results in the grave accent, erroneously being used in its place. Likewise, in Swedish, the acute accent is used only for the letter e, mostly in words of French origin and in some names. It is used both to indicate a change in vowel quantity as well as quality and that the stress should be on this, normally unstressed, syllable. Examples include caf  ("caf ") and resum  ("r sum ", noun). There are two pairs of homographs that are differentiated only by the accent: arm  ("army") versus arme ("poor; pitiful", masculine gender) and id  ("idea") versus ide ("winter quarters").
+  and   are used in Pashto in the Latin alphabet, equivalent to   and  , respectively.
+In Northern S mi, an acute accent was placed over the corresponding Latin letter to represent the letters peculiar to this language ( ,  ,  ,  ,  ,  ,  ) when typing when there was no way of entering these letters correctly otherwise.
+In transliterating texts written in Cuneiform, an acute accent over the vowel indicates that the original sign is the second representing that value in the canonical lists. Thus su is used to transliterate the first sign with the phonetic value /su/, while s  transliterates the second sign with the value /su/.
+In some Basque texts predating Standard Basque, the letters r and l carry acute accents (an invention by Sabino Arana), which are otherwise indicated by double letters. In such cases,   is used to represent rr (a trilled r, this spelling is used only internally in words, to differentiate between -r-, an alveolar tap in Basque /r/ in word-final positions is always trilled) and   for ll (a palatalized /l/).
+In Indonesian dictionaries,   is used to represent /e/, while e is used to represent / /.
+
+
+
+As with other diacritical marks, a number of (usually French) loanwords are sometimes spelled in English with an acute accent as used in the original language: these include attach , blas , canap , clich , communiqu , caf , d cor, d j  vu, d tente,  lite, entr e, expos , m l e, fianc , fianc e, papier-m ch , pass , p t , piqu , pli , repouss , r sum , risqu , saut , rou , s ance, na vet , toup e and touch . Retention of the accent is common only in the French ending   or  e, as in these examples, where its absence would tend to suggest a different pronunciation. Thus the French word r sum  is commonly seen in English as resum , with only one accent (but also with both or none).
+Acute accents are sometimes added to loanwords where a final e is not silent, for example, mat  from Spanish mate, the Maldivian capital Mal , sak , and Pok mon from the Japanese compound for pocket monster, the last three from languages which do not use the Roman alphabet, and where transcriptions do not normally use acute accents.
+For foreign terms used in English that have not been assimilated into English or are not in general English usage, italics are generally used with the appropriate accents: for example, coup d' tat, pi ce de r sistance, cr me br l e and ancien r gime.
+The acute accent is sometimes (though rarely) used for poetic purposes:
+It can mark stress on an unusual syllable: for example, cal ndar to indicate [k l n.d ] (rather than the standard [ k l. n.d ]).
+It can disambiguate stress where the distinction is metrically important: for example, r bel (as opposed to reb l), or  ll tr des, to show that the phrase is pronounced as a spondee, rather than the more natural iamb.
+It can indicate the sounding of an ordinarily silent letter: for example, pick d to indicate the pronunciation [ p k d], rather than standard [p kt] (the grave accent is more common for this last purpose).
+The layout of some European PC keyboards, combined with problematic keyboard-driver semantics, causes some users to use an acute accent or a grave accent instead of an apostrophe when typing in English (e.g. typing John`s or John s instead of John's).
+
+
+
+The ISO-8859-1 and Windows-1252 character encoding include the letters  ,  ,  ,  ,  ,  , and their respective capital forms. Dozens more letters with the acute accent are available in Unicode.
+
+
+
+On Windows computers, letters with acute accents can be created by holding down the alt key and typing in a three-number code on the number pad to the right of the keyboard before releasing the Alt key. Before the appearance of Spanish keyboards, Spanish speakers had to learn these codes if they wanted to be able to write acute accents, though some preferred using the Microsoft Word spell checker to add the accent for them. Some young computer users got in the habit of not writing accented letters at all. The codes (which come from the IBM PC encoding) are:
+160 for  
+130 for  
+161 for  
+162 for  
+163 for  
+On some non-US keyboard layouts (e.g. Hiberno-English), these letters can also be made by holding Ctrl+Alt (or Alt Gr) and the desired letter.
+
+
+
+To input an accented letter in a Microsoft Office software (Word, Powerpoint, Excel, Access, etc.), hold the Ctrl key, press the apostrophe (') key once, release the Ctrl key, and then press the desired letter.
+
+
+
+On a Macintosh computer, an acute accent is placed on a vowel by pressing   Option+e and then the vowel, which can also be capitalised; for example,   is formed by pressing   Option+e and then a, and   is formed by pressing   Option+e and then   Shift+a.
+
+
+
+Because keyboards have only a limited number of keys, English keyboards do not have keys for accented characters. The concept of dead key, a key that modified the meaning of the next key press, was developed to overcome this problem. This acute accent key was already present on typewriters where it typed the accent without moving the carriage, so a normal letter could be written on the same place.
+
+
+
+Some sites, such as Wikipedia or the Alta Vista automatic translator allow inserting such symbols by clicking on a link in a box.
+
+
+
+In the Dutch language some words (such as bl j f, m j , z j , and w j ten) should be spelled with an acute accent on both the i and j. When there is no character with an acute accent for the letter j, it is often spelled with a single acute accent (as in bl jf, m j, z j, w jten), which is orthographically incorrect.
+
+
+
+Acute (phonetics)
+Circumflex accent
+Double acute accent
+Grave accent
+
+
+
+
+
+
+Diacritics Project   All you need to design a font with correct accents
+Keyboard Help   Learn how to create world language accent marks and other diacriticals on a computer

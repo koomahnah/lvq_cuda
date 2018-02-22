@@ -1,0 +1,77 @@
+ADP-ribosylation is the addition of one or more ADP-ribose moieties to a protein. It is a reversible post-translational modification that is involved in many cellular processes, including cell signaling, DNA repair, gene regulation and apoptosis. Improper ADP-ribosylation has been implicated in some forms of cancer. It is also the basis for the toxicity of bacterial compounds such as cholera toxin, diphtheria toxin, and others.
+
+
+
+The first suggestion of ADP-ribosylation surfaced during the early 1960s. At this time, Pierre Chambon and coworkers observed the incorporation of ATP into hen liver nuclei extract. After extensive studies on the acid insoluble fraction, several different research laboratories were able to identify ADP-ribose, derived from NAD+, as the incorporated group. Several years later, the enzymes responsible for this incorporation were identified and given the name poly (ADP-ribose) polymerase. Originally, this group was thought to be a linear sequence of ADP-ribose units covalently bonded through a ribose glycosidic bond. It was later reported that branching can occur every 20 to 30 ADP residues.
+The first appearance of mono-ADP-ribosylation occurred a year later during a study of toxins: corynebacterium diphtheria diphtheria toxin was shown to be dependent on NAD+ in order for it to be completely effective, leading to the discovery of enzymatic conjugation of a single ADP-ribose group by mono-ADP-ribosyl transferase.
+It was initially thought that ADP-ribosylation was a post translational modification involved solely in gene regulation. However, as more enzymes with the ability to ADP-ribosylate proteins were discovered, the multifunctional nature of ADP-ribosylation became apparent. The first mammalian enzyme with poly-ADP-ribose transferase activity was discovered during the late 1980s. For the next 15 years, it was thought to be the only enzyme capable of adding a chain of ADP-ribose in mammalian cells. During the late 1980s, ADP-ribosyl cyclases, which catalyze the addition of cyclic-ADP-ribose groups to proteins, were discovered. Finally, Sir2 proteins were discovered to also possess mono-ADP-ribosyl transferase activity.
+
+
+
+
+The source of ADP-ribose for most enzymes that perform this modification is the redox cofactor NAD+. In this transfer reaction, the N-glycosidic bond of NAD+ that bridges the ADP-ribose molecule and the nicotinamide group is cleaved, followed by nucleophilic attack by the target amino acid side chain. ADP-ribosyltransferases can perform two types of modifications: mono-ADP ribosylation and poly-ADP ribosylation.
+
+
+
+Mono-ADP ribosyltransferases commonly catalyze the addition of ADP-ribose to arginine side chains using a highly conserved R-S-EXE motif. The reaction proceeds by breaking the bond between nicotinamide and ribose to form an oxonium ion. Next, the arginine side chain of the target protein then acts a nucleophile, attacking the electrophilic carbon adjacent to the oxonium ion. In order for this step to occur, the arginine nucleophile is deprotonated by a glutamate residue on the catalyzing enzyme. Another conserved glutamate residue forms a hydrogen bond with one of the hydroxyl groups on the ribose chain to further facilitate this nucleophilic attack. As a result of the cleavage reaction, nicotinamide is released. The modification can be reversed by ADP-ribosylhydrolases, which cleave the N-glycosidic bond between arginine and ribose to release ADP-ribose and unmodified protein; NAD+ is not restored by the reverse reaction.
+
+
+
+Poly-(ADP-ribose) polymerases (PARPs) are found mostly in eukaryotes and catalyze the transfer of multiple ADP-ribose molecules to target proteins. As with mono-ADP ribosylation, the source of ADP-ribose is NAD+. PARPs utilize a catalytic triad of His-Tyr-Glu to facilitate binding of NAD+ and positioning of the end of the existing poly-ADP ribose chain on the target protein; the Glu facilitates catalysis and formation of a (1->2) O-glycosidic linkage between two ribose molecules. There are several other enzymes that recognize poly-ADP ribose chains, hydrolyse them or form branches; over 800 proteins have been annotated to contain the loosely defined poly ADP-ribose binding motif; therefore, in addition to this modification altering target protein conformation and structure, it may also be used as a tag to recruit other proteins or for regulation of the target protein.
+
+
+
+
+
+
+During DNA damage or cellular stress PARPs are activated, leading to an increase in the amount of poly-ADP-ribose and a decrease in the amount of NAD+. For over a decade it was thought that PARP1 was the only poly-ADP-ribose polymerase in mammalian cells, therefore this enzyme has been the most studied. Caspases are a family of cysteine proteases that are known to play an essential role in programed cell death. This protease cleaves PARP-1 into two fragments, leaving it completely inactive, to limit poly-ADP-ribose production. One of its fragments migrates from the nucleus to the cytoplasm and is thought to become a target of autoimmunity.
+During caspase-independent apoptosis, also called parthanatos, poly-ADP-ribose accumulation can occur due to activation of PARPs or inactivation of poly-ADP-ribose glycohydrolase. Studies have shown poly-ADP-ribose drives the translocation of the apoptosis inducing factor protein to the nucleus where it will mediate DNA fragmentation. It has been suggested that if a failure of caspase activation under stress conditions were to occur, necroptosis would take place. Overactivation of PARPs has led to a necrotic cell death regulated by the tumor necrosis factor protein. Though the mechanism is not yet understood, PARP inhibitors have been shown to affect necroptosis.
+
+
+
+ADP-ribosylation can affect gene expression at nearly every level of regulation, including chromatin organization, transcription factor recruitment and binding, and mRNA processing.
+The organization of nucleosomes is key to regulation of gene expression: the spacing and organization of nucleosomes changes what regions of DNA are available for transcription machinery to bind and transcribe DNA. PARP1, a poly-ADP ribose polymerase, has been shown to affect chromatin structure and promote changes in the organization of nucleosomes through modification of histones.
+
+PARPs have been shown to affect transcription factor structure and cause recruitment of many transcription factors to form complexes at DNA and elicit transcription.Mono ADP-ribosyltransferases are also shown to affect transcription factor binding at promoters. For example, PARP14, a mono ADP-ribosyltransferase, has been shown to affect STAT transcription factor binding.
+Other ADP-ribosyltransferases have been shown to modify proteins that bind mRNA, which can cause silencing of that gene transcript.
+
+
+
+Poly-ADP- ribose polymerases can function in DNA repair of single strand breaks as well as double strand breaks. In single-strand break repair (base excision repair) the PARP can either facilitate removal of an oxidized sugar or strand cleavage. PARP1 binds the single-strand breaks and pulls any nearby base excision repair intermediates close. These intermediates include XRCC1 and APLF and they can be recruited directly or through the PBZ domain of the APLF. This leads to the synthesis of poly-ADP ribose. The PBZ domain is present in many proteins involved in DNA repair and allows for the binding of the PARP and thus ADP-ribosylation which recruits repair factors to interact at the break site. PARP2 is a secondary responder to DNA damage but serves to provide functional redundancy in DNA repair.
+
+There are many mechanisms for the repair of damaged double stranded DNA. PARP1 may function as a synapsis factor in alternative non-homologous end joining. Additionally, It has been proposed that PARP1 is required to slow replication forks following DNA damage and promotes homologous recombination at replication forks that may be dysfunctional. It is possible that PARP1 and PARP3 work together in repair of double-stranded DNA and it has been shown that PARP3 is critical for double-stranded break resolution. There are two hypotheses by which PARP1 and PARP3 coincide. The first hypothesis states that the two ADP-ribosyltransferases serve to function for each other s inactivity. If PARP3 is lost, this results in single-strand breaks, and thus the recruitment of PARP1. A second hypothesis suggests that the two enzyme work together; PARP3 catalyzes mono-ADP ribosylation and short poly-ADP ribosylation and serves to activate PARP1.
+The PARPs have many protein targets at the site of DNA damage. KU protein and DNA-PKcs are both double-stranded break repair components with unknown sites of ADP-ribosylation. Histones are another protein target of the PARPs. All core histones and linker histone H1 are ADP-ribosylated following DNA damage. The function of these modifications is still unknown, but it has been proposed that ADP-ribosylation modulates higher-order chromatin structure in efforts to facilitate more accessible sites for repair factors to migrate to the DNA damage.
+
+
+
+The Ubiquitin-Proteasome System (UPS) figures prominently in protein degradation. The 26S proteasome consists of a catalytic subunit (the 20S core particle), and a regulatory subunit (the 19S cap). Poly-ubiquitin chains tag proteins for degradation by the proteasome, which causes hydrolysis of tagged proteins into smaller peptides.
+Tankyrase (TNKS), an ADP-ribosyltransferase, interacts with proteasome regulator PI31. Evidence in Drosophila and human cell lines demonstrates that the Ankyrin domain (ANK) of TNKS facilitates interaction with the N-terminal TNKS-binding motif and C-terminal HbYX domain of PI31. This promotes ADP-ribosylation of PI31 by the PARP domain of TNKS. In addition, it was shown that treatment of Drosophila cells with a TNKS inhibitor, XAV939, attenuated 26S proteasome activity. Moreover, ADP-ribosylation of PI31 has been demonstrated to block PI31-mediated inhibition of  -subunits of the 20S particle. Therefore, a working hypothesis is that tankyrase-mediated ADP-ribosylation reduces PI31's activity, which in turn decreases protein degradation performed by the proteasome.
+
+
+
+
+
+
+PARP1 is involved in base excision repair (BER), single- and double-strand break repair, and chromosomal stability. It is also involved in transcriptional regulation through its facilitation of protein-protein interactions. PARP1 uses NAD+ in order to perform its function in apoptosis. If a PARP becomes overactive the cell will have decreased levels of NAD+ cofactor as well as decreased levels of ATP and thus will undergo necrosis. This is important in carcinogenesis because it could lead to the selection of PARP1 deficient cells (but not depleted) due to their survival advantage during cancer growth.
+Susceptibility to carcinogenesis under PARP1 deficiency depends significantly on the type of DNA damage incurred. There are many implications that various PARPs are involved in preventing carcinogenesis. As stated previously, PARP1 and PARP2 are involved in BER and chromosomal stability. PARP3 is involved in centrosome regulation. Tankyrase is another ADP-ribose polymerase that is involved in telomere length regulation.
+PARP1 inhibition has also been widely studied in anticancer therapeutics. The mechanism of action of a PARP1 inhibitor is to enhance the damage done by chemotherapy on the cancerous DNA by disallowing the reparative function of PARP1.
+PARP14 is another ADP-ribosylating enzyme that has been well-studied in regards to cancer therapy targets; it is a signal transducer and activator of STAT6 transcription-interacting protein, and was shown to be associated with the aggressiveness of B-cell lymphomas.
+
+
+
+Bacterial ADP-Ribosylating Exotoxins (bAREs) covalently transfer an ADP-Ribose moiety of NAD+ to target proteins of infected eukaryotes, to yield nicotinamide and a free hydrogen ion. bAREs are produced as enzyme precursors, consisting of a "A" and "B" domains: the "A" domain is responsible for ADP-Ribosylation activity; and, the "B" domain for translocation of the enzyme across the membrane of the cell. These domains can exist in concert in three forms: first, as single polypeptide chains with A and B domains covalently linked; second, in multi-protein complexes with A and B domains bound by non-covalent interactions; and, third, in multi-protein complexes with A and B domains not directly interacting, prior to processing.
+
+Upon activation, bAREs ADP-Ribosylate any number of eukaryotic proteins; such mechanism is crucial to the instigation of the diseased states associated with ADP-Ribosylation. GTP-binding proteins, in particular, are well-established in bAREs pathophysiology. For examples, Cholera and heat-labile enterotoxin target the  -subunit of Gs of hereotrimeric GTP-binding proteins. As the  -subunit is ADP-ribosylated, it is permanently in an "active", GTP-bound state; subsequent activation of intracellular cyclic AMP stimulates the release of fluid and ions from intestinal epithelial cells. Furthermore, C3 ADP-Ribosylates GTP-binding proteins Rho and Ras, and Pertussis ADP-Ribosylates Gi, Go, and Gt. In Diphtheria, ADP-Ribosylates ribosomal elongation factor EF-2, which attenuates protein synthesis.
+There are a variety of bacteria which employ bAREs in infection: Cholera of Vibrio cholera; heat-labile enterotoxin of E.Coli; Exotoxin A of Pseudomonas aeruginosa; Pertussis toxin of B. Pertussis; C3 toxin of C. botinulum; and Diphtheria toxin of Corynebacterium diphtheriae.
+
+
+
+Histone code
+Cell signaling
+PARP-1
+Cholera toxin
+NAD+ ADP-ribosyltransferase
+Pertussis toxin
+Post-translational modification
+
+

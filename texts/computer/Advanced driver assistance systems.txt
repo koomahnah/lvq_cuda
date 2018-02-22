@@ -1,0 +1,45 @@
+Advanced Driver Assistance Systems, or ADAS, are systems to help the driver in the driving process. When designed with a safe Human-Machine Interface, they should increase car safety and more generally road safety.
+
+
+
+Advanced driver assistance systems (ADAS) are systems developed to automate/adapt/enhance vehicle systems for safety and better driving. Safety features are designed to avoid collisions and accidents by offering technologies that alert the driver to potential problems, or to avoid collisions by implementing safeguards and taking over control of the vehicle. Adaptive features may automate lighting, provide adaptive cruise control, automate braking, incorporate GPS/ traffic warnings, connect to smartphones, alert driver to other cars or dangers, keep the driver in the correct lane, or show what is in blind spots.
+There are many forms of ADAS available; some features are built into cars or are available as an add-on package. Also, there are aftermarket solutions available for some late model cars.
+Advanced driver assistance systems are one of the fastest-growing segments in automotive electronics.
+ADAS technology can be based upon vision/camera systems, sensor technology, car data networks, Vehicle-to-vehicle (V2V), or Vehicle-to-Infrastructure systems.
+Next-generation ADAS will increasingly leverage wireless network connectivity to offer improved value by using car-to-car and car-to-infrastructure data. 
+
+
+
+On March 31, 2014,the U.S. Department of Transportation s National Highway Traffic Safety Administration (NHTSA) announced that it will require all new vehicles under 10,000 pounds to have rear view cameras by May 2018. The rule was required by Congress as part of the Cameron Gulbransen Kids Transportation Safety Act of 2007. The Act is named after two-year-old Cameron Gulbransen, who was killed when his father failed to see the toddler, and accidentally backed over him in the family s driveway.
+GM offered the first vibrating seat warning ever available, in Cadillacs starting with the 2013 Cadillac ATS. If the driver begins drifting out of the traveling lane of a highway, the seat vibrates on the side of the lane warning the driver of danger. The Safety Alert Seat also provides a vibrating pulse on both sides of the seat when a frontal threat is detected.
+Alcohol Ignition interlock devices do not allow the driver to start the car if the breath alcohol level is above a predescribed amount. The Automotive Coalition for Traffic Safety and the National Highway Traffic Safety Administration have called for a Driver Alcohol Detection System for Safety (DADSS) program to put alcohol detection devices in all cars.
+
+
+
+Adaptive cruise control (ACC)
+Adaptive high beam
+Glare-free high beam and pixel light
+Adaptive light control: swivelling curve lights
+Automatic parking
+Automotive navigation system with typically GPS and TMC for providing up-to-date traffic information.
+Automotive night vision
+Blind spot monitor
+Collision avoidance system (Precrash system)
+Crosswind stabilization
+Driver drowsiness detection
+Driver Monitoring System
+Electric vehicle warning sounds used in hybrids and plug-in electric vehicles
+Emergency driver assistant
+Forward Collision Warning
+Intersection assistant
+Hill descent control
+Intelligent speed adaptation or intelligent speed advice (ISA)
+Lane departure warning system
+Lane change assistance
+Pedestrian protection system
+Traffic sign recognition
+Turning assistant
+Vehicular communication systems
+Wrong-way driving warning
+
+

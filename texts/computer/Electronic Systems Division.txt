@@ -1,0 +1,50 @@
+Electronic Systems Center was a product center of Air Force Materiel Command (AFMC) headquartered at Hanscom Air Force Base, Massachusetts. Its mission was to develop and acquire command and control, communications, computer, and intelligence systems. ESC consisted of professional teams specializing in engineering, computer science, and business management. The teams supervised the design, development, testing, production, and deployment of command and control systems. Two of ESC's most well-known developments were the Airborne Warning and Control System (AWACS), developed in the 1970s, and the Joint Surveillance Target Attack Radar System (JointSTARS), developed in the 1980s.
+The Electronic Systems Center recently entered its fifth decade as the Air Force s organization for developing and acquiring Command and Control (C2) systems. As of December 2004, ESC managed approximately two hundred programs ranging from secure communications systems to mission planning systems. ESC has an annual budget of over $3 billion and more than eighty-seven hundred personnel. In addition to the Air Force, ESC works with other branches of the U.S. military, the North American Aerospace Defense Command (NORAD), the National Aeronautics and Space Administration (NASA), the Federal Aviation Administration (FAA), the North Atlantic Treaty Organisation (NATO), and foreign governments.
+Due to restructuring within the Air Force Materiel Command, ESC was inactivated on 1 October 2012.
+
+
+
+ESC was originally activated as the Electronic Systems Division (ESD) on 1 April 1961 at Laurence G. Hanscom Field in Bedford, MA. ESD was placed under the newly established Air Force Systems Command.
+The Electronic Systems Division had emerged after a decade of efforts to meet a major post-war threat to the North American continent attack by long-range, nuclear-armed bombers. At Hanscom Field, the Massachusetts Institute of Technology s new Lincoln Laboratory (1951) and later the MITRE Corporation (1958) had worked to bring the Semi Automatic Ground Environment (SAGE) air defense system to completion. The pioneering integrated radar and computer technology that was developed for SAGE also contributed significantly to the development of air traffic control systems.
+ESD had an original portfolio of thirteen Command, Control and Communications (C3) systems. The appearance of ballistic missiles to carry nuclear warheads spurred a second wave of defense efforts the construction of the Ballistic Missile Early Warning System (BMEWS) and a survivable new command center for the North American Air Defense Command in the underground Cheyenne Mountain Complex in Colorado. New weapons systems and space platforms led to enlarged ESD C3 programs.
+ESD s first radar systems were ground-based, but in the 1960s the organization expanded into airborne radar systems. In overcoming the  ground clutter  problem, the 1970s Airborne Warning and Control System (AWACS) represented a technological achievement for airspace surveillance. It was joined in the later 1980s by the Joint Surveillance Target Attack Radar System (Joint STARS). While still under development, Joint STARS was pressed into service for the Gulf War to monitor movement on the battlefield. Other ESD programs focused on creating secure communications systems, air defense systems for allied nations, command centers, intelligence data transmission, air traffic control systems, and computer-based training systems.
+In 1992, the Air Force Systems Command and the Air Force Logistics Command were merged to form the Air Force Materiel Command (AFMC). ESD was re-designated the Electronic Systems Center (ESC), and the organization was placed under the new AFMC. Two years later, ESC was enlarged to become the AFMC Center of Excellence for Command and Control, with headquarters at Hanscom. Several geographically-separated units were added to the Center. Currently, the 66th Air Base Wing, 350th Electronic Systems Wing, 551st Electronic Systems Wing, 554th Electronic Systems Wing, and 653d Electronic Systems Wing all report to the ESC Commander.
+Since the later years of the Cold War, ESC has worked to upgrade its key radar, command center, and communications systems. The decade of the 1990s presented new challenges for the expanded Center in the form of regional conflicts, joint and coalition engagements, terrorism, and asymmetric warfare. In response, ESC developed programs to work towards integration and interoperability in C2 systems. By presenting systems in action via several interactive C2 demonstrations, ESC engaged in ongoing dialogue with its customers. The Center then undertook a major restructure of its acquisition processes starting in 1996.  Spiral development  was introduced to achieve state-of-the-art systems in a timely, flexible, and cost-effective approach. One of the more successful contributing innovations of the time was RiskHammer, now known as the program RiskAoA.
+The pace of these initiatives had gained momentum by the start of the 21st century. Center programs developed automated systems for Air Tasking Orders, weather, mission planning, and management information, together with enhanced force protection for Air Force personnel on the ground. For the series of Joint Expeditionary Force Experiments (JEFX) starting in 1998, ESC managed the insertion of new C2 and information technology. At the same time, its work on standardizing C2 infrastructure and creating architectures laid the groundwork for further system integration.
+In 2001, the Air Force gave ESC the lead responsibility to integrate its command and control, intelligence, surveillance, and reconnaissance systems the C2 Enterprise Integration. Integrated C2ISR capabilities will enable the development of network-centric warfare and provide an asymmetric force advantage. Today, ESC is pursuing a major initiative to standardize and upgrade C2ISR capabilities at Air Operations Centers, with the goal of realizing the Aerospace Operations Center of the future.
+Due to a major Air Force Materiel Command (AFMC) restructuring announced on 2 November 2011, ESC will be inactivated no later than 1 October 2012. The role of ESC, along with the Aeronautical Systems Center (ASC) and the Air Armament Center (AAC), will be consolidated into the new Air Force Life Cycle Management Center (LCMC). This, along with other measures, will save up to $109 million for the Air Force annually. The new LCMC will be headquartered at Wright-Patterson AFB. The highest-ranking officer at Hanscom AFB after the reorganization will be a major general, who will be the Program Executive Officer for the C3I and Networks AFPEO. The main purpose of the reorganization is to eliminate excess headquarter and staff type positions throughout AFMC.
+ESC transition ceremony took place 16 July 2012, Hanscom AFB is now officially part of the AFLCMC.
+
+
+
+Constituted as the Electronic Systems Division on 20 March 1961
+Activated on 1 Apr 61
+Redesignated Electronic Systems Center on 1 July 92
+Inactivated on 1 October 2012
+
+
+
+Air Force Systems Command, 1 April 1961
+Air Force Materiel Command, 1 July 1992 - 1 October 2012 (attached to Air Force Life Cycle Management Center after 16 July 2012)
+
+
+
+Hanscom Air Force Base, 1 April 1961 - 1 October 2012
+
+
+
+
+
+
+
+
+
+
+ This article incorporates public domain material from websites or documents of the Air Force Historical Research Agency.
+
+
+
+"ESC becomes part of AFLCMC; Mission work remains at Hanscom". 2012-07-17. 
+Electronic Systems Center
+Official factsheet
+554 ELSW official factsheet

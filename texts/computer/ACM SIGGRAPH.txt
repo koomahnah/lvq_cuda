@@ -1,0 +1,30 @@
+ACM SIGGRAPH is the New York based Association for Computing Machinery's Special Interest Group on Computer Graphics and Interactive Techniques. It was founded in 1969 by Andy van Dam (its direct predecessor, ACM SICGRAPH was founded two years earlier in 1967).
+ACM SIGGRAPH convenes the annual SIGGRAPH conference, attended by tens of thousands of computer professionals. The organization also sponsors other conferences around the world, and regular events are held by its professional and student chapters in several countries. The organization's stated values are excellence, integrity, volunteerism, passion and cross-disciplinary interaction.
+
+
+
+
+
+
+The Professional and Student Chapters Committee (PSCC) is the leadership group that oversees the activities of ACM SIGGRAPH Chapters around the world. Within their local areas, Chapters continue the work of ACM SIGGRAPH on a year-round basis via their meetings and other activities. Each ACM SIGGRAPH Professional and Student Chapter consists of individuals involved in education, research & development, the arts, industry and entertainment. ACM SIGGRAPH Chapter members are interested in the advancement of computer graphics and interactive techniques, its related technologies and applications.
+
+
+
+The International Resources Committee (IRC) facilitates throughout the year worldwide collaboration in the ACM SIGGRAPH community, provides an English review service to help submitters whose first language is not English, and encourages participation in all SIGGRAPH conference venues, activities, and events.
+
+
+
+Association for Computing Machinery
+ACM Transactions on Graphics
+Computer Graphics, its defunct quarterly periodical publication.
+SIGGRAPH Conferences
+
+
+
+
+
+
+ACM SIGGRAPH wiki
+ACM SIGGRAPH website
+ACM SIGGRAPH blog
+ACM SIGGRAPH chapters

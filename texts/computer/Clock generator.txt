@@ -1,0 +1,30 @@
+A clock generator is a circuit that produces a timing signal (known as a clock signal and behaves as such) for use in synchronizing a circuit's operation. The signal can range from a simple symmetrical square wave to more complex arrangements. The basic parts that all clock generators share are a resonant circuit and an amplifier.
+The resonant circuit is usually a quartz piezo-electric oscillator, although simpler tank circuits and even RC circuits may be used.
+The amplifier circuit usually inverts the signal from the oscillator and feeds a portion back into the oscillator to maintain oscillation.
+The generator may have additional sections to modify the basic signal. The 8088 for example, used a 2/3 duty cycle clock, which required the clock generator to incorporate logic to convert the 50/50 duty cycle which is typical of raw oscillators.
+Other such optional sections include frequency divider or clock multiplier sections. Programmable clock generators allow the number used in the divider or multiplier to be changed, allowing any of a wide variety of output frequencies to be selected without modifying the hardware.
+The clock generator in a motherboard is often changed by computer enthusiasts to control the speed of their CPU, FSB, GPU and RAM. Typically the programmable clock generator is set by the BIOS at boot time to the selected value; although some systems have dynamic frequency scaling, which frequently re-programs the clock generator.
+
+
+
+TSGs are clocks that are used throughout service provider networks, frequently as the Building Integrated Timing Supply (BITS) for a central office.
+Digital switching systems and some transmission systems (e.g., SONET) depend on reliable, high-quality synchronization (or timing) to prevent impairments. To provide this, most service providers utilize interoffice synchronization distribution networks based on the stratum hierarchy, and implement the BITS concept to meet intraoffice synchronization needs.
+A TSG is clock equipment that accepts input timing reference signals and generates output timing reference signals. The input reference signals can be either DS1 or Composite Clock (CC) signals, and the output signals can also be DS1 or CC signals (or both). A TSG is made up of the six components listed below:
+An input timing interface that accepts DS1 or CC input signals
+A timing generation component that creates the timing signals used by the output timing distribution component
+An output timing distribution component that utilizes the timing signals from the timing generation component to create multiple DS1 and CC output signals
+A Performance Monitoring (PM) component that monitors the timing characteristics of the input signals
+An alarm interface that connects to the Central Office (CO) alarm monitoring system
+An operations interface for local craftsperson use and communications with remote operations systems.
+
+
+
+Clock signal
+Crystal oscillator
+
+
+
+Datasheets of clock generators from Nuvoton / Winbond
+Datasheets of clock generators from IDT
+Datasheets of clock generators from Realtek
+Datasheets of clock generators from Pericom Semiconductor

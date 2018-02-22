@@ -1,0 +1,27 @@
+Extensible Forms Description Language (XFDL) is a class of the Extensible Markup Language (XML) originally specified in World Wide Web Consortium (W3C) Note. See Specifications below for links to the current versions of XFDL. XFDL is a high-level computer language that facilitates defining a form as a single, stand-alone object using XML elements and attributes. It offers precise control over form layout, permitting replacement of existing business/government forms with electronic documents in a human-readable, open standard.
+In addition to precision layout control, XFDL provides multiple page capabilities, step-by-step guided user experiences, and digital signatures. XFDL also provides a syntax for in-line mathematical and conditional expressions and data validation constraints as well as custom items, options, and external code functions. Current versions of XFDL (see Specifications below) are capable of providing these interactive features via open standard markup languages including XForms, XPath, XML Schema and XML Signatures.
+XFDL not only supports multiple digital signatures, but the signatures can apply to specific sections of a form and prevent changes to signed content.
+These advantages to XFDL have led large organizations such as the United States Army and Air Force to migrate to XFDL from forms in other formats. Recently, though, the lack of portable software capable of creating XFDL has as of 2012 led them to investigate moving away from it, with the Army expecting to complete a migration to Adobe Fillable Forms in 2014.
+
+
+
+
+
+
+Extensible Markup Language (XML) 1.0 (Fifth Edition), W3C Recommendation, 26 NOV 2008.
+XML Coverpages
+Boyer, John: "XFDL: The Extensible Forms Description Language - An XML-based forms language for e-commerce." July 22, 2001.
+United States Army Publishing Directorate
+USAF webpage with public downloadable XFDL reader: see "items of interest" link on right side of page for viewer download.
+See also XML Paper Specification (XPS)
+
+
+
+Extensible Forms Description Language (XFDL) 8.0
+Extensible Forms Description Language (XFDL) 7.7
+Extensible Forms Description Language (XFDL) 4.0
+
+
+
+IBM Forms Designer
+See XML editor for XML editors and other editing tools.

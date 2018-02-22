@@ -1,0 +1,26 @@
+An amino acid transporter is a membrane transport protein that transports amino acids. They are mainly of the solute carrier family.
+
+
+
+(1) high affinity glutamate and neutral amino acid transporter
+(3) heavy subunits of heteromeric amino acid transporters
+(6) Bacterial Leucine Transporter (LeuT) 
+(7) cationic amino acid transporter/glycoprotein-associated
+(15) proton oligopeptide cotransporter
+(17) vesicular glutamate transporter
+(18) vesicular amine transporter
+(25) some mitochondrial carriers
+(26) multifunctional anion exchanger
+(32) vesicular inhibitory amino acid transporter
+(36) proton-coupled amino acid transporter
+(38) System A & N, sodium-coupled neutral amino acid transporter
+
+
+
+Vesicular inhibitory amino acid transporter (VIAAT) is responsible for the storage of GABA and glycine in neuronal synaptic vesicles.
+
+
+
+ATA2; SLC32A1; SLC36A1; SLC36A2; SLC36A3; SLC36A4; SLC38A1; SLC38A2; SLC38A3; SLC38A4; SLC38A5; SLC38A6;
+
+

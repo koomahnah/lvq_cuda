@@ -1,0 +1,9 @@
+In enzymology, a 3-hydroxyisobutyryl-CoA hydrolase (EC 3.1.2.4) is an enzyme that catalyzes the chemical reaction
+3-hydroxy-2-methylpropanoyl-CoA + H2O  CoA + 3-hydroxy-2-methylpropanoate
+Thus, the two substrates of this enzyme are 3-hydroxy-2-methylpropanoyl-CoA and H2O, whereas its two products are CoA and 3-hydroxy-2-methylpropanoate.
+This enzyme belongs to the family of hydrolases, specifically those acting on thioester bonds. The systematic name of this enzyme class is 3-hydroxy-2-methylpropanoyl-CoA hydrolase. Other names in common use include 3-hydroxy-isobutyryl CoA hydrolase, and HIB CoA deacylase. This enzyme participates in 3 metabolic pathways: valine, leucine and isoleucine degradation, beta-alanine metabolism, and propanoate metabolism.
+
+
+
+
+Rendina G and Coon MJ (1957). "Enzymatic hydrolysis of the coenzyme A thiol esters of beta-hydroxypropionic and beta-hydroxyisobutyric acids". J. Biol. Chem. 225 (1): 523 534. PMID 13457352.

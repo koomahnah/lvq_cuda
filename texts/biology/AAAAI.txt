@@ -1,0 +1,90 @@
+Pseudomonas is a genus of Gram-negative, aerobic gammaproteobacteria, belonging to the family Pseudomonadaceae containing 191 validly described species. The members of the genus demonstrate a great deal of metabolic diversity, and consequently are able to colonize a wide range of niches. Their ease of culture in vitro and availability of an increasing number of Pseudomonas strain genome sequences has made the genus an excellent focus for scientific research; the best studied species include P. aeruginosa in its role as an opportunistic human pathogen, the plant pathogen P. syringae, the soil bacterium P. putida, and the plant growth-promoting P. fluorescens.
+Because of their widespread occurrence in water and plant seeds such as dicots, the pseudomonads were observed early in the history of microbiology. The generic name Pseudomonas created for these organisms was defined in rather vague terms by Walter Migula in 1894 and 1900 as a genus of Gram-negative, rod-shaped and polar-flagellated bacteria with some sporulating species, the latter statement was later proved incorrect and was due to refractive granules of reserve materials. Despite the vague description, the type species, Pseudomonas pyocyanea (basonym of Pseudomonas aeruginosa), proved the best descriptor.
+
+
+
+Like most bacterial genera, the pseudomonad last common ancestor lived hundreds of millions of years ago. They were initially classified at the end of the 19th century when first identified by Walter Migula. The etymology of the name was not specified at the time and first appeared in the seventh edition of Bergey's Manual of Systematic Bacteriology (the main authority in bacterial nomenclature) as Greek pseudes ( ) "false" and -monas ( / ) "a single unit", which can mean false unit; however, Migula possibly intended it as false Monas, a nanoflagellated protist (subsequently, the term "monad" was used in the early history of microbiology to denote unicellular organisms). Soon, other species matching Migula's somewhat vague original description were isolated from many natural niches and, at the time, many were assigned to the genus. However, many strains have since been reclassified, based on more recent methodology and use of approaches involving studies of conservative macromolecules.
+Recently, 16S rRNA sequence analysis has redefined the taxonomy of many bacterial species. As a result, the genus Pseudomonas includes strains formerly classified in the genera Chryseomonas and Flavimonas. Other strains previously classified in the genus Pseudomonas are now classified in the genera Burkholderia and Ralstonia.
+In 2000, the complete genome sequence of a Pseudomonas species was determined; more recently, the sequence of other strains has been determined, including P. aeruginosa strains PAO1 (2000), P. putida KT2440 (2002), P. protegens Pf-5 (2005), P. syringae pathovar tomato DC3000 (2003), P. syringae pathovar syringae B728a (2005), P. syringae pathovar phaseolica 1448A (2005), P. fluorescens Pf0-1, and P. entomophila L48.
+
+
+
+Members of the genus display these defining characteristics:
+Rod-shaped
+Gram-negative
+One or more polar flagella, providing motility
+Aerobic
+Nonspore-forming
+Positive catalase test
+positive oxidase test
+Other characteristics that tend to be associated with Pseudomonas species (with some exceptions) include secretion of pyoverdine, a fluorescent yellow-green siderophore under iron-limiting conditions. Certain Pseudomonas species may also produce additional types of siderophore, such as pyocyanin by Pseudomonas aeruginosa and thioquinolobactin by Pseudomonas fluorescens,. Pseudomonas species also typically give a negative result to the oxidase test, the absence of gas formation from glucose, glucose is oxidised in oxidation/fermentation test using Hugh and Leifson O/F test, beta hemolytic (on blood agar), indole negative, methyl red negative, Voges Proskauer test negative, and citrate positive.
+Pseudomonas may be the most common nucleator of ice crystals in clouds, thereby being of utmost importance to the formation of snow and rain around the world.
+
+
+
+All species and strains of Pseudomonas have historically been classified as strict aerobes. Exceptions to this classification have recently been discovered in Pseudomonas biofilms. A significant number of cells can produce exopolysaccharides associated with biofilm formation. Secretion of exopolysaccharides such as alginate makes it difficult for pseudomonads to be phagocytosed by mammalian white blood cells. Exopolysaccharide production also contributes to surface-colonising biofilms that are difficult to remove from food preparation surfaces. Growth of pseudomonads on spoiling foods can generate a "fruity" odor.
+
+
+
+Being Gram-negative bacteria, most Pseudomonas spp. are naturally resistant to penicillin and the majority of related beta-lactam antibiotics, but a number are sensitive to piperacillin, imipenem, ticarcillin, or ciprofloxacin. Aminoglycosides such as tobramycin, gentamicin, and amikacin are other choices for therapy.
+This ability to thrive in harsh conditions is a result of their hardy cell walls that contain porins. Their resistance to most antibiotics is attributed to efflux pumps, which pump out some antibiotics before they are able to act.
+Pseudomonas aeruginosa is increasingly recognized as an emerging opportunistic pathogen of clinical relevance. One of its most worrying characteristics is its low antibiotic susceptibility. This low susceptibility is attributable to a concerted action of multidrug efflux pumps with chromosomally encoded antibiotic resistance genes (e.g., mexAB-oprM, mexXY, etc.,) and the low permeability of the bacterial cellular envelopes. Besides intrinsic resistance, P. aeruginosa easily develops acquired resistance either by mutation in chromosomally encoded genes or by the horizontal gene transfer of antibiotic resistance determinants. Development of multidrug resistance by P. aeruginosa isolates requires several different genetic events that include acquisition of different mutations and/or horizontal transfer of antibiotic resistance genes. Hypermutation favours the selection of mutation-driven antibiotic resistance in P. aeruginosa strains producing chronic infections, whereas the clustering of several different antibiotic resistance genes in integrons favours the concerted acquisition of antibiotic resistance determinants. Some recent studies have shown phenotypic resistance associated to biofilm formation or to the emergence of small-colony-variants may be important in the response of P. aeruginosa populations to antibiotic treatment.
+
+
+
+The studies on the taxonomy of this complicated genus groped their way in the dark while following the classical procedures developed for the description and identification of the organisms involved in sanitary bacteriology during the first decades of the 20th century. This situation sharply changed with the proposal to introduce as the central criterion the similarities in the composition and sequences of macromolecular components of the ribosomal RNA. The new methodology clearly showed the genus Pseudomonas, as classically defined, consists of a conglomerate of genera that could clearly be separated into five so-called rRNA homology groups. Moreover, the taxonomic studies suggested an approach that might prove useful in taxonomic studies of all other prokaryotic groups. A few decades after the proposal of the new genus Pseudomonas by Migula in 1894, the accumulation of species names assigned to the genus reached alarming proportions. The number of species in the current list has contracted more than 90%. In fact, this approximated reduction may be even more dramatic if one considers the present list contains many new names; i.e., relatively few names of the original list survived in the process. The new methodology and the inclusion of approaches based on the studies of conservative macromolecules other than rRNA components constitutes an effective prescription that helped to reduce Pseudomonas nomenclatural hypertrophy to a manageable size.
+
+
+
+
+
+
+
+Infectious species include P. aeruginosa, P. oryzihabitans, and P. plecoglossicida. P. aeruginosa flourishes in hospital environments, and is a particular problem in this environment, since it is the second-most common infection in hospitalized patients (nosocomial infections). This pathogenesis may in part be due to the proteins secreted by P. aeruginosa. The bacterium possesses a wide range of secretion systems, which export numerous proteins relevant to the pathogenesis of clinical strains.
+
+
+
+P. syringae is a prolific plant pathogen. It exists as over 50 different pathovars, many of which demonstrate a high degree of host-plant specificity. Numerous other Pseudomonas species can act as plant pathogens, notably all of the other members of the P. syringae subgroup, but P. syringae is the most widespread and best-studied.
+Although not strictly a plant pathogen, P. tolaasii can be a major agricultural problem, as it can cause bacterial blotch of cultivated mushrooms. Similarly, P. agarici can cause drippy gill in cultivated mushrooms.
+
+
+
+Since the mid-1980s, certain members of the Pseudomonas genus have been applied to cereal seeds or applied directly to soils as a way of preventing the growth or establishment of crop pathogens. This practice is generically referred to as biocontrol. The biocontrol properties of P. fluorescens and P. protegens strains (CHA0 or Pf-5 for example) are currently best-understood, although it is not clear exactly how the plant growth-promoting properties of P. fluorescens are achieved. Theories include: the bacteria might induce systemic resistance in the host plant, so it can better resist attack by a true pathogen; the bacteria might outcompete other (pathogenic) soil microbes, e.g. by siderophores giving a competitive advantage at scavenging for iron; the bacteria might produce compounds antagonistic to other soil microbes, such as phenazine-type antibiotics or hydrogen cyanide. Experimental evidence supports all of these theories.
+Other notable Pseudomonas species with biocontrol properties include P. chlororaphis, which produces a phenazine-type antibiotic active agent against certain fungal plant pathogens, and the closely related species P. aurantiaca, which produces di-2,4-diacetylfluoroglucylmethane, a compound antibiotically active against Gram-positive organisms.
+
+
+
+Some members of the genus are able to metabolise chemical pollutants in the environment, and as a result, can be used for bioremediation. Notable species demonstrated as suitable for use as bioremediation agents include:
+P. alcaligenes, which can degrade polycyclic aromatic hydrocarbons.
+P. mendocina, which is able to degrade toluene.
+P. pseudoalcaligenes, which is able to use cyanide as a nitrogen source.
+P. resinovorans, which can degrade carbazole.
+P. veronii, which has been shown to degrade a variety of simple aromatic organic compounds.
+P. putida, which has the ability to degrade organic solvents such as toluene. At least one strain of this bacterium is able to convert morphine in aqueous solution into the stronger and somewhat expensive to manufacture drug hydromorphone (Dilaudid).
+Strain KC of P. stutzeri, which is able to degrade carbon tetrachloride.
+
+
+
+As a result of their metabolic diversity, ability to grow at low temperatures, and ubiquitous nature, many Pseudomonas species can cause food spoilage. Notable examples include dairy spoilage by P. fragi, mustiness in eggs caused by P. taetrolens and P. mudicolens, and P. lundensis, which causes spoilage of milk, cheese, meat, and fish.
+
+
+
+Recently, 16S rRNA sequence analysis redefined the taxonomy of many bacterial species previously classified as being in the Pseudomonas genus. Species that moved from the Pseudomonas genus are listed below; clicking on a species will show its new classification. The term 'pseudomonad' does not apply strictly to just the Pseudomonas genus, and can be used to also include previous members such as the genera Burkholderia and Ralstonia.
+  proteobacteria: P. abikonensis, P. aminovorans, P. azotocolligans, P. carboxydohydrogena, P. carboxidovorans, P. compransoris, P. diminuta, P. echinoides, P. extorquens, P. lindneri, P. mesophilica, P. paucimobilis, P. radiora, P. rhodos, P. riboflavina, P. rosea, P. vesicularis.
+  proteobacteria: P. acidovorans, P. alliicola, P. antimicrobica, P. avenae, P. butanovorae, P. caryophylli, P. cattleyae, P. cepacia, P. cocovenenans, P. delafieldii, P. facilis, P. flava, P. gladioli, P. glathei, P. glumae, P. graminis, P. huttiensis, P. indigofera, P. lanceolata, P. lemoignei, P. mallei, P. mephitica, P. mixta, P. palleronii, P. phenazinium, P. pickettii, P. plantarii, P. pseudoflava, P. pseudomallei, P. pyrrocinia, P. rubrilineans, P. rubrisubalbicans, P. saccharophila, P. solanacearum, P. spinosa, P. syzygii, P. taeniospiralis, P. terrigena, P. testosteroni.
+ -  proteobacteria: P. beteli, P. boreopolis, P. cissicola, P. geniculata, P. hibiscicola, P. maltophilia, P. pictorum.
+  proteobacteria: P. beijerinckii, P. diminuta, P. doudoroffii, P. elongata, P. flectens, P. halodurans, P. halophila, P. iners, P. marina, P. nautica, P. nigrifaciens, P. pavonacea, P. piscicida, P. stanieri.
+  proteobacteria: P. formicans.
+
+
+
+There are a number of bacteriophage that infect Pseudomonas, e.g.
+Pseudomonas phage  6
+Pseudomonas aeruginosa phage EL 
+Pseudomonas aeruginosa phage  KMV 
+Pseudomonas aeruginosa phage LKD16 
+Pseudomonas aeruginosa phage LKA1 
+Pseudomonas aeruginosa phage LUZ19
+Pseudomonas aeruginosa phage  KZ 
+
+

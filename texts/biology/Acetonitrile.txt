@@ -1,0 +1,67 @@
+Acetonitrile is the chemical compound with the formula CH
+3CN. This colourless liquid is the simplest organic nitrile (hydrogen cyanide is a simpler nitrile, but the cyanide anion is not classed as organic). It is produced mainly as a byproduct of acrylonitrile manufacture. It is used as a polar aprotic solvent in organic synthesis and in the purification of butadiene.
+In the laboratory, it is used as a medium-polarity solvent that is miscible with water and a range of organic solvents, but not saturated hydrocarbons. It has a convenient liquid range and a high dielectric constant of 38.8. With a dipole moment of 3.92 D, acetonitrile dissolves a wide range of ionic and nonpolar compounds and is useful as a mobile phase in HPLC and LC-MS. The N-C-C skeleton is linear with a short C-N distance of 1.16  .
+Acetonitrile was first prepared in 1847 by the French chemist Jean-Baptiste Dumas.
+
+
+
+Acetonitrile is used mainly as a solvent in the purification of butadiene in refineries.
+It is widely used in battery applications because of its relatively high dielectric constant and ability to dissolve electrolytes. For similar reasons it is a popular solvent in cyclic voltammetry.
+Its ultraviolet transparency UV cutoff, low viscosity and low chemical reactivity make it a popular choice for high-performance liquid chromatography (HPLC).
+Acetonitrile plays a significant role as the dominant solvent used in the manufacture of DNA oligonucleotides from monomers.
+Industrially, it is used as a solvent for the manufacture of pharmaceuticals and photographic film.
+
+
+
+Acetonitrile is a common two-carbon building block in organic synthesis of many useful chemicals, including acetamidine hydrochloride, thiamine, and  -napthaleneacetic acid. Its reaction with cyanogen chloride affords malononitrile.
+
+
+
+In inorganic chemistry, acetonitrile is employed as a solvent and often an easily displaceable ligand. For example, PdCl
+2(CH
+3CN)
+2 is prepared by heating a suspension of (polymeric) palladium chloride in acetonitrile:
+PdCl
+2 + 2 CH
+3CN   PdCl
+2(CH
+3CN)
+2
+A related complex is [Cu(MeCN)4]+. The CH
+3CN groups in these complexes are rapidly displaced by many other ligands.
+
+
+
+
+Acetonitrile is a by-product from the manufacture of acrylonitrile. Most is combusted to support the intended process but an estimated several thousand tons are retained for the above-mentioned applications. Production trends for acetonitrile thus generally follow those of acrylonitrile. Acetonitrile can also be produced by many other methods, but these are of no commercial importance as of 2002. Illustrative routes are by dehydration of acetamide or by hydrogenation of mixtures of carbon monoxide and ammonia. In 1992, 32.3 million pounds (14,700 t) of acetonitrile were produced in the US.
+
+
+
+Starting in October 2008, the worldwide supply of acetonitrile was low because Chinese production was shut down for the Olympics. Furthermore, a U.S. factory was damaged in Texas during Hurricane Ike. Due to the global economic slowdown, the production of acrylonitrile that is used in acrylic fibers and acrylonitrile-butadiene-styrene (ABS) resins decreased. Because acetonitrile is a byproduct in the production of acrylonitrile, its production has also decreased. The global shortage of acetonitrile continued through early 2009.
+
+
+
+
+
+
+Acetonitrile has only a modest toxicity in small doses. It can be metabolised to produce hydrogen cyanide, which is the source of the observed toxic effects. Generally the onset of toxic effects is delayed, due to the time required for the body to metabolize acetonitrile to cyanide (generally about 2 12 hours).
+Cases of acetonitrile poisoning in humans (or, to be more specific, of cyanide poisoning after exposure to acetonitrile) are rare but not unknown, by inhalation, ingestion and (possibly) by skin absorption. The symptoms, which do not usually appear for several hours after the exposure, include breathing difficulties, slow pulse rate, nausea, and vomiting: Convulsions and coma can occur in serious cases, followed by death from respiratory failure. The treatment is as for cyanide poisoning, with oxygen, sodium nitrite, and sodium thiosulfate among the most commonly used remedies.
+It has been used in formulations for nail polish remover, despite its low but significant toxicity. Acetone and ethyl acetate are often preferred as safer for domestic use, and acetonitrile has been banned in cosmetic products in the European Economic Area since March 2000.
+
+
+
+In common with other nitriles, acetonitrile can be metabolised in microsomes, especially in the liver, to produce hydrogen cyanide, as was first shown by Pozzani et al. in 1959. The first step in this pathway is the oxidation of acetonitrile to glycolonitrile by an NADPH-dependent cytochrome P450 monooxygenase. The glycolonitrile then undergoes a spontaneous decomposition to give hydrogen cyanide and formaldehyde. Formaldehyde, a toxin and a carcinogen on its own, is further oxidized to formic acid, which is another source of toxicity.
+The metabolism of acetonitrile is much slower than that of other nitriles, which accounts for its relatively low toxicity. Hence, one hour after administration of a potentially lethal dose, the concentration of cyanide in the rat brain was one-twentieth that for a propionitrile dose 60 times lower (see table).
+The relatively slow metabolism of acetonitrile to hydrogen cyanide allows more of the cyanide produced to be detoxified within the body to thiocyanate (the rhodanese pathway). It also allows more of the acetonitrile to be excreted unchanged before it is metabolised. The main pathways of excretion are by exhalation and in the urine.
+
+
+
+
+
+
+WebBook page for C2H3N
+International Chemical Safety Card 0088
+National Pollutant Inventory - Acetonitrile fact sheet
+NIOSH Pocket Guide to Chemical Hazards
+Chemical Summary for Acetonitrile (CAS No. 75-05-8), Office of Pollution Prevention and Toxics, U.S. Environmental Protection Agency
+Simulation of acetonitrile

@@ -1,0 +1,9 @@
+A command, control, and coordination system (CCCS) was a Cold War computer system for United States command posts (e.g., Army Air Defense Command Posts) to use a single location to coordinate multiple units' ground-controlled interception (e.g., USAF interceptor squadrons at various locations by Semi-Automatic Ground Environment Direction Centers) and may refer to:
+Backup Interceptor Control System (BUIC), a dispersed USAF CCCS of the SAGE System
+Burroughs AN/GSA-51 Radar Course Directing Group (BUIC II), a replacement USAF CCCS fielded in 1966
+Hughes AN/TSQ-51 Air Defense Command and Coordination System, a mobile replacement US Army CCCS for coordinating NIKE and HAWK missile sites
+AN/FSQ-7 Combat Direction Central, a vacuum tube USAF CCCS fielded in 1958 for coordinating BOMARC launch sites
+Martin AN/FSG-1 Antiaircraft Defense System, a vacuum tube US Army CCCS at 10 NIKE Missile Master installations
+Martin AN/GSG-5 Battery Integration and Radar Display Equipment (BIRDIE), a mobile replacement US Army CCCS for NIKE & HAWK
+
+

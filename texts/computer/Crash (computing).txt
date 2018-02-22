@@ -1,0 +1,55 @@
+A crash (or system crash) in computing is when a computer program (such as a software application or an operating system) stops functioning properly. Often it will exit the affected program after encountering this type of error. The program responsible may appear to freeze until a crash reporting service reports the crash and potentially any details relating to it. If the program is a critical part of the operating system, the entire computer may crash, often resulting in a kernel panic or fatal system error, or in rare cases, an unstable network.
+Many crashes are the result of single or multiple machine instructions running incorrectly. Typical causes are when the program counter is set to an incorrect address or a buffer overflow overwrites a portion of the affected program code due to an earlier bug. In either case, it is common for the CPU to attempt to access data or random memory values. Since all data values are possible to select but not always valid for the request, this often results in an illegal instruction exception. By chance, such data or random values could be valid (though unplanned) instructions. The original program problem (software bug) is considered as what "caused" the crash, but the actual fault may be an illegal instruction. The process of debugging such crashes is connecting the actual cause of the crash with the code that started the chain of events. This is often far from obvious; the original bug is usually perfectly valid code presented to the processor.
+In earlier personal computers, it was possible to cause hardware damage through attempting to write data to hardware addresses outside of the system's main memory.
+The execution of arbitrary data on a system will result in a breakup of screen display. This is widely considered a severe system crash.
+
+
+
+
+An application typically crashes when it performs an operation which is not allowed by the operating system. The operating system then triggers an exception or signal in the application. Unix applications traditionally responded to the signal by dumping core. Most Windows and Unix GUI applications respond by displaying a dialogue box (such as the one shown to the right) with the option to attach a debugger if one is installed. This behavior is called "crashing". Some applications attempt to recover from the error and continue running instead of crashing.
+Typical errors that result in application crashes include:
+attempting to read or write memory that is not allocated for reading or writing by that application (segmentation fault) or x86 specific (general protection fault)
+attempting to execute privileged or invalid instructions
+attempting to perform I/O operations on hardware devices to which it does not have permission to access
+passing invalid arguments to system calls
+attempting to access other system resources to which the application does not have permission to access (bus error)
+attempting to execute machine instructions with bad arguments (depending on CPU architecture): divide by zero, operations on denorms or NaN values, memory access to unaligned addresses, etc.
+
+
+
+The software running the web server behind a website may crash, rendering it inaccessible entirely or providing only an error message instead of normal content.
+For example: if a site is using an SQL database (such as MySQL) for a script (such as PHP) and that SQL database server crashes, then PHP will display a connection error.
+
+
+
+An operating system crash commonly occurs when a hardware exception occurs that cannot be handled. Operating system crashes can also occur when internal sanity-checking logic within the operating system detects that the operating system has lost its internal self-consistency.
+Modern multi-tasking operating systems, such as Windows NT, Linux, and Mac OS X usually remain unharmed when an application program crashes.
+
+
+
+Many software bugs which cause crashes are also exploitable for arbitrary code execution and other types of privilege escalation. For example, a stack buffer overflow can overwrite the return address of a subroutine with an invalid value, which will cause a segmentation fault when the subroutine returns. However, if an exploit overwrites the return address with a valid value, the code in that address will be executed.
+
+
+
+Blue Screen of Death
+Crash reporter
+Crash to Desktop
+Data loss
+Debugging
+Guru Meditation
+Kernel panic
+Reboot
+Safe Mode
+Segmentation fault
+SystemRescueCD
+Undefined behaviour
+Memory corruption
+
+
+
+
+
+
+Computer Crash
+Picking Up The Pieces After A Computer Crash
+Why do computers crash?

@@ -1,0 +1,28 @@
+The program counter (PC), commonly called the instruction pointer (IP) in Intel x86 and Itanium microprocessors, and sometimes called the instruction address register (IAR), the instruction counter, or just part of the instruction sequencer, is a processor register that indicates where a computer is in its program sequence.
+In most processors, the PC is incremented after fetching an instruction, and holds the memory address of ("points to") the next instruction that would be executed. (In a processor where the incrementation precedes the fetch, the PC points to the current instruction being executed.)
+Instructions are usually fetched sequentially from memory, but control transfer instructions change the sequence by placing a new value in the PC. These include branches (sometimes called jumps), subroutine calls, and returns. A transfer that is conditional on the truth of some assertion lets the computer follow a different sequence under different conditions.
+A branch provides that the next instruction is fetched from somewhere else in memory. A subroutine call not only branches but saves the preceding contents of the PC somewhere. A return retrieves the saved contents of the PC and places it back in the PC, resuming sequential execution with the instruction following the subroutine call.
+
+
+
+In a typical central processing unit (CPU), the PC is a digital counter (which is the origin of the term "program counter") that may be one of many registers in the CPU hardware. The instruction cycle begins with a fetch, in which the CPU places the value of the PC on the address bus to send it to the memory. The memory responds by sending the contents of that memory location on the data bus. (This is the stored-program computer model, in which executable instructions are stored alongside ordinary data in memory, and handled identically by it). Following the fetch, the CPU proceeds to execution, taking some action based on the memory contents that it obtained. At some point in this cycle, the PC will be modified so that the next instruction executed is a different one (typically, incremented so that the next instruction is the one starting at the memory address immediately following the last memory location of the current instruction).
+Like other processor registers, the PC may be a bank of binary latches, each one representing one bit of the value of the PC. The number of bits (the width of the PC) relates to the processor architecture. For instance, a  32-bit  CPU may use 32 bits to be able to address 232 units of memory. If the PC is a binary counter, it may increment when a pulse is applied to its COUNT UP input, or the CPU may compute some other value and load it into the PC by a pulse to its LOAD input.
+To identify the current instruction, the PC may be combined with other registers that identify a segment or page. This approach permits a PC with fewer bits by assuming that most memory units of interest are within the current vicinity.
+
+
+
+Use of a PC that normally increments assumes that what a computer does is execute a usually linear sequence of instructions. Such a PC is central to the von Neumann architecture. Thus programmers write a sequential control flow even for algorithms that do not have to be sequential. The resulting  von Neumann bottleneck  led to research into parallel computing, including non-von Neumann or dataflow models that did not use a PC; for example, rather than specifying sequential steps, the high-level programmer might specify desired function and the low-level programmer might specify this using combinatory logic.
+This research also led to ways to making conventional, PC-based, CPUs run faster, including:
+Pipelining, in which different hardware in the CPU executes different phases of multiple instructions simultaneously.
+The very long instruction word (VLIW) architecture, where a single instruction can achieve multiple effects.
+Techniques to predict out-of-order execution and prepare subsequent instructions for execution outside the regular sequence.
+
+
+
+Modern high-level programming languages still follow the sequential-execution model and, indeed, a common way of identifying programming errors is with a  procedure execution  in which the programmer's finger identifies the point of execution as a PC would. The high-level language is essentially the machine language of a virtual machine, too complex to be built as hardware but instead emulated or interpreted by software.
+However, new programming models transcend sequential-execution programming:
+When writing a multi-threaded program, the programmer may write each thread as a sequence of instructions without specifying the timing of any instruction relative to instructions in other threads.
+In event-driven programming, the programmer may write sequences of instructions to respond to events without specifying an overall sequence for the program.
+In dataflow programming, the programmer may write each section of a computing pipeline without specifying the timing relative to other sections.
+
+

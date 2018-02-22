@@ -1,0 +1,9 @@
+22R-Hydroxycholesterol, or (3 )-cholest-5-ene-3,22-diol is an endogenous, metabolic intermediate in the biosynthesis of the steroid hormones from cholesterol. Cholesterol ((3 )-cholest-5-en-3-ol) is hydroxylated by cholesterol side-chain cleavage enzyme (P450scc) to form 22R-hydroxycholesterol, which is subsequently hydroxlated again by P450scc to form 20 ,22R-dihydroxycholesterol, and finally the bond between carbons 20 and 22 is cleaved by P450scc to form pregnenolone ((3 )-3-hydroxypregn-5-en-20-one), the precursor to the steroid hormones.
+It is an agonist of the liver X receptor.
+
+
+
+20 ,22R-Dihydroxycholesterol
+27-Hydroxycholesterol
+
+

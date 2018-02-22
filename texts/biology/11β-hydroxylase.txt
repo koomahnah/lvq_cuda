@@ -1,0 +1,32 @@
+Steroid 11 -hydroxylase is a steroid hydroxylase found in the zona glomerulosa and zona fasciculata. Named officially the cytochrome P450 11B1, mitochondrial, it is a protein that in humans is encoded by the CYP11B1 gene.
+This gene encodes a member of the cytochrome P450 superfamily of enzymes. The cytochrome P450 proteins are monooxygenases that catalyze many reactions involved in drug metabolism and synthesis of cholesterol, steroids and other lipids. This protein localizes to the mitochondrial inner membrane and is involved in the conversion of 11-deoxycortisol to cortisol in the adrenal cortex. Transcript variants encoding different isoforms have been noted for this gene.
+It is reversibly inhibited by etomidate  and metyrapone.
+
+
+
+It generates cortisol from 11-deoxycortisol and corticosterone from 11-deoxycorticosterone. Note the extra " OH" added at the 11 position (near the center, on ring "C"):
+
+
+
+As a mitochondrial P450 system, P450c11 is dependent on two electron transfer proteins, adrenodoxin reductase and adrenodoxin that transfer 2 electrons from NADPH to the P450 for each monooxygenase reaction catalyzed by the enzyme. In most respects this process of electron transfer appears similar to that of P450scc system that catalyzes cholesterol side chain cleavage. Similar to P450scc the process of electrons transfer is leaky leading to superoxide production. The rate of electron leakage during metabolism depends on the functional groups of the steroid substrate.
+
+
+
+The expression of the enzyme in adrenocortical cells is regulated by the trophic hormone corticotropin (ACTH.
+
+
+
+A mutation is associated with congenital adrenal hyperplasia due to 11 -hydroxylase deficiency.
+
+
+
+
+
+
+
+
+
+
+
+
+Steroid 11-beta-hydroxylase at the US National Library of Medicine Medical Subject Headings (MeSH)

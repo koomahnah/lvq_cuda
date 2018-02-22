@@ -1,0 +1,27 @@
+In computing, copy is a command in RT-11, RSX-11, OpenVMS, DOS, OS/2 and Microsoft Windows operating systems. The command copies computer files from one directory to another. The destination defaults to the current working directory. If more than one source file is indicated, the destination must be a directory. The equivalent Unix command is cp. A more advanced copy command is called xcopy.
+
+
+
+
+copy letter.txt [destination]
+
+Files may be copied to device files (e.g. copy letter.txt lpt1 sends the file to the printer on lpt1. copy letter.txt con would output to stdout, like the type command. Note that copy page1.txt+page2.txt book.txt will concatenate the files and output them as book.txt. Which is just like the cat command). It can also copy files between different disk drives.
+There are two command-line switches to modify the behaviour when concatenating files:
+Text mode - This copies the text content of the file, stopping when it reaches the EOF character.
+
+copy /a doc1.txt + doc2.txt doc3.txt
+
+Binary mode - This concatenates files in their entirety, ignoring EOF characters.
+
+copy /b image1.jpg + image2.jpg image3.jpg
+
+
+
+XCOPY (DOS command)
+XCOPY in DOS, OS/2, Windows etc.
+cp (Unix command)
+PIP (CP/M command) (Peripheral Interchange Program)
+
+
+
+Microsoft TechNet Copy article

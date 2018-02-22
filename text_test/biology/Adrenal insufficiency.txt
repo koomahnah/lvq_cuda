@@ -1,0 +1,88 @@
+Adrenal insufficiency is a condition in which the adrenal glands do not produce adequate amounts of steroid hormones, primarily cortisol; but may also include impaired production of aldosterone (a mineralocorticoid), which regulates sodium conservation, potassium secretion, and water retention. Craving for salt or salty foods due to the urinary losses of sodium is common.
+Addison's disease and congenital adrenal hyperplasia can manifest as adrenal insufficiency. If not treated, adrenal insufficiency may result in severe abdominal pains, vomiting, profound muscle weakness and fatigue, depression, extremely low blood pressure (hypotension), weight loss, kidney failure, changes in mood and personality, and shock (adrenal crisis). An adrenal crisis often occurs if the body is subjected to stress, such as an accident, injury, surgery, or severe infection; death may quickly follow.
+Adrenal insufficiency can also occur when the hypothalamus or the pituitary gland does not make adequate amounts of the hormones that assist in regulating adrenal function. This is called secondary or tertiary adrenal insufficiency and is caused by lack of production of ACTH in the pituitary or lack of CRH in the hypothalamus, respectively.
+
+
+
+There are three major types of adrenal insufficiency.
+Primary adrenal insufficiency is due to impairment of the adrenal glands.
+80% are due to an autoimmune disease called Addison's disease or autoimmune adrenalitis.
+One subtype is called idiopathic, or of unknown cause.
+Other cases are due to congenital adrenal hyperplasia or an adenoma (tumor) of the adrenal gland.
+
+Secondary adrenal insufficiency is caused by impairment of the pituitary gland or hypothalamus. The most common cause in the United States is exogenous steroid use. Other causes are a pituitary adenoma or microadenoma (which can suppress production of ACTH and lead to adrenal deficiency unless the endogenous hormones are replaced); a hypothalamic tumor; and Sheehan's syndrome, which is associated with impairment of only the pituitary gland.
+Tertiary adrenal insufficiency is due to hypothalamic disease and a decrease in the release of corticotropin releasing hormone (CRH).
+
+
+
+Signs and symptoms include: hypoglycemia, dehydration, weight loss, and disorientation. Additional signs and symptoms include weakness, tiredness, dizziness, low blood pressure that falls further when standing (orthostatic hypotension), cardiovascular collapse, muscle aches, nausea, vomiting, and diarrhea. These problems may develop gradually and insidiously. Addison's disease can present with tanning of the skin that may be patchy or even all over the body. Characteristic sites of tanning are skin creases (e.g. of the hands) and the inside of the cheek (buccal mucosa). Goiter and vitiligo may also be present.
+
+
+
+Causes of acute adrenal insufficiency are mainly Waterhouse-Friderichsen syndrome, sudden withdrawal of long-term corticosteroid therapy, and stress in patients with underlying chronic adrenal insufficiency. The latter is termed critical illness related corticosteroid insufficiency.
+For chronic adrenal insufficiency, the major contributors are autoimmune adrenalitis (Addison's Disease), tuberculosis, AIDS, and metastatic disease. Minor causes of chronic adrenal insufficiency are systemic amyloidosis, fungal infections, hemochromatosis, and sarcoidosis.
+Autoimmune adrenalitis may be part of Type 2 autoimmune polyglandular syndrome, which can include type 1 diabetes, hyperthyroidism, and autoimmune thyroid disease (also known as autoimmune thyroiditis, Hashimoto's thyroiditis, and Hashimoto's disease). Hypogonadism and pernicious anemia may also present with this syndrome.
+Adrenoleukodystrophy can also cause adrenal insufficiency.
+Adrenal insufficiency can also result when a patient has a craniopharyngioma, which is a histologically benign tumor that can damage the pituitary gland and so cause the adrenal glands not to function. This would be an example of secondary adrenal insufficiency syndrome.
+Causes of adrenal insufficiency can be categorized by the mechanism through which they cause the adrenal glands to produce insufficient cortisol. These are adrenal dysgenesis (the gland has not formed adequately during development), impaired steroidogenesis (the gland is present but is biochemically unable to produce cortisol) or adrenal destruction (disease processes leading to glandular damage).
+
+
+
+All causes in this category are genetic, and generally very rare. These include mutations to the SF1 transcription factor, congenital adrenal hypoplasia (CAH) due to DAX-1 gene mutations and mutations to the ACTH receptor gene (or related genes, such as in the Triple A or Allgrove syndrome). DAX-1 mutations may cluster in a syndrome with glycerol kinase deficiency with a number of other symptoms when DAX-1 is deleted together with a number of other genes.
+
+
+
+To form cortisol, the adrenal gland requires cholesterol, which is then converted biochemically into steroid hormones. Interruptions in the delivery of cholesterol include Smith-Lemli-Opitz syndrome and abetalipoproteinemia.
+Of the synthesis problems, congenital adrenal hyperplasia is the most common (in various forms: 21-hydroxylase, 17 -hydroxylase, 11 -hydroxylase and 3 -hydroxysteroid dehydrogenase), lipoid CAH due to deficiency of StAR and mitochondrial DNA mutations. Some medications interfere with steroid synthesis enzymes (e.g. ketoconazole), while others accelerate the normal breakdown of hormones by the liver (e.g. rifampicin, phenytoin).
+
+
+
+Autoimmune adrenalitis is the most common cause of Addison's disease in the industrialised world. Autoimmune destruction of the adrenal cortex is caused by an immune reaction against the enzyme 21-hydroxylase (a phenomenon first described in 1992). This may be isolated or in the context of autoimmune polyendocrine syndrome (APS type 1 or 2), in which other hormone-producing organs, such as the thyroid and pancreas, may also be affected.
+Adrenal destruction is also a feature of adrenoleukodystrophy (ALD), and when the adrenal glands are involved in metastasis (seeding of cancer cells from elsewhere in the body, especially lung), hemorrhage (e.g. in Waterhouse-Friderichsen syndrome or antiphospholipid syndrome), particular infections (tuberculosis, histoplasmosis, coccidioidomycosis), or the deposition of abnormal protein in amyloidosis.
+
+
+
+Use of high-dose steroids for more than a week begins to produce suppression of the patient's adrenal glands because the exogenous glucocorticoids suppress hypothalamic corticotropin-releasing hormone (CRH) and pituitary adrenocorticotropic hormone (ACTH). With prolonged suppression, the adrenal glands atrophy (physically shrink), and can take months to recover full function after discontinuation of the exogenous glucocorticoid. During this recovery time, the patient is vulnerable to adrenal insufficiency during times of stress, such as illness.
+
+
+
+Hyponatremia can be caused by glucocorticoid deficiency. Low levels of glucocorticoids leads to systemic hypotension (one of the effects of cortisol is to increase peripheral resistance), which results in a decrease in stretch of the arterial baroreceptors of the carotid sinus and the aortic arch. This removes the tonic vagal and glossopharyngeal inhibition on the central release of ADH: high levels of ADH will ensue, which will subsequently lead to increase in water retention and hyponatremia.
+Differently from mineralocorticoid deficiency, glucocorticoid deficiency does not cause a negative sodium balance (in fact a positive sodium balance may occur).
+
+
+
+The best diagnostic tool to confirm adrenal insufficiency is the ACTH stimulation test; however, if a patient is suspected to be suffering from an acute adrenal crisis, immediate treatment with IV corticosteroids is imperative and should not be delayed for any testing, as the patients health can deteriorate rapidly and result in death without replacing the corticosteroids. Dexamethasone should be used as the corticosteroid if the plan is to do the ACTH stimulation test at a later time as it is the only corticosteroid that will not affect the test results. If not performed during crisis then labs to be run should include: random cortisol, serum ACTH, aldosterone, renin, potassium and sodium. A CT of the adrenal glands can be used to check for structural abnormalities of the adrenal glands. An MRI of the pituitary can be used to check for structural abnormalities of the pituitary. However, in order to check the functionality of the Hypothalamic Pituitary Adrenal (HPA) Axis the entire axis must be tested by way of ACTH stimulation test, CRH stimulation test and perhaps an Insulin Tolerance Test (ITT). In order to check for Addison s Disease, the auto-immune type of primary adrenal insufficiency, labs should be drawn to check 21-hydroxylase autoantibodies.
+
+
+
+
+Adrenal crisis
+Intravenous fluids
+Intravenous steroid (Solu-Cortef/injectable hydrocortisone) later hydrocortisone, prednisone or methylpredisolone tablets
+Rest
+
+Cortisol deficiency (primary and secondary)
+Hydrocortisone (Cortef)
+Prednisone (Deltasone)
+Prednisolone (Delta-Cortef)
+Methylprednisolone (Medrol)
+Dexamethasone (Decadron)
+
+Mineralocorticoid deficiency (low aldosterone)
+Fludrocortisone Acetate
+
+(To balance sodium, potassium and increase water retention)
+
+
+
+Addison disease, primary adrenocortical insufficiency
+Cushing's syndrome, overproduction of cortisol
+Insulin tolerance test, another test used to identify sub-types of adrenal insufficiency
+Adrenal fatigue (hypoadrenia), a term used in alternative medicine to describe a believed exhaustion of the adrenal glands
+
+
+
+
+
+
+CAH - Congenital adrenal hyperplasia

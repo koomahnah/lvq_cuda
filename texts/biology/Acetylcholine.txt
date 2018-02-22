@@ -1,0 +1,118 @@
+Acetylcholine is an organic chemical that functions in the brain and body of many types of animals as a neurotransmitter a chemical released by nerve cells to send signals to other cells. Its name derives from its chemical structure: it is an ester of acetic acid and choline. Parts in the body that use or are affected by acetylcholine are referred to as cholinergic.
+Acetylcholine is the neurotransmitter used at the neuromuscular junction in other words, it is the chemical that motor neurons of the nervous system release in order to activate muscles. This property means that drugs that affect cholinergic systems can have very dangerous effects ranging from paralysis to convulsions. Acetylcholine is also used as a neurotransmitter in the autonomic nervous system, both as an internal transmitter for the sympathetic nervous system and as the final product released by the parasympathetic nervous system.
+Inside the brain acetylcholine functions as a neuromodulator a chemical that alters the way other brain structures process information rather than a chemical used to transmit information from point to point. The brain contains a number of cholinergic areas, each with distinct connections and functions.
+
+
+
+Acetylcholine has functions both in the peripheral nervous system (PNS) and in the central nervous system (CNS) as a neuromodulator. In the peripheral nervous system, acetylcholine activates muscles, and is a major neurotransmitter in the autonomic nervous system.
+
+
+
+
+There are two main classes of acetylcholine receptor (AChR), nicotinic acetylcholine receptors (nAChR) and muscarinic acetylcholine receptors (mAChR). They are named for the ligands used to activate the receptors.
+Nicotinic AChRs are ionotropic receptors permeable to sodium, potassium, and calcium ions. They are stimulated by nicotine and acetylcholine. They are of two main types, muscle-type and neuronal-type. The former can be selectively blocked by curare and the latter by hexamethonium. The main location of nicotinic AChRs is on muscle end plates, on autonomic ganglia (both sympathetic and parasympathetic), and in the CNS.
+Muscarinic receptors are metabotropic, and affect neurons over a longer time frame. They are stimulated by muscarine and acetylcholine. Muscarinic receptors are found in both the central nervous system and in the peripheral nervous system of the heart, lungs, upper GI tract, and sweat glands. ACh is sometimes used during cataract surgery to produce rapid constriction of the pupil. Atropine, occurring in the plant Deadly nightshade produces the opposite effect (anticholinergic) by blocking of the muscarinic AChRs and thereby increasing pupil size (dilation). This gives the plant both its common name (for atropine-caused heart attacks make it deadly) and its scientific name, Atropa belladonna (for women used to dilate their pupils with this plant for cosmetic purposes, "bella donna" is Italian for "beautiful lady"). It must be administered intraocularly because corneal cholinesterase metabolizes topically administered ACh before it can diffuse into the eye. Similar drugs are used to induce mydriasis (dilation of the pupil), in cardiopulmonary resuscitation and many other situations..
+
+
+
+Acetylcholine activates skeletal muscles. When acetylcholine binds to cholinergic receptors on skeletal muscle fibers, it opens ligand-gated sodium channels in the cell membrane. Sodium ions then enter the muscle cell, initiating a sequence of steps that finally produce muscle contraction. Although acetylcholine induces contraction of skeletal muscle, it acts via a different type of receptor (muscarinic) to inhibit contraction of cardiac muscle fibers.
+
+
+
+In the autonomic nervous system, acetylcholine is released in the following sites:
+all pre- and post-ganglionic parasympathetic neurons
+all preganglionic sympathetic neurons
+The adrenal medulla are modified postganglionic neurons. Acetylcholine stimulates the adrenal medulla release of norepinephrine Acetylcholine released by preganglionic sympathetic fibers of splanchnic nerves acts on nicotinic acetylcholine receptors, causing cell depolarization and an influx of calcium through voltage-gated calcium channels. Calcium triggers the exocytosis of chromaffin granules and, thus, the release of adrenaline (and noradrenaline) into the bloodstream.
+
+some postganglionic sympathetic fibers
+sudomotor neurons to sweat glands.
+
+
+
+
+In the central nervous system, ACh has a variety of effects as a neuromodulator upon plasticity, arousal and reward. ACh has an important role in the enhancement of sensory perceptions when we wake up and in sustaining attention.
+Damage to the cholinergic (acetylcholine-producing) system in the brain has been shown to be plausibly associated with the memory deficits associated with Alzheimer's disease. ACh has also been shown to promote REM sleep. Recently, it has been suggested that acetylcholine disruption may be a primary cause of depression.
+
+
+
+There are three ACh pathways in the CNS.
+Pons to thalamus and cortex
+Magnocellular forebrain nucleus to cortex
+Septohippocampal
+
+
+
+Acetylcholine is a polyatomic cation. It and the associated neurons form a neurotransmitter system, the cholinergic system from the brainstem and basal forebrain that projects axons to many areas of the brain. In the brainstem it originates from the Pedunculopontine nucleus and laterodorsal tegmental nucleus collectively known as the mesopontine tegmentum area or pontomesencephalotegmental complex. In the basal forebrain, it originates from the basal optic nucleus of Meynert and medial septal nucleus:
+The pontomesencephalotegmental complex acts mainly on M1 receptors in the brainstem, deep cerebellar nuclei, pontine nuclei, locus caeruleus, raphe nucleus, lateral reticular nucleus and inferior olive. It also projects to the thalamus, tectum, basal ganglia and basal forebrain.
+Basal optic nucleus of Meynert acts mainly on M1 receptors in the neocortex.
+Medial septal nucleus acts mainly on M1 receptors in the hippocampus and neocortex.
+In addition, ACh acts as an important "internal" transmitter in the striatum, which is part of the basal ganglia. It is released by cholinergic interneurons. In humans, non-human primates and rodents, these interneurons respond to salient environmental stimuli with stereotyped responses that are temporally aligned with the responses of dopaminergic neurons of the substantia nigra.
+
+
+
+
+
+
+Acetylcholine also has other effects on neurons. One effect is to cause a slow depolarization by blocking a tonically active K+ current, which increases neuronal excitability. In alternative fashion, acetylcholine can activate non-specific cation conductances to directly excite neurons. An effect upon postsynaptic M4-muscarinic ACh receptors is to open inward-rectifier potassium ion channel (Kir) and cause inhibition. The influence of acetylcholine on specific neuron types can be dependent upon the duration of cholinergic stimulation. For instance, transient exposure to acetylcholine (up to several seconds) can inhibit cortical pyramidal neurons via M1 type muscarinic receptors that are linked to Gq-type G-protein alpha subunits. M1 receptor activation can induce calcium-release from intracellular stores, which then activate a calcium-activated potassium conductance, which inhibits pyramidal neuron firing. On the other hand, tonic M1 receptor activation is strongly excitatory. Thus, ACh acting at one type of receptor can have multiple effects on the same postsynaptic neuron, depending on the duration of receptor activation. Recent experiments in behaving animals have demonstrated that cortical neurons indeed experience both transient and persistent changes in local acetylcholine levels during cue-detection behaviors.
+In the cerebral cortex, tonic ACh inhibits layer 4 medium spiny neurons, the main targets of thalamocortical inputs while exciting pyramidal cells in layers 2/3 and layer 5. This filters out weak sensory inputs in layer 4 and amplifies inputs that reach the layers 2/3 and layer L5 excitatory microcircuits. As a result, these layer-specific effects of ACh might function to improve the signal noise ratio of cortical processing. At the same time, acetylcholine acts through nicotinic receptors to excite certain groups of inhibitory interneurons in the cortex, which further dampen down cortical activity.
+
+
+
+
+One well-supported function of acetylcholine (ACh) in cortex is increased responsiveness to sensory stimuli, a form of attention. Phasic increases of ACh during visual, auditory and somatosensory stimulus presentations have been found to increase the firing rate of neurons in the corresponding primary sensory cortices. When cholinergic neurons in the basal forebrain are lesioned, animals' ability to detect visual signals was robustly and persistently impaired. In that same study, animals' ability to correctly reject non-target trials was not impaired, further supporting the interpretation that phasic ACh facilitates responsiveness to stimuli. Looking at ACh's effect on thalamocortical connections, a known pathway of sensory information, in vitro application of cholinergic agonist carbachol to mouse auditory cortex enhanced thalamocortical activity. In addition, Gil et al. (1997) applied a different cholinergic agonist, nicotine, and found that activity was enhanced at thalamocortical synapses. This finding provides further evidence for a facilitative role of ACh in transmission of sensory information from the thalamus to selective regions of cortex.
+An additional suggested function of ACh in cortex is suppression of intracortical information transmission. Gil et al. (1997) applied the cholinergic agonist muscarine to neocortical layers and found that excitatory post-synaptic potentials between intracortical synapses were depressed. In vitro application of cholinergic agonist carbachol to mouse auditory cortex suppressed intracortical activity as well. Optical recording with a voltage-sensitive dye in rat visual cortical slices demonstrated significant suppression in intracortical spread of excitement in the presence of ACh.
+Some forms of learning and plasticity in cortex appear dependent on the presence of acetylcholine. Bear et al. (1986) found that the typical synaptic remapping in striate cortex that occurs during monocular deprivation is reduced when there is a depletion of cholinergic projections to that region of cortex. Kilgard et al. (1998) found that repeated stimulation of the basal forebrain, a primary source of ACh neurons, paired with presentation of a tone at a specific frequency, resulted in remapping of the auditory cortex to better suit processing of that tone. Baskerville et al. (1996) investigated the role of ACh in experience-dependent plasticity by depleting cholinergic inputs to the barrel cortex of rats. The cholinergic-depleted animals had a significantly reduced amount of whisker-pairing plasticity. Apart from the cortical areas, Crespo et al. (2006) found that the activation of nicotinic and muscarinic receptors in the nucleus accumbens is necessary for the acquisition of an appetitive task.
+ACh has been implicated in the reporting of expected uncertainty in the environment based both on the suggested functions listed above and results recorded while subjects perform a behavioral cuing task. Reaction time difference between correctly cued trials and incorrectly cued trials, called the cue validity, was found to vary inversely with ACh levels in primates with pharmacologically (e.g. Witte et al., 1997) and surgically (e.g. Voytko et al., 1994) altered levels of ACh. The result was also found in Alzheimer's disease patients (Parasuraman et al., 1992) and smokers after nicotine (an ACh agonist) consumption. The inverse covariance is consistent with the interpretation of ACh as representing expected uncertainty in the environment, further supporting this claim.
+
+
+
+
+
+
+The disease myasthenia gravis, characterized by muscle weakness and fatigue, occurs when the body inappropriately produces antibodies against acetylcholine nicotinic receptors, and thus inhibits proper acetylcholine signal transmission. Over time, the motor end plate is destroyed. Drugs that competitively inhibit acetylcholinesterase (e.g., neostigmine, physostigmine, or primarily pyridostigmine) are effective in treating this disorder. They allow endogenously released acetylcholine more time to interact with its respective receptor before being inactivated by acetylcholinesterase in the synaptic cleft (the space between nerve and muscle).
+
+
+
+Blocking, hindering or mimicking the action of acetylcholine has many uses in medicine. Drugs acting on the acetylcholine system are either agonists to the receptors, stimulating the system, or antagonists, inhibiting it. Acetylcholine receptor agonists and antagonists can either have an effect directly on the receptors or exert their effects indirectly, e.g., by affecting the enzyme acetylcholinesterase, which degrades the receptor ligand. Agonists increase the level of receptor activation, antagonists reduce it.
+Acetylcholine itself does not have therapeutic value as a drug for intravenous administration because of its multi-faceted action and rapid inactivation by cholinesterase. However, it is used in the form of eye drops to cause constriction of the pupil during cataract surgery, which facilitates quick post-operational recovery.
+
+
+
+
+
+
+
+
+
+
+Many ACh receptor agonists work indirectly by inhibiting the enzyme acetylcholinesterase. The resulting accumulation of acetylcholine causes continuous stimulation of the muscles, glands, and central nervous system, which can result in fatal convulsions if the dose is high.
+They are examples of enzyme inhibitors, and increase the action of acetylcholine by delaying its degradation; some have been used as nerve agents (Sarin and VX nerve gas) or pesticides (organophosphates and the carbamates). Many toxins and venoms produced by plants and animals also contain cholinesterase inhibitors. In clinical use, they are administered in low doses to reverse the action of muscle relaxants, to treat myasthenia gravis, and to treat symptoms of Alzheimer's disease (rivastigmine, which increases cholinergic activity in the brain).
+
+
+
+
+
+
+Organic mercurial compounds, such as methylmercury, have a high affinity for sulfhydryl groups, which causes dysfunction of the enzyme choline acetyltransferase. This inhibition may lead to acetylcholine deficiency, and can have consequences on motor function.
+
+
+
+Botulin acts by suppressing the release of acetylcholine, whereas the venom from a black widow spider (alpha-latrotoxin) has the reverse effect. ACh inhibition causes paralysis. When bitten by a black widow spider, one experiences the wastage of ACh supplies and the muscles begin to contract. If and when the supply is depleted, paralysis occurs.
+
+
+
+
+
+
+Acetylcholine is synthesized in certain neurons by the enzyme choline acetyltransferase from the compounds choline and acetyl-CoA. Cholinergic neurons are capable of producing ACh. An example of a central cholinergic area is the nucleus basalis of Meynert in the basal forebrain.
+The enzyme acetylcholinesterase converts acetylcholine into the inactive metabolites choline and acetate. This enzyme is abundant in the synaptic cleft, and its role in rapidly clearing free acetylcholine from the synapse is essential for proper muscle function. Certain neurotoxins work by inhibiting acetylcholinesterase, thus leading to excess acetylcholine at the neuromuscular junction, causing paralysis of the muscles needed for breathing and stopping the beating of the heart.
+
+
+
+Acetylcholine is a choline molecule that has been acetylated at the oxygen atom. Because of the presence of a highly polar, charged ammonium group, acetylcholine does not penetrate lipid membranes. Because of this, when the drug is introduced externally, it remains in the extracellular space and does not pass through the blood brain barrier. A synonym of this drug is miochol.
+
+
+
+Acetylcholine (ACh) was first identified in 1915 by Henry Hallett Dale for its actions on heart tissue. It was confirmed as a neurotransmitter by Otto Loewi, who initially gave it the name Vagusstoff because it was released from the vagus nerve. Both received the 1936 Nobel Prize in Physiology or Medicine for their work. Acetylcholine was also the first neurotransmitter to be identified.
+
+

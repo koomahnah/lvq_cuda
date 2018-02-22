@@ -1,0 +1,8 @@
+In mathematical logic, algebraic semantics is a formal semantics based on algebras studied as part of algebraic logic. For example, the modal logic S4 is characterized by the class of topological boolean algebras that is, boolean algebras with an interior operator. Other modal logics are characterized by various other algebras with operators. The class of boolean algebras characterizes classical propositional logic, and the class of Heyting algebras propositional intuitionistic logic.
+
+
+
+Josep Maria Font; Ram n Jansana (1996). A general algebraic semantics for sentential logics. Springer-Verlag. ISBN 9783540616993.  (2nd published by ASL in 2009) open access at Project Euclid
+W.J. Blok; Don Pigozzi (1989). Algebraizable logics. American Mathematical Society. ISBN 0821824597. 
+Janusz Czelakowski (2001). Protoalgebraic logics. Springer. ISBN 9780792369400. 
+J. Michael Dunn; Gary M. Hardegree (2001). Algebraic methods in philosophical logic. Oxford University Press. ISBN 9780198531920.  Good introduction for readers with prior exposure to non-classical logics but without much background in order theory and/or universal algebra; the book covers these prerequisites at length. The book however has been criticized for poor and sometimes incorrect presentation of AAL results. [1]

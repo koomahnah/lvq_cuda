@@ -1,0 +1,36 @@
+In genetics, a chromosome translocation is a chromosome abnormality caused by rearrangement of parts between nonhomologous chromosomes. A gene fusion may be created when the translocation joins two otherwise-separated genes, it is detected on cytogenetics or a karyotype of affected cells. Translocations can be balanced (in an even exchange of material with no genetic information extra or missing, and ideally full functionality) or unbalanced (where the exchange of chromosome material is unequal resulting in extra or missing genes).
+
+
+
+Reciprocal translocations are usually an exchange of material between nonhomologous chromosomes. Estimates of incidence range from about 1 in 500  to 1 in 625 human newborns. Such translocations are usually harmless and may be found through prenatal diagnosis. However, carriers of balanced reciprocal translocations have increased risks of creating gametes with unbalanced chromosome translocations, leading to miscarriages or children with abnormalities. Genetic counseling and genetic testing are often offered to families that may carry a translocation. Most balanced translocation carriers are healthy and do not have any symptoms. But about 6% of them have a range of symptoms that may include autism, intellectual disability, or congenital anomalies. A gene disrupted or disregulated at the breakpoint of the translocation carrier is likely the cause of these symptoms.
+It is important to distinguish between chromosomal translocations occurring in gametogenesis, due to errors in meiosis, and translocations that occur in cellular division of somatic cells, due to errors in mitosis. The former results in a chromosomal abnormality featured in all cells of the offspring, as in translocation carriers. Somatic translocations, on the other hand, result in abnormalities featured only in the affected cell line, as in chronic myelogenous leukemia with the Philadelphia chromosome translocation.
+
+
+
+Robertsonian translocation is a type of translocation caused by breaks at or near the centromeres of two acrocentric chromosomes. The reciprocal exchange of parts gives rise to one large metacentric chromosome and one extremely small chromosome that may be lost from the organism with little effect because it contains so few genes. The resulting karyotype in humans leaves only 45 chromosomes, since two chromosomes have fused together. This has no direct effect on the phenotype, since the only genes on the short arms of acrocentrics are common to all of them and are present in variable copy number (nucleolar organiser genes).
+Robertsonian translocations have been seen involving all combinations of acrocentric chromosomes. The most common translocation in humans involves chromosomes 13 and 14 and is seen in about 0.97 / 1000 newborns. Carriers of Robertsonian translocations are not associated with any phenotypic abnormalities, but there is a risk of unbalanced gametes that lead to miscarriages or abnormal offspring. For example, carriers of Robertsonian translocations involving chromosome 21 have a higher chance of having a child with Down syndrome. This is known as a 'translocation Downs'. This is due to a mis-segregation (nondisjunction) during gametogenesis. The mother has a higher (10%) risk of transmission than the father (1%). Robertsonian translocations involving chromosome 14 also carry a slight risk of uniparental disomy 14 due to trisomy rescue.
+
+
+
+Some human diseases caused by translocations are:
+Cancer: Several forms of cancer are caused by acquired translocations (as opposed to those present from conception); this has been described mainly in leukemia (acute myelogenous leukemia and chronic myelogenous leukemia). Translocations have also been described in solid malignancies such as Ewing's sarcoma.
+Infertility: One of the would-be parents carries a balanced translocation, where the parent is asymptomatic but conceived fetuses are not viable.
+Down syndrome is caused in a minority (5% or less) of cases by a Robertsonian translocation of the chromosome 21 long arm onto the long arm of chromosome 14.
+Chromosomal translocations between the sex chromosomes can also result in a number of genetic conditions, such as
+XX male syndrome: caused by a translocation of the SRY gene from the Y to the X chromosome
+
+
+
+
+
+
+The International System for Human Cytogenetic Nomenclature (ISCN) is used to denote a translocation between chromosomes. The designation t(A;B)(p1;q2) is used to denote a translocation between chromosome A and chromosome B. The information in the second set of parentheses, when given, gives the precise location within the chromosome for chromosomes A and B respectively with p indicating the short arm of the chromosome, q indicating the long arm, and the numbers after p or q refers to regions, bands and subbands seen when staining the chromosome with a staining dye. See also the definition of a genetic locus.
+
+
+
+
+
+
+In 1938, Karl Sax, at the Harvard University Biological Laboratories, published a paper entitled "Chromosome Aberrations Induced by X-rays," which demonstrated that radiation could induce major genetic changes by affecting chromosomal translocations. The paper is thought to mark the beginning of the field of radiation cytology, and led him to be called "the father of radiation cytology".
+
+

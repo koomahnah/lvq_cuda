@@ -1,0 +1,437 @@
+This page contains general information about the GPUs and video cards by Advanced Micro Devices (AMD), including those by ATI Technologies before 2006, based on official specifications in table form.
+
+
+
+DirectX version indicates which graphics acceleration operations the card implements.
+DirectX 6.0 - Multitexturing
+DirectX 7.0 - Hardware Transformation, Clipping and Lighting (TCL/T&L)
+DirectX 8.0 - Pixel Shader 1.1 & Vertex Shader 1.1
+DirectX 8.1 - Pixel Shader 1.4 & Vertex Shader 1.1
+DirectX 9.0 - Shader Model 2.0
+DirectX 9.0b - Pixel Shader 2.0b & Vertex Shader 2.0
+DirectX 9.0c - Shader Model 3.0, GPGPU
+DirectX 9.0L - Windows Vista only, DirectX 9.0c, Shader Model 3.0, Windows Graphics Foundation 1.0, DXVA 1.0, GPGPU
+Direct3D 10.0 - Windows Vista/Windows 7, Shader Model 4.0, Windows Graphics Foundation 2.0, DXVA 2.0, GPGPU
+Direct3D 10.1 - Windows Vista SP1/Windows 7, Shader Model 4.1, Windows Graphics Foundation 2.1, DXVA 2.1, GPGPU
+Direct3D 11.0 - Windows Vista/Windows 7, Shader Model 5.0, Tessellation, Multithreaded rendering, Compute shaders, implemented by hardware and software running Direct3D 9/10/10.1, GPGPU
+Direct3D 11.1 - Windows 8, Stereoscopic 3D Rendering, GPGPU
+Direct3D 11.2 - Windows 8.1, Tiled resources, GPGPU
+Direct3D 12.0 - Windows 10, low-level rendering API, GPGPU
+
+
+
+OpenGL version indicates which graphics acceleration operations the card implements.
+OpenGL 1.1 - Texture objects
+OpenGL 1.2 - 3D textures, BGRA and packed pixel formats
+OpenGL 1.3 - Multitexturing, multisampling, texture compression
+OpenGL 1.4 - Depth textures
+OpenGL 1.5 - Vertex Buffer Object (VBO), Occlusion Queries
+OpenGL 2.0 - GLSL 1.1, MRT, Non Power of Two textures, Point Sprites, Two-sided stencil
+OpenGL 2.1 - GLSL 1.2, Pixel Buffer Object (PBO), sRGB Textures
+OpenGL 3.0 - GLSL 1.3, Texture Arrays, Conditional rendering, Frame Buffer Object (FBO)
+OpenGL 3.1 - GLSL 1.4, Instancing, Texture Buffer Object, Uniform Buffer Object, Primitive restart 
+OpenGL 3.2 - GLSL 1.5, Geometry Shader, Multi-sampled textures 
+OpenGL 3.3 - GLSL 3.30 Backports as much function as possible from the OpenGL 4.0 specification
+OpenGL 4.0 - GLSL 4.00 Tessellation on GPU, shaders with 64-bit precision
+OpenGL 4.1 - GLSL 4.10 Developer-friendly debug outputs, compatibility with OpenGL ES 2.0
+OpenGL 4.2 - GLSL 4.20 Shaders with atomic counters, draw transform feedback instanced, shader packing, performance improvements
+OpenGL 4.3 - GLSL 4.30 Compute shaders leveraging GPU parallelism, shader storage buffer objects, high-quality ETC2/EAC texture compression, increased memory security, a multi-application robustness extension, compatibility with OpenGL ES 3.0
+OpenGL 4.4 - GLSL 4.40 Buffer Placement Control, Efficient Asynchronous Queries, Shader Variable Layout, Efficient Multiple Object Binding, Streamlined Porting of Direct3D applications, Bindless Texture Extension, Sparse Texture Extension
+OpenGL 4.5 - GLSL 4.50
+
+
+
+R100 - Video Immersion
+R200 - Video Immersion II
+R300 - Video Immersion II + Video Shader
+R410 - Video Shader HD
+R420 - Video Shader HD + DXVA
+R520 - Avivo Video
+R600 - Avivo HD Video - UVD
+R700 - UVD 2, UVD 2.2
+Evergreen - UVD 2.2
+Northern Islands - UVD 3 (HD 67xx UVD 2.2)
+Southern Islands - UVD 3, Video Coding Engine
+Volcanic Islands - UVD 4.x, Video Coding Engine 2.0
+
+
+
+The fields in the table listed below describe the following:
+Model   The marketing name for the processor assigned by ATi. Note that the ATi trademark has been replaced by AMD trademark starting with the Radeon HD 6000 series graphics processing units. Professional graphics processing units will switch to the AMD trademark as well.
+Launch   Date of release for the processor.
+Model number   Mobility VPUs are based on technology from several technology families. ATi assigns codenames based on an "MXX" model string, which does not relate to the actual technological base of the processor (represented by the R-number). Additionally, ATi is the sole supplier for all Mobility Radeon parts. For this reason, except for the Mobility Radeon 2000 series, all Mobility processors are listed on the same table.
+Code name   The internal engineering codename for the processor (typically designated by an RNXX name where N is the series number and XX is the market segment for which the product is designed. Additionally, a codename may follow the RVNXX format where "V" typically signifies a processor intended for a mainstream or value market segment).
+Fab   Fabrication process. Average feature size of components of the processor.
+Bus interface   Bus by which the graphics processor is attached to the system (typically an expansion slot, such as PCI, AGP, or PCIe).
+Memory   The reference amount of memory used by the processor.
+Core clock   The reference core clock frequency (used as some manufacturers adjust clocks lower and higher, this number will always be that listed by ATi).
+Memory clock   The reference memory clock frequency (used as some manufacturers adjust clocks lower and higher, this number will always be that listed by ATi).
+Core config   The layout of the graphics pipeline, in terms of functional units. Over time the number, type and variety of functional units in the GPU core has changed significantly; before each section in the list there is an explanation as to what functional units are present in each generation of processors.
+Performance subsection
+Shader operations - How many operations the pixel shaders (or unified shaders in DirectX 10 and newer GPUs) can perform. Measured in MOperations/s or GOperations/s.
+Pixel fillrate - The number of pixels the raster operators can render to a display in one second. Measured in MPixels/s or GPixels/s.
+Texture fillrate - The rate at which a texture can be mapped by the texture mapping units onto a polygon mesh in one second. Measured in MTextels/s or GTextels/s.
+Vertex operations - The amount of geometry operations that can be processed on the vertex shaders in one second (only applies to DirectX 9.0c and older GPUs). Measured in MVertices/s.
+
+Memory subsection
+Bandwidth   Maximum theoretical bandwidth for the processor at factory clock with factory bus width. GB=109 bytes.
+Bus type   Type of memory bus or buses utilized.
+Bus width   Maximum bit width of the memory bus or buses utilized. This will always be a factory bus width.
+
+API compliance section
+DirectX   Highest version of DirectX with which the hardware is fully compliant.
+OpenGL   Highest version of OpenGL with which the hardware is fully compliant.
+
+Features   Additional features that are not standard as a part of the two graphics libraries.
+
+
+
+
+
+
+
+1 Pixel pipelines : Render output units
+
+
+
+
+1 Pixel pipelines : Render output units
+
+
+
+
+1 Pixel pipelines : Vertex shaders : Texture mapping units : Render output units2 OpenGL 1.0 (Generic 2D) is provided through software implementations.
+
+
+
+
+All models include DirectX 7.0 and OpenGL 1.3
+1 Pixel shaders : Vertex shaders : Texture mapping units : Render output unitsA First number indicates cards with 32MB of memory. Second number indicates cards with 64MB of memory.B First number indicates OEM cards. Second number indicates Retail cards.
+
+
+
+All models are manufactured with a 180 nm fabrication process
+All models include DirectX 7.0 and OpenGL 1.4
+Based on the Radeon VE
+1 Pixel shaders : Vertex shaders : Texture mapping units : Render output units
+
+
+
+
+All models are manufactured with a 150 nm fabrication process
+All models include DirectX 8.1 and OpenGL 1.4
+1 Pixel shaders : Vertex shaders : Texture mapping units : Render output units
+
+
+
+All models are manufactured with a 150 nm fabrication process
+All models include DirectX 8.1 and OpenGL 1.4
+Based on the Radeon 9200
+1 Pixel shaders : Vertex shaders : Texture mapping units : Render output units
+
+
+
+
+
+
+
+All models include DirectX 9.0 and OpenGL 2.0
+1 Pixel shaders : Vertex Shaders : Texture mapping units : Render output units2 The 256-bit version of the 9800 SE when unlocked to 8-pixel pipelines with third party driver modifications should function close to a full 9800 Pro.
+
+
+
+
+All models include DirectX 9.0 and OpenGL 2.0
+All models use a PCI-E x16 interface
+1 Pixel shaders : Vertex Shaders : Texture mapping units : Render output units
+
+
+
+
+All models include DirectX 9.0 and OpenGL 2.0
+Based on the Radeon X300
+1Pixel shaders : Vertex Shaders : Texture mapping units : Render output units
+
+
+
+
+
+
+
+All models include AGP 8x
+All models include DirectX 9.0b and OpenGL 2.0
+1 Pixel shaders : Vertex shaders : Texture mapping units : Render output units
+
+
+
+
+All models include PCI-E x16
+All models include DirectX 9.0b and OpenGL 2.0
+1 Pixel shaders : Vertex Shaders : Texture mapping units : Render output units
+
+
+
+
+All models include DirectX 9.0b and OpenGL 2.0
+Based on Radeon X700
+
+
+
+
+Note that ATI X1000 Series cards (e.g. X1900) don't have Vertex Texture Fetch, hence they do not fully comply with the VS 3.0 model. Instead, they offer a feature called "Render to Vertex Buffer (R2VB)" that provides functionality that is an alternative Vertex Texture Fetch.
+
+1 Pixel shaders : Vertex shaders : Texture mapping units : Render output units
+
+
+
+It includes a data-parallel process (DPP) array, a command processor, a memory controller and other logic.
+
+
+
+
+
+
+
+
+
+
+All Radeon HD 3xxx IGP models include DirectX 10.0 and OpenGL 3.3
+1 Unified shaders : Texture mapping units : Render output units2 The clock frequencies may vary in different usage scenarios, as ATI PowerPlay technology is implemented. The clock frequencies listed here refer to the officially announced clock specifications.3 The sideport is a dedicated memory bus. It preferably used for frame buffer.
+
+
+
+
+1 Pixel pipelines : Vertex shaders : Texture mapping units : Render output units2 Unified shaders : Texture mapping units : Render output units
+
+
+
+
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.3 The TDP is reference design TDP values from AMD. Different non-reference board designs from vendors may lead to slight variations in actual TDP.4 All models feature UVD2 & PowerPlay.
+
+
+
+
+All Radeon HD 4xxx IGP models include DirectX 10.1 and OpenGL 3.3
+1 Unified shaders : Texture mapping units : Render output units2 The clock frequencies may vary in different usage scenarios, as ATI PowerPlay technology is implemented. The clock frequencies listed here refer to the officially announced clock specifications.3 The sideport is a dedicated memory bus. It preferably used for frame buffer.
+
+
+
+
+The HD5xxx series is the last series of AMD GPUs which supports two analogue CRT-monitors with a single graphics card (i.e. with two RAM-DACs) AMD Eyefinity introduced.
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.3 The TDP is reference design TDP values from AMD. Different non-reference board designs from vendors may lead to slight variations in actual TDP.4 All cards feature Angle independent anisotropic filtering and Eyefinity capabilities. Each have up to 3 outputs (Eyefinity Edition allows more than 3 simultaneous outputs)55 The Radeon HD 5870 Eyefinity Edition card allows six mini DisplayPort outputs, all of which can be simultaneously active.
+
+
+
+
+All models up to and including HD 6870 are based on the TeraScale 2 (VLIW5), HD 69xx are based on the TeraScale 3 (VLIW4).
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.3 The TDP is reference design TDP values from AMD. Different non-reference board designs from vendors may lead to slight variations in actual TDP.
+
+
+
+All models include DirectX 11, OpenGL 4.1 and OpenCL 1.2
+All models feature the UNB/MC Bus interface
+All models do not feature double-precision FP
+All models feature Angle independent anisotropic filtering, UVD3, and AMD Eyefinity capabilities, with up to three outputs.
+All models feature 3D Blu-ray Disc acceleration.
+All models are based on TeraScale 2 (VLIW5)
+1 Unified shaders : Texture mapping units : Render output units2 TDP specified for AMD reference designs, includes CPU power consumption. Actual TDP of retail products may vary.
+
+
+
+
+All models up to including HD 76xx based on TeraScale 2 (VLIW5), HD 77xx - 79xx are based on GCN 1.0 (Graphics Core Next) architecture except the HD 7790 which is based on GCN 1.1.
+Only the Bonaire (GCN 1.1) based HD 7xx0-series supports OpenCL 2.0. GCN 1.0 devices do not support the complete OpenCL 2.0 profile at this time.
+GPUs based on the GCN (Graphics Core Next) architecture, all support Direct X 11.2 with the latest drivers (Initially came with DirectX 11.1 support) and also support the Mantle API.
+HD 7790 model is designed more like the 7800/7900 models rather than the 7700 featuring 2x primitive rate instead of 1x which is found in the other 7700 cards.
+Bonaire is in the Caribbean Sea, Malta is in the Mediterranean Sea. These parts are reverse rebranded out of the Sea Island Series to appear in the 7000 Series in 2013.
+Bonaire XT is the only card in the 7000 series to support True Audio.
+The HD 7990 "Malta" was discontinued few months after its release.
+According to AMD CodeXL, HD 7990's code name is New Zealand.
+HD 7790 Caution: In Windows XP (Clean DirectX 9) the Performance (GFlop) is lower than a HD4770 (960 GFlops)
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.3 The TDP is reference design TDP values from AMD. Different non-reference board designs from vendors may lead to slight variations in actual TDP.
+
+
+
+All models include DirectX 11, OpenGL 4.4 and OpenCL 1.2
+All models feature the UNB/MC Bus interface
+All models do not support double-precision FP
+All models feature angle independent anisotropic filtering, UVD3.2, and Eyefinity capabilities, with up to four outputs.
+All models are based on the TeraScale 3 (VLIW4) used in the Radeon HD 69xx Series (Cayman) GPUs.
+1TDP specified for AMD reference designs, includes CPU power consumption. Actual TDP of retail products may vary.
+
+
+
+
+All models up to including HD 84xx based on TeraScale 2 (VLIW5), HD 85xx and later are based on Graphics Core Next architecture.
+HD 8570 & HD 8670 will now feature 256 KB L2 read/write cache
+all non-OEM versions are shifted into Q4 2013
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.3 The TDP is reference design TDP values from AMD. Different non-reference board designs from vendors may lead to slight variations in actual TDP.
+
+
+
+
+All GCN GPUs support Mantle.
+All GCN 1.1 and above GPUs support TrueAudio and DirectX 12 (level 12_0).
+1 Unified Shaders : Texture Mapping Units : Render Output Units2 Pixel fillrate is calculated as the number of ROPs multiplied by the base core clock speed.3 Texture fillrate is calculated as the number of TMUs multiplied by the base core clock speed.4 Single precision performance is calculated as two times the number of shaders multiplied by the base core clock speed.5 Double precision performance of Hawaii is 1/8 of single precision performance, Tahiti is 1/4 of single precision performance, others 28 nm chip is 1/16 of single precision performance.6 Base clock of R9 290 and R9 290X will maintain at 947 MHz and 1000 MHz before reaching 95  C, respectively.7 The R9 285 utilizes loss-less colour compression which can increase effective memory performance (relative to GCN 1.0 and 1.1 cards) in certain situations.8 Support for OpenCL 2.0 has been extended to the 200 Series' R7 and R9 models.
+
+
+
+
+All GPUs, except for the Fiji chips, are refined or enhanced versions of Rx 200 chips.
+Non-OEM GPUs have received additional features, including: Power saving frame limiter (user configurable), LiquidVR support, Virtual Super Resolution (VSR) support & reduced power consumption. These features were previously limited to the R9 285 with partial support for VSR on the 290/290X.
+All GPUs support Mantle and Vulkan.
+All GCN 1.1 and above GPUs support TrueAudio and DirectX 12 level 12_0.
+1 Unified Shaders : Texture Mapping Units : Render Output Units2 Pixel fillrate is calculated as the number of ROPs multiplied by the base core clock speed.3 Texture fillrate is calculated as the number of TMUs multiplied by the base core clock speed.4 Single precision performance is calculated as two times the number of shaders multiplied by the base core clock speed.5 Double precision performance is 1/16 of single precision performance, except Grenada, which has 1/8 performance.6 The GCN 1.2 GPUs utilize loss-less colour compression which can increase effective memory performance (relative to GCN 1.0 and 1.1 cards) in certain situations.
+
+
+
+
+
+
+
+1 Vertex shaders : Pixel shaders : Texture mapping units : Render output units
+
+
+
+1 Vertex shaders : Pixel shaders : Texture mapping units : Render output units.
+
+
+
+1 Vertex shaders : Pixel shaders : Texture mapping units : Render output units.
+
+
+
+1 Vertex shaders : Pixel shaders : Texture mapping units : Render output units.
+
+
+
+1 Vertex shaders : Pixel shaders : Texture mapping units : Render output units.2 Unified Shaderss : Texture mapping units : Render output units
+
+
+
+1 Unified Shaders : Texture mapping units : Render output units
+
+
+
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.
+
+
+
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.
+
+
+
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.
+
+
+
+All models include DirectX 11, OpenGL 4.4 and OpenCL 1.2
+All models feature the UNB/MC Bus interface
+All models do not feature double-precision FP
+All models feature Angle independent anisotropic filtering, UVD3, and Eyefinity capabilities, with up to three outputs.
+All models are based on the VLIW5 architecture.
+1 Unified shaders : Texture mapping units : Render output units2 TDP specified for AMD reference designs, includes CPU power consumption. Actual TDP of retail products may vary.
+
+
+
+All models include DirectX 11, OpenGL 4.4 and OpenCL 1.2
+All models feature the UNB/MC Bus interface
+All models do not feature double-precision FP
+All models feature Angle independent anisotropic filtering, UVD3 and Eyefinity capabilities, with up to three outputs.
+All models feature VLIW5
+1 Unified shaders : Texture mapping units : Render output units2 TDP specified for AMD reference designs, includes CPU power consumption. Actual TDP of retail products may vary.
+
+
+
+
+Some models manufactured in a 28 nm fabrication process.
+All models include OpenCL 1.2
+
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.
+
+
+
+See Radeon HD 7000 Series.
+
+
+
+
+All models include OpenCL 1.2
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 Vertex shaders : Pixel shaders : Texture mapping units : Render output units2 Unified shaders : Texture mapping units : Render output units
+
+
+
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.
+
+
+
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.
+
+
+
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.
+
+
+
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.
+
+
+
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.
+
+
+
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.
+
+
+
+
+1 Vertex shaders : Pixel shaders : Texture mapping unit : Render output units2 Unified shaders : Texture mapping unit : Render output units
+
+
+
+
+
+
+
+FireStream 9170-92xx include DirectX 10.1 and OpenGL 3.0
+FireStream 93xx include DirectX 11, OpenGL 4.0 and OpenCL 1.0
+
+
+
+1 Unified shaders : Texture mapping units : Render output units2 The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as it is with other DDR memory.
+
+
+
+
+
+
+1 Vertex shader : Pixel shaders : Texture mapping units : Render output units2 Unified shaders : Texture mapping units : Render output units
+
+
+
+2 Unified Shaders : Texture mapping units : Render output units
+
+
+
+
+
+
+1 Pixel shaders : Vertex shaders : Texture mapping units : Render output units2 Unified shaders : Texture mapping units : Render output units3 10.4 GB/s texture bandwidth. 7.6 GB/s framebuffer bandwidth.
+The latte looks rather similar to the RV730 used in the Radeon HD4650/4670. Although It's an even closer possibly exact specification match to the HD5550 as it has exactly the same clock, number of Shaders, Texture mapping units & Render Outputs
+
+

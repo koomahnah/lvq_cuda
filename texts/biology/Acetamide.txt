@@ -1,0 +1,27 @@
+Acetamide (IUPAC: ethanamide) is an organic compound with the formula CH3CONH2. It is the simplest amide derived from acetic acid. It finds some use as a plasticizer and as an industrial solvent. The related compound N,N-dimethylacetamide (DMA) is more widely used, but it is not prepared from acetamide.
+
+
+
+
+
+
+Acetamide can be produced in the laboratory by dehydrating ammonium acetate:
+CH3COONH4   CH3C(O)NH2 + H2O
+Alternatively acetamide can be obtained in excellent yield via ammonolysis of acetylacetone under conditions commonly used in reductive amination.
+
+
+
+In a similar fashion to some laboratory methods, acetamide is produced dehydrating ammonium acetate or via the hydrolysis of acetonitrile, a byproduct of the production of acrylonitrile:
+CH3CN + H2O   CH3C(O)NH2
+
+
+
+A precursor to thioacetamide
+
+
+
+Acetamide has been detected near the center of the Milky Way galaxy. This finding is potentially significant because acetamide has an amide bond, similar to the essential bond between amino acids in proteins. This finding lends support to the theory that organic molecules that can lead to life (as we know it on Earth) can form in space.
+On 30 July 2015, scientists reported that upon the first touchdown of the Philae lander on comet 67/P ' s surface, measurements by the COSAC and Ptolemy instruments revealed sixteen organic compounds, four of which were seen for the first time on a comet, including acetamide, acetone, methyl isocyanate and propionaldehyde.
+In addition, acetamide is found infrequently on burning coal dumps, as a mineral of the same name.
+
+

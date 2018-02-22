@@ -1,0 +1,79 @@
+A file hosting service, cloud storage service, online file storage provider, or cyberlocker is an Internet hosting service specifically designed to host user files. It allows users to upload files that could then be accessed over the internet from a different computer, tablet, smart phone or other networked device, by the same user or possibly by other users, after a password or other authentication is provided. Typically, the services allow HTTP access, and sometimes FTP access. Related services are content-displaying hosting services (i.e. video and image), virtual storage, and remote backup.
+
+
+
+
+
+
+
+Personal file storage services are aimed at private individuals, offering a sort of "network storage" for personal backup, file access, or file distribution. Users can upload their files and share them publicly or keep them password-protected.
+Document-sharing services allow users to share and collaborate on document files. These services originally targeted files such as PDFs, word processor documents, and spreadsheets. However many remote file storage services are now aimed at allowing users to share and sychronize all types of files across all the devices they use.
+
+
+
+File syncing and sharing services are file hosting services which allow users to create special folders on each of their computers or mobile devices, which the service then synchronizes so that it appears to be the same folder regardless of which computer is used to view it. Files placed in this folder also are typically accessible through a website and mobile apps, and can be easily shared with other users for viewing or collaboration.
+Such services have become popular via consumer products such as Dropbox and Google Drive.
+
+
+
+Authors of shareware, freeware and open source/free software often use file hosting services to serve their software. The inherent problem with free downloads is the huge bandwidth cost. To cover this cost, many sites intentionally delay the starts of downloads and slow down downloading speeds in order to persuade a user to buy a premium, paid account on the site for better service. These hosts also offer additional services to the authors such as statistics or other marketing features.
+
+
+
+Content providers who potentially encounter bandwidth congestion issues may use services specialized in distributing cached or static content. It is the case for companies with a major Internet presence.
+
+
+
+Some online file storage services offer space on a per-gigabyte basis, and sometimes include a bandwidth cost component as well. Usually these will be charged monthly or yearly; for example, Carbonite. Some companies offer the service for free, relying on advertising revenue. Some hosting services do not place any limit on how much space the user's account can consume. Some services require a software download which makes files only available on computers which have that software installed, others allow users to retrieve files through any web browser. With the increased inbox space offered by webmail services, many users have started using their webmail service as an online drive. Some sites offer free unlimited file storage but have a limit on the file size. Some sites offer additional online storage capacity in exchange for new customer referrals.
+
+
+
+One-click hosting, sometimes referred to as cyberlocker, generally describes web services that allow internet users to easily upload one or more files from their hard drives (or from a remote location) onto the one-click host's server free of charge.
+Most such services simply return a URL which can be given to other people, who can then fetch the file later. In many cases these URLs are predictable allowing potential misuse of the service. As of 2005 these sites have drastically increased in popularity, and subsequently, many of the smaller, less efficient sites have failed. Although one-click hosting can be used for many purposes, this type of file sharing has, to a degree, come to compete with P2P filesharing services.
+The sites make money through advertising or charging for premium services such as increased downloading capacity, removing any wait restrictions the site may have or prolonging how long uploaded files remain on the site. Premium services include facilities like unlimited downloading, no waiting, maximum download speed etc. Many such sites implement a CAPTCHA to prevent automated downloading. Several programs aid in downloading files from these one-click hosts; examples are JDownloader, Sonda.me, Tucan Manager and CryptLoad.
+
+
+
+
+File hosting services may be used as a means to distribute or share files without consent of the copyright owner. In such cases one individual uploads a file to a file hosting service, which others can then download. Legal assessments can be very diverse.
+For example in the case of Swiss-German file hosting service RapidShare, in 2010 the US government's congressional international anti-piracy caucus declared the site a "notorious illegal site", claiming that the site was "overwhelmingly used for the global exchange of illegal movies, music and other copyrighted works". But in the legal case Atari Europe S.A.S.U. v. Rapidshare AG in Germany, the D sseldorf higher regional court examined claims related to alleged infringing activity and reached the conclusion on appeal that "most people utilize RapidShare for legal use cases" and that to assume otherwise was equivalent to inviting "a general suspicion against shared hosting services and their users which is not justified". The court also observed that the site removes copyrighted material when asked, does not provide search facilities for illegal material, noted previous cases siding with RapidShare, and after analysis the court concluded that the plaintiff's proposals for more strictly preventing sharing of copyrighted material   submitted as examples of anti-piracy measures RapidShare might have adopted   were found to be "unreasonable or pointless".
+By contrast in January 2012 the United States Department of Justice seized and shut down the file hosting site Megaupload.com and commenced criminal cases against its owners and others. Their indictment concluded that Megaupload differed from other online file storage businesses, suggesting a number of design features of its operating model as being evidence showing a criminal intent and venture. Examples cited included reliance upon advertising revenue and other activities showing the business was funded by (and heavily promoted) downloads and not storage, defendants' communications helping users who sought infringing material, and defendants' communications discussing their own evasion and infringement issues. As of 2014 the case has not yet been heard.
+
+
+
+The emergence of cloud storage services have prompted much discussion on security. Security, as it relates to cloud storage can be broken down into:
+
+
+
+Deals with the questions: Will the user be able to continue accessing their data? Who else can access it? Who can change it?
+Whether the user is able to continue accessing their data depends on a large number of factors, ranging from the location and quality of their internet connection and the physical integrity of the provider's data center to the financial stability of the storage provider.
+The question of who can access and, potentially, change their data ranges from what physical access controls are in place in the provider's data center to what technical steps have been taken, such as access control, encryption, etc.
+Many cloud storage services state that they either encrypt data before it is uploaded or while it is stored. While encryption is generally regarded as best practice in cloud storage how the encryption is implemented is very important.
+Consumer-grade, public file hosting and synchronization services are popular, but for business use, they create the concern that corporate information is exported to devices and cloud services that are not controlled by the organization.
+
+
+
+Secret key encryption is sometimes referred to as zero knowledge, meaning that only the user has the encryption key needed to decrypt the data. Since data is encrypted using the secret key, identical files encrypted with different keys will be different. To be truly zero knowledge, the file hosting service must not be able to store the user's passwords or see their data even with physical access to the servers. For this reason, secret key encryption is considered the highest level of access security in cloud storage. This form of encryption is rapidly gaining popularity, with companies such as SpiderOak being entirely zero knowledge file storage and sharing.
+Since secret key encryption results in unique files, it makes data deduplication impossible and therefore uses more storage space.
+Convergent encryption derives the key from the file content itself and means an identical file encrypted on different computers result in identical encrypted files. This enables the cloud storage provider to de-duplicate data blocks, meaning only one instance of a unique file (such as a document, photo, music or movie file) is actually stored on the cloud servers but made accessible to all uploaders. A third party who gained access to the encrypted files could thus easily determine if a user has uploaded a particular file simply by encrypting it themselves and comparing the outputs.
+Some point out that there is a theoretical possibility that organizations such as the RIAA, MPAA, or a government could obtain a warrant for US law enforcement to access the cloud storage provider's servers and gain access to the encrypted files belonging to a user. By demonstrating to a court how applying the convergent encryption methodology to an unencrypted copyrighted file produces the same encrypted file as that possessed by the user would appear to make a strong case that the user is guilty of possessing the file in question and thus providing evidence of copyright infringement by the user.
+There is, however, no easily accessible public record of this having been tried in court as of May 2013 and an argument could be made that, similar to the opinion expressed by Attorney Rick G. Sanders of Aaron | Sanders PLLC in regards to the iTunes Match "Honeypot" discussion, that a warrant to search the cloud storage provider's servers would be hard to obtain without other, independent, evidence establishing probable cause for copyright infringement. Such legal restraint would obviously not apply to the Secret Police of an oppressive government who could potentially gain access to the encrypted files through various forms of hacking or other cybercrime.
+
+
+
+Deals with the questions: Who owns the data the user uploads? Will the act of uploading change the ownership?
+Example: The act of uploading photos to Facebook gives Facebook an irrevocable, unlimited license to sell the user's picture.
+
+
+
+Cloud storage
+Comparison of file hosting services
+Comparison of file synchronization software
+Comparison of online backup services
+Comparison of online music lockers
+File sharing
+List of backup software
+Remote backup service
+Shared disk access
+
+

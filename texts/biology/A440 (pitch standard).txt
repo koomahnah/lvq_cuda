@@ -1,0 +1,32 @@
+A440 or A4, which has a frequency of 440 Hz, is the musical note A above middle C and serves as a general tuning standard for musical pitch.
+Prior to the standardization on 440 Hz, many countries and organizations followed the Austrian government's 1885 recommendation of 435 Hz, which had also been the French standard since the 1860s. The American music industry reached an informal standard of 440 Hz in 1926, and some began using it in instrument manufacturing. In 1936 the American Standards Association recommended that the A above middle C be tuned to 440 Hz. This standard was taken up by the International Organization for Standardization in 1955 (reaffirmed by them in 1975) as ISO 16. Although not universally accepted, since then it has served as the audio frequency reference for the calibration of acoustic equipment and the tuning of pianos, violins, and other musical instruments.
+It is designated A4 in scientific pitch notation because it occurs in the octave that starts with the fourth C key on a standard 88-key piano keyboard. On MIDI, it is note 69.
+
+A440 is widely used as concert pitch in the United Kingdom and the United States. In continental Europe the frequency of A commonly varies between 440 Hz and 444 Hz. In the period instrument movement, a consensus has arisen around a modern baroque pitch of 415 Hz (A  of A440), baroque for some special church music (Chorton pitch) at 466 Hz (A  of A440), and classical pitch at 430 Hz.
+The A above middle C is sometimes referred to as Concert A. (The C above Concert A is called Concert C.)
+A440 is often used as a tuning reference in just intonation regardless of 1/1 or key. For example, A is common to all stringed instruments.
+The US time and frequency station WWV broadcasts a 440 Hz signal at two minutes past every hour, with WWVH broadcasting the same tone at first minutes past every hour. This was added in 1936 to aid orchestras in tuning their instruments.
+
+
+
+History of pitch standards in Western music
+Concert pitch
+Pitch (music)
+Electronic tuner
+A (musical note)
+
+
+
+^ Karp, Theodore (1983). Dictionary of Music. Northwestern University Press. p. 406. ISBN 9780810106598. 
+^ George Martin (2008). The Opera Companion. Hal Leonard Corporation. ISBN 978-1-57467-168-1. 
+^ ISO 16:1975 Acoustics -- Standard tuning frequency (Standard musical pitch). International Organization for Standardization. 1975. 
+^ Franz Nistl, Table of European orchestra tunes, part 2
+^ Franz Nistl, Table of European orchestra tunes, part 2
+^ Franz Nistl, Table of orchestra tunes
+^ Oxford Composer Companion JS Bach, page 369 372. Oxford University Press, 1999
+^ http://www.nist.gov/pml/div688/grp40/wwv-history.cfm
+
+
+
+ISO 16:1975 as described in their catalog
+A4 in a keyboard and frequencies

@@ -1,0 +1,108 @@
+In Unix-like operating systems, a device file or special file is an interface for a device driver that appears in a file system as if it were an ordinary file. There are also special files in MS-DOS, OS/2, and Microsoft Windows. They allow software to interact with a device driver using standard input/output system calls, which simplifies many tasks and unifies user-space I/O mechanisms.
+Device files often provide simple interfaces to peripheral devices, such as printers and serial ports. But they can also be used to access specific resources on those devices, such as disk partitions. Finally, device files are useful for accessing system resources that have no connection with any actual device such as data sinks and random number generators.
+MS-DOS borrowed the concept of special files from Unix, but renamed them devices. Because early versions of MS-DOS did not support a directory hierarchy, devices were distinguished from regular files by making their names reserved words. This means that certain file names were reserved for devices, and should not be used to name new files or directories. The reserved names themselves were chosen to be compatible with "special files" handling of PIP command in CP/M. There were two kinds of devices in MS-DOS: Block Devices (used for disk drives) and Character Devices (generally all other devices, including COM and PRN devices). PIPE, MAILSLOT, and MUP are other standard Windows devices.
+There are two general kinds of device files in Unix-like operating systems, known as character special files and block special files. The difference between them lies in how data written to them and read from them is processed by the operating system and hardware. These together can be called device special files in contrast to named pipes, which are not connected to a device but are not ordinary files either.
+
+
+
+Device nodes correspond to resources that an operating system's kernel has already allocated. Unix identifies those resources by a major number and a minor number, both stored as part of the structure of a node. The assignment of these numbers occurs uniquely in different operating systems and on different computer platforms. Generally, the major number identifies the device driver and the minor number identifies a particular device (possibly out of many) that the driver controls: in this case, the system may pass the minor number to a driver. However, in the presence of dynamic number allocation, this may not be the case (e.g. on FreeBSD 5 and up).
+As with other special file types, the computer system accesses device nodes using standard system calls and treats them like regular computer files. Two standard types of device files exist; unfortunately their names are, for historical reasons, rather counter-intuitive, and explanations of the difference between the two are often incorrect as a result.
+
+
+
+Character special files or character devices provide unbuffered, direct access to the hardware device. They do not necessarily allow you to read or write single characters at a time; that is up to the device in question. The character device for a hard disk, for example, will normally require that all reads and writes are aligned to block boundaries and most certainly will not let you read a single byte.
+Character devices are sometimes known as raw devices to avoid the confusion surrounding the fact that a character device for a piece of block-based hardware will typically require you to read and write aligned blocks.
+
+
+
+Block special files or block devices provide buffered access to the hardware, such that  the hardware characteristics of the device are not visible.  Unlike character devices, block devices will always allow you to read or write any sized block (including single characters/bytes) and are not subject to alignment restrictions. The downside is that because block devices are buffered, you do not know how long it will take before a write is pushed to the actual device itself, or indeed in what order two separate writes will arrive at the physical device; additionally, if the same hardware exposes both character and block devices, there is a risk of data corruption due to the clients using the character device being unaware of changes made in the buffers of the block device.
+Most systems create both block and character devices to represent hardware like hard disks. FreeBSD and Linux notably do not; the former has removed support for block devices, while the latter creates only block devices. In Linux, to get a character device for a disk you must use the "raw" driver, though you can get the same effect as opening a character device by opening the block device with the Linux-specific O_DIRECT flag.
+
+
+
+Device nodes on Unix-like systems do not necessarily have to correspond to physical devices. Nodes that lack this correspondence form the group of pseudo-devices. They provide various functions handled by the operating system. Some of the most commonly used (character-based) pseudo-devices include:
+/dev/null    accepts and discards all input; produces no output
+/dev/zero    accepts and discards all input; produces a continuous stream of NUL (zero value) bytes
+/dev/full    produces a continuous stream of NUL (zero value) bytes when read, and returns a "disk full" message when written to
+/dev/random and /dev/urandom    they produce a variable-length stream of pseudo-random numbers.
+
+
+
+Nodes are created by the mknod system call. The command-line program for creating nodes is also called mknod. Nodes can be moved or deleted by the usual filesystem system calls (rename, unlink) and commands (mv, rm). When passed the option -R or -a while copying a device node, the cp -l command creates a new device node with the same attributes of the original.
+Some Unix versions include a script named makedev or MAKEDEV to create all necessary devices in the directory /dev. It only makes sense on systems whose devices are statically assigned major numbers (e.g. by means of hardcoding it in their kernel module).
+
+
+
+The following prefixes are used for the names of some devices in the /dev hierarchy, to identify the type of device:
+lp: line printers (compare lp)
+pt: pseudo-terminals (virtual terminals)
+tty: terminals
+Some additional prefixes have come into common use in Linux-based systems:
+fb: frame buffer
+fd: (platform) floppy disks, though this same abbreviation is also commonly used to refer to file descriptor
+hd: ( classic ) IDE driver (previously used for ATA hard disk drive, ATAPI optical disc drives, etc.)
+hda: the master device on the first ATA channel (usually identified by major number 3 and minor number 0)
+hdb: the slave device on the first ATA channel
+hdc: the master device on the second ATA channel
+hdc1: first partition on this disk (example)
+hdc5: first logical drive in the extended partition (example)
+
+hdd: the slave device on the second ATA channel
+
+parport, pp: parallel ports
+SCSI driver, also used by libATA (modern PATA/SATA driver), USB, IEEE 1394, etc.
+sd: mass-storage driver
+sda: first registered device
+sda4: last partition on this disk (example)
+sda6: second logical drive in the extended partition (example)
+
+sdb, sdc, etc.: second, third, etc. registered devices
+
+ses: Enclosure driver
+sg: generic SCSI layer
+sr:  ROM  driver (data-oriented optical disc drives; scd is just a secondary alias)
+st: magnetic tape driver
+
+tty: terminals
+ttyS: (platform) serial port driver
+ttyUSB: USB serial converters, modems, etc.
+
+The canonical list of these prefixes can be found in the Linux Device List, the official registry of allocated device numbers and /dev directory nodes for the Linux operating system.
+For most devices, this prefix is followed by a number uniquely identifying the particular device. For hard drives, a letter is used to identify devices and is followed by a number to identify partitions. Thus a file system may "know" an area on a disk as /dev/sda3, for example, or "see" a networked terminal session as associated with /dev/pts/14.
+On disks using the typical PC master boot record, the device numbers of primary and the optional extended partition are numbered 1 through 4, while the indexes of any logical partitions are 5 and onwards, regardless of the layout of the former partitions (their parent extended partition does not need to be the fourth partition on the disk, nor do all four primary partitions have to exist).
+Device names are usually not portable between different Unix-like system variants, for example, on some BSD systems, the IDE devices are named /dev/wd0, /dev/wd1, etc.
+
+
+
+devfs is a specific implementation of a device file system on Unix-like operating systems, used for presenting device files. The underlying mechanism of implementation may vary, depending on the OS.
+Maintaining these special files on a physically implemented file system (i.e. harddrive) is inconvenient, and as it needs kernel assistance anyway, the idea arose of a special-purpose logical file system that is not physically stored.
+Also defining when devices are ready to appear is not entirely trivial. The 'devfs' approach is for the device driver to request creation and deletion of 'devfs' entries related to the devices it enables and disables.
+
+
+
+
+
+
+A device file is a reserved keyword used in DOS, OS/2, and Microsoft Windows systems to allow access to certain ports and devices.
+DOS uses device files for accessing printers and ports. Most versions of Windows also contain this support, which can cause confusion when trying to make files and folders of certain names, as they cannot have these names. Versions 2.x of MS-DOS provide the AVAILDEV CONFIG.SYS parameter that, if set to FALSE, makes these special names only active if prefixed with \DEV\, thus allowing ordinary files to be created with these names.
+Using shell redirection and pipes, data can be sent to or received from a device. For example, typing TYPE c:\data.txt > PRN will send the file c:\data.txt to the printer.
+
+
+
+
+
+
+
+
+
+Philip Streck (2002-09-24). "devfs for Management and Administration". Linux Journal. 
+Daniel Robbins (2001-10-01). "Part 4: Introduction to devfs". Common threads: Advanced filesystem implementor's guide. IBM. 
+Daniel Robbins (2001-10-01). "Part 5: Setting up devfs". Common threads: Advanced filesystem implementor's guide. IBM. 
+Daniel Robbins (2001-10-01). "Part 6: Implementing devfs (using the init wrapper)". Common threads: Advanced filesystem implementor's guide. IBM. 
+Doug Gilbert (2001-01-22). "DEVFS and SCSI". 
+"3.3. Device Names in devfs". The Linux 2.4 SCSI subsystem HOWTO: Chapter 3. Names and Addresses. Linux Documentation Project. 
+"Device File System Guide". Gentoo Linux Documentation. Gentoo Foundation, Inc. 
+Mark Ellis (2003-09-23). "How to use kernel module autoloading with devfs and devfsd". Linux From Scratch Hints. 
+Martial Daumas (2003-09-18). "How to create a basic mk_initrd command that works nice with LFS and devfs". Linux From Scratch Hints. 
+Jeroen Coumans (2003-04-19). "How to setup devfs with your current LFS-configuration using devfsd. How you can use devfs from scratch.". Linux From Scratch Hints. 
+Tushar Teredesai (2003-03-05). "Using devfs and devfsd". Linux From Scratch Hints.

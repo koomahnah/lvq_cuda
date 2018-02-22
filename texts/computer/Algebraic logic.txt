@@ -1,0 +1,54 @@
+In mathematical logic, algebraic logic is the reasoning obtained by manipulating equations with free variables.
+What is now usually called classical algebraic logic focuses on the identification and algebraic description of models appropriate for the study of various logics (in the form of classes of algebras that constitute the algebraic semantics for these deductive systems) and connected problems like representation and duality. Well known results like the representation theorem for Boolean algebras and Stone duality fall under the umbrella of classical algebraic logic.
+Works in the more recent abstract algebraic logic (AAL) focus on the process of algebraization itself, like classifying various forms of algebraizability using the Leibniz operator.
+
+
+
+Algebraic logic treats algebraic structures, often bounded lattices, as models (interpretations) of certain logics, making logic a branch of the order theory.
+In algebraic logic:
+Variables are tacitly universally quantified over some universe of discourse. There are no existentially quantified variables or open formulas;
+Terms are built up from variables using primitive and defined operations. There are no connectives;
+Formulas, built from terms in the usual way, can be equated if they are logically equivalent. To express a tautology, equate a formula with a truth value;
+The rules of proof are the substitution of equals for equals, and uniform replacement. Modus ponens remains valid, but is seldom employed.
+In the table below, the left column contains one or more logical or mathematical systems, and the algebraic structure which are its models are shown on the right in the same row. Some of these structures are either Boolean algebras or proper extensions thereof. Modal and other nonclassical logics are typically modeled by what are called "Boolean algebras with operators."
+Algebraic formalisms going beyond first-order logic in at least some respects include:
+Combinatory logic, having the expressive power of set theory;
+Relation algebra, arguably the paradigmatic algebraic logic, can express Peano arithmetic and most axiomatic set theories, including the canonical ZFC.
+
+
+
+Algebraic logic is, perhaps, the oldest approach to formal logic, arguably beginning with a number of memoranda Leibniz wrote in the 1680s, some of which were published in the 19th century and translated into English by Clarence Lewis in 1918. But nearly all of Leibniz's known work on algebraic logic was published only in 1903 after Louis Couturat discovered it in Leibniz's Nachlass. Parkinson (1966) and Loemker (1969) translated selections from Couturat's volume into English.
+Brady (2000) discusses the rich historical connections between algebraic logic and model theory. The founders of model theory, Ernst Schr der and Leopold Loewenheim, were logicians in the algebraic tradition. Alfred Tarski, the founder of set theoretic model theory as a major branch of contemporary mathematical logic, also:
+Co-discovered Lindenbaum-Tarski algebra;
+Invented cylindric algebra;
+Wrote the 1941 paper that revived relation algebra, which can be viewed as the starting point of abstract algebraic logic.
+Modern mathematical logic began in 1847, with two pamphlets whose respective authors were Augustus DeMorgan and George Boole. They, and later C.S. Peirce, Hugh MacColl, Frege, Peano, Bertrand Russell, and A. N. Whitehead all shared Leibniz's dream of combining symbolic logic, mathematics, and philosophy. Relation algebra is arguably the culmination of Leibniz's approach to logic. With the exception of some writings by Leopold Loewenheim and Thoralf Skolem, algebraic logic went into eclipse soon after the 1910-13 publication of Principia Mathematica, not to be revived until Tarski's 1940 re-exposition of relation algebra.
+Leibniz had no influence on the rise of algebraic logic because his logical writings were little studied before the Parkinson and Loemker translations. Our present understanding of Leibniz as a logician stems mainly from the work of Wolfgang Lenzen, summarized in Lenzen (2004). To see how present-day work in logic and metaphysics can draw inspiration from, and shed light on, Leibniz's thought, see Zalta (2000).
+
+
+
+Boolean algebra (logic)
+Universal algebra
+Relation algebra
+
+
+
+
+
+
+J. Michael Dunn; Gary M. Hardegree (2001). Algebraic Methods in Philosophical Logic. Oxford University Press. ISBN 978-0-19-853192-0.  Good introduction for readers with prior exposure to non-classical logics but without much background in order theory and/or universal algebra; the book covers these prerequisites at length. This book however has been criticized for poor and sometimes incorrect presentation of AAL results. Review by Janusz Czelakowski
+Hajnal Andr ka, Istv n N meti and Ildik  Sain (2001). "Algebraic logic". In Dov M. Gabbay, Franz Guenthner. Handbook of Philosophical Logic, vol 2 (2nd ed.). Springer. ISBN 978-0-7923-7126-7.  draft
+Willard Quine, 1976, "Algebraic Logic and Predicate Functors" in The Ways of Paradox. Harvard Univ. Press: 283-307.
+Historical perspective
+Burris, Stanley, 2009. The Algebra of Logic Tradition. Stanford Encyclopedia of Philosophy.
+Brady, Geraldine, 2000. From Peirce to Skolem: A Neglected Chapter in the History of Logic. North-Holland/Elsevier Science BV: catalog page, Amsterdam, Netherlands, 625 pages.
+Ivor Grattan-Guinness, 2000. The Search for Mathematical Roots. Princeton University Press.
+Lenzen, Wolfgang, 2004, "Leibniz s Logic" in Gabbay, D., and Woods, J., eds., Handbook of the History of Logic, Vol. 3: The Rise of Modern Logic from Leibniz to Frege. North-Holland: 1-84.
+Roger Maddux, 1991, "The Origin of Relation Algebras in the Development and Axiomatization of the Calculus of Relations," Studia Logica 50: 421-55.
+Loemker, Leroy (1969 (1956)), Leibniz: Philosophical Papers and Letters, Reidel.  
+Parkinson, G.H.R., 1966. Leibniz: Logical Papers. Oxford University Press.
+Zalta, E. N., 2000, "A (Leibnizian) Theory of Concepts," Philosophiegeschichte und logische Analyse / Logical Analysis and History of Philosophy 3: 137-183.
+
+
+
+Stanford Encyclopedia of Philosophy: "Propositional Consequence Relations and Algebraic Logic" -- by Ramon Jansana. (mainly about abstract algebraic logic)

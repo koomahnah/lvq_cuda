@@ -1,0 +1,51 @@
+Cell adhesion is the binding of a cell to a surface or substrate, such as an extracellular matrix of another cell. Adhesion occurs from the action of proteins, called cell adhesion molecules, or sometimes adhesins. Examples of these proteins include selectins, integrins, and cadherins. Cellular adhesion is essential in maintaining multicellular structure. Cellular adhesion can link the cytoplasm of cells and can be involved in signal transduction. Cell adhesion is also essential for the pathogenesis of infectious organisms.
+
+
+
+Adhesion occurs by reversible reactions which occur on cell surface proteins which are triggered by environmental stimuli. Forces and interactions may include hydrolysis/hydrophobic reactions, electrostatic reactions, Brownian motion, and facilitation by polysaccharides or biofilm polymers.
+
+
+
+Protozoans express multiple adhesion molecules. An example of a pathogenic protozoan is the malarial parasite (Plasmodium falciparum), which uses one adhesion molecule called the circumsporozoite protein to bind to liver cells, and another adhesion molecule called the merozoite surface protein to bind red blood cells.
+Human cells express many different types of adhesion molecules. The major classes are named integrins, Ig superfamily members, cadherins, and selectins. Each of these adhesion molecules has a different function and recognizes different ligands. Defects in cell adhesion are usually attributable to defects in expression of adhesion molecules.
+Cell junctions allow cells to adhere to one another in multicellular organisms. There are 4 types of cell junctions:
+Anchoring junctions (Adherens junctions, Desmosomes and Hemidesmosomes), which transmit stress through tethering to cytoskeleton are cell cell or cell matrix
+Occluding Junctions (Tight junctions), which seal gaps between cells, making an impermeable barrier
+Channel forming junctions (Gap junctions and plasmodesmata), which links cytoplasm of adjacent cells
+Signal relaying junction, synapses in nervous systems
+Cell-cell adhesions in Anchoring junctions are mediated by cadherins. The cadherin subunit,  -catenin plays a role in cell-cell adhesion by controlling cadherin-mediated cell adhesion at the plasma membrane. Cell matrix adhesions however, are usually mediated by integrins.
+Selective cell cell adhesion enables vertebrate cells to assemble into organised tissues. homophilic attachment allows selective recognition resulting. Cells of a similar type stick together whereas cells of a different type stay segregated.
+Fungal adhesion allows fungi to bind to host tissues.
+
+
+
+There are human genetic diseases caused by an inability to express a specific adhesion molecule. An example is leukocyte adhesion deficiency-I (LAD-I), where patients do not express the  2-integrin subunit precursor. This integrin is required for leukocytes to adhere to the blood vessel wall during inflammation in order to fight infection. The leukocytes from LAD-I patients fail to adhere and patients exhibit serious episodes of infection that can be life-threatening.
+
+
+
+Cancer metastasis tumors that spread through the circulatory system use mechanisms of cell adhesion to establish new tumors in the body. Release of epoxyeicosatrienoic acid is believed to increase this propensity.
+
+
+
+Prokaryotes have adhesion molecules usually termed "adhesins". Adhesins may occur on pili (fimbriae), flagellae, or the cell surface. Adhesion of bacteria is the first step in colonization and regulates tropism (tissue- or cell-specific interactions).
+
+
+
+Viruses also have adhesion molecules required for viral binding to host cells. For example, influenza virus has a hemagglutinin on its surface that is required for recognition of the sugar sialic acid on host cell surface molecules. HIV has an adhesion molecule termed gp120 that binds to its ligand CD4, which is expressed on lymphocytes.
+
+
+
+
+The differential adhesion hypothesis (sometimes called the "thermodynamic hypothesis") is a theory of cell adhesion advanced by Malcolm Steinberg in 1964 to explain the mechanism by which heterotypic cells in mixed aggregates sort out into isotypic territories. The DAH postulates that tissues are viscoelastic liquids, and as such possess measurable tissue surface tensions. These surface tensions have been determined for a variety of tissues, including embryonic tissues and cell lines. The surface tensions correspond to the mutual sorting behavior: the tissue type with the higher surface tension will occupy an internal position relative to a tissue with a lower surface tension (if these tissues can interact with each other through their adhesion machinery).
+Quantitative differences in homo and heterotypic adhesion are supposed to be sufficient to account for the phenomenon without the need to postulate cell type specific adhesion systems: fairly generally accepted, although some tissue specific cell adhesion molecules are now known to exist.
+
+
+
+Dysfunction of cell-adhesion and cell-migration occurs during cancer metastasis. Cellular adhesion and traction can allow cells to migrate. Cells can form integrin mediated attachments sites called focal adhesions. Focal adhesions at the leading edge provide the necessary traction allowing the cell to pull itself forward.
+Pemphigus is the result of auto-antibodies which target desmosomal cadherins, resulting in loss of cell adhesion.
+
+
+
+Cell adhesion forces of mammalian cells could specifically be measured down to the single receptor-ligand level. Researchers at Japan's Nagoya University have developed a test to measure the adhesion of a single cell and potentially determine cellular viability.
+
+

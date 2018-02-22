@@ -1,0 +1,26 @@
+Adaptec is a brand for computer storage products. The brand and many associated assets were acquired by PMC-Sierra in 2010.
+
+
+
+Larry Boucher founded Adaptec in 1981. At first, Adaptec focused on devices with SCSI interfaces.
+On May 10, 2010, PMC-Sierra, Inc. and Adaptec, Inc. announced they had entered into a definitive agreement of PMC-Sierra acquiring Adaptec's channel storage business on May 8, 2010, which included Adaptec's RAID storage product line, the Adaptec brand, a global value added reseller customer base, board logistics capabilities, and SSD cache performance solutions. The transaction was expected to close in approximately 30 days, subject to customary closing conditions. Following the sale, Adaptec would retain its Aristos ASIC technology business, certain real estate assets, more than 200 patents, and approximately $400 million in cash and marketable securities.
+On June 8, 2010, PMC-Sierra, Inc. and Adaptec, Inc. announced the completion of the acquisition. PMC-Sierra renamed the channel storage business "Adaptec by PMC".
+The old Adaptec, Inc. changed its name to to ADPT Corporation,  and then again to Steel Excel, Inc. Steel Excel is now an investment firm.
+
+
+
+Adaptec produced interface products involving SCSI, USB, IEEE 1394, iSCSI, Fibre Channel, and video. Adaptec once produced CD- and DVD-burning software under the brand names of Easy CD Creator and Toast, as well as network-attached storage devices such as the Snap Server product line.
+The Adaptec brand is used to sell host bus adapters, RAID adapters, SAS expander cards, cables, and accessories.
+
+
+
+The New York Times: November 2, 1999 - "Adaptec Looks To Strengthen Data-Storage Line"
+
+
+
+
+
+
+
+Official website
+Steel Excel Inc.

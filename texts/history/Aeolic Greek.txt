@@ -1,0 +1,205 @@
+In linguistics, Aeolic Greek (/i l k/; also Aeolian /i o li n/, Lesbian or Lesbic dialect) is the set of dialects of Ancient Greek spoken mainly in Boeotia (a region in Central Greece); Thessaly, in the Aegean island of Lesbos; and the Greek colonies of Asia Minor (Aeolis).
+The Aeolic dialect shows many archaisms in comparison to the other Ancient Greek dialects (Attic/Ionic, Doric, Northwestern and Arcadocypriot), as well as many innovations.
+Aeolic Greek is widely known as the language of Sappho and of Alcaeus of Mytilene. Aeolic poetry, which is exemplified in the works of Sappho, mostly uses four classical meters known as the Aeolics: Glyconic (the most basic form of Aeolic line), hendecasyllabic verse, Sapphic stanza, and Alcaic stanza (the latter two are respectively named for Sappho and Alcaeus).
+In Plato's Protagoras (dialogue), Prodicus labelled the Aeolic dialect of Pittacus of Mytilene as barbarian (barbaros), because of its difference from the Attic literary style:
+
+he didn't know to distinguish the words correctly, being from Lesbos, and having been raised with a barbarian dialect
+
+
+
+
+
+
+
+
+
+Proto-Indo-European and Proto-Greek *k  changed to Aeolic p everywhere. By contrast, PIE *k  changed to Attic/Ionic, Arcadocypriot, and Doric t before e and i.
+PIE *k etwores   Lesbian p sures, Boeotian p ttares ~ Attic t ttares, Ionic t sseres, Doric t tores "four"
+Labiovelars were treated the same way in the P-Celtic languages and the Sabellic languages.
+
+
+
+A Proto-Greek consonant cluster with h (from Indo-European *s) and a sonorant (r, l, n, m, w, y) changed to a double sonorant in Aeolic (rr, ll, nn, mm, ww, yy) by assimilation. In Attic/Ionic and Doric, the h assimilated to the vowel before the consonant cluster, causing the vowel to lengthen by compensatory lengthening.
+PIE VsR or VRs   Attic/Ionic-Doric VVR.
+VsR or VRs   Aeolic VRR.
+PIE *h smi   Proto-Greek *ehmi   Aeolic emmi ~ Attic/Ionic  mi (=  ) "I am"
+
+
+
+Lesbian Aeolic lost in initial h- (psilosis "stripping") from Proto-Indo-European s- or y-. By contrast, Ionic sometimes retains it, and Attic always retains it.
+PIE *seh u elios   Proto-Greek *h welios   Lesbian  lios, Ionic  lios ~ Attic h lios "sun"
+
+
+
+In Thessalian and Boeotian (sub-dialects of Aeolic) and Doric, the Proto-Indo-European and Proto-Greek semi-vowel w (digamma) was retained at the beginning of a word.
+PIE wek -es-   Boeotian, Doric w pos ~ Attic-Ionic  pos "word", "epic" (compare Latin v x "voice")
+
+
+
+
+
+
+In Aeolic and Doric, Proto-Greek long   remains. By contrast, in Attic, long   changes to long   in most cases; in Ionic, it changes everywhere.
+PIE *meh ter-   Aeolic, Doric m t r ~ Attic/Ionic m t r "mother"
+
+
+
+In Boeotian, the vowel-system was, in many cases, changed in a way reminiscent of the modern Greek pronunciation.
+Attic/Ionic   /ai/ ~ Boeotian   /e / ~ Modern Greek   /e/
+Attic/Ionic   /e / ~ Boeotian   /i / ~ Modern Greek   /i/
+Attic/Ionic   /oi/ ~ Boeotian   /y / ~ Mediaeval Greek and Old Athenaean   /y / ~ Modern Greek   /i/
+
+
+
+In Lesbian Aeolic, the accent of all words is recessive (barytonesis), as is typical only in the verbs of other dialects.
+Attic/Ionic potam s ~ Lesbian p tamos "river"
+
+
+
+Contracted or vowel-stem verbs that are thematic in Attic/Ionic are often athematic (-mi) in Aeolic.
+Ionic phil , Attic phil  ~ Aeolic ph l mi "I love"
+The same is also found in Irish, where this selection has been generalized, i.e. -im, also in Slovak -m (as opposed to other Slavic languages which still retain the original (based on PIE) opposition -u/-m).
+Aeolic athematic infinitive active ends in -men or (Lesbian) -menai. ~ Attic/Ionic has -enai.
+Lesbian  mmen,  mmenai; Thessalian, Boeotian e men ~ Attic/Ionic e nai (spurious diphthong) "to be"
+In the Lesbian dialect this ending also extends to the thematic conjugation, where Attic/Ionic has -ein. All three of these Aeolic endings occur in Homer.
+Homeric ag men
+Proto-Greek -ans and -ons   -ais and -ois (first- and second declension accusative plural). ~ Attic/Ionic - s and - s (= - ).
+Dative plural -aisi and -oisi. ~ Attic/Ionic -ais and -ois.
+The participle has ois and ais for Attic  s (=  ),  s.
+
+
+
+
+
+
+   lios "sun" Doric also (Attic h lios; Cretan abelios; Laconian bela; Pamphylian babelios) ( PIE *sawel- )
+   g nos "struggle" (Attic   ag n; Elean dat. pl. ag nois for ag si)
+  athr mata gifts sent by kin to Lesbian brides (Sappho fr.) (compare Homeric hedna, eedna)
+  Aiol nes "Aeolians" (Attic   Aiole s) (aioliz  "speak Aeolic, compose in the Aeolian mode, trick out with false words" Sophocles Fr.912 ) (aiole  vary, adorn, diversify (aiolos quick-moving, glittering, shifty)
+  aklades (unpruned vineyards) (Attic akladeutoi ampeloi)
+  akontion (part of troops) (Attic spear) (Macedonian rhachis, spine or backbone, anything ridged like the backbone)
+  -  amen s -tos (Attic   hum n) thin skin, membrane.
+  am nes (Attic   anemones
+  aoros (Attic   ahypnos, without sleep)  
+  arpys (Attic   Eros,Love) attested in Crinagoras,   harpazein to snatch. Homeric harpaleos attractive,devouring
+  asphe to them (Attic sphe, sphi)
+  bakchoa (Attic   bothros sacred dungeon, pit)
+  balla threshold ( Attic   b los ) ( Doric balos )
+  belphin dolphin ( Attic delphis ) and   Belphoi Delphi
+  bama Doric also (Attic   bema walking,step)
+  bl r incitement (Attic delear)          .        
+  bradaniz  brandish,shake off. ( Cf.Elean bratana Common rhatane )
+  bradinos slender,soft (Attic rhadinos) Sapph.90,104.
+  braidion (Attic   rhaidion easy)
+  brakein to understand (dysbrakanon imprehensible)
+  brakos long robe, Sapph.70 Homeric     rhakos wrakos
+  briza root (Attic rhiza)
+  brodon (Attic   rhodon, rose) and vagina metaphorically in Erotic Glossary.
+  brodopachus with pink,rosy forearms (Attic rhodopuches) (  brodopachun Sappho) and brododaktulos with rosy fingers
+  brocheos or   broukeon (Attic   brachy short) (Sapph.fr. 2,7)
+  drasein (Attic   to sacrifice)
+  dnophos darkness Ionic also (Attic   zophos) (akin to knephas)
+  eide (Attic  , forest) (  Ionian also)
+  Ennesiades Lesbian Nymphs
+  epialt s and epial s nightmare (Attic ephialt s) (wiki Ephialtes)
+  zadelon with holes in it,open (Attic diadelon obvious) (Alcaeus 30 D 148P)
+  imb ris eel (Attic   enchelys)  
+  iron holy (Attic   hier n ) (Doric hiar n) (Ionic hir n)
+  Issa old name of Lesbos Island Cf. Antissa
+  issasthai (Attic   klerousthai to take sth by lot)
+  kankul  (Attic   k kis wet,vapour, mordant dyeing)
+  kammarpsis dry Measure (Attic   hemimedimnon, one half of a medimnos)
+  karabides (Attic   graes )  
+  kaualeon Hsch (Attic   aithos fire, burning heat) (Cf.kai  burn)
+  klaides Doric also (Attic kleides bars, bolts, keys)
+M  Mesostrophonia Lesbian festival
+  messui (Attic     in the middle)
+  molsos (Attic  , fat)
+  xennos foreigner,guest-friend,strange (Attic xenos) (Ionic xeinos)
+  ximba (Attic   rhoia pomegranate-tree) (Boeotian sida)
+  othmata (Attic ommata eyes)
+   n   na (Attic   an ) upon,through,again (Arcadocypriot also)
+  passyrion (Attic passydia totally,all together,with the whole army)
+  pedameiv  (Attic metameivo exchange) (  pedecho   metecho), pedoikos metoikos peda for meta
+  pempe five (Attic   pente, Pamphylian   pede ) (   pempassein to count per five) (Attic pempe imp. of pemp  send)
+  Perrhamos Priamus (Alcaeus 74D,111P (it means also king)
+  p sdos pedestrian,infantry) (Attic   pez s)
+  pesson plain (Attic   pedion)
+  pessyres four (Lesbian   pisyres) (Boeotian   pettares) (Attic   tessares) (Doric tetores)
+  sa mi save (Attic   s iz  ) (Homeric   sao )
+  siglai ear-rings (Attic en tia, Laconian ex badia)
+  skiphos Attic xiphos sword (skipt , given as etym. of skiphos and xiphos, Sch.Il.1.220; cf. skipei: nussei, it pricks,pierces)
+  sp la(Attic   stol ) equipment,garment (spaleis, the sent one, for staleis)
+  str tos (Attic strat s) army
+  syrx (Attic   flesh) (dative plural   syrkesi Attic   sarxin)
+  tenekounti (Attic enoikounti dative singular of   enoik n inhabiting)
+  tragais you break, grow rough and hoarse and smell like a goat
+  tude tudai and tuide here) (Ionic t de)
+  usdos (Attic ozos twig,branch)
+  phauophoros priestess (Attic   hiereia) (light-keeper) (Aeolic phau  for Homeric pha  shine) (Homeric phaos light, Attic ph s and ph tophoros)
+  ph ria (Attic   th ria beasts)
+  Psapph , (Attic   Sapph )
+
+
+
+  aas   aest ton tomorrow (Attic   aurion) (Cf.Attic  s dawn)
+  amillakas wine Theban (Attic oinos)
+  an dorkas a fish      ,    
+  baidum n (Attic   arotrian to plough)
+  bana (  balara) woman ( Attic gun  ) ( , ban kes   battikes women ( Attic gunaikes )
+  bastrax or bastax (Attic   trach los neck) pl.bastraches
+  bleerei (Attic   he feels pity) Cf. eleairei
+  gadou (  wadou) (Attic   h d ) (Corinna.17)
+  Deus instead of Zeus. Attested also in Laconian and Rhodian.
+  empyria divination (Attic manteia) (Hsch. public oath, Koine ordeal by fire)
+  zekeltides gourds  Amerias zakeltides (Phrygian zelkia vegetables)
+  idephin sweet-voiced. Hsch.:      . [           ] (Attic h duph non) ( Aeolic wad-, ad- )
+  istake scythe (Attic   drepanon)
+  iugodromein (Attic  , ekbo thein, and bo dromein, run to help) (  Dionysus,   voice,scream (Soph. Phil. 752))(Iungios Thessalian month)
+  i  and hi n (Attic   eg , I) (hi nga i ga for eg ge)
+  Karaios Boeotian epithet for Zeus meaning tall,head. Boeotian eponym Karaidas
+  karoux (Attic k ryx herald)
+  kriddemen (Attic   gelan to laugh) (Strattis fr. 47) Cf. (Cf.Attic kriz  creak,screech)
+  korilla little girl (Koine korasion from Attic korasis girl) (Aetolian korudion)
+  m latas (Attic   poimen shepherd) (homeric   m lon sheep) (Attic m lon apple, Aeolic-Doric malon)
+  mnarion (Attic   kallyntron broom, brush)
+  opisthotila (Attic   s pia cuttlefish) (Strattis. fr. 47,3) (squirts its liquor from behind)
+  opittomai (homeric opizomai I care,respect) (Laconian opiddomai)
+  ophrygnai (Attic  ophryazei he winks raising the eyebrow,to be haughty)
+  seia I persecuted (Attic   edioxa) (Cf.Homeric seu  move quickly,chase)
+  syoboi toi Hog-Boeotians (Cratinus.310)
+  tripeza (Attic trapeza,table)(from tetrapeza four-footed) (tripeza three-footed) (in Aeolic it would-be tripesda)
+  ps smata Boeotian word acc. Aristonymus
+
+
+
+  abrem s (Attic   ablep s       unworthy seeing, despicable (Cypriotic also) (Hes. text        
+  agora (Attic   limen port,harbour) (Hes. text                      
+  alphinia white poplar (PIE *albho- 'white') (Attic leuk , PIE *leuk- 'bright,light') (Macedonian aliza)
+  Aploun Apollo (Attic   Apoll n) (Doric,Pamphylian   Apelon)
+  aspaleia safeness (Attic asphaleia)
+  astralos (Attic   -  psar Starling)
+  bebukousthai to be swollen (Homeric   buktaon blowing)
+  bousia (Attic   gongylidi turnip)
+  d mossos public (Attic d m sios) opp.   iddio stikos privative (Attic idi tik s)
+  daratos Thessalian bread (Macedonian dramis) (Athamanian dramix) (PIE *der- cut,split)
+  despoina woman (Attic gun , Doric guna) (fem. of despotes)
+  enormos (agora,assembly,market and ch ra) (Attic enorme  get in a harbour, hormos bay,anchorage
+  ereas children (Hsch.Attic   tekna) (Homeric ernos young sprout,scion) (Neo-Phrygian eiroi children)
+  theanoustai (Attic   xysters)
+  ithei  (Attic   hamaxitos chariot-road) (Homeric       580) (Attic ithys,eytheia straight line)
+  impsas past participle of impto (Attic   zeuxas zeugnymi join together)(  Impsios       Poseidon Zygius on horses)
+  kalaphos (Attic  , Ascalaphus a bird (Magnesian)
+  kapan  chariot (Attic   ap n ) also, a helmet(kapanikos plenteous
+  kis who, anyone (Attic tis) (Laconian tir) (Arcadocypriot sis)
+  karpaia Thessalo-Macedonian mimic military dance (see also Carpaea) Homeric karpalimos swift (for foot) eager,ravenous.
+  kyrrhos or kyrros sir,master (Attic kyrios)
+  Maketoun 'Macedonian man' (Attic   Maked n) (Thessalian - -oun suffix for Attic    n in both nominative and genitive of participles,pronouns and nouns.
+  mattu  a meat-dessert of Macedonian or Thessalian origin (Athenaeus)(Macedonian mattu s a kind of bird)
+  naeleis new-comers, newly caught ones (Cf.nealeis,ne ludes)
+  nebeu  pray (Macedonian neu ) (Attic euchomai, neu  wink)
+  onala,   onalouma (Attic anal ma expense cost) ( on- in the place of Attic prefix ana-, ongrapsantas SEG 27:202
+  P tthalos and   (Boeotian   Ph ttalos) (Attic   Thettal s) (Ionic, Koine   Thessal s) 'Thesalian man' (  Petthalia Thessalia) (Petthaloi Thessalians) (Koine thessalisti the thessalian way) ( Attic   entethettalizomai become a Thessalian, i.e. wear the large Thessalian cloak ( Thettalika ptera feathers' ), Eupolis.201. )
+  tageu  to be tagos archon in Thessaly      
+
+

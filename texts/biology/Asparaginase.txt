@@ -1,0 +1,49 @@
+Asparaginase (EC 3.5.1.1, USAN) or Colaspase (BAN) is an enzyme that catalyzes the hydrolysis of asparagine to aspartic acid. Asparaginases are enzymes expressed and produced by microorganisms. These enzymes are on the World Health Organization's List of Essential Medicines, a list of the most important medication needed in a basic health system.
+
+
+
+Asparaginases can be used for different industrial and pharmaceutical purposes.
+
+
+
+A different asparaginase is marketed as a drug under the brand name Elspar for the treatment of acute lymphoblastic leukemia (ALL) and is also used in some mast cell tumor protocols. Unlike most of other chemotherapy agents, it can be given as an intramuscular, subcutaneous, or intravenous injection without fear of tissue irritation.
+
+
+
+The most common use of asparaginases is as a processing aid in the manufacture of food. Marketed under the brand names Acrylaway and PreventASe, asparaginases are used as a food processing aid to reduce the formation of acrylamide, a suspected carcinogen, in starchy food products such as snacks and biscuits.
+
+
+
+The main side effect is an allergic or hypersensitivity reaction; anaphylaxis is a possibility. Additionally, it can also be associated with a coagulopathy as it decreases protein synthesis, including synthesis of coagulation factors (e.g. progressive isolated decrease of fibrinogen) and anticoagulant factor (generally antithrombin III; sometimes protein C & S as well), leading to bleeding or thrombotic events such as stroke. Bone marrow suppression is common but only mild to moderate, rarely reaches clinical significance and therapeutic consequences are rarely required.
+Other common side effects include pancreatitis.
+
+
+
+
+
+
+Acrylamide is often formed in the cooking of starchy foods. During heating the amino acid asparagine, naturally present in starchy foods, undergoes a process called the Maillard reaction, which is responsible for giving baked or fried foods their brown color, crust, and toasted flavor. Suspected carcinogens such as acrylamide and some heterocyclic amines are also generated in the Maillard reaction. By adding asparaginase before baking or frying the food, asparagine is converted into another common amino acid, aspartic acid, and ammonium. As a result, asparagine cannot take part in the Maillard reaction, and therefore the formation of acrylamide is significantly reduced. Complete acrylamide removal is probably not possible due to other, minor asparagine-independent formation pathways.
+As a food processing aid, asparaginases can effectively reduce the level of acrylamide up to 90% in a range of starchy foods without changing the taste and appearance of the end product.
+
+
+
+The rationale behind asparaginase is that it takes advantage of the fact that ALL leukemic cells and some other suspected tumor cells are unable to synthesize the non-essential amino acid asparagine, whereas normal cells are able to make their own asparagine; thus leukemic cells require high amount of asparagine. These leukemic cells depend on circulating asparagine. Asparaginase, however, catalyzes the conversion of L-asparagine to aspartic acid and ammonia. This deprives the leukemic cell of circulating asparagine, which leads to cell death.
+
+
+
+This protein may use the morpheein model of allosteric regulation.
+
+
+
+The discovery and development of asparaginase as an anti-cancer drug began in 1953, when scientists first observed that lymphomas in rat and mice regressed after treatment with guinea pig serum. Later it was found out that it is not the serum itself which provoke the tumour regression, but rather the enzyme asparaginase.
+After researches comparing different kinds of asparaginases, the one derived from Escherichia coli and Erwinia chrysanthemi turned out to have the best anti-cancer ability. E. coli has thereby become the main source of asparaginase due to the factor that it is also easy to produce in large amount. Asparaginase produced by Erwinia chrysanthemi instead is known as crisantaspase (BAN), and is available in the United Kingdom under the trade name Erwinase.
+
+
+
+
+
+
+Eukaryotic Linear Motif resource motif class CLV_TASPASE1
+Asparaginase at the US National Library of Medicine Medical Subject Headings (MeSH)
+Crisantaspase information from Macmillan Cancer Support
+U.S. NLM, NIH Drug Information Portal - Asparaginase

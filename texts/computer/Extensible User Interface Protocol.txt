@@ -1,0 +1,11 @@
+The Extensible User Interface Protocol, or XUP, is a proposed web standard. XUP is a SOAP-based protocol for communicating events in a user interface, where the user interface is described by an XML document. The specification does not limit what format the XML document is in, or what event model is used for communicating over XUP. Examples given in the specification for possible user interface languages include XHTML, Wireless Markup Language, and XUL.
+The XUP specification was submitted to the World Wide Web Consortium (W3C) by Consortium member MartSoft Corporation in March 2002. As of 2006, it is a W3C Note, meaning the W3C has not committed to developing the standard as a potential Recommendation, and it is hosted for informational purposes only.
+
+
+
+^ http://www.w3.org/TR/xup/
+
+
+
+W3C 'Note' on the XUP Submission
+XUP profile generator

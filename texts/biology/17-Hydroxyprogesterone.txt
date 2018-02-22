@@ -1,0 +1,54 @@
+17-Hydroxyprogesterone (17-OHP) is an endogenous progestogen as well as chemical intermediate in the biosynthesis of other steroid hormones, including the corticosteroids and the androgens and the estrogens.
+
+
+
+It is derived from progesterone via 17-hydroxylase, a P450c17 enzyme, or from 17-hydroxypregnenolone via 3 -hydroxysteroid dehydrogenase/ 5-4 isomerase.
+17-OHP increases in the third trimester of pregnancy primarily due to fetal adrenal production.
+This steroid is primarily produced in the adrenal glands and to some degree in the gonads, specifically the corpus luteum of the ovary. Normal levels are 3-90 ng/dl in children, and in women, 20-100 ng/dl prior to ovulation, and 100-500 ng/dl during the luteal phase.
+
+
+
+17-OHP is an agonist of the progesterone receptor (PR) similarly to progesterone, albeit weakly in comparison. In addition, it is an antagonist of the mineralocorticoid receptor (MR) as well as a partial agonist of the glucocorticoid receptor (GR), albeit with very low potency (EC50 >100-fold less relative to cortisol) at the latter site, also similarly to progesterone.
+
+
+
+17-OHP is not the same compound as 17-hydroxyprogesterone caproate (17-OHPC), the latter being the caproic acid of 17-hydroxyprogesterone that was first clinically introduced as an injectable version of the steroid under the name of Delalutin in 1956.
+The use of 17-OHPC in pregnancy to prevent preterm birth has a long history. A 2006 Cochrane Review concluded "...important maternal and infant outcomes have been poorly reported to date... information regarding the potential harms of progesterone therapy to prevent preterm birth is limited". There was a similar conclusion from a review by Marc Keirse. Three clinical studies of 250 mg/week of i.m. 17-OHPC showed a trend for an increase in pregnancy loss due to miscarriage compared to placebo. There had been speculation that the castor oil in some 17-OHPC formulations may not be beneficial for pregnancy.
+In contrast, a large NIH study in 2003 looked at the effect of 17-OHPC injections in women at risk for repeat premature birth and found that the treated group experienced premature birth in 37% versus 55% in the controls.
+A follow-up study of the offspring showed no evidence that 17-OHPC affected the children in the first years of life. Based on these NIH data, 17 OHPC was approved by the FDA in 2011 as a drug to reduce the risk of premature birth in selected patients at risk. (v.i.)
+17-OHPC is a category B drug according to the FDA.
+
+
+
+
+
+
+Measurements of levels of 17-OHP are useful in the evaluation of patients with suspected congenital adrenal hyperplasia as the typical enzymes that are defective, namely 21-hydroxylase and 11 -hydroxylase, lead to a build-up of 17-OHP. In contrast, the rare patient with 17 -hydroxylase deficiency will have very low or undetectable levels of 17-OHP. 17-OHP levels can also be used to measure contribution of progestational activity of the corpus luteum during pregnancy as progesterone but not 17-OHP is also contributed by the placenta.
+
+
+
+17-OHPC was first introduced in 1956 as Delalutin to reduce pregnancy loss. After decades of use, Squibb, the manufacturer, voluntarily withdrew the brand, however, physicians continued to use 17-OHPC "off label". Renewed interest was sparked with a large NIH-sponsored study in 2003 that found that 17-OHPC reduced the risk of premature birth in selected at-risk pregnant women. With follow-up data showing no evidence of harmful effects on the offspring, the FDA approved the drug, as sponsored by KV Pharmaceutical as Makena, as an orphan drug in February 2011 to reduce the risk of premature birth in women prior to 37 weeks gestation with a single fetus who had at least one previous premature birth. The drug is not effective in preventing premature birth in women with multiples. With the arrival of Makena as an orphan drug, the price of the drug was to increase from $15 to $1,500 per dose meaning a typical treatment would cost $25 30,000, - a pricing strategy that was strongly criticized. The FDA then announced that pharmacies could continue to compound the drug at their usual cost of $10~20 per dose without fear of legal reprisals., and KV reduced its price to $690 per dose.
+
+
+
+Earlier immunoassays like RIA (radioimmunoassay) or IRMA (immunoradiometric assay) were used to clinically determine 17-Hydroxyprogesterone. Today more sophisticated methods use gas or liquid chromatography and mass spectrometry (e.g. LC-MS/MS).
+
+
+
+
+
+
+
+
+
+11-Deoxycorticosterone (21-hydroxyprogesterone)
+Medroxyprogesterone acetate (17 -hydroxy-6 -methylprogesterone acetate)
+Algestone acetophenide (16 ,17 -dihydroxyprogesterone acetophenide)
+
+
+
+
+
+
+Chemical database at ualberta.ca
+Prescribing information for Makena

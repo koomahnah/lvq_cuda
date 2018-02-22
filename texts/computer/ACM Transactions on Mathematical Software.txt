@@ -1,0 +1,16 @@
+ACM Transactions on Mathematical Software (TOMS) is a quarterly scientific journal that aims to disseminate the latest findings of note in the field of numeric, symbolic, algebraic, and geometric computing applications. It has been published since March 1975 by the Association for Computing Machinery (ACM).
+The journal is described as follows on the ACM Digital Library page:
+
+ACM Transactions on Mathematical Software (TOMS) documents the theoretical underpinnings of numeric, symbolic, algebraic, and geometric computing applications. It focuses on analysis and construction of algorithms and programs, and the interaction of programs and architecture. Algorithms documented in TOMS are available as the Collected Algorithms of the ACM in print, on microfiche, on disk, and online.
+
+The purpose was first stated by its founding editor, Professor John Rice, in the inaugural issue. The decision to found the journal came out of the 1970 Mathematical Software Symposium at Purdue University, also organized by Rice, who negotiated with both SIAM and the ACM regarding its publication.
+Algorithms described in the transactions are generally published in Collected Algorithms. Algorithms published in Collected Algorithms since 1975 (and some earlier ones) are available.
+Authors publishing in ACM TOMS "are required to transfer the copyright to ACM upon acceptance of the algorithm for publication"[1], and ACM subsequently distributes the software under the ACM Software License Agreement, which is free of charge for noncommercial use only [2]. (This restriction means that ACM TOMS software is not Free and open-source software according to The Free Software Definition or The Open Source Definition.)
+
+
+
+
+
+
+Journal home page
+ACM Collected Algorithms

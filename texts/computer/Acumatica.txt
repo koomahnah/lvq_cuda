@@ -1,0 +1,45 @@
+Acumatica, founded in 2008, is a technology provider that develops adaptable cloud- and browser-based enterprise resource planning (ERP) software designed to improve productivity of small and medium-sized businesses (SMBs). The company is headquartered in the Seattle metropolitan area and has a number of satellite offices around the globe.
+
+
+
+Acumatica's web-based ERP applications are built on top of its internally developed platform. The server software can be deployed on-premises, hosted in a data center, or run on a cloud-computing platform. The software can be licensed or purchased as a SaaS solution. Acumatica CEO Jon Roskill told Nucleus Research that the company will continue to expand horizontal functionality while channel partners continue to develop vertical extensions to the product line. Acumatica sells the following suites:
+Acumatica Financial Management Suite
+Acumatica Distribution Management Suite
+Acumatica Project Accounting Suite
+Acumatica Customer Management Suite
+Unlike its competitors, Acumatica sells its products exclusively through partners.
+
+
+
+Acumatica's SaaS offering runs on Windows Azure and SQL Azure. Acumatica's licensed software runs on a Microsoft Windows Server with a Microsoft SQL database. Applications run as .NET managed code.
+
+
+
+In November of 2008, Acumatica launched its first product, Acumatica ERP, alongside an accompanying financial demo. In the following year, on-premises and SaaS software versions were released. Acumatica's distribution software came a year later in April of 2010.
+Acumatica received an investment from Visma in September of 2011.
+In September of 2012, former Microsoft General Manager and Worldwide SMB Sales & Marketing Operations Executive Yury Larichev joined Acumatica as its new Chief Operating Officer. Larichev became the company's Chief Executive Officer at the onset of 2013, soon after the company moved its headquarters to Kirkland, WA.
+In early 2013, Acumatica appointed Christian Lindberg as VP of Partner Solutions. In March of the same year, Acumatica launched version 4.0 of its ERP suite, which introduced a new user interface as well as Acumatica Studio for ERP app development. The product launched in Asia 2 months later alongside the appointment of Erwan Philippe as the Asia General Manager. Jeff Wilson also joined the Acumatica team as Chief Financial Officer during this time.
+In March of 2014, former Microsoft VP Jon Roskill was named Acumatica's new CEO. Acumatica launched its xRP Cloud Platform 2 months later. In the fall of 2014, Acumatica released the beta version of its new suite, Acumatica 5.0. Around the same time, Acumatica secured over $13 million in funding in an effort led by MYOB.
+
+
+
+In 2012, Acumatica was named a Top 100 Global Finalist by Red Herring and number 1 in the Top 20 Coolest Cloud Vendors by CRN. Gleanster also labeled Acumatica the best SMB CRM suite in all four of its categories: Ease of Deployment, Ease of Use, Features/Functionality, and Overall Value.
+In 2013, Acumatica was named one of CRN s  20 Coolest Cloud Software Vendors of the Cloud  for  solid growth throughout 2012  and its  ability to offer ERP in a SaaS model or hosted on-premises  in a data center or the cloud. Acumatica was a finalist for the 2013 SIIA Software CODiE Awards for Best Supply Chain Management Solution, and it was also recognized as one of the top 50 Russian start-ups of the year.
+In 2014, Acumatica won a Gold Stevie in the "New Product or Service of the Year" category for its Cloud Platform. Acumatica was awarded a SIIA Software CODiE Award in May of the same year for Best Supply Chain Management Solution.
+Technology Evaluation Centers has publicly recognized the company, stating that "Old and new ERP establishments should watch out for Acumatica . . . Acumatica s offerings give both new and old ERP software vendors a run for their money."
+
+
+
+Founder Serguei Beloussov is involved with a number of sister companies, including Acronis and Parallels.
+
+
+
+Acumatica's SaaS offering runs on Windows Azure and SQL Azure. Acumatica's licensed software runs on a Microsoft Windows Server with a Microsoft SQL database. Applications run as .NET managed code. Competitors include the following:
+Intacct
+Microsoft Dynamics GP
+Microsoft Dynamics SL
+Microsoft Dynamics NAV
+NetSuite
+Sage Group
+
+

@@ -1,0 +1,77 @@
+MERGE WITH Software fault tolerance
+Fault-tolerant software has the ability to satisfy requirements despite failures.
+
+
+
+The fundamental requirement is to prevent the following from interfering with operation.
+Operating system failures
+Hardware failure
+
+
+
+Computer applications make a call using the application programming interface (API) to access shared resources, like the keyboard, mouse, screen, disk drive, network, and printer. These can fail in two ways.
+Blocked Calls
+Faults
+
+
+
+A blocked call is a request for services from the operating system that halts the computer program until results are available.
+As an example, the TCP call blocks until a response becomes available from a remote server. This occurs every time you perform an action with a web browser. Intensive calculations cause lengthy delays with the same effect as a blocked API call.
+There are two methods used to handle blocking.
+Threads
+Timers
+Threading allows a separate sequence of execution for each API call that can block. This can prevent the overall application from stalling while waiting for a resource. This has the benefit that none of the information about the state of the API call is lost while other activities take place.
+Threaded languages include the following.
+Timers allow a blocked call to be interrupted. A periodic timer allows the programmer to emulate treading. Interrupts typically destroy any information related to the state of a blocked API call or intensive calculation, so the programmer must keep track of this information separately.
+Un-threaded languages include the following.
+Corrupted state will occur with timers. This is avoided with the following.
+Track software state
+Semaphore
+Blocking
+
+
+
+Fault are induced by signals in POSIX compliant systems, and these signals originate from API calls, from the operating system, and from other applications.
+Any signal that does not have handler code becomes a fault that causes premature application termination.
+The handler is a function that is performed on-demand when the application receives a signal. This is called exception handling.
+The termination signal is the only signal that cannot be handled. All other signals can be directed to a handler function.
+Handler functions come in two broad varieties.
+Initialized
+In-line
+Initialized handler functions are paired with each signal when the software starts. This causes the handler function to startup when the corresponding signal arrives. This technique can be used with timers to emulate threading.
+In-line handler functions are associated with a call using specialized syntax. The most familiar is the following used with C++ and Java.
+try
+{
+API_call();
+
+}
+catch
+{
+signal_handler_code;
+
+}
+
+
+
+Hardware fault tolerance for software requires the following.
+Backup
+Redundancy
+Backup maintains information in the event that hardware must be replaced. This can be done in one of two ways.
+Automatic scheduled backup using software
+Manual backup on a regular schedule
+Information restore
+Backup requires an information-restore strategy to make backup information available on a replacement system. The restore process is usually time-consuming, and information will be unavailable until the restore process is complete.
+Redundancy relies on replicating information on more than one computer computing device so that the recovery delay is brief. This can be achieved using continuous backup to a live system that remains inactive until needed (synchronized backup).
+This can also be achieved by replicating information as it is created on multiple identical systems, which can eliminate recovery delay.
+
+
+
+The general approach is to anticipate and control all failure modes using risk mitigation strategies.
+
+
+
+Fault-tolerant design
+Fault-tolerant system
+Fault-tolerant computer system
+
+

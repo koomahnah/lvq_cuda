@@ -1,0 +1,48 @@
+Runt-related transcription factor 1 (RUNX1) also known as acute myeloid leukemia 1 protein (AML1) or core-binding factor subunit alpha-2 (CBFA2) is a protein that in humans is encoded by the RUNX1 gene.
+RUNX1 is a transcription factor that regulates the differentiation of hematopoietic stem cells into mature blood cells. It belongs to the Runt-related transcription factor (RUNX) family of genes which are also called core binding factor-  (CBF ). RUNX proteins form a heterodimeric complex with CBF  which confers increased DNA binding and stability to the complex.
+Chromosomal translocations involving the RUNX1 gene are associated with several types of leukemia including M2 AML. Mutations in RUNX1 are implicated in cases of breast cancer.
+
+
+
+In humans, the gene RUNX1 is 260 kilobases (kb) in length, and is located on chromosome 21 (21q22.12). The gene can be transcribed from 2 alternative promoters, promoter 1 (distal) or promoter 2 (proximal). As a result, various isoforms of RUNX1 can be synthesized, facilitated by alternative splicing. The full-length RUNX1 protein is encoded by 12 exons. Among the exons are two defined domains, namely the runt homology domain (RHD) or the runt domain (exons 2, 3 and 4), and the transactivation domain (TAD) (exon 6). These domains are necessary for RUNX1 to mediate DNA binding and protein-protein interactions respectively. The transcription of RUNX1 is regulated by 2 enhancers (regulatory element 1 and regulatory element 2), and these tissue specific enhancers enable the binding of lymphoid or erythroid regulatory proteins, therefore the gene activity of RUNX1 is highly active in the haematopoietic system.
+The protein RUNX1 is composed of 453 amino acids. As a transcription factor (TF), its DNA binding ability is encoded by the runt domain (residues 50   177), which is homologous to the p53 family. The runt domain of RUNX1 binds to the core consensus sequence TGTGGNNN (where NNN can represent either TTT or TCA). DNA recognition is achieved by loops of the 12-stranded  -barrel and the C-terminus  tail  (residues 170   177), which clamp around the sugar phosphate backbone and fits into the major and minor grooves of DNA. Specificity is achieved by making direct or water-mediated contacts with the bases. RUNX1 can bind DNA as a monomer, but its DNA binding affinity is enhanced by 10 fold if it heterodimerises with the core binding factor   (CBF ), also via the runt domain. In fact, the RUNX family is often referred to as  -subunits, together with binding of a common  -subunit CBF , RUNX can behave as heterodimeric transcription factors collectively called the core binding factors (CBFs).
+The consensus binding site for CBF has been identified to be a 7 bp sequence PyGPyGGTPy. Py denotes pyrimidine which can be either cytosine or thymine.
+
+
+
+Mice embryos with homozygous mutations on RUNX1 died at about 12.5 days. The embryos displayed lack of fetal liver hematopoiesis.
+Similar experiments from a different research group demonstrated that the knockout embryos die between embryonic days 11.5 and 12.5 due to hemorrhaging in the central nervous system (CNS).
+
+
+
+RUNX1 plays a crucial role in adult (definitive) haematopoiesis during embryonic development. It is expressed in all haematopoietic sites that contribute to the formation of haematopoietic stem and progenitor cells (HSPCs), including the yolk sac, allantois, placenta, para-aortic splanchnopleura (P-Sp; (the visceral mesodermal layer), aorta-gonad-mesonephros (AGM) and the umbilical and vitelline arteries. HSPCs are generated via the hemogenic endothelium, a special subset of endothelial cells scattered within blood vessels that can differentiate into haematopoietic cells. The emergence of HSPCs is often studied in mouse and zebrafish animal models, in which HSPCs appear as  intra-aortic  clusters that adhere to the ventral wall of the dorsal aorta. RUNX1 or CBF takes part in this process by mediating the transition of an endothelial cell to become a haematopoietic cell. Interestingly, there is increasing evidence that RUNX1 may also be important during primitive haematopoiesis. This is because in RUNX1 knockout mice, primitive erythrocytes displayed a defective morphology and the size of blast cell population was substantially reduced, apart from the absence of HSPCs which would result in embryonic lethality by Embryonic day (E) 11.5   12.5.
+At a molecular level, expression of the gene RUNX1 is upregulated by the RUNX1 intronic cis-regulatory element (+23 RUNX1 enhancer). This +23 RUNX1 enhancer contains conserved motifs that encourage binding of various haematopoiesis related regulators such as Gata2, ETS factors (Fli-1, Elf-1, PU.1) and the SCL / Lmo2 / Ldb1 complex, as well as RUNX1 itself acting in an auto-regulatory loop. As mentioned before, the main role of RUNX1 is to modulate the fate of haematopoietic cells. This can be achieved by binding to the thrombopoietin (TPO) recaptor/ c-Mpl promoter, followed by the recruitment of transcription activators or repressors in order to promote transition of the hemogenic endothelium to HSCs, or differentiation into linages of lower haematopoetic hierarchies. RUNX1 can also modulate its own level by upregulating the expression of Smad6 to target itself for proteasome degradation.
+
+
+
+At least 39 forms of RUNX1 mutation are implicated in various myeloid malignancies. Examples range from RUNX1 point mutations acquired from low-dose radiation leading to myelodysplastic neoplasms (MDN) or therapy-related myeloid neoplasms (t-MN), to chromosomal translocation of the RUNX1 gene with the ETO / MTG8 / RUNX1T1 gene located on chromosome 8q22, t(8; 21), generating a fusion protein AML-ETO, categorized as acute myeloid leukemia (AML) M2.
+In t(8; 21), breakpoints frequently occur at intron 5   6 of RUNX1 and intron 1b   2 of ETO, creating chimeric transcripts that inherit the runt domain from RUNX1, and all Nervy homology regions (NHR) 1-4 from ETO. As a consequence, AML-ETO retains the ability to bind at RUNX1 target genes whilst acting as a transcription repressor via the recruitment of corepressors and histone deacetylases, which is an intrinsic function of ETO. Oncogenic potential of AML-ETO is exerted because it blocks differentiation and promote self-renewal in blast cells, resulting in massive accumulation of blasts (>20%) in the bone marrow. This is further characterized histologically by the presence of Auer rods and epigenetically by lysine acetylation on residues 24 and 43. Other actions of AML-ETO that could induce leukemogenesis include downregulation of the DNA repair enzyme 8-oxoguanine DNA glycosylase (OGG1) and increase in the level of intracellular reactive oxygen species, making cells that express AML-ETO more susceptible to additional genetic mutations.
+
+
+
+RUNX1 has been shown to interact with:
+C-Fos,
+C-jun,
+SUV39H1
+TLE1, and
+VDR.
+
+
+
+RUNX2
+RUNX3
+
+
+
+
+
+
+
+
+
+RUNX1 protein, human at the US National Library of Medicine Medical Subject Headings (MeSH)

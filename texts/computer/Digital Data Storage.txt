@@ -1,0 +1,67 @@
+Digital Data Storage (DDS) is a format for storing computer data derived from Digital Audio Tape (DAT).
+DDS uses tape with a width of 3.81mm, with the exception of the latest formats, DAT 160 and DAT 320, which are 8mm wide. Initially, the tape was 60 meters (197 feet) or 90 meters (295 ft.) long. Advancements in materials technology have allowed the length to be increased significantly in successive versions. A DDS tape drive uses helical scanning for recording, the same process used by a video cassette recorder (VCR). If errors are present, the write heads rewrite the data.
+Backward compatibility between newer drives and older tapes is not assured; for examples, see HP's DDS Media Compatibility Matrix. (Notice in HP's article that newer tape standards do not simply consist of longer tapes; with DDS2, for example, the track was narrower than with DDS1.)
+The DDS format competes mainly against the LTO, AIT, VXA, and Travan formats.
+
+
+
+
+
+
+Stores up to 1.3 GB uncompressed (2.6 GB compressed) on a 60 m cartridge, 2 GB uncompressed (4 GB compressed) on a 90 m cartridge.
+The DDS-1 Cartridge often does not have the -1 designation, as initially it was the only format. A Media Recognition System was introduced for DDS-2 drives and tapes to detect the media type. From 1993 DDS-1 tapes included the Media Recognition System marks on the leader tape, this was shown by having 4 vertical bars after the DDS logo.
+
+
+
+Stores up to 4 GB uncompressed (8 GB compressed) on a 120 m cartridge.
+
+
+
+Stores up to 12 GB uncompressed (24 GB compressed) on a 125 m cartridge. DDS-3 uses PRML (Partial Response Maximum Likelihood). PRML minimizes electronic noise for a cleaner data recording.
+
+
+
+
+DDS-4 stores up to 20 GB uncompressed (40 GB compressed) on a 150 m cartridge. This format is also called DAT 40.
+
+
+
+
+DAT 72 stores up to 36 GB uncompressed (72 GB compressed) on a 170 m cartridge. The DAT 72 standard was developed by HP and Certance. It has the same form-factor as DDS-3 and -4 and is sometimes referred to as DDS-5.
+
+
+
+DAT 160 was launched in June 2007 by HP, stores up to 80 GB uncompressed (160 GB compressed). A major change from the previous generations is the width of the tape. DAT 160 uses 8 mm wide tape in a slightly thicker cartridge while all prior versions use 3.81 mm wide tape. Despite the difference in tape widths, DAT 160 drives are backwards compatible with DAT 72 and DAT 40 (DDS-4) tapes. Native capacity is 80 GB and native transfer rate was raised to 6.9 MB/s, mostly due to prolonging head/tape contact to 180  (compared to 90  previously). Launch interfaces are SCSI and USB, with SAS interface now released.
+
+
+
+In November 2009 HP launched the new DAT 320 which stores up to 160 GB uncompressed (marketed as 320 GB assuming 2:1 compression).
+
+
+
+The next format, Gen 8, is planned to store approximately 300 GB uncompressed.
+
+
+
+ECMA-139 ISO/IEC 10777:1991, Specification of DDS. [1]
+ECMA-146 ISO/IEC 11321:1992, Specification of DATA/DAT. [2]
+ECMA-150 ISO/IEC 11557:1992, Specification of DDS-DC (DDS w/ compression). [3]
+ECMA-151 ISO/IEC 11558:1992, Specification of DCLZ (compression algorithm). [4]
+ECMA-170 ISO/IEC 12447:1993, Specification of DDS (for 60m and 90m tapes). [5]
+ECMA-171 ISO/IEC 12448:1993, Specification of DATA/DAT-DC (for 60m and 90m tapes). [6]
+ECMA-198 ISO/IEC 13923, Specification of DDS-2. [7]
+ECMA-236 ISO/IEC 15521, Specification of DDS-3. [8]
+ECMA-288 ISO/IEC 17462, Specification of DDS-4. [9]
+
+
+
+Digital Audio Tape (DAT)
+Magnetic storage
+Magnetic tape
+
+
+
+
+
+
+DAT Manufacturers Group

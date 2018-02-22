@@ -1,0 +1,123 @@
+Finite Model Theory (FMT) is a subarea of model theory (MT). MT is the branch of mathematical logic which deals with the relation between a formal language (syntax) and its interpretations (semantics). FMT is a restriction of MT to interpretations of finite structures, which have a finite universe.
+Since many central theorems of MT do not hold when restricted to finite structures, FMT is quite different from MT in its methods of proof. Central results of classical model theory that fail for finite structures include the compactness theorem, G del's completeness theorem, and the method of ultraproducts for first-order logic (FO).
+As MT is closely related to mathematical algebra, FMT became an "unusually effective" instrument in computer science. In other words: "In the history of mathematical logic most interest has concentrated on infinite structures....Yet, the objects computers have and hold are always finite. To study computation we need a theory of finite structures." Thus the main application areas of FMT are: descriptive complexity theory, database theory and formal language theory.
+FMT is mainly about discrimination of structures. The usual motivating question is whether a given class of structures can be described (up to isomorphism) in a given language. For instance, can all cyclic graphs be discriminated (from the non-cyclic ones) by a sentence of the first-order logic of graphs? This can also be phrased as: is the property "cyclic" FO expressible?
+
+
+
+A single structure can always be axiomatized in first-order logic, where axiomatized in a language L means described uniquely up to isomorphism by a single L-sentence. Some finite sets of structures can also be axiomatized in FO. However, FO is not sufficient to axiomatize any set containing infinite structures.
+
+
+
+Is a language L expressive enough to axiomatize a single finite structure S?
+
+
+
+A structure like (1) in the figure can be described by FO sentences in the logic of graphs like
+Every node has an edge to another node: 
+No node has an edge to itself: 
+There is at least one node that is connected to all others: 
+However, these properties do not axiomatize the structure, since for structure (1') the above properties hold as well, yet structures (1) and (1') are not isomorphic.
+Informally the question is whether by adding enough properties, these properties together describe exactly (1) and are valid (all together) for no other structure (up to isomorphism).
+
+
+
+For a single finite structure it is always possible to precisely describe the structure by a single FO sentence. The principle is illustrated here for a structure with one binary relation  and without constants:
+say that there are at least  elements: 
+say that there are at most  elements: 
+state every element of the relation : 
+state every non-element of the relation : 
+all for the same tuple , yielding the FO sentence .
+
+
+
+The method of describing a single structure by means of a first-order sentence can easily be extended for any fixed number of structures. A unique description can be obtained by the disjunction of the descriptions for each structure. For instance, for 2 structures this would be
+
+
+
+By definition, a set containing an infinite structure falls outside the area that FMT deals with. Note that infinite structures can never be discriminated in FO because of the compactness theorem of classical MT: for every infinite model a non-isomorphic one can be found, but which has exactly the same FO properties.
+The most famous example is probably Skolem's theorem, that there is a countable non-standard model of arithmetic.
+
+
+
+Is a language L expressive enough to describe exactly those finite structures that have certain property P in common (up to isomorphism)?
+
+
+
+The descriptions given so far all specify the number of elements of the universe. Unfortunately most interesting sets of structures are not restricted to a certain size, like all graphs that are trees, are connected or are acyclic. Thus to discriminate a finite number of structures is of special importance.
+
+
+
+Instead of a general statement, the following is a sketch of a methodology to differentiate between structures that can and cannot be discriminated.
+1. The core idea is that whenever one wants to see if a Property P can be expressed in FO, one chooses structures A and B, where A does have P and B doesn't. If for A and B the same FO sentences hold, then P cannot be expressed in FO (else it can). In short:
+ and 
+where  is shorthand for  for all FO-sentences  , and P represents the class of structures with property P.
+2. The methodology considers countably many subsets of the language, the union of which forms the language itself. For instance, for FO consider classes FO[m] for each m. For each m the above core idea then has to be shown. That is:
+ and 
+with a pair  for each  and   (in  ) from FO[m]. It may be appropriate to choose the classes FO[m] to form a partition of the language.
+3. One common way to define FO[m] is by means of the quantifier rank qr( ) of a FO formula  , which expresses the depth of quantifier nesting. For example for a formula in prenex normal form, qr is simply the total number of its quantifiers. Then FO[m] can be defined as all FO formulas   with qr( )   m (or, if a partition is desired, as those FO formulas with quantifier rank equal to m).
+4. Thus it all comes down to showing  on the subsets FO[m]. The main approach here is to use the algebraic characterization provided by Ehrenfeucht Fra ss  games. Informally, these take a single partial isomorphism on A and B and extend it m times, in order to either prove or disprove , dependent on who wins the game.
+
+
+
+We want to show that the property that the size of an orderered structure A=(A,  ) is even, can not be expressed in FO.
+1. The idea is to pick A   EVEN and B   EVEN, where EVEN is the class of all structures of even size.
+2. We start with 2 ordered structures A2 and B2 with universes A2 = {1, 2, 3, 4} and B2 = {1, 2, 3, 4, 5}. Obviously A2   EVEN and B2   EVEN.
+3. For m = 2, we can now show* that in a 2-move Ehrenfeucht Fra ss  game on A2 and B2 the duplicator always wins, and thus A2 and B2 cannot be discriminated in FO[2], i.e. A2      B2    for every     FO[2].
+4. Next we have to scale the structures up by increasing m. For example, for m = 3 we must find an A3 and B3 such that the duplicator always wins the 3-move game. This can be achieved by A3 = {1, ..., 8} and B3 = {1, ..., 9}. More generally, we can choose Am = {1, ..., 2m} and Bm = {1, ..., 2m+1}; for any m the duplicator always wins the m-move game for this pair of structures*.
+5. Thus EVEN on finite ordered structures cannot be expressed in FO.
+(*) Note that the proof of the result of the Ehrenfeucht Fra ss  game has been omitted, since it is not the main focus here.
+
+
+
+
+
+
+A substantial fragment of SQL (namely that which is effectively relational algebra) is based on first-order logic (more precisely can be translated in domain relational calculus by means of Codd's theorem), as the following example illustrates: Think of a database table "GIRLS" with the columns "FIRST_NAME" and "LAST_NAME". This corresponds to a binary relation, say G(f, l) on FIRST_NAME X LAST_NAME. The FO query {l : G('Judy', l)}, which returns all the last names where the first name is 'Judy', would look in SQL like this:
+
+select LAST_NAME 
+from GIRLS
+where FIRST_NAME = 'Judy'
+
+Notice, we assume here, that all last names appear only once (or we should use SELECT DISTINCT since we assume that relations and answers are sets, not bags).
+Next we want to make a more complex statement. Therefore in addition to the "GIRLS" table we have a table "BOYS" also with the columns "FIRST_NAME" and "LAST_NAME". Now we want to query the last names of all the girls that have the same last name as at least one of the boys. The FO query is {(f,l) :  h ( G(f, l)   B(h, l) )}, and the corresponding SQL statement is:
+
+select FIRST_NAME, LAST_NAME 
+from GIRLS
+where LAST_NAME IN ( select LAST_NAME from BOYS );
+
+Notice that in order to express the " " we introduced the new language element "IN" with a subsequent select statement. This makes the language more expressive for the price of higher difficulty to learn and implement. This is a common trade-off in formal language design. The way shown above ("IN") is by far not the only one to extend the language. An alternative way is e.g. to introduce a "JOIN" operator, that is:
+
+select distinct g.FIRST_NAME, g.LAST_NAME 
+from GIRLS g, BOYS b
+where g.LAST_NAME=b.LAST_NAME;
+
+First-order logic is too restrictive for some database applications, for instance because of its inability to express transitive closure. This has led to more powerful constructs being added to database query languages, such as recursive WITH in SQL:1999. More expressive logics, like fixpoint logics, have therefore been studied in finite model theory because of their relevance to database theory and applications.
+
+
+
+Narrative data contains no defined relations. Thus the logical structure of text search queries can be expressed in Propositional Logic, like in:
+
+("Java" AND NOT "island") OR ("C#" AND NOT "music")
+
+Note that the challenges in full text search are different from database querying, like ranking of results.
+
+
+
+Trakhtenbrot 1950: failure of completeness theorem in FO,
+Scholz 1952: characterisation of spectra in FO,
+Fagin 1974: the set of all properties expressible in existential second-order logic is precisely the complexity class NP,
+Chandra, Harel 1979/ 80: fixed-point FO extension for db query languages capable of expressing transitive closure -> queries as central objects of FMT.
+Immerman, Vardi 1982: fixed point logic over ordered structures captures PTIME -> descriptive complexity (... Immerman Szelepcs nyi theorem)
+Ebbinghaus, Flum 1995: First comprehensive book "Finite Model Theory"
+Abiteboul, Hull, Vianu 1995: Book "Foundations of Databases"
+Immerman 1999: Book "Descriptive Complexity"
+Kuper, Libkin, Paredaens 2000: Book "Constraint Databases"
+Darmstadt 2005/ Aachen2006: first international workshops on "Algorithmic Model Theory"
+
+
+
+^ Fagin, Ronald (1993). "Finite-model theory   a personal perspective" (PDF). Theoretical Computer Science 116: 3 31. doi:10.1016/0304-3975(93)90218-I. 
+^ Immerman, Neil (1999). Descriptive Complexity. New York: Springer-Verlag. p. 6. ISBN 0-387-98600-6. 
+
+

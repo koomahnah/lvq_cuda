@@ -1,0 +1,24 @@
+In software engineering, programming in the large and programming in the small describe two different approaches to writing software. The terms were coined by Frank DeRemer and Hans Kron in their 1975 paper "Programming-in-the-large versus programming-in-the-small" A similar, later distinction is Ousterhout's dichotomy between system programming languages (for components) and scripting languages for glue code, connecting components.
+Fred Brooks identifies that the way an individual program is created is different from how a programming systems product is created. The former likely does one relatively simple task well. It is probably coded by a single engineer, is complete in itself, and is ready to run on the system on which it was developed. The programming activity was probably fairly short-lived as simple tasks are quick and easy to complete. This is the endeavor that DeRemer and Kron describe as programming in the small.
+Compare with the activities associated with a programming systems project, again as identified by Brooks. Such a project is typified by medium-sized or large industrial teams working on the project for many months to several years. The project is likely to be split up into several or hundreds of separate modules which individually are of a similar complexity to the individual programs described above. However, each module will define an interface to its surrounding modules.
+Brooks describes how programming systems projects are typically run as formal projects that follow industry best practices and will comprise testing, documentation and ongoing maintenance activities as well as activities to ensure that the product is generalized to work in different scenarios including on systems other than the development systems on which it was created.
+DeRemer and Kron have this to say about programming in the large vs in the small (taken from the abstract of their paper - see the references section, below):
+
+
+
+In software development, programming in the large can involve programming by larger groups of people or by smaller groups over longer time periods. Either of these conditions will result in large, and hence complicated, programs that can be challenging for maintainers to understand.
+With programming in the large, coding managers place emphasis on partitioning work into modules with precisely-specified interactions. This requires careful planning and careful documentation.
+With programming in the large, program changes can become difficult. If a change operates across module boundaries, the work of many people may need re-doing. Because of this, one goal of programming in the large involves setting up modules that will not need altering in the event of probable changes. This is achieved by designing modules so they have high cohesion and loose coupling.
+Programming in the large requires abstraction-creating skills. Until a module becomes implemented it remains an abstraction. Taken together, the abstractions should create an architecture unlikely to need change. They should define interactions that have precision and demonstrable correctness.
+Programming in the large requires management skills. The process of building abstractions aims not just to describe something that can work but also to direct the efforts of people who will make it work.
+The concept was introduced by Frank DeRemer and Hans Kron in their 1976 paper "Programming-in-the-Large Versus Programming-in-the-Small", IEEE Trans. on Soft. Eng. 2(2).
+In computer science terms, programming in the large can refer to programming code that represents the high-level state transition logic of a system. This logic encodes information such as when to wait for messages, when to send messages, when to compensate for failed non-ACID transactions, etc.
+A language that was designed to explicitly support programming in the large is BPEL.
+
+
+
+In software development, programming in the small describes the activity of writing a small program. Small programs are typified by being small in terms of their source code size, are easy to specify, quick to code and typically perform one task or a few very closely related tasks very well.
+Programming in the small can involve programming by individuals or small groups over short time periods and may involve less formal practices (for instance less emphasis on documentation or testing), tools and programming languages (e.g. the selection of a loosely typed scripting language in preference to a strictly typed programming language). Programming in the small can also describe an approach to making a prototype software or where rapid application development is more important than stability or correctness.
+In computer science terms, programming in the small deals with short-lived programmatic behavior, often executed as a single ACID transaction and which allows access to local logic and resources such as files, databases, etc.
+
+

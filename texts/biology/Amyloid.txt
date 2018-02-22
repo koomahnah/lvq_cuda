@@ -1,0 +1,57 @@
+Amyloids are insoluble fibrous protein aggregates sharing specific structural traits. They are insoluble and arise from at least 18 inappropriately folded versions of proteins and polypeptides present naturally in the body. These misfolded structures alter their proper configuration such that they erroneously interact with one another or other cell components forming insoluble fibrils. They have been associated with the pathology of more than 20 serious human diseases in that abnormal accumulation of amyloid fibrils in organs may lead to amyloidosis, and may play a role in various neurodegenerative disorders.
+
+
+
+The name amyloid comes from the early mistaken identification by Rudolf Virchow of the substance as starch (amylum in Latin, from Greek   amylon), based on crude iodine-staining techniques. For a period, the scientific community debated whether or not amyloid deposits are fatty deposits or carbohydrate deposits until it was finally found (in 1859) that they are, in fact, deposits of albumoid proteinaceous material.
+
+The classical, histopathological definition of amyloid is an extracellular, proteinaceous deposit exhibiting beta sheet structure. Common to most cross-beta-type structures, in general, they are identified by apple-green birefringence when stained with congo red and seen under polarized light. These deposits often recruit various sugars and other components such as Serum Amyloid P component, resulting in complex, and sometimes inhomogeneous structures. Recently this definition has come into question as some classic, amyloid species have been observed in distinctly intracellular locations.
+A more recent, biophysical definition is broader, including any polypeptide that polymerizes to form a cross-beta structure, in vivo or in vitro. Some of these, although demonstrably cross-beta sheet, do not show some classic histopathological characteristics such as the Congo-red birefringence. Microbiologists and biophysicists have largely adopted this definition, leading to some conflict in the biological community over an issue of language.
+The remainder of this article will use the biophysical context.
+
+
+
+The International Society of Amyloidosis classifies amyloid fibrils based upon associated proteins.
+
+
+
+Native amyloids in organismsCurli fibrils produced by E. coli, Salmonella, and a few other members of the Enterobacteriales (Csg). The genetic elements (operons) encoding the curli system are phylogenetic widespread and can be found in at least four bacterial phyla. This suggest that many more bacteria may express curli fibrils.
+Gas vesicles, the buoyancy organelles of aquatic archaea and eubacteria
+Functional amyloids in Pseudomonas (Fap)
+Chaplins from Streptomyces coelicolor
+Podospora Anserina Prion Het-s
+Malarial coat protein
+Spider silk (some but not all spiders)
+Mammalian melanosomes (PMEL)
+Tissue-type plasminogen activator (tPA), a hemodynamic factor
+ApCPEB protein and its homologues with a glutamine-rich domain
+Peptide/protein hormones stored as amyloids within endocrine secretory granules
+Proteins and peptides engineered to make amyloid that display specific properties, such as ligands that target cell surface receptors
+Several yeast prions are based on an infectious amyloid, e.g. [PSI+] (Sup35p); [URE3] (Ure2p); [PIN+] (Rnq1p); [SWI1+] (Swi1p) and [OCT8+] (Cyc8p)
+Functional amyloids are abundant in most environmental biofilms according to staining with amyloid specific dyes and antibodies
+Fungal cell adhesion proteins aggregate on the surface of the fungi to form cell surface amyloid regions with greatly increased binding strength 
+The tubular sheaths encasing Methanosaeta thermophila filaments are the first functional amyloids to be reported from archeal domain of life 
+
+"Amyloid deposits occur in the pancreas of patients with diabetes mellitus, although it is not known if this is functionally important. The major component of pancreatic amyloid is a 37-amino acid residue peptide known as islet amyloid polypeptide or amylin. This is stored with insulin in secretory granules in B cells and is co secreted with insulin". (Rang and Dale's Pharmacology, 2015).
+
+
+
+Amyloid is characterized by a cross-beta sheet quaternary structure. While amyloid is usually identified using fluorescent dyes, stain polarimetry, circular dichroism, or FTIR (all indirect measurements), the "gold-standard" test to see whether a structure contains cross-beta fibres is by placing a sample in an X-ray diffraction beam. The term "cross-beta" was based on the observation of two sets of diffraction lines, one longitudinal and one transverse, that form a characteristic "cross" pattern. There are two characteristic scattering diffraction signals produced at 4.7 and 10  ngstroms (0.47 nm and 1.0 nm), corresponding to the interstrand and stacking distances in beta sheets. The "stacks" of beta sheet are short and traverse the breadth of the amyloid fibril; the length of the amyloid fibril is built by aligned strands.
+Recent X-ray diffraction studies of microcrystals revealed atomistic details of core region of amyloid. In the crystallographic structure, short stretches from amyloid-prone regions of amyloidogenic proteins run perpendicular to the filament axis, confirming the "cross-beta" model. In addition, two layers of beta-sheet interdigitate to create compact dehydrated interface termed as steric-zipper interface. There are eight classes of steric-zipper interfaces, depending on types of beta-sheet (parallel and anti-parallel) and symmetry between two adjacent beta-sheets.
+In general, amyloid polymerization (aggregation or non-covalent polymerization) is sequence-sensitive, that is, causing mutations in the sequence can prevent self-assembly, especially if the mutation is a beta-sheet breaker, such as proline or non-coded alpha-aminoisobutyric acid. For example, humans produce amylin, an amyloidogenic peptide associated with type II diabetes, but in rats and mice prolines are substituted in critical locations and amyloidogenesis does not occur. Studies comparing synthetic to recombinant Amyloid beta 1-42 in assays measuring rate of fibrillation, fibril homogeneity, and cellular toxicity showed that recombinant Amyloid beta 1-42 has a faster fibrillation rate and greater toxicity than synthetic Amyloid beta 1-42 peptide. This observation combined with the irreproducibility of certain Amyloid beta 1-42 experimental studies has been suggested to be responsible for the lack of progress in Alzheimer's research. Consequently, there has been renewed efforts to manufacture Amyloid beta 1-42 and other amyloid peptides at unprecedented (>99%) purity.
+There are two broad classes of amyloid-forming polypeptide sequences. Glutamine-rich polypeptides are important in the amyloidogenesis of Yeast and mammalian prions, as well as Trinucleotide repeat disorders including Huntington's disease. When peptides are in a beta-sheet conformation, including arrangements in which the beta-strands are parallel and in-register (causing alignment of residues), glutamines can brace the structure by forming inter-strand hydrogen bonding between its amide carbonyls and nitrogens. In general, for this class of diseases, toxicity correlates with glutamine content. This has been observed in studies of onset age for Huntington's disease (the longer the polyglutamine sequence the sooner the symptoms appear), and has been confirmed in a C. elegans model system with engineered polyglutamine peptides.
+Other polypeptides and proteins such as amylin and the Alzheimer's beta protein do not have a simple consensus sequence and are thought to operate by hydrophobic association. Among the hydrophobic residues, aromatic amino-acids are found to have the highest amyloidogenic propensity.
+For these peptides, cross-polymerization (fibrils of one polypeptide sequence causing other fibrils of another sequence to form) is observed in vitro and possibly in vivo. This phenomenon is important, since it would explain interspecies prion propagation and differential rates of prion propagation, as well as a statistical link between Alzheimer's and type 2 diabetes. In general, the more similar the peptide sequence the more efficient cross-polymerization is, though entirely dissimilar sequences can cross-polymerize and highly similar sequences can even be "blockers" that prevent polymerization. Polypeptides will not cross-polymerize their mirror-image counterparts, indicating that the phenomenon involves specific binding and recognition events.
+The fast aggregation process, rapid conformational changes as well as solvent effects provide challenges in measuring monomeric and oligomeric amyloid peptide structures in solution. Theoretical and computational studies complement experiments and provide insights that are otherwise difficult to obtain using conventional experimental tools. Several groups have successfully studied the disordered structures of amyloid and reported random coil structures with specific structuring of monomeric and oligomeric amyloid as well as how genetics and oxidative stress impact the flexible structures of amyloid in solution.
+
+
+
+The reasons for amyloid association disease are unclear. In some cases, the deposits physically disrupt tissue architecture, suggesting disruption of function by some bulk process. An emerging consensus implicates prefibrillar intermediates rather than mature amyloid fibers in causing cell death. 
+Calcium dysregulation has been observed in cells exposed to amyloid oligomers. These small aggregates can form ion channels planar lipid bilayer membranes. Channel formation has been hypothesized to account for calcium dysregulation and mitochondrial dysfunction by allowing indiscriminate leakage of ions across cell membranes.
+Studies have shown that amyloid deposition is associated with mitochondrial dysfunction and a resulting generation of reactive oxygen species (ROS), which can initiate a signalling pathway leading to apoptosis.
+There are reports that indicate amyloid polymers (such as those of Huntingtin, associated with Huntington's Disease) can induce the polymerization of essential amyloidogenic proteins, which should be deleterious to cells. Also, interaction partners of these essential proteins can also be sequestered.
+
+
+
+In the clinical setting, amyloid diseases are typically identified by a change in the fluorescence intensity of planar aromatic dyes such as thioflavin T or congo red. Congo-red positivity remains the gold standard for diagnosis of amyloidosis. In general, this is attributed to the environmental change, as these dyes intercalate between beta-strands. In general, congophilic amyloid plaques cause apple-green birefringence when viewed through crossed polarimetric filters. To avoid nonspecific staining, other histology stains, such as the hematoxylin and eosin stain, are used to quench the dyes' activity in other places such as the nucleus, where the dye might bind. Modern antibody technology and immunohistochemistry has made specific staining easier, but often this can cause trouble because epitopes can be concealed in the amyloid fold; in general, an amyloid protein structure is a different conformation from the one that the antibody recognizes.
+
+

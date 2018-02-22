@@ -1,0 +1,8 @@
+An Erasable programmable logic device (EPLD) is an integrated circuit that comprises an array of programmable logic devices (PLD) that do not come pre-connected; the connections are programmed electrically by the user.
+
+
+
+Complex programmable logic device (CPLD)
+Field-programmable gate array (FPGA)
+Macrocell array
+Programmable array logic (PAL)

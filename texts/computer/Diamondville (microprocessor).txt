@@ -1,0 +1,113 @@
+Bonnell is a CPU microarchitecture used by Intel Atom processors which can execute up to two instructions per cycle. Like many other x86 microprocessors, it translates x86 instructions (CISC instructions) into simpler internal operations (sometimes referred to as micro-ops, effectively RISC style instructions) prior to execution. The majority of instructions produce one micro-op when translated, with around 4% of instructions used in typical programs producing multiple micro-ops. The number of instructions that produce more than one micro-op is significantly fewer than the P6 and NetBurst microarchitectures. In the Bonnell microarchitecture, internal micro-ops can contain both a memory load and a memory store in connection with an ALU operation, thus being more similar to the x86 level and more powerful than the micro-ops used in previous designs. This enables relatively good performance with only two integer ALUs, and without any instruction reordering, speculative execution or register renaming. The Bonnell microarchitecture therefore represents a partial revival of the principles used in earlier Intel designs such as P5 and the i486, with the sole purpose of enhancing the performance per watt ratio. However, Hyper-Threading is implemented in an easy (i.e. low-power) way to employ the whole pipeline efficiently by avoiding the typical single thread dependencies.
+
+
+
+
+
+
+ On 2 March 2008, Intel announced a new single-core Atom Z5xx series processor (code-named Silverthorne), to be used in ultra-mobile PCs and mobile Internet devices (MIDs), which will supersede Stealey (A100 and A110). The processor has 47 million transistors on a 25 mm2 die, allowing for extremely economical production (~2500 chips on a single 300 mm diameter wafer).
+An Atom Z500 processor's dual-thread performance is equivalent to its predecessor Stealey, but should outperform it on applications that can use simultaneous multithreading and SSE3. They run from 0.8 to 2.0 GHz and have a TDP rating between 0.65 and 2.4 W that can dip down to 0.01 W when idle. They feature 32 KB instruction L1 and 24 KB data L1 caches, 512 KB L2 cache and a 533 MT/s front-side bus. The processors are manufactured in 45 nm process.
+
+
+
+
+On 2 March 2008, Intel announced lower-power variants of the Diamondville CPU named Atom N2xx. It was intended for use in nettops and the Classmate PC. Like their predecessors, these are single-core CPUs with Hyper-Threading.
+The N270 has a TDP rating of 2.5 W, runs at 1.6 GHz and has a 533 MHz FSB. The N280 has a clock speed of 1.66 GHz and a 667 MHz FSB.
+On 22 September 2008, Intel announced a new 64-bit dual-core processor (unofficially code-named Dual Diamondville) branded Atom 330, to be used in desktop computers. It runs at 1.6 GHz and has a FSB speed of 533 MHz and a TDP rating of 8 W. Its dual core consists of two Diamondville dies on a single substrate.
+During 2009, Nvidia used the Atom 300 and their GeForce 9400M chipset on a mini-ITX form factor motherboard for their Ion platform.
+
+
+
+
+Although the Atom processor itself is relatively low-power for an x86 microprocessor, many chipsets commonly used with it dissipate significantly more power. For example, while the Atom N270 commonly used in netbooks through mid-2010 has a TDP rating of 2.5 W, an Intel Atom platform that uses the 945GSE Express chipset has a specified maximum TDP of 11.8 W, with the processor responsible for a relatively small portion of the total power dissipated. Individual figures are 2.5 W for the N270 processor, 6 W for the 945GSE chipset and 3.3 W for the 82801GBM I/O controller. Intel also provides a US15W System Controller Hub-based chipset with a combined TDP of less than 5 W together with the Atom Z5xx (Silverthorne) series processors, to be used in ultra-mobile PCs and MIDs, though some manufacturers have released ultra-thin systems running these processors (e.g. Sony VAIO X).
+Initially, all Atom motherboards on the consumer market featured the Intel 945GC chipset, which uses 22 watts by itself. As of early 2009, only a few manufacturers are offering lower-power motherboards with a 945GSE or US15W chipset and an Atom N270, N280 or Z5xx series CPU.
+
+
+
+
+
+
+
+On 21 December 2009, Intel announced the N450, D510 and D410 CPUs with integrated graphics. The new manufacturing process resulted in a 20% reduction in power consumption and a 60% smaller die size. The Intel GMA 3150, a 45 nm shrink of the GMA 3100 with no HD capabilities, is included as the on-die GPU. Netbooks using this new processor were released on 11 January 2010. The major new feature is longer battery life (10 or more hours for 6-cell systems).
+This generation of the Atom was codenamed Pineview, which is used in the Pine Trail platform. Intel's Pine Trail-M platform utilizes an Atom processor (codenamed Pineview-M) and Platform Controller Hub (codenamed Tiger Point). The graphics and memory controller have moved into the processor, which is paired with the Tiger Point PCH. This creates a more power-efficient 2-chip platform rather than the 3-chip one used with previous-generation Atom chipsets.
+On 1 March 2010 Intel introduced the N470 processor, running at 1.83 GHz with a 667 MHz FSB and a TDP rating of 6.5 W.
+The new Atom N4xx chips became available on 11 January 2010. It is used in netbook and nettop systems and includes an integrated single-channel DDR2 memory controller and an integrated graphics core. It also features Hyper-Threading and is manufactured on a 45 nm process. The new design uses half the power of the older Menlow platform. This reduced overall power consumption and size makes the platform more desirable for use in smartphones and other mobile internet devices.
+The D4xx and D5xx series support the x86-64 bit instruction set and DDR2-800 memory. They are rated for embedded use. The series has an integrated graphics processor built directly into the CPU to help improve performance. The models are targeted at nettops and low-end desktops. They do not support SpeedStep.
+The Atom D510 dual-core processor runs at 1.66 GHz, with 1 MB of L2 cache and a TDP rating of 13 W. The single-core Atom D410 runs at 1.66 GHz, with 512 KB of L2 cache and a TDP rating of 10 W.
+
+
+
+ Tunnel Creek is an embedded Atom processor used in the Queens Bay platform with the Topcliff PCH.
+
+
+
+ The Lincroft (Z6xx) with the Whitney Point PCH is included in the Oak Trail tablet platform. Oak Trail is an Intel Atom platform based on Moorestown. Both platforms include a Lincroft microprocessor, but use two distinct input/output Platform Controller Hubs (I/O-PCH), codenamed Langwell and Whitney Point respectively. Oak Trail was presented on 11 April 2011 and was to be released in May 2011. The Z670 processor, part of the Oak Trail platform, delivers improved video playback, faster Internet browsing and longer battery life, "without sacrificing performance" according to Intel. Oak Trail includes support for 1080p video decoding as well as HDMI. The platform also has improved power efficiency and allows applications to run on various operating systems, including Android, MeeGo and Windows.
+
+
+
+ Stellarton is a Tunnel Creek CPU with an Altera Field Programmable Gate Array (FPGA).
+
+
+
+
+Sodaville is a consumer electronics Atom SoC.
+
+
+
+
+Groveland is a consumer electronics Atom SoC.
+
+
+
+The 32 nm shrink of Bonnell is called Saltwell.
+
+
+
+ Intel released their third-generation Cedar Trail platform (consisting of a range of Cedarview processors and the NM10 southbridge chip) based on 32 nm process technology in the fourth quarter of 2011. Intel stated that improvements in graphics capabilities, including support for 1080p video, additional display options including HDMI and DisplayPort, and enhancements in power consumption are to enable fanless designs with longer battery life.
+The Cedar Trail platform includes two new CPUs, 32 nm-based N2800 (1.86 GHz) and N2600 (1.6 GHz), which replace the previous generation Pineview N4xx and N5xx processors. The CPUs also feature an integrated GPU that supports DirectX 9.
+In addition to the netbook platform, two new Cedarview CPUs for nettops, D2500 and D2700, were released on 25 September 2011.
+In early March 2012 the N2800-based Intel DN2800MT motherboard started to become available. Due to the use of a netbook processor, this Mini-ITX motherboard can reach idle power consumption as low as 7.1 W.
+
+
+
+ Penwell is an Atom SoC that is part of the Medfield MID/Smartphone platform.
+
+
+
+
+Berryville is a consumer electronics Atom SoC.
+
+
+
+ Cloverview is an Atom SoC that is part of the Clover Trail tablet platform.
+
+
+
+
+In December 2012 Intel launched the 64-bit Centerton family of Atom CPUs, designed specifically for use in Bordenville platform servers. Based on the 32 nm Saltwell architecture, Centerton adds features previously unavailable in most Atom processors, such as Intel VT virtualization technology, and support for ECC memory.
+
+
+
+
+Briarwood is an Atom SoC that is designed for a server platform.
+
+
+
+
+
+
+List of Intel CPU microarchitectures
+List of Intel Atom microprocessors
+Atom (system on chip)
+
+
+
+
+
+
+
+
+
+Intel - Intel Atom Processor Overview
+Intel Atom Processor
+Intel - Intel Atom Processor Family

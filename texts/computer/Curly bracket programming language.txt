@@ -1,0 +1,1372 @@
+This is a list of programming languages groups.
+
+
+
+
+Array programming (also known as vector or multidimensional languages) generalize operations on scalars to apply transparently to vectors, matrices, and higher-dimensional arrays.
+A+
+Analytica
+APL
+Chapel
+Fortran
+Freemat
+J
+Julia
+K
+Matlab
+Octave
+Python
+R
+S
+S-Lang
+SequenceL
+X10
+ZPL
+IDL
+
+
+
+
+Assembly languages directly correspond to a machine language (see below) so machine code instructions appear in a form understandable by humans. Assembly languages lets programmers use symbolic addresses, which the assembler converts to absolute addresses. Most assemblers also support macros and symbolic constants.
+
+
+
+
+Bigwig (web design and development language)
+PILOT
+TUTOR
+Lasso
+
+
+
+
+
+
+Command-line interface (CLI) languages are also called batch languages, or job control languages. Examples:
+4DOS (extended command-line shell for IBM PCs)
+bash (the Bourne-Again shell from GNU/FSF)
+CHAIN (Datapoint)
+CLIST (MVS Command List)
+CMS EXEC
+csh and tcsh (C-like shell from Bill Joy at UC Berkeley)
+DCL DIGITAL Command Language - standard CLI language for VMS (DEC, Compaq, HP)
+DOS batch language (standard CLI/batch language for the IBM PC running DR-DOS, MS-DOS, or PC DOS before Windows)
+EXEC 2
+Expect (a UNIX automation and test tool)
+Hamilton C shell (a C shell for Windows)
+JCL (punch card-oriented batch control language for IBM System/360 family mainframes)
+ksh (a standard UNIX shell, written by David Korn)
+Rc (command-line shell for Plan 9)
+REXX
+sh (the standard UNIX shell, written by Stephen R. Bourne)
+TACL (Tandem Advanced Command Language)
+Windows batch language (Windows batch file language as understood by COMMAND.COM and CMD.EXE)
+Windows PowerShell (Microsoft .NET-based CLI)
+zsh (a UNIX shell)
+
+
+
+These are languages typically processed by compilers, though theoretically any language can be compiled or interpreted. See also compiled language.
+ActionScript
+Ada (multi-purpose language)
+ALGOL (extremely influential language design. The second high level language compiler.)
+SMALL Machine Algol Like Language
+
+Ateji PX, an extension of the Java language for parallelism
+BASIC (some dialects, including the first version of Dartmouth BASIC)
+BCPL
+Blue
+C (one of the most widely used procedural programming languages)
+C++ (One of the most widely used Object Oriented Languages specially used in large scale, highly complex, high performance software systems)
+C# (compiled into Intermediate Language, which generates a native image at runtime)
+Ceylon (compiled into JVM bytecode)
+CLIPPER 5.3 (Programming Language for DOS-based software)
+CLEO (Clear Language for Expressing Orders) used the compiler for the British Leo computers
+COBOL
+Cobra
+Common Lisp
+Curl
+D (Attempts a "C++ done right" philosophy)
+DASL compiles into Java, JavaScript, JSP, Flex, etc., which are further compiled into a .war file
+Delphi (Borland's Object Pascal development system)
+DIBOL (Digital Interactive Business Oriented Language)
+Dylan
+Eiffel (object-oriented language developed by Bertrand Meyer)
+Sather
+Ubercode
+
+Emacs Lisp
+Erlang
+Factor
+Fancy
+Forth (professional systems, like VFX and SwiftForth)
+Fortran (the first high-level, compiled language, from IBM, John Backus, et al.)
+Go
+Gosu (compiled into JVM bytecode)
+Groovy (compiled into JVM bytecode)
+Haskell
+Harbour
+Java (usually compiled into JVM bytecode although true native-code compiled versions exist)
+JOVIAL
+LabVIEW
+Mercury
+Nemerle (compiled into Intermediate Language bytecode)
+Objective-C
+Pascal (most implementations)
+Plus
+Python (compiled into intermediate Virtual Machine bytecode)
+RPG (Report Program Generator)
+Rust
+Scala (compiled into JVM bytecode)
+Scheme (some implementations, e.g. Gambit)
+SequenceL   purely functional, automatically parallelizing and race-free
+Simula (the first object oriented language, developed by Ole-Johan Dahl and Kristen Nygaard)
+Smalltalk generally compiled to platform independent bytecode that runs on a Virtual Machine.
+Swift
+ML
+Standard ML (SML)
+Alice
+
+OCaml
+
+Turing
+Vala (Compiler for the GObject type system)
+Visual Basic (earlier versions compiled directly to a native runtime. Recent .NET versions compile into Intermediate Language that is Just-In-Time compiled into a native image at runtime)
+Visual FoxPro
+Visual Prolog
+X++
+X#
+XL
+Z++
+
+
+
+
+Message passing languages provide language constructs for concurrency. The predominant paradigm for concurrency in mainstream languages such as Java is shared memory concurrency based on monitors. Concurrent languages that make use of message passing have generally been inspired by CSP or the  -calculus, but have had little commercial success, except for Ada and Erlang. Ada is a multipurpose language and concurrent programming is only one option available.
+Ada (multi-purpose language)
+Alef   concurrent language with threads and message passing, used for systems programming in early versions of Plan 9 from Bell Labs
+Ateji PX an extension of the Java language for parallelism
+ChucK   domain specific programming language for audio, precise control over concurrency and timing
+Cilk   a concurrent C
+C    C Omega, a research language extending C#, uses asynchronous communication
+Clojure   a dialect of Lisp for the Java Virtual Machine
+Chapel
+Co-array Fortran
+Concurrent Pascal (by Brinch-Hansen)
+Curry
+E   uses promises, ensures deadlocks cannot occur
+Eiffel (through the SCOOP mechanism, Simple Concurrent Object-Oriented Computation)
+Erlang   uses asynchronous message passing with nothing shared
+Go
+Java
+Join Java   concurrent language based on Java
+X10
+
+Join-calculus
+Joule   dataflow language, communicates by message passing
+Limbo   relative of Alef, used for systems programming in Inferno (operating system)
+MultiLisp   Scheme variant extended to support parallelism
+occam   influenced heavily by Communicating Sequential Processes (CSP).
+occam-    a modern variant of occam, which incorporates ideas from Milner's  -calculus
+
+Orc
+Oz   multiparadigm language, supports shared-state and message-passing concurrency, and futures
+Mozart Programming System   multiplatform Oz
+
+Pict   essentially an executable implementation of Milner's  -calculus
+Rust   actor-based
+SALSA   actor language with token-passing, join, and first-class continuations for distributed computing over the Internet
+Scala   implements Erlang-style actors on the JVM
+SequenceL   purely functional, automatically parallelizing and race-free
+SR   research language
+Unified Parallel C
+XProc   XML Processing language, enabling concurrency.
+
+
+
+The curly-bracket or curly-brace programming languages have a syntax that defines statement blocks using the curly bracket or brace characters { and }. This syntax originated with BCPL (1966), and was popularized by C (1972). Many curly-bracket languages descend from or are strongly influenced by C. Examples of curly-bracket languages include:
+ABCL/c+
+Alef
+Limbo
+Go
+
+AutoHotkey
+AWK
+B
+bc
+BCPL
+C - developed circa 1970 at Bell Labs
+C++
+C#
+Ceylon
+ChucK - audio programming language
+Cilk - concurrent C for multithreaded parallel programming
+Cyclone - safer C variant
+D
+DASL - based on Java
+E
+ECMAScript
+ActionScript
+ECMAScript for XML
+JavaScript
+JScript
+TypeScript
+
+GML (Game Maker Language)
+GLSL
+ICI
+Java
+Processing
+Groovy
+Join Java
+Tea
+X10
+
+LPC
+MSL
+MEL
+Nemerle - combines C# and ML features, provides syntax extension capabilities
+PCASTL
+Perl
+PHP
+Pico
+Pike
+R
+Rust
+S-Lang
+Scala
+sed
+SuperCollider
+Swift
+UnrealScript
+Windows PowerShell (Microsoft .NET-based CLI)
+Yorick
+
+
+
+Dataflow programming languages rely on a (usually visual) representation of the flow of data to specify the program. Frequently used for reacting to discrete events or for processing streams of data. Examples of dataflow languages include:
+Hartmann pipelines
+G (used in LabVIEW)
+Lucid
+Max
+Oz
+Prograph
+Pure Data
+Reaktor
+StreamBase StreamSQL EventFlow
+VEE
+VHDL
+VisSim
+WebMethods Flow
+
+
+
+Data-oriented languages provide powerful ways of searching and manipulating the relations that have been described as entity relationship tables which map one set of things into other sets. Examples of data-oriented languages include:
+Clarion
+Clipper
+dBase a relational database access language
+MUMPS (an ANSI standard general purpose language with specializations for database work.)
+Cach  (similar to MUMPS)
+RDQL
+SPARQL
+SQL
+Tutorial D, see also The Third Manifesto
+Visual FoxPro, a native RDBMS engine, object oriented, RAD
+WebDNA
+WebQL
+
+
+
+
+Data-structured languages are those where logic is structured in ways similar to their data. Such languages are generally well suited to reflection and introspection. There are three main types:
+Array-based
+List-based
+Stack-based
+Assembly languages that statically link data inline with instructions can also be considered data-structured, in the most primitive way.
+
+
+
+Decision tables can be used as an aid to clarifying the logic before writing a program in any language, but in the 1960s a number of languages were developed where the main logic is expressed directly in the form of a decision table, including:
+Filetab
+
+
+
+
+Declarative languages describe a problem rather than defining a solution. Declarative programming stands in contrast to imperative programming via imperative programming languages, where serial orders (imperatives) are given to a computer. In addition to the examples given just below, all (pure) functional and logic-based programming languages are also declarative. In fact, "functional" and "logical" constitute the usual subcategories of the declarative category.
+Analytica
+Ant (partially Declarative languages, partially imperative programming)
+DASL (partially Declarative languages, partially imperative programming)
+Lustre
+MetaPost
+Modelica
+Prolog
+Oz
+RDQL
+SequenceL   purely functional, automatically parallelizing and race-free
+SPARQL
+SQL
+xBase
+XSL Transformations
+
+
+
+
+
+
+Source embeddable languages embed small pieces of executable code inside a piece of free-form text, often a web page.
+Client-side embedded languages are limited by the capabilities of the browser or intended client. They aim to provide dynamism to web pages without the need to recontact the server.
+Server-side embedded languages are much more flexible, since almost any language can be built into a server. The aim of having fragments of server-side code embedded in a web page is to generate additional markup dynamically; the code itself disappears when the page is served, to be replaced by its output.
+
+
+
+PHP
+VBScript
+SMX, dedicated to web pages
+WebDNA, dedicated to database-driven websites.
+The above examples are particularly dedicated to this purpose. A large number of other languages, such as Erlang, Scala, Perl and Ruby can be adapted (for instance, by being made into Apache modules).
+
+
+
+ActionScript
+Java
+JavaScript
+ECMAScript
+JScript
+VBScript (Windows only)
+
+
+
+A wide variety of dynamic or scripting languages can be embedded in compiled executable code. Basically, object code for the language's interpreter needs to be linked into the executable. Source code fragments for the embedded language can then be passed to an evaluation function as strings. Application control languages can be implemented this way, if the source code is input by the user. Languages with small interpreters are preferred.
+AngelScript
+Ch
+EEL
+Io
+Lua
+Ruby (via mruby)
+Tcl
+
+
+
+
+Languages developed primarily for the purpose of teaching and learning of programming.
+Alice
+Blue
+Elan
+Logo
+Modula-2
+Pascal
+Scheme
+Scratch
+Turing
+
+
+
+
+An esoteric programming language is a programming language designed as a test of the boundaries of computer programming language design, as a proof of concept, or as a joke.
+Befunge
+Brainfuck
+Chef
+INTERCAL
+LOLCODE
+Malbolge
+Piet
+Shakespeare
+Whitespace
+
+
+
+Extension programming languages are languages embedded into another program and used to harness its features in extension scripts.
+Ateji PX an extension of the Java language for parallelism
+AutoLISP (specific to AutoCAD)
+CAL
+C/AL(C/SIDE)
+Guile
+Emacs Lisp
+JavaScript and some dialects (e.g. JScript)
+Lua
+OpenCL an extension of C and C++ to use the GPU and parallel extensions of the CPU.
+OptimJ an extension of the Java programming language with language support for writing optimization models and powerful abstractions for bulk data processing.
+Python (Maya, Blender and other 3-D animation packages)
+REXX
+Ruby (Google SketchUp)
+S-Lang
+SQL
+Squirrel
+Tcl
+Vim script
+VBA
+Windows PowerShell
+
+
+
+
+Fourth-generation programming languages are high-level languages built around database systems. They are generally used in commercial environments.
+ABAP
+CorVision
+CSC's GraphTalk
+Easytrieve report generator (now CA-Easytrieve Plus)
+FOCUS
+IBM Informix-4GL / Aubit-4GL
+LINC 4GL
+MAPPER (Unisys/Sperry) now part of BIS
+MARK-IV (Sterling/Informatics) now VISION:BUILDER of CA
+NATURAL
+Progress 4GL
+Revolution (not based on a database; still, the goal is to work at a higher level of abstraction than 3GLs)
+SAS
+Ubercode (VHLL, or Very High Level Language)
+Uniface
+Visual DataFlex
+Visual FoxPro
+xBase
+
+
+
+
+Functional programming languages define programs and subroutines as mathematical functions. Many so-called functional languages are "impure", containing imperative features. Not surprisingly, many of these languages are tied to mathematical calculation tools. Functional languages include:
+
+
+
+Charity
+Clean
+Coq (Gallina)
+Curry
+Elm
+Frege
+Haskell
+Hope
+Mercury
+Miranda
+Idris
+SequenceL
+
+
+
+APL
+ATS
+CAL
+C++ (since C++11)
+C#
+Ceylon
+D
+Curl
+ECMAScript
+ActionScript
+ECMAScript for XML
+JavaScript
+JScript
+
+Erlang
+Elixir
+LFE
+
+F#
+FPr
+Groovy
+Hop
+J
+Java (since version 8)
+Joy
+Julia
+Lisp
+Clojure
+Common Lisp
+Dylan
+Emacs Lisp
+LFE
+Little b
+Logo
+Scheme
+Racket (formerly PLT Scheme)
+
+Tea
+
+Mathematica
+ML
+Standard ML (SML)
+Alice
+
+OCaml
+
+Nemerle
+Opal
+OPS5
+Poplog
+Python
+Q (equational programming language)
+Q (programming language from Kx Systems)
+R
+Ruby
+REFAL
+Rust
+Scala
+Spreadsheets
+
+
+
+In electronics, a Hardware description language or HDL is a specialized computer language used to describe the structure, design and operation of electronic circuits, and most commonly, digital logic circuits. The two most widely used and well-supported HDL varieties used in industry are Verilog and VHDL. Hardware description languages include:
+
+
+
+Verilog-AMS (Verilog for Analog and Mixed-Signal)
+VHDL-AMS (VHDL with Analog/Mixed-Signal extension)
+
+
+
+Advanced Boolean Expression Language(ABEL)
+Altera Hardware Description Language(AHDL)
+Bluespec
+Confluence
+ELLA
+ESys.net
+Handel-C
+HHDL
+Impulse C
+JHDL
+Lava
+Lola
+M
+MyHDL
+PALASM
+Ruby (hardware description language)
+SystemC
+SystemVerilog
+Verilog
+VHDL (VHSIC HDL)
+
+
+
+Imperative programming languages may be multi-paradigm and appear in other classifications. Here is a list of programming languages that follow the imperative paradigm:
+Ada
+ALGOL
+BASIC
+Blue
+C
+C++
+C#
+Ceylon
+COBOL
+D
+FORTRAN
+Go
+Groovy
+Java
+Julia
+Lua
+MATLAB
+Machine language
+Modula-2, Modula-3
+MUMPS
+Oberon
+Object Pascal
+OCaml
+Pascal
+Perl
+PHP
+PROSE
+Python
+Ruby
+Rust
+
+
+
+Interactive mode languages act as a kind of shell: expressions or statements can be entered one at a time, and the result of their evaluation is seen immediately.
+APL
+BASIC (some dialects)
+Clojure
+Common Lisp
+Erlang
+F#
+Fancy
+Forth
+FPr
+Fril
+Haskell (with the GHCi or Hugs interpreter)
+IDL
+J
+JavaScript (via Node.js at the command line or Chrome's developer tools)
+Julia
+Lua
+MUMPS (an ANSI standard general purpose language)
+Maple
+Mathematica
+MATLAB
+ML
+Perl
+Pike
+PostScript
+Python
+PROSE
+R
+REXX
+Ruby (with IRB)
+Scala
+Scheme
+Smalltalk (anywhere in a Smalltalk environment)
+S-Lang (with the S-Lang shell, slsh)
+Tcl (with the Tcl shell, tclsh)
+Windows PowerShell (Microsoft .NET-based CLI)
+Visual FoxPro (Microsoft)
+
+
+
+Interpreted languages are programming languages in which programs may be executed from source code form, by an interpreter. Theoretically, any language can be compiled or interpreted, so the term *interpreted language* generally refers to languages that are commonly interpreted rather than compiled.
+Ant
+APL
+AutoHotkey scripting language
+AutoIt scripting language
+BASIC (some dialects)
+DATABUS (later versions added optional compiling)
+DM
+Eiffel (via "Melting Ice Technology" in EiffelStudio)
+Forth (interactive shell only; otherwise compiled to native or threaded code)
+FPr (Virtual machine: Text is compiled to linked lists; linked lists are interpreted)
+Game Maker Language
+Groovy
+Haskell (GHCi, Hugs, NHC, YHC etc.)
+J
+Julia
+JavaScript
+Lisp (early versions, pre-1962, and some experimental ones; production Lisp systems are compilers, but many of them still provide an interpreter if needed)
+Tea
+
+LPC
+Lua
+MUMPS (an ANSI standard general purpose language)
+Maple
+Mathematica
+Oriel
+Pascal (early implementations)
+PCASTL
+Perl
+PHP
+Pikt
+PostScript
+PROSE
+Python
+REXX
+R
+Ruby
+S-Lang
+Standard ML (SML)
+Spin
+Tcl
+TI-BASIC
+TorqueScript
+thinBasic scripting language
+VBScript
+Windows PowerShell (Microsoft .NET-based CLI)
+Some scripting languages (below)
+
+
+
+Iterative languages are built around or offering generators.
+Aldor
+Alphard
+C#
+CLU
+Cobra
+Eiffel, through "agents"
+Icon
+IPL-v
+Lua
+PHP
+Python
+Sather
+XL ("iterator" construct)
+
+
+
+List-based languages are a type of data-structured language that are based upon the list data structure.
+FPr
+Joy
+Lisp
+Arc
+Clojure
+Common Lisp
+Dylan
+Emacs Lisp
+Racket
+Scheme
+Logo
+
+R
+Tcl
+Tea
+
+TRAC
+
+
+
+Little languages serve a specialized problem domain.
+awk can serve as a prototyping language for C, because the syntax is similar
+Comet is used to solve complex combinatorial optimization problems in areas such as resource allocation and scheduling.
+SQL has only a few keywords, and not all the constructs needed for a full programming language. Many database management systems extend SQL with additional constructs as a stored procedure language.
+
+
+
+
+Logic-based languages specify a set of attributes that a solution must have, rather than a set of steps to obtain a solution. Examples:
+ALF
+Alma-0
+CLACL (CLAC-Language)
+Curry
+Fril
+Janus
+ Prolog (a logic programming language featuring polymorphic typing, modular programming, and higher-order programming)
+Leda
+Oz
+Mozart Programming System a multiplatform Oz
+
+Poplog
+Prolog (formulates data and the program evaluation mechanism as a special form of mathematical logic called Horn logic and a general proving mechanism called logical resolution)
+Mercury (based on Prolog)
+Strawberry Prolog (standard Prolog with some extensions)
+Visual Prolog (object-oriented Prolog extension)
+
+ROOP
+
+
+
+Machine languages are directly executable by a computer's CPU. They are typically formulated as bit patterns, usually represented in octal or hexadecimal. Each bit pattern causes the circuits in the CPU to execute one of the fundamental operations of the hardware. The activation of specific electrical inputs (e.g., CPU package pins for microprocessors), and logical settings for CPU state values, control the processor's computation. Individual machine languages are specific to a family of processors; machine-language code for one family of processors cannot run directly on processors in another family unless the processors in question have additional hardware to support it (for example, DEC VAX processors included a PDP-11 compatibility mode). They are (essentially) always defined by the CPU developer, not by 3rd parties. The symbolic version, the processor's assembly language, is also defined by the developer, in most cases. Some commonly-used machine code instruction sets are:
+ARM
+DEC PDP-6/PDP-10/DECSYSTEM-20
+DEC PDP-11 (influenced VAX and M68000)
+DEC VAX
+DEC Alpha
+Intel 8008, 8080 and 8085
+Zilog Z80
+
+x86:
+16-bit x86, first used in the Intel 8086
+Intel 8086 and 8088 (the latter was used in the first and early IBM PC)
+Intel 80186
+Intel 80286 (the first x86 processor with protected mode, used in the IBM AT)
+
+IA-32, introduced in the 80386
+x86-64 The original specification was created by AMD. There are vendor variants, but they're essentially the same:
+AMD's AMD64
+Intel's Intel 64
+
+IBM System/360 and successors, including z/Architecture
+MIPS
+Motorola 6800
+Motorola 68000 family (CPUs used in early Apple Macintosh and early Sun computers)
+MOS Technology 65xx
+6502 (CPU for VIC-20, Apple II, and Atari 800)
+6510 (CPU for Commodore 64)
+Western Design Center 65816/65802 (CPU for Apple IIGS and (variant) Super Nintendo Entertainment System)
+
+National NS320xx
+Power Architecture
+POWER, first used in the IBM RS/6000
+PowerPC - used in Power Macintosh and the technology is used in many game consoles)
+
+Sun SPARC
+
+
+
+
+
+
+
+Macro languages transform one source code file into another. A "macro" is essentially a short piece of text that expands into a longer one, possibly with parameter substitution. They are often used to preprocess source code. Preprocessors can also supply facilities like file inclusion. Macro languages may be restricted to acting on specially labeled code regions (pre-fixed with a # in the case of the C preprocessor. Alternatively, they may not, but in this case it is still often undesirable to (for instance) expand a macro embedded in a string literal, so they still need a rudimentary awareness of syntax. That being the case, they are often still applicable to more than one language. Contrast with source-embeddable languages like PHP, which are fully featured.
+cpp (the C preprocessor)
+m4 (originally from AT&T, bundled with UNIX)
+
+
+
+Scripting languages such as Tcl and ECMAScript (ActionScript, ECMAScript for XML, JavaScript, JScript) have been embedded into applications. These are sometimes called "macro languages", although in a somewhat different sense to textual-substitution macros like m4.
+
+
+
+Metaprogramming is writing of programs that write or manipulate other programs (or themselves) as their data or that do part of the work that is otherwise done at run time during compile time. In many cases, this allows programmers to get more done in the same amount of time as they would take to write all the code manually.
+C++
+Curl
+D
+Elixir
+Fancy
+Forth
+Groovy
+Haskell
+Julia
+Lisp
+Lua
+Maude system
+Mathematica
+MetaOCaml
+Nemerle
+Perl
+Python
+Ruby
+Rust
+Scheme
+SequenceL
+Smalltalk
+XL (concept programming)
+
+
+
+Multiparadigm languages support more than one programming paradigm. They allow a program to use more than one programming style. The goal is to allow programmers to use the best tool for a job, admitting that no one paradigm solves all problems in the easiest or most efficient way.
+Ada (concurrent, distributed, generic (template metaprogramming), imperative, object-oriented (class-based))
+ALF (functional, logic)
+Alma-0 (constraint, imperative, logic)
+APL (functional, imperative)
+BETA (functional, imperative, object-oriented (class-based))
+C++ (generic, imperative, object-oriented (class-based), functional)
+C# (generic, imperative, object-oriented (class-based), functional, declarative)
+Ceylon (generic, imperative, object-oriented (class-based), functional, declarative)
+ChucK (imperative, object-oriented, time-based, concurrent, on-the-fly)
+Cobra (generic, imperative, object-oriented (class-based), functional, contractual)
+Common Lisp (functional, imperative, object-oriented (class-based), aspect-oriented (user may add further paradigms, e.g., logic))
+Curl (functional, imperative, object-oriented (class-based), metaprogramming)
+Curry (concurrent, functional, logic)
+D (generic, imperative, functional, object-oriented (class-based), metaprogramming)
+Delphi (generic, imperative, object-oriented (class-based), metaprogramming)
+Dylan (functional, object-oriented (class-based))
+ECMAScript (functional, imperative, object-oriented (prototype-based))
+ActionScript
+ECMAScript for XML
+JavaScript
+JScript
+
+Eiffel (imperative, object-oriented (class-based), generic, functional (agents), concurrent (SCOOP))
+F# (functional, generic, object-oriented (class-based), language-oriented)
+Fantom (functional, object-oriented (class-based))
+FPr (function-level, object-oriented (class-based))
+Groovy (functional, object-oriented (class-based))
+Harbour
+Hop
+J (functional, imperative, object-oriented (class-based))
+Julia (functional, imperative, object-oriented, metaprogramming)
+LabVIEW (dataflow, visual)
+Lava (object-oriented (class-based), visual)
+Leda (functional, imperative, logic, object-oriented (class-based))
+Lua (functional, imperative, object-oriented (prototype-based))
+Mercury (functional, logical, object oriented)
+Metaobject protocols (object-oriented (class-based, prototype-based))
+Nemerle (functional, object-oriented (class-based), imperative, metaprogramming)
+Objective-C (imperative, object-oriented (class-based), reflective)
+OCaml (functional, imperative, object-oriented (class-based))
+Oz (functional (evaluation: eager, lazy), logic, constraint, imperative, object-oriented (class-based), concurrent, distributed)
+Mozart Programming System (multiplatform Oz)
+
+Object Pascal (imperative, object-oriented (class-based))
+Perl (imperative, functional (can't be purely functional), object-oriented, class-oriented, aspect-oriented (through modules))
+PHP (imperative, object-oriented)
+Pike
+Poplog (functional, imperative, logic)
+Prograph (dataflow, object-oriented (class-based), visual)
+Python (functional, object-oriented (class-based), imperative, metaprogramming)
+R
+Racket (functional, imperative, object-oriented (class-based)..., and can be extended by the user)
+REBOL (functional, imperative, object-oriented (prototype-based), metaprogramming (dialected))
+ROOP (imperative, logic, object-oriented (class-based), rule-based)
+Ruby (imperative, functional, object-oriented (class-based), metaprogramming)
+Rust (concurrent, functional, imperative, object-oriented)
+Scala (functional, object-oriented)
+Seed7 (imperative, object-oriented, generic)
+SISAL (concurrent, dataflow, functional)
+Spreadsheets (functional, visual)
+Tcl (functional, imperative, object-oriented (class-based))
+Tea (functional, imperative, object-oriented (class-based))
+
+Windows PowerShell (functional, imperative, pipeline, object-oriented (class-based))
+XL (concept programming approach)
+
+
+
+AIMMS
+AMPL
+Analytica
+GAMS
+Julia
+Klerer-May System
+MATLAB
+PROSE
+Seneca an Oberon variant
+
+
+
+
+ARLOGO - Arabic
+Chinese BASIC - Chinese
+Fj lnir - Icelandic
+Language Symbolique d'Enseignement - French
+Lexico - Spanish
+Rapira - Russian
+
+
+
+Class-based Object-oriented programming languages support objects defined by their class. Class definitions include member data. Message passing is a key concept (if not the key concept) in Object-oriented languages.
+Polymorphic functions parameterized by the class of some of their arguments are typically called methods. In languages with single dispatch, classes typically also include method definitions. In languages with multiple dispatch, methods are defined by generic functions. There are exceptions where single dispatch methods are generic functions (e.g. Bigloo's object system).
+
+
+
+Common Lisp
+Cecil
+Dylan
+Goo
+Julia
+
+
+
+ActionScript 3.0
+Actor
+Ada 95 and Ada 2005 (multi-purpose language)
+BETA
+Blue
+C++
+C#
+Ceylon
+Oxygene (formerly known as Chrome)
+ChucK
+Cobra
+ColdFusion
+Curl
+D
+DASL
+Delphi
+E
+GNU E
+Eiffel
+Sather
+Ubercode
+
+Fancy
+F-Script
+Fortran 2003
+Fortress
+FPr
+Gambas
+Game Maker Language
+Harbour
+J
+Java
+Processing
+Groovy
+Join Java
+Tea
+X10
+
+LabVIEW
+Lava
+Lua
+Modula-2 (data abstraction, information hiding, strong typing, full modularity)
+Modula-3 (added more object oriented features to Modula-2)
+
+Nemerle
+IBM NetRexx
+Oberon-2 (full object orientation equivalence in an original, strongly typed, Wirthian manner)
+Object Pascal
+Object REXX
+Objective-C (a superset of C adding a Smalltalk derived object model and message passing syntax)
+OCaml
+Oz
+Mozart Programming System
+
+Perl 5
+PHP
+Pike
+Prograph
+Python (object oriented interpretive language)
+Realbasic
+Revolution (programmer does not get to pick the objects)
+Ruby
+Scala
+Simula (the first object oriented language, developed by Ole-Johan Dahl and Kristen Nygaard)
+Smalltalk (pure object-orientation, developed at Xerox PARC)
+Bistro
+F-Script
+Little Smalltalk
+Squeak
+Scratch
+
+IBM VisualAge
+VisualWorks
+
+SPIN
+SuperCollider
+VBScript (Microsoft Office 'macro scripting' language)
+Visual DataFlex
+Visual FoxPro
+Visual Prolog
+X++
+XOTcl
+
+
+
+Prototype-based languages are object-oriented languages where the distinction between classes and instances has been removed:
+ABCL/1
+ABCL/R
+ABCL/R2
+ABCL/c plus
+Agora
+Cecil
+ECMAScript
+ActionScript
+ECMAScript for XML
+JavaScript (first named Mocha, then LiveScript)
+JScript
+
+Etoys in Squeak
+Io
+Lisaac
+Lua
+MOO
+NewtonScript
+Obliq
+R
+REBOL
+Self (the first prototype-based language, derived from Smalltalk)
+TADS
+
+
+
+Off-side rule languages are those where blocks are formed, indicated, by their indentation.
+ISWIM, the abstract language that introduced the rule
+ABC, Python's parent
+Python
+Cobra
+Boo
+Genie
+
+Miranda, Haskell's parent
+Orwell
+Haskell
+Curry
+
+F#
+Occam
+SPIN
+XL
+
+
+
+Procedural programming languages are based on the concept of the unit and scope (the data viewing range of an executable code statement). A procedural program is composed of one or more units or modules, either user coded or provided in a code library; each module is composed of one or more procedures, also called a function, routine, subroutine, or method, depending on the language. Examples of procedural languages include:
+Ada (multi-purpose language)
+ALGOL (extremely influential language design. The second high level language compiler.)
+SMALL Machine Algol Like Language
+
+Alma-0
+BASIC (BASICs are innocent of most modularity in (especially) versions before about 1990)
+BCPL
+BLISS
+Blue
+C
+C++ (C with objects + much else)
+C# (similar to Java/C++)
+Ceylon
+ChucK (C/Java-like syntax, with new syntax elements for time and parallelism)
+COBOL
+Cobra
+ColdFusion
+Combined Programming Language (CPL)
+Curl
+D
+DASL (partly declarative, partly imperative)
+ECMAScript
+ActionScript
+ECMAScript for XML
+JavaScript (first named Mocha, then LiveScript)
+JScript
+
+Eiffel
+Fortran (better modularity in later Standards)
+F
+
+Go
+Harbour
+HyperTalk
+Java
+Groovy
+Join Java
+Tea
+
+JOVIAL
+Lasso
+Modula-2 (fundamentally based on modules)
+MATLAB
+MUMPS (more modular in its first release than a language of the time should have been; the standard has become still more modular since then)
+Nemerle
+Oberon and Oberon-2 (improved, smaller, faster, safer follow-ons for Modula-2)
+Component Pascal
+Lagoona
+Seneca
+
+Occam
+Oriel
+Pascal (successor to ALGOL 60, predecessor of Modula-2)
+Free Pascal (FPC)
+Object Pascal (Delphi)
+
+PCASTL
+Perl
+Pike
+PL/C
+PL/I (large general purpose language, originally for IBM mainframes)
+Plus
+PROSE
+Python
+R
+Rapira
+RPG (available only in IBM's System i midrange computers)
+Rust
+S-Lang
+VBScript
+Visual Basic
+Visual FoxPro
+X++
+X#
+XL
+
+
+
+
+Reflective languages let programs examine and possibly modify their high level structure at runtime. This is most common in high-level virtual machine programming languages like Smalltalk, and less common in lower-level programming languages like C. Languages and platforms supporting reflection:
+
+Befunge
+C#
+Ceylon
+Charm
+ChucK
+Cobra
+Component Pascal BlackBox Component Builder
+Curl
+Delphi
+ECMAScript
+ActionScript
+ECMAScript for XML
+JavaScript
+JScript
+
+Eiffel
+Forth
+Harbour
+Java
+Java Virtual Machine
+Groovy
+Join Java
+X10
+
+Julia
+Lisp
+Clojure
+Common Lisp
+Dylan
+Logo
+Scheme
+
+Lua
+Maude system
+.NET Framework Common Language Runtime
+Oberon-2 ETH Oberon System
+Objective-C
+PCASTL
+Perl
+PHP
+Pico
+Poplog
+POP-11
+
+Prolog
+Python
+REBOL
+Ruby
+Smalltalk (pure object-orientation, originally from Xerox PARC)
+Bistro
+F-Script
+Little Smalltalk
+Self
+Squeak
+IBM VisualAge
+VisualWorks
+
+Snobol
+Tcl
+XOTcl
+
+X++
+XL
+
+
+
+Rule-based languages instantiate rules when activated by conditions in a set of data. Of all possible activations, some set is selected and the statements belonging to those rules execute. Rule-based languages include:
+awk
+CLIPS
+Constraint Handling Rules
+Drools
+GOAL agent programming language
+Jess
+OPS5
+Prolog
+ToonTalk robots are rules
+Mathematica
+XSLT
+
+
+
+"Scripting language" has two apparently different, but in fact similar meanings. In a traditional sense, scripting languages are designed to automate frequently used tasks that usually involve calling or passing commands to external programs. Many complex application programs provide built-in languages that let users automate tasks. Those that are interpretive are often called scripting languages.
+Recently, many applications have built-in traditional scripting languages, such as Perl or Visual Basic, but there are quite a few "native" scripting languages still in use. Many scripting languages are compiled to bytecode and then this (usually) platform-independent bytecode is run through a virtual machine (compare to Java).
+AppleScript
+AWK
+BeanShell
+Bash
+Ch (Embeddable C/C++ interpreter)
+CLIST
+ColdFusion
+ECMAScript
+ActionScript
+ECMAScript for XML
+JavaScript (first named Mocha, then LiveScript)
+JScript
+
+CMS EXEC
+EXEC 2
+F-Script
+Falcon
+Fancy
+Game Maker Language (GML)
+ICI
+Io
+JASS
+Groovy
+Join Java
+Julia
+Lasso
+Lua
+MAXScript
+MEL
+Oriel
+Perl
+PHP (intended for Web servers)
+Pikt
+Python
+R
+REBOL
+REXX
+Revolution
+Ruby
+Smalltalk
+S-Lang
+sed
+Tea
+Tcl
+TorqueScript
+VBScript
+WebDNA, dedicated to database-driven websites
+Windows PowerShell (Microsoft .NET-based CLI)
+Winbatch
+Many shell command languages such as the UNIX shell or DCL on VMS have powerful scripting capabilities.
+
+
+
+
+Stack-based languages are a type of data-structured language that are based upon the stack data structure.
+colorForth
+Factor
+Forth
+Joy (all functions work on parameter stacks instead of named parameters)
+Piet
+Poplog via its implementation language POP-11
+PostScript
+RPL
+
+
+
+
+Synchronous programming languages are optimized for programming reactive systems, systems that are often interrupted and must respond quickly. Many such systems are also called realtime systems, and are found often in embedded uses. Examples:
+Argus
+Averest
+Esterel
+Lustre
+SyncCharts
+
+
+
+These languages assist with generating lexical analyzers and parsers for Context-free grammars.
+ANTLR
+Coco/R (EBNF with semantics)
+GNU bison (FSF's version of Yacc)
+GNU Flex (FSF's version of Lex)
+glex/gyacc (GoboSoft compiler compiler to Eiffel)
+lex (Lexical Analysis, from Bell Labs)
+M4
+yacc (yet another compiler compiler, from Bell Labs)
+JavaCC
+
+
+
+
+
+
+
+Visual programming languages let users specify programs in a two-(or more)-dimensional way, instead of as one-dimensional text strings, via graphic layouts of various types.
+Analytica
+CODE
+DRAKON
+Fabrik
+G (used in LabVIEW)
+Lava
+Limnor
+Max
+NXT-G
+Pict programming language
+Prograph
+Pure Data
+Quartz Composer
+Scratch (written in and based on Squeak, a version of Smalltalk)
+Simulink
+Spreadsheets
+Subtext
+ToonTalk
+VEE
+VisSim
+vvvv
+EICASLAB
+Some dataflow programming languages are also visual languages.
+
+
+
+Computer scientist Niklaus Wirth designed and implemented several influential languages.
+ALGOL W
+Euler
+Modula
+Modula-2 (and Modula 3, etc. variants)
+Obliq Modula 3 variant
+
+Oberon (Oberon, Oberon-07, and Oberon-2)
+Component Pascal
+Lagoona
+Oberon-2
+
+Pascal
+Object Pascal ("umbrella" name for Delphi, Free Pascal, Oxygene and others)
+
+
+
+These are languages based on or that operate on XML. Although the big-boy equivalents of Oracle/PostgreSQL/MSSQL don't yet exist for XML, there are languages to navigate through it and its more tree-oriented structure.
+Ant
+C 
+ECMAScript ECMAScript for XML
+MXML
+LZX
+XAML
+XPath
+XQuery
+XProc
+XSLT
+
+
+
+Programming paradigms
+IEC 61131-3 - a standard for PLC programming languages
+Educational programming language
+Esoteric programming language
+
+
+
+
+
+
+Categories of programming languages Content of this page pivoted by language

@@ -1,0 +1,14 @@
+In enzymology, a 1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12) is an enzyme that catalyzes the chemical reaction
+(S)-1-pyrroline-5-carboxylate + NAD+ + 2 H2O  L-glutamate + NADH + H+
+The three substrates of this enzyme are (S)-1-pyrroline-5-carboxylate, NAD+, and H2O, whereas its three products are glutamate, NADH, and H+.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-NH group of donors with NAD+ or NADP+ as acceptor. The systematic name of this enzyme class is (S)-1-pyrroline-5-carboxylate:NAD+ oxidoreductase. Other names in common use include delta-1-pyrroline-5-carboxylate dehydrogenase, 1-pyrroline dehydrogenase, pyrroline-5-carboxylate dehydrogenase, pyrroline-5-carboxylic acid dehydrogenase, L-pyrroline-5-carboxylate-NAD+ oxidoreductase, and 1-pyrroline-5-carboxylate:NAD+ oxidoreductase. This enzyme participates in glutamate metabolism and arginine and proline metabolism.
+
+
+
+As of late 2007, 14 structures have been solved for this class of enzymes, with PDB accession codes 2BHP, 2BHQ, 2BJA, 2BJK, 2EHQ, 2EHU, 2EII, 2EIT, 2EIW, 2EJ6, 2EJD, 2EJL, 2IY6, and 2J40.
+
+
+
+
+Adams E and Goldstone A (1960). "Hydroxyproline metabolism. IV. Enzymatic synthesis of gamma-hydroxyglutamate from Delta1-pyrroline-3-hydroxy-5-carboxylate". J. Biol. Chem. 235: 3504 3512. PMID 13681370. 
+Strecker HJ (1960). "The interconversion of glutamic acid and proline. III Delta1-Pyrroline-5-carboxylic acid dehydrogenase". J. Biol. Chem. 235: 3218 3223.

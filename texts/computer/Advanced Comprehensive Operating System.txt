@@ -1,0 +1,8 @@
+Advanced Comprehensive Operating System is a family of mainframe computer operating systems developed by NEC for the Japanese market. It consists of three systems, based on the General Comprehensive Operating System family developed by General Electric, Honeywell, and Bull. Two of these systems, ACOS-2 (based on GCOS 4) and ACOS-4 (based on GCOS 7) are still sold, although only ACOS-4 is under active development. ACOS-6 (based on GCOS 8) is an obsolete high-end mainframe platform, which ceased active development in the early 2000s.
+
+
+
+A history of GE/Honeywell/NEC/Bull operating systems
+The ACOS-4 home page
+The ACOS-2 home page
+The ACOS home page, including some information on ACOS-6

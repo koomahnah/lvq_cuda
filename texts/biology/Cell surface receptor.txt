@@ -1,0 +1,70 @@
+Cell surface receptors (membrane receptors, transmembrane receptors) are specialized integral membrane proteins which communicate signals between the cell and the outside world. Extracellular molecules such as: hormones; neurotransmitters; cytokines; growth factors; cell recognition molecules; nutrients; or waste products; all react with the archetypical receptor to induce changes in the metabolism and activity of a cell. The process is referred to as signal transduction: in which Ligand Binding affects a cascading chemical change through the plasma membrane. In this way, surface receptors act as triggers of cellular communication and signal transduction.
+
+
+
+Transmembrane receptors are composed of two or more peptides which cooperate and may dissociate when ligands bind, or fall off during another stage of their signaling cycles. They are typically classified based on their tertiary structure. But, if the three-dimensional structure is yet undiscovered, then they can be classified based on experimentally verifiable membrane topology. The simplest polypeptide chains are found to cross the lipid bilayer once; while others, such as the G-protein coupled receptors, cross as many as seven times.
+There are various kinds, such as glycoprotein and lipoprotein. Hundreds of different receptors are known and many more have yet to be studied. Many membrane receptors include transmembrane proteins. Each cell membrane can have several kinds of membrane receptor, in varying surface distribution. A specific receptor may also be differently distributed on different membrane surfaces, depending on the membrane sort and cell function. Since receptors usually cluster on the membrane surface, the placement of every receptor on each membrane surface is heterogeneous.
+
+
+
+
+Like any integral membrane protein, a transmembrane receptor may be divided into three domains.
+
+
+
+The extracellular domain juts externally from the cell or organelle. If the polypeptide chain crosses the bilayer several times, the external domain comprises loops entwined through the membrane. By definition, a receptor's main function is to recognize and respond to a type of ligand. For example, a neurotransmitter, hormone, or atomic ions may each bind to the extracellular domain as a ligand coupled to receptor. Klotho is an enzyme which effects a receptor to recognize the ligand (FGF23).
+
+
+
+
+In the majority of receptors with known structures, transmembrane alpha helices constitute most of the transmembrane component. In certain receptors, such as the nicotinic acetylcholine receptor, the transmembrane domain forms a protein pore through the membrane, or around the ion channel. Upon activation of an extracellular domain by binding of the appropriate ligand, the pore becomes accessible to ions, which then diffuse. In other receptors, the transmembrane domains undergo a conformational change upon binding, which effects intracellular conditions. In some receptors, such as members of the 7TM superfamily, the transmembrane domain includes a ligand binding pocket. Bacteriorhodopsin is an example, the detailed structure of which has been determined by crystallography.
+
+
+
+The intracellular (or cytoplasmic) domain of the receptor interacts with the interior of the cell or organelle, relaying the signal. There are two fundamental paths for this interaction:
+The intracellular domain communicates via protein-protein interactions against effector proteins, which in turn pass a signal to the destination.
+With enzyme-linked receptors, the intracellular domain has enzymatic activity. Often, this is tyrosine kinase activity. The enzymatic activity can also be due to an enzyme associated with the intracellular domain.
+
+
+
+
+Signal transduction processes through membrane receptors involve the external reactions, in which the ligand binds to a membrane receptor, and the internal reactions, in which intracellular response is triggered.
+Signal transduction through membrane receptors requires four parts:
+Extracellular signaling molecule: an extracellular signaling molecule is produced by one cell and is at least capable of traveling to neighboring cells.
+Receptor protein: cells must have cell surface receptor proteins which bind to the signaling molecule and communicate inward into the cell.
+Intracellular signaling proteins: these pass the signal to the organelles of the cell. Binding of the signal molecule to the receptor protein will activate intracellular signaling proteins that initiate a signaling cascade.
+Target proteins: the conformations or other properties of the target proteins are altered when a signaling pathway is active and changes the behavior of the cell.
+
+Membrane receptors are mainly divided by structure and function into 3 classes: The ion channel-linked receptor; The enzyme-linked receptor; and The G protein-coupled receptor.
+Ion channel linked receptors have ion channels for anions and cations, and constitute a large family of multipass transmembrane proteins. They participate in rapid signaling events usually found in electrically active cells such as neurons. They are also called ligand-gated ion channels. Opening and closing of ion channels is controlled by neurotransmitters.
+Enzyme-linked receptors are either enzymes themselves, or are directly activate associated enzymes. These are typically single-pass transmembrane receptors, with the enzymatic component of the receptor kept intracellular. The majority of enzyme-linked receptors are, or associate with, protein kinases.
+G protein-coupled receptors are integral membrane proteins that possess seven transmembrane helices. These receptors activate a G protein with ligand binding. G-protein is a trimeric protein. The 3 subunits are called   and  . The   subunit can bind with guanosine diphosphate, GDP. This causes phosphorylation of the GDP to guanosine triphosphate, GTP, and activates the   subunit to then dissociate from the   and   subunits. The activated   subunit can further effect intracellular signaling proteins or target functional proteins directly.
+
+
+
+
+During the signal transduction event in a neuron, the neurotransmitter binds to the receptor and alters the conformation of the protein. This opens the ion channel, allowing extracellular ions into the cell. Ion permeability of the plasma membrane is altered, and this transforms the extracellular chemical signal into an intracellular electric signal which alters the cell excitability.
+Acetylcholine receptor is a receptor linked to a cation channel. The protein consists of 4 subunits:  ,  ,  , and   subunits. There are two   subunits, with one acetylcholine binding site each. This receptor can exist in three conformations. The closed and unoccupied state is the native protein conformation. As two molecules of acetylcholine both bind to the binding sites on   subunits, the conformation of the receptor is altered and the gate is opened, allowing for the entry of many ions and small molecules. However, this open and occupied state only lasts for a minor duration and then the gate is closed, becoming the closed and occupied state. The two molecules of acetylcholine will soon dissociate from the receptor, returning it to the native closed and unoccupied state.
+
+
+
+
+As of 2009, there are 6 known types of enzyme-linked receptors: Receptor tyrosine kinases; Tyrosine kinase associated receptors; Receptor-like tyrosine phosphatases; Receptor serine/threonine kinases; Receptor Guanylyl cyclases and Histidine kinase associated receptors. Receptor tyrosine kinases have the largest population and widest application. The majority of these molecules are receptors for growth factors and hormones like epidermal growth factor (EGF), platelet derived growth factor (PDGF), fibroblast growth factor (FGF), hepatocyte growth factor (HGF), insulin, nerve growth factor (NGF) etc.
+Most of these receptors will dimerize after binding with their ligands, in order to activate further signal transductions. For example, after the epidermal growth factor (EGF) receptor binds with its ligand EGF, the two receptors dimerize and then undergo phosphorylation of the tyrosine residues in the enzyme portion of each receptor molecule. This will activate the tyrosine protein kinase and catalyze further intracellular reactions.
+
+
+
+
+G protein-coupled receptors comprise a large protein family of transmembrane receptors. They are found only in eukaryotes. The ligands which bind and activate these receptors include: photosensitive compounds, odors, pheromones, hormones, and neurotransmitters. These vary in size from small molecules to peptides and large proteins. G protein-coupled receptors are involved in many diseases, and thus are the targets of many modern medicinal drugs.
+There are two principal signal transduction pathways involving the G-protein coupled receptors: cAMP signal pathway and Phosphatidylinositol signal pathway. Both activate a G protein ligand binding. G-protein is a trimeric protein. The 3 subunits are called   and  . The   subunit can bind with guanosine diphosphate, GDP. This causes phosphorylation of the GDP to guanosine triphosphate, GTP, and activates the   subunit, which then dissociates from the   and   subunits. The activated   subunit can further affect intracellular signaling proteins or target functional proteins directly.
+
+
+
+If the membrane receptors are denatured or deficient, the signal transduction can be hindered and cause diseases. Some diseases are caused by disorders of membrane receptor function. This is due to deficiency or degradation of the receptor via changes in the genes that encode and regulate the receptor protein. The membrane receptor TM4SF5 influences the migration of hepatic cells and hepatoma. Also, the cortical NMDA receptor influences membrane fluidity, and is altered in Alzheimer's disease. When the cell is infected by a non-enveloped virus, the virus first binds to specific membrane receptors and then passes itself or a subviral component to the cytoplasmic side of the cellular membrane. In the case of poliovirus, it is known in vitro that interactions with receptors cause conformational rearrangements which release a virion protein called VP4.The N terminus of VP4 is myristylated and thus hydrophobic myristic acid=CH3(CH2)12COOH . It is proposed that the conformational changes induced by receptor binding result in the attachment of myristic acid on VP4 and the formation of a channel for RNA.
+
+
+
+
+Through methods such as X-ray crystallography and NMR spectroscopy, the information about 3D structures of target molecules has increased dramatically, and so has structural information about the ligands. This drives rapid development of structure-based drug design. Some of these new drugs target membrane receptors. Current approaches to structure-based drug design can be divided into two categories. The first category is about determining ligands for a given receptor. This is usually accomplished through database queries, biophysical simulations, and the construction of chemical libraries. In each case, a large number of potential ligand molecules are screened to find those fitting the binding pocket of the receptor. This approach is usually referred to as ligand-based drug design. The key advantage of searching a database is that it saves time and power to obtain new effective compounds. Another approach of structure-based drug design is about combinatorially mapping ligands, which is referred to as receptor-based drug design. In this case, ligand molecules are engineered within the constraints of a binding pocket by assembling small pieces in a stepwise manner. These pieces can be either atoms or molecules. The key advantage of such a method is that novel structures can be discovered.
+
+

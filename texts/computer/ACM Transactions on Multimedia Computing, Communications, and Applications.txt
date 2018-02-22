@@ -1,0 +1,16 @@
+ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) is a quarterly scientific journal that aims to disseminate the latest findings of note in the field of multimedia computing. It is published by the Association for Computing Machinery. In May 2014 the acronym has changed from TOMMCAP to TOMM.
+The journal is described as follows on the ACM Digital Library website:
+
+"... focuses on multimedia computing (I/O devices, OS, storage systems, streaming media middleware, continuous media representations, media coding, media processing, etc.), multimedia communications (real-time protocols, end-to-end streaming media, resource allocation, multicast protocols, etc.), and multimedia applications (databases, distributed collaboration, video conferencing, 3D virtual environments, etc.)." [1]
+
+The current editor-in-chief is Ralf Steinmetz.
+
+
+
+Association for Computing Machinery
+SIGMM
+
+
+
+Official website
+ACM SIG MultiMedia website

@@ -1,0 +1,135 @@
+The Classic of Poetry, also Shijing or Shih-ching, translated variously as the Book of Songs, Book of Odes, or simply known as the Odes or Poetry (Chinese:  ; pinyin: Sh ) is the oldest existing collection of Chinese poetry, comprising 305 works dating from the 11th to 7th centuries BC. It is one of the "Five Classics" traditionally said to have been compiled by Confucius, and has been studied and memorized by scholars in China and neighboring countries over two millennia. Since the Qing dynasty, its rhyme patterns have also been analysed in the study of Old Chinese phonology.
+
+
+
+Early references refer to the anthology as the 300 Poems (shi), with a typically inexact use of "three hundred". The Odes first became known as a j ng, or a "classic book", in the canonical sense, as part of the Han Dynasty official adoption of Confucianism as the guiding principles of Chinese society. The same word shi later became a generic term for poetry. In English, lacking an exact equivalent for the Chinese, the translation of the word shi in this regard is generally as "poem", "song", or "ode". Before its elevation as a canonical classic, the Classic of Poetry (Shi jing) was known as the Three Hundred Songs or the Songs.
+
+
+
+The Classic of Poetry contains the oldest chronologically authenticated Chinese poems. The majority of the Odes date to the Western Zhou period (1046 771 BC). A final section of 5 "Eulogies of Shang" purports to be ritual songs of the Shang Dynasty as handed down by their descendents in the state of Song, but is generally considered quite late in date. According to the Eastern Han scholar Zheng Xuan, the latest material in the Shijing was the song "Tree-stump Grove" ( ) in the "Odes of Chen", dated to the middle of the Spring and Autumn Period (c. 700 BC).
+
+The content of the Poetry can be divided into two main sections: the "Airs of the States", and the eulogies and hymns. The "Airs of the States" are shorter lyrics in simple language that are generally ancient folk songs which record the voice of the common people. They often speak of love and courtship, longing for an absent lover, soldiers on campaign, farming and housework, and political satire and protest. On the other hand, songs in the two "Hymns" sections and the "Eulogies" section tend to be longer ritual or sacrificial songs, usually in the forms of courtly panegyrics and dynastic hymns which praise the founders of the Zhou dynasty. They also include hymns used in sacrificial rites and songs used by the aristocracy in their sacrificial ceremonies or at banquets. Pieces of poems not collected was recorded in Zuo Zhuan.
+
+
+
+Whatever the origin of the various Shijing poems as folk songs or not, they "all seem to have passed through the hands of men of letters at the royal Zhou court". In other words, they show an overall literary polish together with some general stylistic consistency. About 95% of songs in the Poetry are written in a meter of a four-character line, with a slight caesura between the second and third words. Lines tend to be syntactically related couplets, with occasional parallelism; and, longer poems generally are divided into similarly structured stanzas. This style later became known as the "Poetry" style for much of Chinese history.
+One of the characteristics of the poems in the Classic of Poetry is that they tend to possess "elements of repetition and variation". This results in an "alteration of similarities and differences in the formal structure: in successive stanzas, some lines and phrases are repeated verbatim, while others vary from stanza to stanza". Characteristically, the parallel or syntactically matched lines within a specific poem share the same, identical words (or characters) to a large degree, as opposed to confining the parallelism between lines to using grammatical category matching of the words in one line with the other word in the same position in the corresponding line; but, not by using the same, identical word(s). Disallowing verbal repetition within a poem would by the time of Tang poetry be one of the rules to distinguish the old style poetry from the new, regulated style.
+The works in the Classic of Poetry vary in their lyrical qualities, which relates to the musical accompaniment with which they were in their early days performed. The songs from the "Hymns" and "Eulogies", which are the oldest material in the Poetry, were performed to slow, heavy accompaniment from bells, drums, and stone chimes. However, these and the later actual musical scores or choreography which accompanied the Shijing poems have been lost.
+Nearly all of the songs in the Poetry are rhyming, with end rhyme, as well as frequent internal rhyming. While some of these verses still rhyme in modern varieties of Chinese, others had ceased to rhyme by the Middle Chinese period. For example, the eighth song (  F  Y ) has a tightly constrained structure implying rhymes between the penultimate words (here shown in bold) of each pair of lines:
+
+The second and third stanzas still rhyme in Standard Chinese, with the rhyme words even having the same tone, but the first stanza does not rhyme in Middle Chinese or any modern variety. This was attributed to lax rhyming practice until the late-Ming dynasty scholar Chen Di argued that the original rhymes had been obscured by sound change. Since Chen, scholars have analyzed the rhyming patterns of the Poetry as crucial evidence for the reconstruction of Old Chinese phonology.
+Traditional scholarship of the Poetry identified three major literary devices employed in the songs: straightforward narrative (f   ), explicit comparisons (b   ) and implied comparisons (x ng  ). The poems of the Classic of Poetry tend to have certain typical patterns in both rhyme and rhythm, to make much use of imagery, often derived from nature.
+
+
+
+Although the Shijing does not specify the names of authors in association with the contained works, both traditional commentaries and modern scholarship have put forth hypotheses on authorship. The Classic of History says that the poem "Owl" (Chinese:  ) in the "Odes of Bin" was written by the Duke of Zhou. Many of the songs appear to be folk songs and other compositions used in the court ceremonies of the aristocracy. Furthermore, many of the songs, based on internal evidence, appear to be written either by women, or from the perspective of a female persona. The repeated emphasis on female authorship of poetry in the Shijing was made much of in the process of attempting to give the poems of the women poets of the Ming-Qing period canonical status. Despite the impersonality of the poetic voice characteristic of the Songs, many of the poems are written from the perspective of various generic personalities.
+
+
+
+
+According to tradition, the method of collection of the various Shijing poems involved the appointment of officials, whose duties included documenting verses current from the various states which constituting the empire. Out of these many collected pieces, also according to tradition, Confucius made a final editorial round of decisions for elimination or inclusion in the received version of the Poetry. As with all great literary works of ancient China, the Poetry has been annotated and commented on numerous times throughout history, as well as in this case providing a model to inspire future poetic works.
+Various traditions concern the gathering of the compiled songs and the editorial selection from these make up the classic text of the Odes: "Royal Officials' Collecting Songs" (Chinese:  ) is recorded in the Book of Han, and "Master Confucius Deletes Songs" (Chinese:  ) refers to Confucius and his mention in the Records of the Grand Historian, where it says from originally some 3,000 songs and poems in a previously extant "Odes" that Confucius personally selected the "300" which he felt best conformed to traditional ritual propriety, thus producing the Classic of Poetry.
+
+
+
+The Confucian school eventually came to consider the verses of the "Airs of the States" to have been collected in the course of activities of officers dispatched by the Zhou Dynasty court, whose duties included the field collection of the songs local to the territorial states of Zhou. This territory was roughly the Yellow River Plain, Shandong, southwestern Hebei, eastern Gansu, and the Han River region. Perhaps during the harvest. After the officials returned from their missions, the king was said to have observed them himself in an effort to understand the current condition of the common people. The well-being of the people was of special concern to the Zhou because of their ideological position that the right to rule was based on the benignity of the rulers to the people in accordance with the will of Heaven, and that this Heavenly Mandate would be withdrawn upon the failure of the ruling dynasty to ensure the prosperity of their subjects. The people's folksongs were deemed to be the best gauge of their feelings and conditions, and thus indicative of whether the nobility was ruling according to the mandate of Heaven or not, accordingly the songs were collected from the various regions, converted from their diverse regional dialects into standard literary language, and presented accompanied with music at the royal courts.
+
+
+
+
+The Classic of Poetry historically has a major place in the Four Books and Five Classics, the canonical works associated with Confucianism. Some pre-Qin dynasty texts, such as the Analects and a recently excavated manuscript from 300 BC entitled "Confucius' Discussion of the Odes", mention Confucius' involvement with the Classic of Poetry; however, Han dynasty historian Sima Qian's Records of the Grand Historian was the first work to directly attribute the Poetry to Confucius. Subsequent Confucian tradition held that the Shijing collection was edited by Confucius from a larger 3,000-piece collection to its traditional 305-piece form. This claim is believed to reflect an early Chinese tendency to relate all of the Five Classics to Confucius in some way or another, who by the 1st century BC had become the model of sages and was believed to have maintained a cultural connection to the early Zhou dynasty. However, this view is now generally discredited, as the Zuo zhuan records that the Classic of Poetry already existed in a definitive form when Confucius was just a young child. The argument for canonicity (as a jing, or classic) included the traditional claim that Confucius selected and edited the Shijing poems from significantly larger body of prexisting material.
+In works attributed to him, Confucius comments upon the Classic of Poetry in such a way as to indicate that he holds it in great esteem. A story in the Analects recounts that Confucius' son Kong Li told the story: "The Master once stood by himself, and I hurried to seek teaching from him. He asked me, 'You've studied the Odes?' I answered, 'Not yet.' He replied, 'If you study the Odes not, then I have nothing to speak.'"
+
+
+
+According to Han tradition, the Poetry and other classics were targets of the burning of books in 213 BC under Qin Shi Huang, and the songs had to be reconstructed largely from memory in the subsequent Han period. However the discovery of pre-Qin copies showing the same variation as Han texts, as well as evidence of Qin patronage of the Poetry, have led modern scholars to doubt this account.
+During the Han period there were three different versions of the Poetry which each belonged to different hermeneutic traditions. The Lu Poetry (  L  sh ), the Qi Poetry (  Q  sh ) and the Han Poetry (  H n sh ) were officially recognized with chairs at the Imperial Academy during the reign of Emperor Wu of Han (156 87 BC). Until the later years of the Eastern Han period, the dominant version of the Poetry was the Lu Poetry, named after the state of Lu, and founded by Shen Pei, a student of a disciple of the Warring States period philosopher Xunzi.
+The Mao Tradition of the Poetry (  M o sh  zhu n), attributed to an obscure scholar named M o H ng ( ) who lived during the 2nd or 3rd centuries BC, was not officially recognized until the reign of Emperor Ping (1 BC to 6 AD). However, during the Eastern Han period, the Mao Poetry gradually became the primary version. Proponents of the Mao Poetry said that its text was descended from the first generation of Confucius' students, and as such should be the authoritative version. Xu Shen's influential dictionary Shuowen Jiezi, written in the 2nd century AD, quotes almost exclusively from the Mao Poetry. Finally, the renowned Eastern Han scholar Zheng Xuan used the Mao Poetry as the basis for his annotated edition of the Poetry. By the 5th century, the Lu, Qi and Han traditions had died out, leaving only the Mao Poetry, which has become the received text in use today. Only isolated fragments of the Lu text survive, among the remains of the Xiping Stone Classics. Zheng Xuan's edition of the Mao text became the imperially authorized text and commentary on the Poetry in 653 AD.
+
+
+
+
+
+
+
+The Book of Odes has been a revered Confucian classic since the Han Dynasty, and has been studied and memorized by centuries of scholars in China. The individual songs of the Odes, though frequently on simple, rustic subjects, have traditionally been saddled with extensive, elaborate allegorical meanings that assigned moral or political meaning to the smallest details of each line. The popular songs were seen as good keys to understanding the troubles of the common people, and were often read as allegories; complaints against lovers were seen as complaints against faithless rulers, "if a maiden warns her lover not to be too rash... commentators promptly discover that the piece refers to a feudal noble whose brother had been plotting against him...".
+The extensive allegorical traditions associated with the Odes were theorized by Herbert Giles to have begun in the Warring States period as a justification for Confucius' focus upon such a seemingly simple and ordinary collection of verses. These elaborate, far-fetched interpretations seem to have gone completely unquestioned until the 12th century, when scholar Zheng Qiao ( , 1104 1162) first wrote his skepticism of them. European sinologists like Giles and Marcel Granet ignored these traditional interpretations in their analysis of the original meanings of the Odes. Granet, in his list of rules for properly reading the Odes, wrote that readers should "take no account of the standard interpretation", "reject in no uncertain terms the distinction drawn between songs evicting a good state of morals and songs attesting to perverted morality", and "[discard] all symbolic interpretations, and likewise any interpretation that supposes a refined technique on the part of the poets". These traditional allegories of politics and morality are no longer seriously followed by any modern readers in China or elsewhere.
+
+
+
+The Odes became an important and controversial force, influencing political, social and educational phenomena. During the struggle between Confucian, Legalist, and other schools of thought, the Confucians used the Shijing to bolster their viewpoint. On the Confucian side, the Shijing became a foundational text which informed and validated literature, education, and political affairs. The Legalists, on their side, attempted to suppress the Shijing by violence, after the Legalist philosophy was endorsed by the Qin Dynasty, prior to their final triumph over the neighboring states: the suppression of Confucian and other thought and literature after the Qin victories and the start of Burning of Books and Burying of Scholars era, starting in 213 BC, extended to attempt to prohibit the Shijing.
+As the idea of allegorical expression grew, when kingdoms or feudal leaders wished to express or validate their own positions, they would sometimes couch the message within a poem, or by allusion. This practice became common among educated Chinese in their personal correspondences and spread to Japan and Korea as well.
+
+
+
+Modern scholarship on the Classic of Poetry often focuses on doing linguistic reconstruction and research in Old Chinese by analyzing the rhyme schemes in the Odes, which show vast differences when read in modern Mandarin Chinese. Although preserving more Old Chinese syllable endings than Mandarin, Modern Cantonese and Min Nan are also quite different from the Old Chinese language represented in the Odes.
+C.H. Wang refers to the account of King Wu's victory over the Shang dynasty in the "Major Court Hymns" as the "Weniad" (a name that parallels The Iliad), seeing it as part of a greater narrative discourse in China that extols the virtues of w n (  "literature, culture") over more military interests.
+
+
+
+Summary of groupings of poems from the Classic of Poetry
+note: alternative divisions may be topical or chronological (Legges): Song, Daya, Xiaoya, Guofeng
+
+
+
+Legge, James (1871). The She king, or the Lessons from the States. The Chinese Classics 4.  Part 1, Part 2. rpt. Hong Kong: Hong Kong University Press (1960).
+  (1876). The She king, or The Book of Ancient Poetry (PDF). London: Tr bner. 
+  (1879). The Sh  king. The religious portions of the Shih king. The Hsi o king. The Sacred Books of China 3. 
+Jennings, William (1891). The Shi King: The Old "Poetry Classic" of the Chinese. ; rpt. New York: Paragon (1969).
+(French) (Latin) Couvreur, S raphin (1892). Cheu-king; Texte chinois avec une double traduction en fran ais et en Latin [Shijing; Chinese Text With a Double Translation in French and Latin]. Hokkien: Mission Catholique. 
+Granet, Marcel (1929). F tes et chansons anciennes de la Chine (in French). Paris.  Translated into English by E. D. Edwards (1932), Festivals and Songs of Ancient China, New York: E.P. Dutton.
+Waley, Arthur (1937). The Book of Songs. London: Allen & Unwin.  Rpt. New York: Grove Press, 1996, with a Preface by Joseph Allen. ISBN 0802134777.
+Karlgren, Bernhard (1950). The Book of Odes. Stockholm: Museum of Far Eastern Antiquities. 
+Pound, Ezra (1954). The Confucian Odes: The Classic Anthology Defined by Confucius. Cambridge, Mass.: Harvard University Press. 
+Takada, Shinji   (1966). Shiky    (in Japanese). Tokyo: Sh eisha. 
+(Mandarin) Cheng, Junying   (1985). Shijing yizhu   [Shijing, Translated and Annotated]. Shanghai: Shanghai guji chubanshe.
+(Japanese) Mekada, Makoto   (1991). Shiky   . Tokyo: K bansha.
+
+
+
+Chinese classics
+Classical Chinese poetry
+Geese in Chinese poetry
+"Guan ju"
+Chengyu
+Chinese art
+
+
+
+
+
+
+
+
+
+
+
+
+Allan, Sarah (1991), The Shape of the Turtle: Myth, Art, and Cosmos in Early China, SUNY Press, ISBN 978-0-7914-0460-7. 
+de Bary, William Theodore; Chan, Wing-Tsit (1960), Sources of Chinese Tradition: Volume I, Columbia University Press, ISBN 978-0-231-10939-0. 
+Baxter, William H. (1992), A Handbook of Old Chinese Phonology, Berlin: Mouton de Gruyter, ISBN 978-3-11-012324-1. 
+Baxter, William H.; Sagart, Laurent (2014). Old Chinese: A New Reconstruction. Oxford: Oxford University Press. ISBN 978-0-19-994537-5. 
+Chang, Kang-i Sun (2001), "Gender and Canonicity", in Fong, Grace S., Hsiang Lectures on Chinese Poetry 1, Montreal: Center for East Asian Research, McGill University. 
+Davis, Albert Richard, ed. (1970), The Penguin Book of Chinese Verse, Baltimore: Penguin Books. 
+Dobson, W. A. C. H. (1964), "Linguistic Evidence and the Dating of the Book of Songs", T'oung Pao 51 (4 5): 322 334, doi:10.1163/156853264x00028, JSTOR 4527607. 
+Ebrey, Patricia (1993), Chinese Civilization: A Sourcebook (2nd ed.), The Free Press, ISBN 978-0-02-908752-7. 
+Frankel, Hans H. (1978), The Flowering Plum and the Palace Lady, New Haven and London: Yale University Press, ISBN 978-0-300-02242-1. 
+Giles, Herbert (1928), A History of Chinese Literature, New York: Appleton-Century. 
+Granet, Marcel (1929), F tes et chansons anciennes de la Chine [Ancient Festivals and Songs of China], Paris: Leroux. 
+Hawkes, David, ed. (2011) [1985], The Songs of the South: An Ancient Chinese Anthology of Poems, London: Penguin Books, ISBN 978-0-14-044375-2. 
+Hinton, David (2008), Classical Chinese Poetry: An Anthology, New York: Farrar, Straus, and Giroux, ISBN 978-0-374-10536-5. 
+Idema, Wilt L.; Haft, Lloyd (1997), A Guide to Chinese Literature, Ann Arbor: Center for Chinese Studies, University of Michigan, ISBN 978-0-892-64123-9. 
+Kern, Martin (2010), "Early Chinese Literature, Beginnings Through Western Han", in Owen, Stephen, The Cambridge History of Chinese Literature 1, Cambridge: Cambridge University Press, pp. 1 115, ISBN 978-0-521-85558-7. 
+Knechtges, David R.; Shih, Hsiang-ling (2014). "Shijing  ". In Knechtges, David R.; Chang, Taiping. Ancient and Early Medieval Chinese Literature: A Reference Guide, Part Two. Leiden: E.J. Brill. pp. 904 915. ISBN 978-90-04-19240-9. 
+Loewe, Michael (1993), "Shih ching  ", in Loewe, Michael, Early Chinese Texts: A Bibliographical Guide, Berkeley: Society for the Study of Early China; Institute of East Asian Studies, University of California Berkeley, pp. 415 423, ISBN 978-1-55729-043-4. 
+Saussy, Haun (1993), The Problem of a Chinese Aesthetic, Stanford: Stanford University Press, ISBN 0-8047-2593-4. 
+Yip, Wai-lim (1997), Chinese Poetry: An Anthology of Major Modes and Genres, Durham and London: Duke University Press, ISBN 978-0-8223-1946-7. 
+Wang, C. H. (1975), "Towards Defining a Chinese Heroism", Journal of the American Oriental Society 95 (1): 25 35, JSTOR 599155. 
+
+
+
+Bilingual Chinese-English searchable edition at Chinese Text Project
+Shi Ji Zhuan from the Chinese Text Initiative, University of Virginia: Chinese text based on Zhu Xi's edition; English translation from James Legge, with Chinese names updated to pinyin.
+The Book of Odes at Wengu zhixin. Chinese text with James Legge and Marcel Granet (partial) translations.
+Legge translation of the Book of Odes at the Internet Sacred Text Archive.
+Shijing and collated commentaries (Chinese text)

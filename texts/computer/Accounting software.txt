@@ -1,0 +1,106 @@
+Accounting software describes a type of application software that records and processes accounting transactions within functional modules such as accounts payable, accounts receivable, payroll, and trial balance. It functions as an accounting information system. It may be developed in-house by the organization using it, may be purchased from a third party, or may be a combination of a third-party application software package with local modifications. Accounting software may be on-line based, accessed anywhere at anytime with any device which is Internet enabled, or may be desktop based. It varies greatly in its complexity and cost.
+The market has been undergoing considerable consolidation since the mid-1990s, with many suppliers ceasing to trade or being bought by larger groups.
+
+
+
+Accounting software is typically composed of various modules, different sections dealing with particular areas of accounting. Among the most common are:
+Core modules
+Accounts receivable where the company enters money received
+Accounts payable where the company enters its bills and pays money it owes
+General ledger the company's "books"
+Billing where the company produces invoices to clients/customers
+Stock/inventory where the company keeps control of its inventory
+Purchase order where the company orders inventory
+Sales order where the company records customer orders for the supply of inventory
+Bookkeeping where the company records collection and payment
+Non-core modules
+Debt collection where the company tracks attempts to collect overdue bills (sometimes part of accounts receivable)
+Electronic payment processing
+Expense where employee business-related expenses are entered
+Inquiries where the company looks up information on screen without any edits or additions
+Payroll where the company tracks salary, wages, and related taxes
+Reports where the company prints out data
+Timesheet where professionals (such as attorneys and consultants) record time worked so that it can be billed to clients
+Purchase requisition where requests for purchase orders are made, approved and tracked
+Reconciliation compares records from parties at both sides of transactions for consistency
+Drill down
+Journals
+Departmental accounting
+Support for value added taxation
+Calculation of statutory holdback
+Note that vendors may use differing names for these modules.
+
+
+
+In many cases, implementation (i.e. the installation and configuration of the system at the client) can be a bigger consideration than the actual software chosen when it comes down to the total cost of ownership for the business. Most midmarket and larger applications are sold exclusively through resellers, developers and consultants. Those organizations generally pass on a license fee to the software vendor and then charge the client for installation, customization and support services. Clients can normally count on paying roughly 50-200% of the price of the software in implementation and consulting fees.
+Other organizations sell to, consult with and support clients directly, eliminating the reseller.
+
+
+
+
+
+
+
+Personal accounting software is mainly targeted towards home users, supporting accounts payable-type accounting transactions, managing budgets, and simple account reconciliation, at the inexpensive end of the market.
+
+
+
+At the low-end of the business markets, inexpensive applications software allows most general business accounting functions to be performed. Suppliers frequently serve a single national market, while larger suppliers offer separate solutions in each national market.
+Many of the low end products are characterized by being "single-entry" products, as opposed to double-entry systems seen in many businesses. Some products have considerable functionality but are not considered GAAP or IFRS/FASB compliant. Some low-end systems do not have adequate security nor audit trails.
+
+
+
+The mid-market covers a wide range of business software that may be capable of serving the needs of multiple national accountancy standards and allow accounting in multiple currencies.
+In addition to general accounting functions, the software may include integrated or add-on management information systems, and may be oriented towards one or more markets, for example with integrated or add-on project accounting modules.
+Software applications in this market typically include the following features:
+Industry-standard robust databases
+Industry-standard reporting tools
+Tools for configuring or extending the application (e.g. an SDK), access to program code.
+
+
+
+
+The most complex and expensive business accounting software is frequently part of an extensive suite of software often known as enterprise resource planning (ERP) software.
+These applications typically have a very long implementation period, often greater than six months. In many cases, these applications are simply a set of functions which require significant integration, configuration and customization to even begin to resemble an accounting system.
+The advantage of a high-end solution is that these systems are designed to support individual company specific processes, as they are highly customizable and can be tailored to exact business requirements. This usually comes at a significant cost in terms of money and implementation time.
+
+
+
+The choice of whether to purchase an industry-specific application or a general-purpose application is often very difficult. Concerns over a custom-built application or one designed for a specific industry include:
+Smaller development team
+Increased risk of vendor business failing
+Reduced availability of support
+This can be weighed up against:
+Less requirement for customization
+Reduced implementation costs
+Reduced end-user training time and costs
+Some important types of vertical accounting software are:
+Banking
+Construction
+Medical
+Nonprofit or fund accounting
+Point of sale (retail)
+Real estate investment trust
+Child care management software
+Management for Bookselling
+
+
+
+As technology improves, software vendors have been able to offer increasingly advanced software at lower prices. This software is suitable for companies at multiple stages of growth. Many of the features of mid-market and high-end software (including advanced customization and extremely scalable databases) are required even by small businesses as they open multiple locations or grow in size. Additionally, with more and more companies expanding overseas or allowing workers to home office, many smaller clients have a need to connect multiple locations. Their options are to employ software-as-a-service or another application that offers them similar accessibility from multiple locations over the internet.
+
+
+
+Accounting
+Index of accounting articles
+
+Comparison of accounting software
+Double-entry bookkeeping system
+E-accounting
+Enterprise resource planning
+Investment management
+Tax compliance software
+
+
+
+
+

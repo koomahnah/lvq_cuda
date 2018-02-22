@@ -1,0 +1,20 @@
+Clock gating is a popular technique used in many synchronous circuits for reducing dynamic power dissipation. Clock gating saves power by adding more logic to a circuit to prune the clock tree. Pruning the clock disables portions of the circuitry so that the flip-flops in them do not have to switch states. Switching states consumes power. When not being switched, the switching power consumption goes to zero, and only leakage currents are incurred.
+Clock gating works by taking the enable conditions attached to registers, and uses them to gate the clocks. Therefore it is imperative that a design must contain these enable conditions in order to use and benefit from clock gating. This clock gating process can also save significant die area as well as power, since it removes large numbers of muxes and replaces them with clock gating logic. This clock gating logic is generally in the form of "Integrated clock gating" (ICG) cells. However, note that the clock gating logic will change the clock tree structure, since the clock gating logic will sit in the clock tree.
+Clock gating logic can be added into a design in a variety of ways:
+Coded into the RTL code as enable conditions that can be automatically translated into clock gating logic by synthesis tools (fine grain clock gating).
+Inserted into the design manually by the RTL designers (typically as module level clock gating) by instantiating library specific ICG (Integrated Clock Gating) cells to gate the clocks of specific modules or registers.
+Semi-automatically inserted into the RTL by automated clock gating tools. These tools either insert ICG cells into the RTL, or add enable conditions into the RTL code. These typically also offer sequential clock gating optimisations.
+Note: Any RTL modifications to improve clock gating will result in functional changes to the design (since the registers will now hold different values) which need to be verified.
+Sequential clock gating is the process of extracting/propagating the enable conditions to the upstream/downstream sequential elements, so that additional registers can be clock gated.
+Although asynchronous circuits by definition do not have a "clock", the term perfect clock gating is used to illustrate how various clock gating techniques are simply approximations of the data-dependent behavior exhibited by asynchronous circuitry. As the granularity on which you gate the clock of a synchronous circuit approaches zero, the power consumption of that circuit approaches that of an asynchronous circuit: the circuit only generates logic transitions when it is actively computing.
+Chip families such as OMAP3, with a cell phone heritage, support several forms of clock gating. At one end is the manual gating of clocks by software, where a driver enables or disables the various clocks used by a given idle controller. On the other end is automatic clock gating, where the hardware can be told to detect whether there's any work to do, and turn off a given clock if it is not needed. These forms interact with each other and may be part of the same enable tree. For example, an internal bridge or bus might use automatic gating so that it is gated off until the CPU or a DMA engine needs to use it, while several of the peripherals on that bus might be permanently gated off if they are unused on that board.
+
+
+
+Glitch removal
+
+
+
+Deterministic clock gating for microprocessor power reduction
+
+

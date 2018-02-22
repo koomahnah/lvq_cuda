@@ -1,0 +1,36 @@
+Addison-Wesley is a publisher of textbooks and computer literature. It is an imprint of Pearson PLC, a global publishing and education company. In addition to publishing books, Addison-Wesley also distributes its technical titles through the Safari Books Online e-reference service. Addison-Wesley's majority of sales derive from the United States (55%) and Europe (22%).
+The Addison-Wesley Professional Imprint produces content including books, eBooks, and video for the professional IT worker including developers, programmers, managers, system administrators. Classic titles include The Art of Computer Programming, The C++ Programming Language, The Mythical Man-Month, and Design Patterns. Addison-Wesley Professional is also a partner with Safari Books Online.
+
+
+
+Melbourne Wesley Cummings and Lew Addison Cummings founded Addison-Wesley in 1942, with the first book published by Addison-Wesley being MIT professor Francis Weston Sears's Mechanics. Its first computer book was Programs for an Electronic Digital Computer, by Wilkes, Wheeler, and Gill. In 1977, Addison-Wesley acquired W. A. Benjamin Company, and merged it with the Cummings division of the company to form Benjamin Cummings. It was purchased by the global publishing and education company, Pearson PLC in 1988 and became part of Addison Wesley Longman in 1994. The trade publishing division of Addison-Wesley was sold to Perseus Books in 1997, leaving Addison-Wesley as solely an educational publisher. Pearson acquired the educational division of Simon & Schuster in 1998, and merged it with Addison Wesley Longman to form Pearson Education and subsequently rebranded to Pearson in 2011. Pearson moved the former Addison Wesley Longman offices from Reading to Boston in 2004.
+
+
+
+Addison-Wesley Secondary Math: An Integrated Approach: Focus on Algebra
+The Art of Computer Programming by Donald Knuth
+The Feynman Lectures on Physics by Richard Feynman, Robert B. Leighton, and Matthew Sands
+Concrete Mathematics: A Foundation For Computer Science by Ronald Graham, Donald Knuth, and Oren Patashnik
+Evolutionary Biology by Dr. Eli C. Minkoff
+Programming Pearls by Jon Bentley
+Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
+The C++ Programming Language by Bjarne Stroustrup
+Hacker's Delight by Henry S. Warren, Jr.
+Exploratory data analysis by John W. Tukey, based on a course taught at Princeton.
+The Mythical Man-Month by Fred P. Brooks. Jr.
+Advanced Programming in the UNIX Environment and TCP/IP Illustrated by W. Richard Stevens
+Iron John: A Book About Men by Robert Bly
+
+
+
+Category:Addison-Wesley books
+InformIT
+
+
+
+
+
+
+Official site (education)
+Official site (professional)
+Official site (Germany)

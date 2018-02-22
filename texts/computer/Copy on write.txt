@@ -1,0 +1,41 @@
+Copy-on-write (sometimes referred to as "COW"), sometimes referred to as implicit sharing, is an optimization strategy used in computer programming. Copy-on-write stems from the understanding that when multiple separate tasks use initially identical copies of some information (i.e., data stored in computer memory or disk storage), treating it as local data that they may occasionally need to modify, then it is not necessary to immediately create separate copies of that information for each task. Instead they can all be given pointers to the same resource, with the provision that on the first occasion where they need to modify the data, they must first create a local copy on which to perform the modification (the original resource remains unchanged). When there are many separate processes all using the same resource, each with a small likelihood of having to modify it at all, then it is possible to make significant resource savings by sharing resources this way. Copy-on-write is the name given to the policy that whenever a task attempts to make a change to the shared information, it should first create a separate (private) copy of that information to prevent its changes from becoming visible to all the other tasks. If this policy is enforced by the operating system kernel, then the fact of being given a reference to shared information rather than a private copy can be transparent to all tasks, whether they need to modify the information or not.
+
+
+
+Copy-on-write finds its main use in virtual memory operating systems; when a process creates a copy of itself, the pages in memory that might be modified by either the process or its copy are marked copy-on-write. When one process modifies the memory, the operating system's kernel intercepts the operation and copies the memory; thus a change in the memory of one process is not visible in another's.
+Another use involves the calloc function. This can be implemented by means of having a page of physical memory filled with zeros. When the memory is allocated, all the pages returned refer to the page of zeros and are all marked copy-on-write. This way, the amount of physical memory allocated for the process does not increase until data is written. This is typically done only for larger allocations.
+Copy-on-write can be implemented by notifying the MMU that certain pages in the process's address space are read-only. When data is written to these pages, the MMU raises an exception which is handled by the kernel, which allocates new space in physical memory and makes the page being written correspond to that new location in physical memory.
+One major advantage of COW is the ability to use memory sparsely. Because the usage of physical memory only increases as data is stored in it, very efficient hash tables can be implemented which only use little more physical memory than is necessary to store the objects they contain. However, such programs run the risk of running out of virtual address space   virtual pages unused by the hash table cannot be used by other parts of the program. The main problem with COW at the kernel level is the complexity it adds, but the concerns are similar to those raised by more basic virtual-memory concerns such as swapping pages to disk; when the kernel writes to pages, it must copy any such pages marked copy-on-write.
+
+
+
+COW may also be used as the underlying mechanism for disk storage snapshots such as those provided by logical volume management or file systems such as Btrfs on Linux and ZFS on Unix and Unix-Like operating systems.
+Copy-on-write is also used in maintenance of instant snapshot on database servers like Microsoft SQL Server 2005. Instant snapshots preserve a static view of a database by storing a pre-modification copy of data when underlying data are updated. Instant snapshots are used for testing uses or moment-dependent reports and should not be used to replace backups. On the other hand, snapshots enable database back-ups in a consistent state without taking them offline.
+The copy-on-write technique can be used to emulate a read-write storage on media that require wear leveling or are physically write once read many.
+The qcow2 (QEMU copy on write) file format for disk images uses the copy-on-write principle to delay allocation of storage until it is actually needed. This reduces the actual disk space required to store disk images.
+Some Live CDs (and Live USBs) use copy-on-write techniques to give the impression of being able to add and delete files in any directory, without actually making any changes to the CD (or USB flash drive).
+
+
+
+COW is also used outside the kernel, in library, application and system code. The string class provided by the C++ standard library, for example, was specifically designed to allow copy-on-write implementations in the C++98/03 standards, but not in the newer C++11 standard:
+
+In the Qt framework, many types use copy on write (it is called implicit sharing in Qt's terms).
+In the PHP programming language, some types are implemented as copy-on-write. For example, strings and arrays are passed by reference, but when modified, they are duplicated if they have non-zero reference counts. This allows them to act as value types without the performance problems of copying on assignment or making them immutable.
+In multithreaded systems, COW can be implemented without the use of traditional locking and instead use compare-and-swap to increment or decrement the internal reference counter. Since the original resource will never be altered, it can safely be copied by multiple threads (after the reference count was increased) without the need of performance-expensive locking such as mutexes. If the reference counter turns 0, then by definition only 1 thread was holding a reference so the resource can safely be de-allocated from memory, again without the use of performance-expensive locking mechanisms. The benefit of not having to copy the resource (and the resulting performance gain over traditional deep-copying) will therefore be valid in both single- and multithreaded systems.
+The usage in kernel same-page merging have caused security issues such as the feasibility of timing attacks.
+
+
+
+Allocate-on-flush
+Demand paging
+Flyweight pattern
+Memory management
+Snapshot (computer storage)
+Memory mapping
+
+
+
+^ Kasampalis, Sakis (2010). "Copy On Write Based File Systems Performance Analysis And Implementation" (pdf). p. 19. Retrieved 11 January 2013. 
+^ "Concurrency Modifications to Basic String". Open Standards. Retrieved 13 February 2015. 
+^ "Implicit Sharing". Qt Project. Retrieved 13 February 2015. 
+^ https://securityblog.redhat.com/2014/07/02/its-all-a-question-of-time-aes-timing-attacks-on-openssl/

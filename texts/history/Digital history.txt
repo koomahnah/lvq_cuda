@@ -1,0 +1,108 @@
+Digital history is the use of digital media and computational analytics for furthering historical practice, presentation, analysis, or research. It is a branch of the Digital humanities and an outgrowth of quantitative history, cliometrics, and history and computing. Work in digital history tends to be either digital public history, which is concerned primarily with engaging online audiences with historical content, or digital research methods, which uses computers to conduct analyses that further academic research and tend to be written for specialist experts and presented via traditional academic peer review channels. Early work in digital history during the 1990s and early 2000s included digital archives, CD-ROMs, online presentations, interactive maps, time-lines, audio files, and virtual worlds. More recent digital history projects focus on creativity, collaboration, and technical innovation, text mining, corpus linguistics, 3D Modeling, and big data analysis.
+
+
+
+Early digital history in the 1960s and 70s focused on quantitative analyses, primarily of demographic data - censuses, election returns, city directories, etc. These early computers could be programmed to conduct statistical analyses of these records, creating tallies, or seeking trends across records. This research into historical demography was rooted in the rise of social history as a field of historical interest. The historians involved in this work sought to quantify past societies, to come to new conclusions about communities and population. Computers proved capable tools for that type of work. By the late 1970s younger historians turned to cultural studies, but the outpouring of quantitive studies by established scholars continued. Since then, Quantitative history and Cliometrics have been used primarily by historically-minded economists and political scientists. In the late 1980s quantifiers founded The Association for History and Computing. This movement provided some of the impetus for the rise of digital history in the 1990s.
+The more recent roots of digital history were in software rather than online networks. In 1982, the Library of Congress embarked on its Optical Disk Pilot Project, which placed text and images from its collection on to laserdiscs and CD-ROMs. The library started offering online exhibits in 1992 when it launched Selected Civil War Photographs. In 1993, Roy Rosenzweig, along with Steve Brier and Josh Brown, produced their award-winning CD-ROM Who Built America? From the Centennial Exposition of 1876 to the Great War of 1914, designed for Apple, Inc. that integrated images, text, film and sound clips, displayed in a visual interface that supported a text narrative.
+Among the earliest online digital history projects were The Heritage Project of the University of Kansas and medieval historian Dr. Lynn Nelson's World History Index and History Central Catalogue. Another was The Valley of the Shadow, conceived in 1991 by current University of Richmond President Edward L. Ayers, who was then at the University of Virginia. The Institute for Advanced Technology in the Humanities (IATH) at the University of Virginia adopted the Valley Project and partnered with IBM to collect and transcribe historical sources into digital files. The project collected data related to Augusta County in Virginia and Franklin County in Pennsylvania during the American Civil War. In 1996, William G. Thomas III joined Ayers on the Valley Project. Together, they produced an online article entitled "The Differences Slavery Made: A Close Analysis of Two American Communities," which also appeared in the American Historical Review in 2003 [1]. A CD-ROM also accompanied the Valley Project, published by W. W. Norton and Company in 2000.
+Rosenzweig, who died October 11, 2007, founded the Center for History and New Media (CHNM) at George Mason University in 1994. Today, CHNM boasts several digital tools available to historians, such as Zotero and Omeka. In 1997, Ayers and Thomas used the term "digital history" when they proposed and founded the Virginia Center for Digital History (VCDH) at the University of Virginia, the earliest center devoted exclusively to history. Several other institutions promoting digital history include the Center for Humane Arts, Letters, and Social Sciences Online (MATRIX) at Michigan State University, Maryland's Institute for Technology in the Humanities, and the Center for Digital Research in the Humanities at the University of Nebraska. In 2004, Emory University launched Southern Spaces, a "peer-reviewed Internet journal and scholarly forum" examining the history of the South.
+
+
+
+
+The collaborative nature of most digital history endeavors has meant that the discipline has developed primarily at institutions with the resources to sponsor content research and technical innovation. Two of the first centers, George Mason University's Center for History and New Media and the Virginia Center for Digital History at the University of Virginia have been among the leaders in the development of digital history projects and the education of digital historians.
+Some of the noteworthy projects emerging from these pioneering centers are The Geography of Slavery, The Texas Slavery Project, and The Countryside Transformed at VCDH and Liberty, Equality, Fraternity: Exploring the French Revolution and The Lost Museum at the CHNM. In each of these projects, mediated archives holding multiple types of sources are combined with digital tools to analyze and illuminate an historical question to a varying degree; this integration of content and tools with analysis is one of the hallmarks of digital history   projects move beyond archives or collections and into scholarly analysis and the use of digital tools to develop that analysis. The differences between the ways projects incorporate these integrations are a measure of the development of the field and point to the ongoing debates over what digital history can and should be.
+While many of the projects at VCDH, CHNM, and other university's centers have been geared towards academics and post-secondary education, the University of Victoria (British Columbia), in conjunction with the Universit  de Sherbrooke and the Ontario Institute for Studies in Education at the University of Toronto, has created as series of projects for all ages, "Great Unsolved Mysteries in Canadian History." Laden with instructional aids, this site asks teachers to introduce students to historical research methods to help them develop analytical skills and a sense of the complexities of their national history. Issues of race, religion, and gender are addressed in carefully constructed modules that cover incidents in Canadian history from Viking exploration through the 1920s. One of the original co-creators of the project, John Lutz has also developed Victoria's Victoria [2] with the University of Victoria and Malaspina University-College.
+In addition to Ayers, Thomas, Lutz, and Rosenzweig, numerous other individual scholars work with digital history techniques and have made and/or continue to make important contributions to the field. Robert Darnton's 2000 article, "An Early Information Society: News and the Media in Eighteenth-Century Paris" was supplemented with electronic resources and is an early model of the discussions around digital history and its future in the humanities. One of the first major digital projects to be reviewed by the American Historical Review (AHR) was Philip Ethington's "Los Angeles and the Problem of Urban Historical Knowledge" [3] a multimedia exploration of changes to Los Angeles' physical profile over the course of several decades. Patrick Manning, Andrew W. Mellon Professor of World History at the University of Pittsburgh, developed the CD-ROM project "Migration in Modern World History, 1500-2000." In the "African Slave Demography Project," Manning created a demographic simulation of the slave trade to show precisely how declined in West and Central Africa between 1730 and 1850 as well as in East Africa between the years 1820 and 1890 due to slavery. Jan Reiff, of UCLA, co-edited the print and online versions of the Encyclopedia of Chicago. Andrew J. Torget, founded the Texas Slavery Project while at VCDH and continues to develop the site as he completes his PhD likely a model for new digital scholars who will incorporate digital components into larger research agendas.
+Another notable project that makes use of digital tools for historical practice is The Quilt Index. As scholars became increasingly interested in women's history, quilts became valuable to study. The Quilt Index is an online collaborative database where quilt owners can upload pictures and data about their quilts. This project was created due to the difficulty of collecting quilts. Firstly, they were in the possession of various institutions, archives, and even civilians. And secondly, they can be too fragile or bulky for physical transport.
+
+
+
+At Cal State East Bay a small group of 12-15 history majors strangely meet in the science building's computer lab. The group does not go over books they had read the week prior or academic journals like most upper-division history courses. Instead, they go over new and old software that could be used for the creation or presentation of history. Maybe even more strangely the professor (Kaatz) specializes in early Christianity and ancient Rome, but like historians of today needs to be as well informed in the area of digitization. The digital history program is fairly new, but definitely goes with the larger trend throughout the nation. Even bigger universities like Harvard and Stanford also have digital programs that are branches of their history programs and where some big projects are developed.
+
+
+
+Digital technology tools powerfully arrange ideas and promote unique analysis for the presentation and access to historical knowledge online. Some tools exist for basic web development, like WYSIWYG HTML-editor Adobe Dreamweaver. Other tools create more interactive digital history, such as Databases, which provide greater capacity for information storage and retrieval in a definable way. Databases with features like Structured Query Language (SQL) and Extensible Markup Language (XML) arrange materials in a formal manner and allow precise searching for keywords, dates, and other data characteristics. The online article "The Differences Slavery Made: A Close Analysis of Two American Communities" used XML for presenting and connecting evidence with detailed historiographical discussions. The Valley of the Shadow project also employed XML to convert all of the archive's letters, diaries, and newspapers for full text searching capabilities.
+The Differences Slavery Made also used Geographic Information Systems (GIS) to analyze and understand the spatial arrangement of social structures. For the article, Ayers and Thomas created many new maps through GIS technology to produce detailed images of Augusta and Franklin counties never before possible. GIS and its many components remain helpful for studying history and visualizing change over time.
+The Semantic Interoperability of Metadata and Information in unLike Environments (SIMILE) project at MIT develops robust, open source tools that enable access, management, and envisaging digital assets. Among the many tools built by SIMILE, the Timeline tool, which employs a DHTML-based AJAXy widget, allows digital historians to create dynamic, customizable timelines for visualizing time-based events. The Timeline page on the SIMILE website declares that their tool "is like Google Maps for time-based information." Additionally, SIMILE's Exhibit tool boasts a customizable structure for sorting and presenting data [4]. Exhibit, written in Javascript, creates interactive, data-rich web pages without the need for any programming or database creation knowledge.
+Textual analysis software allows historians to make new use of old sources by finding patterns in large collections of documents or even just analyzing a source for frequency of terms. Textual analysis software allows historians to "text mine", a term used to describe correlations and themes in the documents. There are several textual-analysis programs available online, from sophisticated ones that allow the researcher to tailor the program to handle large amounts of data, like MALLET, and straightforward programs like TokenX, which generates word-frequency lists and word clouds to illustrate language usage and significance, to basic ones like wordle, which offers simple visualizations of word frequency and relationships. Some websites provide textual analysis on their content automatically. Online bookmarking and research tool del.icio.us uses tag clouds to visually depict the frequency and importance of user-generated tags, and the recently instituted Google Ngram Viewer allows viewers to search the commonality of textual themes by year.
+However, with the development of digital history and the technology used to produce it, there has been questions raised over the validity of it. One such issue, is that raised by Jean Francois Baudrillard. He says that 'Western Culture introduced significant modifications to the way it produced the real, by intensifying it and heightening it into a domain of reality in hyperspace: hyper-reality'. This shows a blurring of the line between fictional and the reality in which live   has reality disappeared and been replaced by imagery and the fictional world? If this is the case with digital history and the modifications people make to it, is it truly the history that we once read in a text book?
+
+
+
+A&E is launching a new site,  Asterisk, that will feature a BuzzFeed visual look and produce short stories. Pop-culture Icons will be used to draw in readers to learn more about sports, food and people and ideas ten categories in all. According to Asterisk s about me web-page,  Seeing history everywhere you look isn t about education, it s about attitude. 
+Video games are another area where the public is consuming digital history. Call of Duty, Hitman, and Assassins Creed are popular video game titles that feature a prominent role for history. Gamers are treated to an immersive experience that suggests a well-research game, but the gameplay itself is shallow in regards to the historical knowledge and perspective it could offer. There is little depth in way of personal histories, emotions, and ambitions of the characters. Their first priority is always entertainment.
+The ubiquitous use of the internet has made history more available than ever before, and in order to serve the public what they desire (short, fun, trivial), video games and media companies are only too happy to oblige. These new approaches begs important questions: Who is writing the history, why, and for whom? 
+
+
+
+Digital History Research Centre (DHRC) at University of Hertfordshire
+Center for History and New Media at George Mason University
+Maryland Institute for Technology in the Humanities at the University of Maryland
+MATRIX: Center for Humane Arts, Letters, and Social Sciences Online [5] at Michigan State University
+Center for Digital Research in the Humanities [6] at the University of Nebraska-Lincoln
+Virginia Center for Digital History at the University of Virginia
+Institute for Advanced Technology in the Humanities at the University of Virginia
+Digital Scholarship Lab [7] at the University of Richmond
+Institute for Computing in the Humanities, Arts, and Social Science at the University of Illinois.
+Centre for Oral History and Digital Storytelling [8] at Concordia University
+Center for Public History and Digital Humanities at Cleveland State University
+Department of Digital Humanities at King's College London
+HUMlab [9] at Ume  University, Sweden
+
+
+
+The Programming Historian
+Robert K. Nelson, Scott Nesbit, Andrew Torget, The History Engine
+Douglas Seefeldt, Envisaging the West: Thomas Jefferson and the Roots of Lewis and Clark
+Digital Scholarship Lab (DSL) , Voting America: United States Politics, 1840-2008 [10]
+William G. Thomas III and Edward L. Ayers, Valley of the Shadow
+Great Unsolved Mysteries in Canadian History
+The Papers of Abraham Lincoln
+Lincoln/Net: Abraham Lincoln Historical Digitization Project at Northern Illinois University Libraries
+Thomas M. Costa, The Geography of Slavery
+Bethlehem Digital History Project
+Virtual Jamestown
+Seattle Civil Rights and Labor History Project
+Historypin
+National History Education Clearinghouse at George Mason University and Stanford University
+1st Workshop on Histoinformatics
+Ola Nordmann Goes West: A Norwegian Journey to the Promised Land
+Digital NZ Archiving Blog
+Running Reality   See any day in history from 3000BC to today, including changing national borders, battles, etc.
+
+
+
+Digital humanities
+Association for History and Computing
+
+
+
+
+
+
+Ayers, Edward L. "The Pasts and Futures of Digital History," University of Virginia (1999).
+Ayers, Edward L. "History in Hypertext," University of Virginia (1999).
+Burton, Orville (ed.). Computing in the Social Sciences and Humanities. Urbana: University of Illinois Press, 2002.
+Cohen, Daniel J. "History and the Second Decade of the Web". Rethinking History 8 (June 2004): 293-301.
+Cohen, Daniel J. 2005. The Future of Preserving the Past. CRM: The Journal of Heritage Stewardship 2.2 (2005): 6-19.
+Cohen, Daniel J. and Roy Rosenzweig, Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web. Philadelphia: University of Pennsylvania Press, 2006.
+Denley, Peter and Deian Hopkin. History and Computing. Manchester: Manchester University, 1987.
+Dollar, Charles, and Richard Jensen. Historians Guide to Statistics (1971), with detailed guide to older studies
+Esche-Ramshorn, Christiane and Stanislav Roudavski. Evocative Research in Art History and Beyond: Imagining Possible Pasts in the Ways to Heaven Project, Digital Creativity 23, 1 (2012): 1-21
+Greenstein, Daniel I. A Historian's Guide to Computing. Oxford: Oxford University Press, 1994.
+"Interchange: The Promise of Digital History." Special issue, Journal of American History 95, no. 2 (September 2008). http://www.journalofamericanhistory.org/issues/952/interchange/index.html (accessed May 1, 2009).
+Knowles, Anne Kelly (ed.). Past Time, Past Place: GIS for History. Redlands, CA: ESRI, 2002.
+Kornbluh, Mark. 2008. From Digital Repositories to Information Habitats: H-Net, the Quilt Index, Cyber Infrastructure, and Digital Humanities. First Monday 13(8): available at http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/2230/2019
+Lutz, John Sutton. 2007. Bed Jumping and Compelling Convergences in Historical Computing. Digital History portal, Department of History, University of Nebraska-Lincoln
+Nelson, Robert K., Andrew J. Torget, Scott Nesbit. "A Conversation with Digital Historians", Southern Spaces, 31 January 2012.
+Rosenzweig, Roy. "Scarcity or Abundance? Preserving the Past in a Digital Era," American Historical Review 108 (June 2003): 735 62.
+Rosenzweig, Roy and Michael O'Malley. "Brave New World or Blind Alley? American History on the World Wide Web," Journal of American History 84 (June 1997): 132 55.
+Rosenzweig, Roy and Michael O'Malley. "The Road to Xanadu: Public and Private Pathways on the History Web," Journal of American History 88 (September 2001): 548 79.
+Thomas, William G., III. "Computing and the Historical Imagination," A Companion to Digital Humanities ed. Susan Schreibman, Ray Siemens, John Unsworth (Oxford: Blackwell, 2004).
+Thomas, William G., III. "Writing a Digital History Journal Article from Scratch: An Account," Digital History (December 2007).
+Turkel, William J, Adam Crymble, Alan MacEachern. "The Programming Historian," (London, NiCHE, 2007-9).
+
+
+
+"History: Digital History". Subject and Course Guides. University of California, Irvine Libraries.

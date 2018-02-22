@@ -1,0 +1,61 @@
+Advanced power management (APM) is an API developed by Intel and Microsoft and released in 1992 which enables an operating system running an IBM-compatible personal computer to work with the BIOS (part of the computer's firmware) to achieve power management.
+Revision 1.2 was the last version of the APM specification, released in 1996. ACPI is intended as the successor to APM. Microsoft dropped support for APM in Windows Vista. The Linux kernel still mostly supports APM, with the last fully functional APM support shipping in 3.3.
+
+
+
+
+APM uses a layered approach to manage devices. APM-aware applications (which include device drivers) talk to an OS-specific APM driver. This driver communicates to the APM-aware BIOS, which controls the hardware. There is the ability to opt out of APM control on a device-by-device basis, which can be used if a driver wants to communicate directly with a hardware device.
+Communication occurs both ways; power management events are sent from the BIOS to the APM driver, and the APM driver sends information and requests to the BIOS via function calls. In this way the APM driver is an intermediary between the BIOS and the operating system.
+Power management happens in two ways; through the above-mentioned function calls from the APM driver to the BIOS requesting power state changes, and automatically based on device activity.
+
+
+
+There are 12 power events (such as standby, suspend and resume requests, and low battery notifications), plus OEM-defined events, that can be sent from the APM BIOS to the operating system. The APM driver regularly polls for event change notifications.
+Power Management Events:
+Power management functions:
+
+
+
+There are 21 APM function calls defined that the APM driver can use to query power management statuses, or request power state transitions. Example function calls include letting the BIOS know about current CPU usage (the BIOS may respond to such a call by placing the CPU in a low-power state, or returning it to its full-power state), retrieving the current power state of a device, or requesting a power state change.
+
+
+
+The APM specification defines system power states and device power states.
+
+
+
+APM defines five power states for the computer system:
+Full On: The computer is powered on, and no devices are in a power saving mode.
+APM Enabled: The computer is powered on, and APM is controlling device power management as needed.
+APM Standby: Most devices are in their low-power state, the CPU is slowed or stopped, and the system state is saved. The computer can be returned to its former state quickly (in response to activity such as the user pressing a key on the keyboard).
+APM Suspend: Most devices are powered off, but the system state is saved. The computer can be returned to its former state, but takes a relatively long time. (Hibernation is a special form of the APM Suspend state).
+Off: The computer is turned off.
+
+
+
+APM also defines power states that APM-aware hardware can implement. There is no requirement that an APM-aware device implement all states.
+The four states are:
+Device On: The device is in full power mode.
+Device Power Managed: The device is still powered on, but some functions may not be available, or may have reduced performance.
+Device Low Power: The device is not working. Power is maintained so that the device may be 'woken up'.
+Device Off: The device is powered off.
+
+
+
+The CPU core (defined in APM as the CPU clock, cache, system bus and system timers) is treated specially in APM, as it is the last device to be powered down, and the first device to be powered back up. The CPU core is always controlled through the APM BIOS (there is no option to control it through a driver). Drivers can use APM function calls to notify the BIOS about CPU usage, but it is up to the BIOS to act on this information; a driver cannot directly tell the CPU to go into a power saving state.
+
+
+
+Active State Power Management - hardware power management protocol for PCI Express
+Advanced Configuration and Power Interface (ACPI) - successor to APM
+Green computing
+Power management
+BatteryMAX (idle detection)
+
+
+
+
+
+
+APM V1.2 Specification (RTF file).
+This article is based on material taken from the Free On-line Dictionary of Computing prior to 1 November 2008 and incorporated under the "relicensing" terms of the GFDL, version 1.3 or later.

@@ -1,0 +1,13 @@
+In enzymology, a 3-hydroxy-2-methylbutyryl-CoA dehydrogenase (EC 1.1.1.178) is an enzyme that catalyzes the chemical reaction
+(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA + NAD+  2-methylacetoacetyl-CoA + NADH + H+
+Thus, the two substrates of this enzyme are (2S,3S)-3-hydroxy-2-methylbutanoyl-CoA and NAD+, whereas its 3 products are 2-methylacetoacetyl-CoA, NADH, and H+.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-OH group of donor with NAD+ or NADP+ as acceptor. The systematic name of this enzyme class is (2S,3S)-3-hydroxy-2-methylbutanoyl-CoA:NAD+ oxidoreductase. Other names in common use include 2-methyl-3-hydroxybutyryl coenzyme A dehydrogenase, 2-methyl-3-hydroxybutyryl coenzyme A dehydrogenase, and 2-methyl-3-hydroxy-butyryl CoA dehydrogenase. This enzyme participates in valine, leucine and isoleucine degradation.
+
+
+
+As of 20 January 2010, 6 structure have been solved for this class of enzymes, with the PDB accession code 1E3S, 1E3W, 1E6W, 1SO8, 1U7T, 2O23.
+
+
+
+
+Conrad RS, Massey LK, Sokatch JR (1974). "D- and L-isoleucine metabolism and regulation of their pathways in Pseudomonas putida". J. Bacteriol. 118 (1): 103 11. PMC 246645. PMID 4150713.

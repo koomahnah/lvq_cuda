@@ -1,0 +1,35 @@
+11 -Hydroxysteroid dehydrogenase (HSD-11  or 11 -HSD) is the name of a family of enzymes that catalyze the conversion of inert 11 keto-products (cortisone) to active cortisol, or vice versa, thus regulating the access of glucocorticoids to the steroid receptors:
+11 -hydroxysteroid + NADP+  an 11-oxosteroid + NADPH + H+
+Thus, the two substrates of this enzyme are 11beta-hydroxysteroid and NADP+, whereas its 3 products are 11-oxosteroid, NADPH, and H+.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-OH group of donor with NAD+ or NADP+ as acceptor. The systematic name of this enzyme class is 11beta-hydroxysteroid:NADP+ 11-oxidoreductase. Other names in common use include corticosteroid 11 -dehydrogenase,  -hydroxysteroid dehydrogenase, 11 -hydroxy steroid dehydrogenase, corticosteroid 11-reductase, and dehydrogenase, 11 -hydroxy steroid. This enzyme participates in c21-steroid hormone metabolism and androgen and estrogen metabolism.
+
+
+
+As of late 2007, 8 structures have been solved for this class of enzymes, with PDB accession codes 1XSE, 1XU7, 1XU9, 1Y5M, 1Y5R, 2BEL, 2ILT, and 2IRW.
+
+
+
+
+Cortisol, a glucocorticoid, binds the glucocorticoid receptor. However, because of its molecular similarity to aldosterone it is also capable of binding the mineralcorticoid receptor. Both aldosterone and cortisol have a similar affinity for the mineralocorticoid receptor; however, there is vastly more cortisol in circulation than aldosterone. To prevent over-stimulation of the mineralocorticoid receptor by cortisol, HSD-11  converts the biologically active cortisol to the inactive cortisone, which can no longer bind to the mineralocorticoid receptor. 11 -HSD co-localizes with intracellular adrenal steroid receptors. Licorice or Carbenoxolone, which contains glycyrrhetinic acid, can inhibit 11 -HSD and lead to a mineralocorticoid excess syndrome.
+
+
+
+In humans, there are two HSD11B isoforms:
+Inhibition of HSD11B1 has been suggested as a possible therapy for treatment of obesity and metabolic syndrome.
+
+
+
+11 -hydroxysteroid dehydrogenase type 1
+Corticosteroid 11-beta-dehydrogenase isozyme 2
+
+
+
+
+Agarwal AK, Monder C, Eckstein B, White PC (1989). "Cloning and expression of rat cDNA encoding corticosteroid 11 beta-dehydrogenase". J. Biol. Chem. 264 (32): 18939 43. PMID 2808402. 
+Bush IE, Hunter SA, Meigs RA (1968). "Metabolism of 11-oxygenated steroids. Metabolism in vitro by preparations of liver". Biochem. J. 107 (2): 239 58. PMC 1198650. PMID 4384445. 
+Lakshmi V, Monder C (1988). "Purification and characterization of the corticosteroid 11 beta-dehydrogenase component of the rat liver 11 beta-hydroxysteroid dehydrogenase complex". Endocrinology. 123 (5): 2390 8. doi:10.1210/endo-123-5-2390. PMID 3139396. 
+Phillips DM, Lakshmi V, Monder C (1989). "Corticosteroid 11 beta-dehydrogenase in rat testis". Endocrinology. 125 (1): 209 16. doi:10.1210/endo-125-1-209. PMID 2661206. 
+
+
+
+11-beta-Hydroxysteroid Dehydrogenases at the US National Library of Medicine Medical Subject Headings (MeSH)

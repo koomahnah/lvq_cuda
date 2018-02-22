@@ -1,0 +1,47 @@
+Aerial survey is a method of collecting geomatics or other imagery by using aeroplanes, helicopters, UAVs, balloons or other aerial methods. Typical types of data collected are aerial photography, LiDAR, remote sensing (using various visible and invisible bands of the electromagnetic spectrum, (such as infrared, gamma, or ultraviolet) and also geophysical data (such as aeromagnetic surveys and gravity. It can also refer to the chart or map made by analysing a region from the air. Aerial survey should be distinguished from satellite imagery technologies because of its better resolution, quality and atmospheric conditions. Today, aerial survey is sometimes recognized as a synonym for aerophotogrammetry, part of photogrammetry where the camera is placed in the air. Measurements on aerial images are provided by photogrammetric technologies and methods.
+Aerial surveys can provide information on many things not visible from the ground.
+
+
+
+exposure station or air station
+the position of the optical centre of the camera at the moment of exposure.
+flying height
+the elevation of the exposure station above the datum (usually mean sea level).
+altitude
+the vertical distance of the aircraft above the earth surface.
+tilt
+the angle between the aerial camera and the horizontal axis perpendicular to the line of flight.
+tip
+the angle between the aerial camera and the line of flight.
+principal point
+the point of intersection of the optical axis of the aerial camera with the photographical plane
+isocentre
+the point on the areal photograph in which the bisector of the angle of tilt meets the photograph.
+nadir point
+the image of the nadir, i.e. the point on the areal photograph where a plumbline dropped from the front nodal point pierces the photograph.
+scale
+ratio of the focal length of the camera objective and the distance of the exposure station from the ground
+
+
+
+Aerial surveys are used for:
+
+Archaeology
+Fishery surveys
+Geophysics
+Hydrocarbon exploration
+Land survey
+Mining
+Monitoring wildlife and insect populations, called aerial census or sampling.
+Monitoring vegetation and ground cover
+Reconnaissance
+Transportation Projects in conjunction with Ground Surveys (Roadway, Bridge, Interstate)
+Aerial survey uses a measuring camera where the elements of the interior orientation are known, but a camera that has much larger focal length and film and more lenses is used.
+
+
+
+
+
+
+GIS and remote sensing for archeology
+PBS Nova The Sky's Eyes: Remote Sensing in Archaeology

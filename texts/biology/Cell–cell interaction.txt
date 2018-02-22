@@ -1,0 +1,65 @@
+Cell cell interaction refers to the direct interactions between cell surfaces that play a crucial role in the development and function of multicellular organisms. These interactions allow cells to communicate with each other in response to changes in their microenvironment. This ability to send and receive signals is essential for the survival of the cell. Interactions between cells can be stable such as those made through cell junctions. These junctions are involved in the communication and organization of cells within a particular tissue. Others are transient or temporary such as those between cells of the immune system or the interactions involved in tissue inflammation. These types of intercellular interactions are distinguished from other types such as those between cells and the extracellular matrix. The loss of communication between cells can result in uncontrollable cell growth and cancer.
+
+
+
+
+Stable cell-cell interactions are required for cell adhesion within a tissue and controlling the shape and function of cells. These stable interactions involve cell junctions which are multiprotein complexes that provide contact between neighboring cells. Cell junctions allow for the preservation and proper functioning of epithelial cell sheets. These junctions are also important in the organization of tissues where cells of one type can only adhere to cells of the same tissue rather than to a different tissue.
+
+
+
+Tight junctions are multi-protein complexes that hold cells of a same tissue together and prevent movement of water and water-soluble molecules between cells. In epithelial cells, they function also to separate the extracellular fluid surrounding their apical and basolateral membranes. These junctions exist as a continuous band located just below the apical surface between the membranes of neighboring epithelial cells. The tight junctions on adjacent cells line up so as to produce a seal between different tissues and body cavities. For example, the apical surface of gastrointestinal epithelial cells serve as a selective permeable barrier that separates the external environment from the body. The permeability of these junctions is dependent on a variety of factors including protein makeup of that junction, tissue type and signaling from the cells.
+Tight junctions are made up of many different proteins. The four main transmembrane proteins are occludin, claudin, junctional adhesion molecules (JAMs) and tricellulins. The extracellular domains of these proteins form the tight junction barrier by making homophilic (between proteins of the same kind) and heterophilic interactions (between different types of proteins) with the protein domains on adjacent cells. Their cytoplasmic domains interact with the cell cytoskeleton to anchor them.
+
+
+
+
+Of the three types of anchoring junctions, only two are involved in cell-cell interactions: adherens junctions and desmosomes. Both are found in many types of cells. Adjacent epithelial cells are connected by adherens junctions on their lateral membranes. They are located just below tight junctions. Their function is to give shape and tension to cells and tissues and they are also the site of cell-cell signaling. Adherens junctions are made of cell adhesion molecules from the cadherin family. There are over 100 types of cadherins, corresponding to the many different types of cells and tissues with varying anchoring needs. The most common are E-, N- and P-cadherins. In the adherens junctions of epithelial cells, E-cadherin is the most abundant.
+Desmosomes also provide strength and durability to cells and tissues and are located just below adherens junctions. They are sites of adhesion and do not encircle the cell. They are made of two specialized cadherins, desmoglein and desmocollin. These proteins have extracellular domains that interact with each other on adjacent cells. On the cytoplasmic side, plakins form plaques which anchor the desmosomes to intermediate filaments composed of keratin proteins. Desmosomes also play a role in cell-cell signaling.
+
+
+
+Gap junctions are the main site of cell-cell signaling or communication that allow small molecules to diffuse between adjacent cells. In vertebrates, gap junctions are composed of transmembrane proteins called connexins. They form hexagonal pores or channels through which ions, sugars, and other small molecules can pass. Each pore is made of 12 connexin molecules; 6 form a hemichannel on one cell membrane and interact with a hemichannel on an adjacent cell membrane. The permeability of these junctions is regulated by many factors including pH and Ca2+ concentration.
+
+
+
+
+Receptor proteins on the cell surface have the ability to bind specific signaling molecules secreted by other cells. Cell signaling allows cells to communicate with adjacent cells, nearby cells (paracrine) and even distant cells (endocrine). This binding induces a conformational change in the receptor which, in turn, elicits a response in the corresponding cell. These responses include changes in gene expression and alterations in cytoskeleton structure. The extracellular face of the plasma membrane has a variety of proteins, carbohydrates, and lipids which project outward and act as signals. Direct contact between cells allows the receptors on one cell to bind the small molecules attached to the plasma membrane of different cell. In eukaryotes, many of the cells during early development communicate through direct contact.
+Synaptic signaling, an integral part of nervous system activity, occurs between neurons and target cells. These target cells can also be neurons or other cell types (i.e. muscle or gland cells). Protocadherins, a member of the cadherin family, mediate the adhesion of neurons to their target cells at synapses otherwise known as synaptic junctions. In order to for communication to occur between a neuron and its target cell, a wave of depolarization travels the length of the neuron and causes neurotransmitters to be released into the synaptic junction. These neurotransmitters bind and activate receptors on the post-synaptic neuron thereby transmitting the signal to the target cell. Thus, a post-synaptic membrane belongs to the membrane receiving the signal, while a pre-synaptic membrane is the source of the neurotransmitter. In a neuromuscular junction, a synapse is formed between a motor neuron and muscle fibers. In vertebrates, acetylcholine released from the motor neuron acts as a neurotransmitter which depolarizes the muscle fiber and causes muscle contraction. A neuron s ability to receive and integrate simultaneous signals from the environment and other neurons allows for complex animal behavior.
+
+
+
+Plant cells are surrounded by cell walls which are barriers for cell-cell communication. This barrier is overcome by specialized junctions called plasmodesmata. They are similar to gap junctions, connecting the cytosol of adjacent cells. Small molecules (<1000 Da), such as ions, amino acids and sugars, can diffuse freely though plasmodesmata. These small molecules include signaling molecule and transcription factors. The size of the channel is also regulated to allow molecules up to 10,000 Da in size. The permeability of these channels is dependent on many factors, including Ca2+ concentration. An increase in cytosolic Ca2+ concentration will reversibly limit passage through the plasmodesmata. Unlike gap junctions, the cell membranes of adjacent cells merge to form a continuous channel called an annulus. Additionally, within the channel, there is an extension of the endoplasmic reticulum, called a desmotubule, which spans between the cells. The cell-cell interactions facilitated by plasmodesmata play an important role in development of plant cells and tissues and defense against viral infection.
+
+
+
+
+
+
+
+Leukocytes or white blood cells destroy abnormal cells and also provide protection against bacteria and other foreign matter. These interactions are transitory in nature but are crucial as an immediate immune response. To fight infection, leukocytes must move from the blood into the affected tissues. This movement into tissues is called extravasation. It requires successive forming and breaking of cell-cell interactions between the leukocytes and the endothelial cells that line blood vessels. These cell-cell interactions are mediated mainly by a group of Cell Adhesion Molecules (CAMs) called selectins.
+T helper cells, central to the immune system, interact with other leukocytes by releasing signals known as cytokines which activate and stimulate the proliferation of B cells and killer T cells.T helper cells also directly interact with macrophages, cells that engulf foreign matter and display antigens on its surface. T-helper cells that possess the appropriate receptors can bind to these antigens and proliferate resulting in T-helper cells that have the ability to identify the same antigens.
+
+
+
+Coagulation or blood clotting relies on, in addition to the production of fibrin, interactions between platelets. When the endothelium or the lining of a blood vessel is damaged, connective tissue including collagen fibers is locally exposed. Initially, platelets stick to the exposed connective tissue through specific cell-surface receptors. This is followed by platelet activation and aggregation in which platelets become firmly attached and release chemicals that recruit neighboring platelets to the site of vascular injury. A meshwork of fibrin then forms around this aggregation of platelets to increase the strength of the clot.
+
+
+
+Bacterial populations interact in a similar manner to cells in tissue. They communicate through physical interactions and signaling molecules such as homoserine lactones and peptides as a means to control metabolism and regulate growth . A common example and one of the most studied forms of bacterial cell interactions is biofilm. Biofilm is a cell aggregate that can be attached to biological or abiotic surfaces. Bacteria form biofilms to adapt to various environments such as changes in substrate availability. For example, the formation of biofilm increases a bacterial cell's resistance to antibiotics compared to cells which are not part of the aggregate.
+
+
+
+
+
+
+Cancer can result from the loss of cell-cell interaction. In normal cells, growth is controlled by contact inhibition in which contact with neighboring cells causes a stunt in cell growth. Contact inhibition is thought to be mediated by cadherins, proteins that play an important role in cell adhesion. This inhibition prevents cells from piling up on top of one another and forming mounds. However, in cancerous cells where expression of E-cadherin is lost, contact inhibition is lost and results in uncontrolled growth or proliferation, tumor formation, and metastasis.
+
+
+
+In order for pathogenic bacteria to invade a cell, communication with the host cell is required. The first step for invading bacteria is usually adhesion to host cells. Strong anchoring, a characteristic that determines virulence, prevents the bacteria from being washed away before infection occurs. Bacterial cells can bind to many host cell surface structures such as glycolipids and glycoproteins which serve as attachment receptors. Once attached, the bacteria begin to interact with the host to disrupt its normal functioning and disrupt or rearrange its cytoskeleton. Proteins on the bacteria surface can interact with protein receptors on the host thereby affecting signal transduction within the cell. Alterations to signaling are favorable to bacteria because these alterations provide conditions under which the pathogen can invade. Many pathogens have Type III secretion systems which can directly inject protein toxins into the host cells. These toxins ultimately lead to rearrangement of the cytoskeleton and entry of the bacteria.
+
+
+
+Cell cell interactions are highly specific and are tightly regulated. Genetic defects and dysregulation of these interactions can cause many different disease. Dysregulation that leads to leukocyte migration into healthy tissues can cause conditions such as acute respiratory distress syndrome and some types of arthritis. The autoimmune disease pemphigus vulgaris results from autoantibodies to desmoglein and other normal body proteins. The autoantibodies disrupt the adhesion between epithelial cells. This causes blisters of the skin and mucous membranes. Mutations in the connexin genes cause 8 human diseases including heart malformations and neurosensory deafness.
+
+

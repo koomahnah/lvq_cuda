@@ -1,0 +1,77 @@
+The Aeronautical Systems Center (ASC) is an inactivated Air Force product center that designed, developed and delivered dominant aerospace weapon systems and capabilities for U.S. Air Force, other U.S. military, allied and coalition-partner warfighters, in support of Air Force leadership priorities. ASC managed 420 Air Force, joint and international aircraft acquisition programs and related projects; executed an annual budget of $19 billion and employed a work force of more than 11,000 people, located at Wright-Patterson Air Force base and 38 other locations worldwide. The center was organized into wings, groups, and squadrons designed to foster synergy in the acquisition process and speed delivery of war-winning capabilities. ASC's portfolio included capabilities in fighter/attack, long-range strike, reconnaissance, mobility, agile combat support, special operations forces, training, unmanned aircraft systems, human systems integration and installation support. ASC was inactivated during a July 20, 2012 ceremony held at Wright-Patterson Air Force Base, Ohio.
+
+
+
+
+
+
+The Airplane Engineering Department, precursor of ASC, was first established under the U.S. Army's Aviation Section, U.S. Signal Corps in late 1917 at McCook Field. Early on the department's focus was flight testing and training. The department was renamed the Airplane Engineering Division following World War I, it continued its mission of flight testing and training, but also began development and engineering. One early native model, the VCP-1 was designed by resident engineers, Alfred V. Verville and Virginius E. Clark. Another aircraft tested was the MB-1, eventually used as the standard mail plane. The division also expanded operations to Wilbur Wright Field. The division also pioneered aviation safety with the use of free-fall parachutes and the development of protective clothing, closed cockpits, heated and pressurized cabins, and oxygen systems. As the stockpile of aircraft and parts grew the division was able to spend more time finding ways to enhance tools and procedures for pilots. Advancements include things like an electric ignition system, anti-knock fuels, navigational aids, improved weather forecasting techniques, stronger propellers, advancements in aerial photography, and the design of landing and wing lights for night flying.
+In 1925 the division's roll shifted from design and building of to acquiring and evaluating aircraft prototypes submitted by the commercial aircraft industry. This left division engineers were left free to concentrate on developing standards unique to military aircraft, reviewing designs, modifying and testing procured machines, and developing ancillary equipment to enhance military aircraft.
+The Engineering Division merged with the Supply Division in 1926 to form the Material Division. The new unit required more space than McCook Field offered, so in an effort to keep the Air Service presence at Dayton, Ohio a local interest group led by John H. Patterson and his son Frederick bought 4,520 acres (18.3 km2) of land, including Wilbur Wright Field and donated it to the Air Service, creating Wright Field. From Wright Field the division continued to work on aviation advancements including engine design, navigation and communications equipment, cockpit instrumentation, electrically-heated flight clothing, and in-flight refueling equipment. The Physiological Research Laboratory led pioneering research in pilot exposure to extremes of speed, pressure, and temperature. Specific advancements of the division in the 1930s include the Norden bombsight, internal bomb bay, and power-operated gun turret.
+
+
+
+The Material Division was re-designated the Material Command in 1942 as the role of the Army Air Force expanded. By 1943, well over 800 major, and thousands of minor research and development projects were in progress at Wright Field. Because many materials were scarce or unavailable during the war, scientists in the Materials Laboratory were involved in developing and testing a number of substitutes, including synthetic rubber for tires, nylon for parachutes, and plastic for canopies. The Armament Laboratory developed armored, self-sealing fuel tanks, increased bomb load capacity, gun turrets, and defensive armament. Despite the immediate needs of World War II the command continued to work on future projects. In 1944, Major Ezra Kotcher undertook pioneering work that led to the first supersonic airplane, the Bell X-1.
+
+
+
+The new independent Air Force created the Air Research and Development Command and placed the principal elements of engineering, the laboratories, and flight testing under the Wright Air Development Center (WADC). It had divisions including Weapons Systems, Weapons Components, Research, Aeronautics, All-Weather Flying, Flight Test, and Materiel, and 12 laboratories. Engineers at Wright Field evaluated captured foreign aircraft during and after World War II. Aircraft brought to Wright Field included allied aircraft such as the Russian YAK-9 and the British Spitfire and Mosquito, and enemy aircraft including the German JU-88, ME-109, FW-190, ME-262, and the Japanese Zero.
+Out of need for a secret location to test experimental aircraft, the flight testing of airframes moved to Rogers Dry Lake, Muroc, California, later named the Air Force Flight Test Center, Edwards Air Force Base. Some flight testing continued at Wright-Patterson but was confined to component and instrument testing and other specialized kinds of flight test. The most important addition to postwar flight testing at Wright Field was all-weather testing. It represented the first major attempt to solve the many problems encountered in flying under all weather conditions, both day and night.
+WADC developed two "workhorse" aircraft during the 1950s; the B-52 Stratofortress and C-130 Hercules. WADC also developed experimental systems, known as the X-series aircraft, in an effort to advance aviation technology and the flight envelope, including the first flight of a vertical takeoff and landing (VTOL). WADC programs have also contributed to the space program through the X-20 and Zero-G training.
+WADC was renamed the Wright Air Development Division (WADD) in 1959 then the Aeronautical Systems Division (ASD) in 1961 and the Air Force merged the Air Research and Development Command with the Air Material Command to form the Air Force Systems Command. In 1963, the Materials, Avionics, Aero Propulsion, and Flight Dynamics Laboratories were established and placed under one organization, the Research and Technology Division. Research during this time included examining different materials for aircraft structure, phased-array radar, and improved power plants.
+During the Vietnam War, ASD set up a special division called Limited War/Special Air Warfare to respond to the special requirements dictated by the conflict. Part of this concept was "Project 1559" which provided a means for rapidly evaluating new hardware ideas to determine their usefulness for conducting limited war. Support systems included a highly mobile tactical air control system, disposable parachutes, intrusion alarms for air base defense, and a grenade launcher for the AR-15 rifle. In response to the unique climate found in Southeast Asia ASD an evaluation of chemical rain repellents for fighter aircraft and discovered that varieties of repellant applied to cockpit windshields on the ground prior to the flight had a long life and could last several hours, even days.
+During the early 1970s the Department of Defense became concerned with the rising costs of military procurement and consequently abandoned the concept of buying a weapon system as a complete, finished package, and reorganized the acquisition cycle into five phases: conceptual, validation, development, production, and deployment. The Air Force viewed this as a more flexible approach; providing oversight, review, and evaluation during each phase. Under this new process the ASD continued enhancing airframes, and developing armaments.
+The 1980s brought additional funding restraints led to additional reorganization for the ASD. In addition to equipment engineering the ASD worked on process improvement as well by introducing Total Quality Management (TQM). ASD also helped operationalize stealth technology which had been introduced in the 1970s. Work also began on a system of very high speed integrated circuits that would allow advanced avionics architectures to integrate many aircraft subsystems such as weapons delivery, flight controls, and communications into smaller, more reliable subsystems. The Avionics and Flight Dynamics Laboratories coordinated research on an "all-glass" cockpit of the future that would allow a pilot, through voice activation, to mix or "enhance" data presented in picture-like symbols on one large TV-like screen.
+
+
+
+In the post Cold War environment the Air Force again realigned its commands, merging the Air Force Logistics Command and the Air Force Systems Command to form the Air Force Materiel Command (AFMC). ASD was then relabeled the Aeronautical Systems Center (ASC) in 1992 and a massive reorganization ensued, however, ASC retained its leading role in the acquisition of new systems and the upgrade and modification of existing systems to support the Air Force's Core Competencies into the 21st century.
+In light of the new security climate ASC moved to upgrade the B-1 Lancer and B-2 Spirit from exclusively nuclear to conventional weapons. Subsequently both airframes have seen active combat roles. ASC has also placed a premium on Information Superiority and focused heavily on building sensors for the U-2 and unmanned aerial vehicles.
+The Aeronautical Systems Center was inactivated on July 20, 2012; its units were merged into Air Force Life Cycle Management Center.
+
+
+
+Constituted as the Aeronautical Systems Division on 21 March 1961
+Activated on 1 April 1961
+Redesignated Aeronautical Systems Center on 1 July 1992
+Inactivated on 1 October 2012
+
+
+
+Air Force Systems Command, 1 April 1961
+Air Force Materiel Command, 1 July 1992 - 1 October 2012 (attached to Air Force Life Cycle Management Center after 20 July 2012)
+
+
+
+Wright Patterson Air Force Base, 1 April 1961 - 1 October 2012
+
+
+
+77th Aeronautical Systems Wing
+88th Air Base Wing
+303d Aeronautical Systems Wing
+311th Human Systems Wing
+312th Aeronautical Systems Wing
+326th Aeronautical Systems Wing
+478th Aeronautical Systems Wing
+516th Aeronautical Systems Wing
+
+
+
+
+
+
+
+
+
+
+
+
+ This article incorporates public domain material from websites or documents of the Air Force Historical Research Agency.
+
+
+
+Aeronautical Systems Center Home Page
+ASC Fact Sheet
+Jet Engine Inventors
+A Genesis Workshop

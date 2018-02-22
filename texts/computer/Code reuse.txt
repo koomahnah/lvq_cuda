@@ -1,0 +1,96 @@
+Code reuse, also called software reuse, is the use of existing software, or software knowledge, to build new software, following the reusability principles.
+
+
+
+Ad hoc code reuse has been practiced from the earliest days of programming. Programmers have always reused sections of code, templates, functions, and procedures. Software reuse as a recognized area of study in software engineering, however, dates only from 1968 when Douglas McIlroy of Bell Laboratories proposed basing the software industry on reusable components.
+Code reuse aims to save time and resources and reduce redundancy by taking advantage of assets that have already been created in some form within the software product development process. The key idea in reuse is that parts of a computer program written at one time can be or should be used in the construction of other programs written at a later time.
+Code reuse implies the creation of a separately maintained version of the reusable assets. While code is the most common resource selected for reuse, other assets generated during the development cycle may offer opportunities for reuse: software components, test suites, designs, documentation, and so on.
+The software library is a good example of code reuse. Programmers may decide to create internal abstractions so that certain parts of their program can be reused, or may create custom libraries for their own use. Some characteristics that make software more easily reusable are modularity, loose coupling, high cohesion, information hiding and separation of concerns.
+For newly written code to use a piece of existing code, some kind of interface, or means of communication, must be defined. These commonly include a "call" or use of a subroutine, object, class, or prototype. In organizations, such practices are formalized and standardized by domain engineering aka software product line engineering.
+The general practice of using a prior version of an extant program as a starting point for the next version, is also a form of code reuse.
+Some so-called code "reuse" involves simply copying some or all of the code from an existing program into a new one. While organizations can realize time to market benefits for a new product with this approach, they can subsequently be saddled with many of the same code duplication problems caused by cut and paste programming.
+Many researchers have worked to make reuse faster, easier, more systematic, and an integral part of the normal process of programming. These are some of the main goals behind the invention of object-oriented programming, which became one of the most common forms of formalized reuse. A somewhat later invention is generic programming.
+Another, newer means is to use software "generators", programs which can create new programs of a certain type, based on a set of parameters that users choose. Fields of study about such systems are generative programming and metaprogramming.
+
+
+
+Concerning motivation and driving factors, reuse can be:
+Opportunistic - While getting ready to begin a project, the team realizes that there are existing components that they can reuse.
+Planned - A team strategically designs components so that they'll be reusable in future projects.
+Reuse can be categorized further:
+Internal reuse - A team reuses its own components. This may be a business decision, since the team may want to control a component critical to the project.
+External reuse - A team may choose to license a third-party component. Licensing a third-party component typically costs the team 1 to 20 percent of what it would cost to develop internally. The team must also consider the time it takes to find, learn and integrate the component.
+Concerning form or structure of reuse, code can be:
+Referenced - The client code contains a reference to reused code, and thus they have distinct life cycles and can have distinct versions.
+Forked - The client code contains a local or private copy of the reused code, and thus they share a single life cycle and a single version.
+
+Fork-reuse is often discouraged because it's a form of code duplication, which requires that every bug is corrected in each copy, and enhancements made to reused code need to be manually merged in every copy or they become out-of-date. However, fork-reuse can have benefits such as isolation, flexibility to change the reused code, easier packaging, deployment and version management.
+
+
+
+Systematic software reuse is a strategy for increasing productivity and improving quality in the software industry. Although it is simple in concept, successful software reuse implementation is difficult in practice. A reason put forward for this is the dependence of software reuse on the context in which it is implemented. Some problematic issues that needs to be addressed related to systematic software reuse are:
+a clear and well-defined product vision is an essential foundation to an SPL.
+an evolutionary implementation strategy would be a more pragmatic strategy for the company.
+there exist a need for continuous management support and leadership to ensure success.
+an appropriate organisational structure is needed to support SPL engineering.
+the change of mindset from a project-centric company to a product-oriented company is essential.
+
+
+
+
+
+
+A very common example of code reuse is the technique of using a software library. Many common operations, such as converting information among different well-known formats, accessing external storage, interfacing with external programs, or manipulating information (numbers, words, names, locations, dates, etc.) in common ways, are needed by many different programs. Authors of new programs can use the code in a software library to perform these tasks, instead of "re-inventing the wheel", by writing fully new code directly in a program to perform an operation. Library implementations often have the benefit of being well-tested, and covering unusual or arcane cases. Disadvantages include the inability to tweak details which may affect performance or the desired output, and the time and cost of acquiring, learning, and configuring the library.
+
+
+
+
+A design pattern is a general solution to a recurring problem. Design patterns are more conceptual than tangible and can be modified to fit the exact need. However, abstract classes and interfaces can be reused to implement certain patterns.
+
+
+
+
+Developers generally reuse large pieces of software via third-party applications and frameworks. Though frameworks are usually domain-specific and applicable only to families of applications.
+
+
+
+
+In functional programming higher-order functions can be used in many cases where design patterns or frameworks were formerly used.
+
+
+
+Retrocomputing encompasses reuse of code, simply because retro programs are being run on older computers, or emulators for them.
+For instance, some code from MS-DOS has been reused so as to make the DOSBox DOS emulator.
+
+
+
+
+A component, in an object-oriented extent, represents a set of collaborative classes (or only one class) and its interfaces. The interfaces are responsible for enabling the replacement of components.
+
+
+
+The whole concept of "code reuse" can also encompass applications outside of computing. For instance, reuse of text strings in general, such as naming things after people or other things, can basically reuse code to some extent.
+
+
+
+Don't repeat yourself
+Single Source of Truth
+ICSR
+Inheritance
+Language binding
+Not Invented Here (antonym)
+Procedural programming
+Reinventing the wheel (antonym)
+Reuse metrics
+Software framework
+Polymorphism
+Virtual inheritance
+Reusability
+
+
+
+
+
+
+[1]- ReNews - an information site about software reuse and domain engineering
+Software Reuse Tips Article

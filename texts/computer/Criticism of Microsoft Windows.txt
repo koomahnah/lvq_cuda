@@ -1,0 +1,58 @@
+The various versions of Microsoft's desktop operating system, Windows, have received many criticisms since Microsoft's inception.
+
+
+
+In 2010, Google engineer Travis Ormandy criticized Microsoft for taking too long to patch (fix) a reported security vulnerability in the Windows virtual DOS machine (VDM), which was patched 7 months after Mr. Ormandy reported it to Microsoft. In 2004, Marc Maiffret, chief hacking officer for security research firm eEye Digital Security, had criticized Microsoft for providing a security patch for the Windows ASN.1 implementation only after 200 days.
+
+
+
+
+Right after the release of Windows Vista, computer scientist Peter Gutmann criticised the digital rights management (DRM) that had been included in Microsoft Windows to allow content providers to place restrictions on certain types of multimedia playback. He collected the criticism in a write-up he released in which he stated that:
+The DRM could inadvertently disable functionality.
+A hardware functionality scan requirement could potentially shut out open source hardware.
+The hardware architecture made unified drivers impossible.
+Some drivers were buggy.
+If one driver was found to be leaking content, Microsoft could remotely shut that driver down for all computers that used it, leading to denial of service problems.
+The DRM decreased system reliability and increased hardware costs.
+Software makers had to license unnecessary third-party intellectual property, increasing the costs for their drivers.
+The DRM consumed too much CPU and device resources.
+The analysis drew responses from Microsoft, where Microsoft states some of the criticized DRM features were already present in Windows XP, and thus a new problem for customers and that these problematic features would only be activated when required by the content being played. Other responses came from George Ou of ZDNet and Ed Bott of ZDNet. Ed Bott also published a three-part rebuttal of Peter Gutmann's claims in which he details a number of factual errors in the analysis and criticizes Gutmann's reliance on questionable sources (personal blog postings, friends' anecdotal evidence, Google searches) for his analysis paper and that Gutmann never tested his theories himself.
+For Windows 7, allegations were also made about "draconian DRM" which spurred a debate and criticism on the website Slashdot. As with the claims about the overreaching Vista DRM, independent tech writers quickly dismissed the claims as faulty analysis. The actual problem which spurred the criticism turned out to be an unrelated problem experienced by a single user who tried to circumvent Adobe Creative Suite copy protection mechanisms by changing files. When it failed to work the user concluded that it had to be the "draconian DRM" of Windows.
+
+
+
+
+Windows is criticized for having the Internet Explorer web browser integrated into the Windows Shell from Windows 98 onwards. Previously Internet Explorer was shipped as a separate application. One problem was that since the Explorer cannot be easily replaced with a product of another vendor, this undermines consumer choice. This issue precipitated concerns that Microsoft engages in monopolistic practices and resulted in the United States v. Microsoft court case, which was eventually settled out of court.
+Another issue with the integration was that security vulnerabilities in Internet Explorer also create security vulnerabilities in Windows, which could allow an attacker to exploit Windows with remote code execution.
+In January 2009, the European Commission started to investigate Microsoft's bundling of Internet Explorer into Windows; the Commission stated: "Microsoft's tying of Internet Explorer to the Windows operating system harms competition between web browsers, undermines product innovation and ultimately reduces consumer choice." The European Commission and Microsoft eventually agreed that Microsoft would include a web browser choice selection screen to Windows users in the European Economic Area, by means of BrowserChoice.eu.
+
+
+
+Google, a Microsoft competitor, has criticized Windows for becoming slower and less reliable over long term use.
+Adrian Kingsley-Hughes, writing for ZDNet, believes that the slow-down over time is due to loading too much software, loading duplicate software, installing too much free/trial/beta software, using old, outdated or incorrect drivers, installing new drivers without uninstalling the old ones and may also be due to malware and spyware.
+
+
+
+
+In 1999 Andrew Fernandez, chief scientist with Cryptonym of Morrisville, North Carolina found a cryptographic public key stored in the variable _KEY and a second key labeled NSAKEY. The discovery lead to a flurry of speculation and conspiracy theories; such as the second key could be owned by the United States National Security Agency (the NSA), and that it could allow the intelligence agency to subvert any Windows user's security. Also researcher Dr. Nicko van Someren discovered these cryptographic keys and a third key in the ADVAPI.DLL file which, at that time, existed in Windows 2000 before its release. Concerns were raised about CPUs with encrypted instruction sets which, if they existed during that time, would have made it impossible to discover the cryptographic keys.
+Microsoft denied the allegations   Microsoft attributes the naming of the key was due to a technical review by the NSA pointing out a backup key was required to conform to regulations.
+No evidence other than the name of the key has ever been presented that the key enabled a backdoor.
+Cryptographer and computer security specialist Bruce Schneier has also argued against the conspiracy theory pointing out that if the NSA wanted a back door into Windows with Microsoft's consent, they would not need their own cryptographic key to do so.
+The cryptographic keys have been included in all versions of Windows from Windows 95 OSR2 onwards.
+
+
+
+Concerns were shown by advocates and other critics for Windows 10's privacy policies and its collection and use of customer data. Under the default "Express" settings, Windows 10 is configured to send various information to Microsoft and other parties, including the collection of user contacts, calendar data, and "associated input data" to personalize "speech, typing, and inking input", typing and inking data to improve recognition, allow apps to use a unique "advertising ID" for analytics and advertising personalization (functionality introduced by Windows 8.1) and allow apps to request the user's location data and send this data to Microsoft and "trusted partners" to improve location detection (Windows 8 had similar settings, except that location data collection did not include "trusted partners"). Users can opt out from most of this data collection, but telemetry data for error reporting and usage is also sent to Microsoft, and this cannot be disabled on non-Enterprise versions of Windows 10. The use of Cortana intelligent personal assistant also requires the collection of data "such as your device location, data from your calendar, the apps you use, data from your emails and text messages, who you call, your contacts and how often you interact with them on your device  to personalize its functionality.
+Rock Paper Shotgun writer Alec Meer argued that Microsoft's intent for this data collection lacked transparency, stating that "there is no world in which 45 pages of policy documents and opt-out settings split across 13 different Settings screens and an external website constitutes 'real transparency'." ExtremeTech pointed out that, whilst previously campaigning against Google for similar data collection strategies, "[Microsoft] now hoovers up your data in ways that would make Google jealous." However, it was also pointed out that the requirement for such vast usage of customer data had become a norm, citing the increased reliance on cloud computing and other forms of external processing, as well as similar data collection requirements for services on mobile devices such as Google Now and Siri. In August 2015, Russian politician Nikolai Levichev called for Windows 10 to be banned from use by the Russian government, as it sends user data to servers in the United States (a federal law requiring all online services to store the data of Russian users on servers within the country, or be blocked, will take effect September 2016).
+Following the release of 10, allegations also surfaced that Microsoft had backported the operating system's increased data collection to Windows 7 and Windows 8 via "recommended" patches that added additional "telemetry" features. The updates' addition of a "Diagnostics Tracking Service" is connected specifically to Microsoft's existing Customer Experience Improvement Program (which is an opt-in program that sends additional diagnostic information to Microsoft for addressing issues), and the Application Insights service for third-party software.
+
+
+
+Criticism of Microsoft
+Criticism of Windows Vista
+Criticism of Windows XP
+DLL Hell
+Microsoft Spyware
+Windows 8 secure boot
+
+

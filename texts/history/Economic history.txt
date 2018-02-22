@@ -1,0 +1,106 @@
+This article is about the academic field. For historical events, see Economic history of the United States and analogously titled articles for other countries. For changes in economic ideas, see History of economic thought.
+Economic history is the study of economies or economic phenomena of the past. Analysis in economic history is undertaken using a combination of historical methods, statistical methods and the application of economic theory to historical situations and institutions. The topic includes financial and business history and overlaps with areas of social history such as demographic and labor history. The quantitative   in this case, econometric   study of economic history is also known as cliometrics.
+
+
+
+Treating economic history as a discrete academic discipline has been a contentious issue for many years. Academics at the London School of Economics and the University of Cambridge had numerous disputes over the separation of economics and economic history in the interwar era. Cambridge economists believed that pure economics involved a component of economic history and that the two were inseparably entangled. Those at the LSE believed that economic history warranted its own courses, research agenda and academic chair separated from mainstream economics.
+In the initial period of the subject's development, the LSE position of separating economic history from economics won out. Many universities in the UK developed independent programmes in economic history rooted in the LSE model. Indeed, the Economic History Society had its inauguration at LSE in 1926 and the University of Cambridge eventually established its own economic history programme. However, the past twenty years have witnessed the widespread closure of these separate programmes in the UK and the integration of the discipline into either history or economics departments. Only the LSE retains a separate economic history department and stand-alone undergraduate and graduate programme in economic history. Cambridge, Glasgow, the LSE and Oxford together train the vast majority of economic historians coming through the British higher education system today.
+Meanwhile, in the US, the field of economic history has in recent decades been largely subsumed into other fields of economics and is seen as a form of applied economics. As a consequence, there are no specialist economic history graduate programs at any universities anywhere in the country. Economic history remains as a special field component of regular economics or history PhD programs in universities including at University of California, Berkeley, Harvard University, Northwestern University and Yale University.
+
+
+
+Yale University economist Irving Fisher wrote in 1933 on the relationship between economics and economic history in his "Debt-Deflation Theory of Great Depressions" (Econometrica, Vol. 1, No. 4: 337 338):
+
+The study of dis-equilibrium may proceed in either of two ways. We may take as our unit for study an actual historical case of great dis-equilibrium, such as, say, the panic of 1873; or we may take as our unit for study any constituent tendency, such as, say, deflation, and discover its general laws, relations to, and combinations with, other tendencies. The former study revolves around events, or facts; the latter, around tendencies. The former is primarily economic history; the latter is primarily economic science. Both sorts of studies are proper and important. Each helps the other. The panic of 1873 can only be understood in light of the various tendencies involved deflation and other; and deflation can only be understood in the light of various historical manifestations 1873 and other.
+
+There is a school of thought among economic historians that splits economic history the study of how economic phenomena evolved in the past from historical economics testing the generality of economic theory using historical episodes. US economic historian Charles P. Kindleberger explained this position in his 1990 book Historical Economics: Art or Science?.
+The new economic history, also known as cliometrics, refers to the systematic use of economic theory and/or econometric techniques to the study of economic history. The term cliometrics was originally coined by Jonathan R. T. Hughes and Stanley Reiter in 1960 and refers to Clio, who was the muse of history and heroic poetry in Greek mythology. Cliometricians argue their approach is necessary because the application of theory is crucial in writing solid economic history, while historians generally oppose this view warning against the risk of generating anachronisms. Early cliometrics was a type of counterfactual history. However, counterfactualism is no longer its distinctive feature. Some have argued that cliometrics had its heyday in the 1960s and 1970s and that it is now neglected by economists and historians.
+In recent decades economic historians, following Douglass North, have tended to move away from narrowly quantitative studies toward institutional, social, and cultural history affecting the evolution of economies. However, this trend has been criticized, most forcefully by Francesco Boldizzoni, as a form of economic imperialism "extending the neoclassical explanatory model to the realm of social relations." Conversely, economists in other specializations have started to write on topics concerning economic history.
+
+
+
+
+A new field calling itself the "History of Capitalism" has emerged in US history departments since about the year 2000. It includes many topics traditionally associated with the field of economic history, such as insurance, banking and regulation, the political dimension of business, and the impact of capitalism on the middle classes, the poor and women and minorities. The field utilizes the existing research of business history, but has sought to make it more relevant to the concerns of history departments in the United States, including by having limited or no discussion of individual business enterprises.
+
+
+
+
+Simon Kuznets won the Nobel Memorial Prize in Economic Sciences ("the Nobel Memorial Prize") in 1971 "for his empirically founded interpretation of economic growth which has led to new and deepened insight into the economic and social structure and process of development".
+Milton Friedman won the Nobel Memorial Prize in 1976 for "his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy".
+Robert Fogel and Douglass North won the Nobel Memorial Prize in 1993 for "having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change".
+Merton Miller, who started his academic career teaching economic history at the LSE, won the Nobel Memorial Prize in 1990 with Harry Markowitz and William F. Sharpe.
+
+
+
+
+
+
+Anthropometric history
+Economic History Association
+Economic History Society
+European Association for Evolutionary Political Economy (EAEPE)
+Great Moderation
+History of economic thought
+International Economic History Association
+
+
+
+
+
+
+
+
+
+Bairoch, Paul (1995). Economics and World History: Myths and Paradoxes. Chicago: University of Chicago Press. ISBN 0226034631. 
+Barker, T. C. (1977). "The Beginnings of the Economic History Society". Economic History Review 30 (1): 1 19. doi:10.2307/2595495. JSTOR 2595495. 
+Baten, J rg; Muschallik, Julia (2012). "The Global Status of Economic History". Economic History of Developing Regions 27 (1): 93 113. doi:10.1080/20780389.2012.682390. 
+Cameron, Rondo; Neal, Larry (2003). A Concise Economic History of the World: From Paleolithic Times to the Present (4th ed.). New York: Oxford University Press. ISBN 0195127056. 
+Cipolla, C. M. (1991). Between History and Economics: An Introduction to Economic History. Oxford: Blackwell. ISBN 0631166815. 
+Deng, Kent. "A survey of recent research in Chinese economic history." Journal of Economic Surveys (2014).
+Costa, Dora; Demeulemeester, Jean-Luc; Diebolt, Claude (2007). "What is 'Cliometrica'?". Cliometrica 1 (1): 1 6. doi:10.1007/s11698-006-0001-1. 
+Crafts, N.F.R. (1987). "Economic history", The New Palgrave: A Dictionary of Economics, v. 2, pp. 37 42.
+Field, Alexander J. (2008). "Economic history", The New Palgrave Dictionary of Economics. Abstract.
+Galambos, Lou. "Is This a Decisive Moment for the History of Business, Economic History, and the History Of Capitalism? Essays in Economic & Business History (2014) v. 32 pp 1 18 online
+Gras, N. S. B. (1927). "The Rise and Development of Economic History". Economic History Review 1 (1): 12 34. doi:10.2307/2590668. JSTOR 2590668. 
+Mokyr, Joel, ed. (2003), The Oxford Encyclopedia of Economic History. Oxford, U.K.: Oxford University Press, 5 vols. Description.
+Temin, Peter. (2014) Economic History and Economic Development: New Economic History in Retrospect and Prospect (No. w20107. National Bureau of Economic Research, 2014. online
+Roy, Tirthankar (2002). "Economic History and Modern India: Redefining the Link". Journal of Economic Perspectives 16 (3): 109 130. doi:10.1257/089533002760278749. JSTOR 3216953. 
+
+
+
+
+
+
+Cliometrica: Issue & article links, v. 1, 2007 
+Economic History Review: Issue & article first-page links, v. 1927 
+Explorations in Economic History: Issue & article, v. 7, 1969 
+Journal of Economic History: Issue & article-abstract links, v. 1, 1971 
+
+
+
+Economic History Society (UK), publisher of the Economic History Review
+Economic History Association (US), publisher of the Journal of Economic History
+The European Association for Banking and Financial History e. V., publisher of the Financial History Review
+International Economic History Association (IEHA)
+
+
+
+Groningen Growth and Development Centre Total Economy Database Series on GDP, Population, Employment, Hours worked, GDP per capita and productivity (per person and per hour) from 1950 up to 2006
+Our World In Data web publication by Max Roser (at the University of Oxford) that visualises how living standards around the world changed. Makes data available and covers a wide range of topics: Trends in health, food provision, the growth and distribution of incomes, violence, rights, wars, energy use, education, environmental changes and many other aspects are empirically analysed and visualised in this open access web publication.
+Global Finance data series
+Historicalstatistics.org Links to historical economic statistics for different countries and regions.
+Maddison (2006), The World Economy, OECD, Paris.
+
+
+
+Economic History Society Annual Conference 2010
+Economic History Association Meetings 2010
+XV World Economic History Congress 2009
+XVI World Economic History Congress 2012
+Eighth Conference of the European Historical Economics Association
+
+
+
+EH.Net Economic History Services   Includes Economic History Encyclopedia, Ask the Professor, Book Reviews, databases, directories, bibliographies, mailing lists, and an inflation calculator.
+EH.Net Encyclopedia
+EHE   An Economic History of Europe   For students of economic history, includes links to major databases, technology descriptions, examples of use of data, a forum for economic historians.

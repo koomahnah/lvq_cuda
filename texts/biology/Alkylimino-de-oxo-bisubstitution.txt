@@ -1,0 +1,29 @@
+Alkylimino-de-oxo-bisubstitution in organic chemistry is the organic reaction of carbonyl compounds with amines to imines. The reaction name is based on the IUPAC Nomenclature for Transformations. The reaction is acid catalyzed and the reaction type is nucleophilic addition of the amine to the carbonyl compound followed by transfer of a proton from nitrogen to oxygen to a stable hemiaminal or carbinolamine. With primary amines water is lost in an elimination reaction to an imine. With aryl amines especially stable Schiff bases are formed. 
+
+
+
+The reaction steps are reversible reactions and the reaction is driven to completion by removal of water by azeotropic distillation, molecular sieves or titanium tetrachloride. Primary amines react through an unstable hemiaminal intermediate which then splits off water.
+
+Secondary amines do not lose water easily because they do not have a proton available and instead they often react further to an aminal:
+
+or when an  -carbonyl proton is present to an enamine:
+
+In acidic environment the reaction product is an iminium salt by loss of water.
+This reaction type is found in many Heterocycle preparations for example the Povarov reaction and the Friedl nder-synthesis to quinolines.
+Because both components are so reactive a molecule does not carry an aldehyde and an amine group at the same time unless the amine group is fitted with a protective group. As a further demonstration of reactivity one study  explored the properties of an  -formyl aziridine which was found to dimerize as an oxazolidine on formation from the corresponding ester by organic reduction with DIBAL:
+
+Iminium ion formation is prohibited in this molecule because the azirine group and the formyl group are said to be orthogonal.
+
+
+
+In one potential application  a particular electron-rich cinnamaldehyde is able to differentiate between cysteine and homocysteine. With cysteine, a buffered water solution of the aldehyde changes from yellow to colorless due to a secondary ring closing reaction of the imine. Homocysteine is unable to give ring closure and the color does not change.
+
+
+
+
+
+
+reaction of benzaldehyde and methylamine in Organic Syntheses Coll. Vol. 10, p. 312 (2004); Vol. 76, p. 23 (1999). Online article
+reaction of methylbenzylamine with 2-methylcyclohexanone in Organic Syntheses, Coll. Vol. 9, p. 610 (1998); Vol. 70, p. 35 (1992). Article
+Reaction of acetophenone with methylamine in Organic Syntheses, Coll. Vol. 6, p. 818 (1988); Vol. 54, p. 93 (1974). Article
+Chiral Schiff base in Molbank 2005, M435 Article

@@ -1,0 +1,18 @@
+Aminoacetonitrile is a simple organic compound containing both nitrile and amino groups. It is somewhat similar to the simplest amino acid, glycine. This compound is commercially available as the chloride and sulfate salts.
+
+
+
+Industrially aminoacetonitrile is produced from glycolonitrile by reaction with ammonia:
+HOCH2CN + NH3   H2NCH2CN + H2O
+The aminoacetonitrile can be hydrolysed to give glycine:
+Aminoacetonitrile derivatives are useful anthelmintics. They act as nematode specific ACh agonists causing a spastic paralysis and rapid expulsion from the host.
+
+
+
+In 2008, aminoacetonitrile was discovered in the Large Molecule Heimat, a giant gas cloud near the galactic center in the constellation Sagittarius by the Max Planck Institute for Radio Astronomy. This discovery is significant to the debate on whether glycine exists widely in the universe.
+
+
+
+Property data at the National Institute of Standards and Technology (NIST)
+
+

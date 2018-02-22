@@ -1,0 +1,47 @@
+Aldosterone synthase is a steroid hydroxylase cytochrome P450 enzyme involved in the biosynthesis of the mineralocorticoid aldosterone. It is a protein which is only expressed in the zona glomerulosa of the adrenal cortex and is primarily regulated by the renin-angiotensin system. It is the sole enzyme capable of synthesizing aldosterone in humans and plays an important role in electrolyte balance and blood pressure. 
+
+
+
+Aldosterone synthase is encoded on chromosome 8q22 by the CYP11B2 gene. The gene contains 9 exons and spans roughly 7000 base pairs of DNA. CYP11B2 is closely related with CYP11B1. The two genes show 93% homology to each other and are both encodes on the same chromosome.  Research has shown that calcium ions act as a transcription factor for CYP11B2 through well defined interactions at the 5'-flanking region of CYP11B2.
+Aldosterone synthase is a member of the cytochrome P450 superfamily of enzymes. The cytochrome P450 proteins are monooxygenases that catalyze many reactions involved in drug metabolism and synthesis of cholesterol, steroids, and other lipids.
+
+
+
+Aldosterone, when present, binds to intracellular mineralocorticoid receptors which can then bind to DNA and influence transcription of genes encoding serum and glucocorticoid induced kinase, SGK. Serum and glucocorticoid induced kinase (SGK) can phosphorylate a uniquitin ligase (NEDD4) which inactivates its ability to remove and degrade sodium channels from apical membranes. Aldosterone activity is primarily regulated by the renin-angiotensin system and shows a diurnal rhythm of secretion. Adrenocorticotropic hormone is also assumed to play a role in the regulation of aldosterone synthase likely through stimulating the synthesis of 11-deoxycorticosterone which is the initial substrate of the enzymatic action in aldosterone synthase.
+
+Aldosterone can be inhibited by antialdosteronic drugs such as spironolactone and eplerenone. In the chance that aldosterone activity is too high to be metabolically beneficial salt and fluid build up can occur which may stiffen the heart muscle increasing the risk of cardiovascular malfunction.
+
+
+
+
+Aldosterone synthase converts 11-deoxycorticosterone to corticosterone, to 18-hydroxycorticosterone, and finally to aldosterone:
+
+In human metabolism the biosynthesis of aldosterone largely depends on the metabolism of cholesterol. Cholesterol is metabolized in what is known as the early pathway of aldosterone synthesis and is hydroxylated becoming (20R,22R)-dihydroxycholesterol which is then metabolized as a direct precursor to pregnenolone. Pregnenolone can then followed one of two pathways which involve the metabolism of progesterone or the testosterone and estradiol biosynthesis. Aldosterone is synthesized by following the metabolism of progesterone.
+In the potential case where aldosterone synthase is not metabolically active the body accumulates 11-deoxycorticosterone. This increases salt retention leading to increased hypertension.
+
+
+
+Lack of metabolically active aldosterone synthase leads to corticosterone methyl oxidase deficiency type I and II. The deficiency is characterized clinically by salt-wasting, failure to thrive, and growth retardation. The in-active proteins are caused by the autosomal recessive inheritance of defective CYP11B2 genes in which genetic mutations destroy the enzymatic activity of aldosterone synthase. Deficient aldosterone synthase activity results in impaired biosynthesis of aldosterone while corticosterone in the zona glomerulosa is excessively produced in both corticosterone methyl oxidase deficiency type I and II. The corticosterone methyl oxidase deficiencies both share this effect however type I causes an overall deficiency of 18-hydroxycorticosterone while type II overproduces it.
+
+
+
+Inhibition of aldosterone synthase is currently being investigated as a medical treatment for hypertension, heart failure, and renal disorders.  Deactivation of enzymatic activity reduces aldosterone concentrations in plasma and tissues which decreases mineralocorticoid receptor-dependent and independent effects in cardiac vascular and renal target organs.  Inhibition has shown to decrease plasma and urinary aldosterone concentrations by 70 - 80%, rapid hypokalaemia correction, moderate decrease of blood pressure, and an increase plasma renin activity in patients who are on a low-sodium diet. Ongoing medical research is focusing on the synthesis of second-generation aldosterone synthase inhibitors to create an ideally selective inhibitor as the current, orally delivered, LCl699 has shown to be non-specific to aldosterone synthase.
+
+
+
+Hypoaldosteronism
+Glucocorticoid remediable aldosteronism
+
+
+
+
+
+
+
+
+
+
+
+
+Aldosterone synthase at the US National Library of Medicine Medical Subject Headings (MeSH)
+Category:Cytochrome P450

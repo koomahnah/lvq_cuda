@@ -1,0 +1,17 @@
+A branched-chain amino acid (BCAA) is an amino acid having aliphatic side-chains with a branch (a central carbon atom bound to three or more carbon atoms). Among the proteinogenic amino acids, there are three BCAAs: leucine, isoleucine and valine. Non-proteinogenic BCAAs include norvaline and 2-aminoisobutyric acid.
+
+The three proteinogenic BCAAs are among the nine essential amino acids for humans, accounting for 35% of the essential amino acids in muscle proteins and 40% of the preformed amino acids required by mammals.
+
+
+
+Dietary BCAA supplementation has been used clinically to aid in the recovery of burn victims. A 2006 paper suggests that the concept of nutrition supplemented with all BCAAs for burns, trauma, and sepsis should be abandoned for a more promising leucine-only-supplemented nutrition that requires further evaluation. 
+Dietary BCAAs have been used in an attempt to treat some cases of hepatic encephalopathy, but BCAA provides no benefit for this condition.
+Cota et al. demonstrated in 2006 that BCAAs, particularly leucine, also affect the mTOR pathway in rats, signaling two regions of their brains.
+
+
+
+Degradation of branched-chain amino acids involves the branched-chain alpha-keto acid dehydrogenase complex (BCKDH). A deficiency of this complex leads to a buildup of the branched-chain amino acids (leucine, isoleucine, and valine) and their toxic by-products in the blood and urine, giving the condition the name maple syrup urine disease.
+The BCKDH complex converts branched-chain amino acids into Acyl-CoA derivatives, which after subsequent reactions are converted either into acetyl-CoA or succinyl-CoA that enter the citric acid cycle.
+Enzymes involved are branched chain aminotransferase and 3-methyl-2-oxobutanoate dehydrogenase.
+
+

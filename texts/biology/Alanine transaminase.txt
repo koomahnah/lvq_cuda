@@ -1,0 +1,34 @@
+Alanine transaminase (ALT) is a transaminase enzyme (EC 2.6.1.2). It is also called alanine aminotransferase (ALAT) and was formerly called serum glutamate-pyruvate transaminase (SGPT) or serum glutamic-pyruvic transaminase (SGPT). ALT is found in plasma and in various body tissues, but is most common in the liver. It catalyzes the two parts of the alanine cycle. Serum ALT level, serum AST (aspartate transaminase) level, and their ratio (AST/ALT ratio) are commonly measured clinically as biomarkers for liver health. The tests are part of blood panels.
+
+
+
+ALT catalyzes the transfer of an amino group from L-alanine to  -ketoglutarate, the products of this reversible transamination reaction being pyruvate and L-glutamate.
+L-glutamate + pyruvate    -ketoglutarate + L-alanine
+
+ALT (and all transaminases) require the coenzyme pyridoxal phosphate, which is converted into pyridoxamine in the first phase of the reaction, when an amino acid is converted into a keto acid.
+
+
+
+ALT is commonly measured clinically as a part of a diagnostic evaluation of hepatocellular injury, to determine liver health. When used in diagnostics, it is almost always measured in international units/liter (IU/L). While sources vary on specific reference range values for patients, 10-40 IU/L is the standard reference range for experimental studies. Alanine transaminase shows a marked diurnal variation.
+The ratio of ALT to AST (aspartate transaminase) also has clinical significance.
+
+
+
+Test results should always be interpreted using the reference range from the laboratory that produced the result. However typical reference intervals for ALT are:
+Significantly elevated levels of ALT (SGPT) often suggest the existence of other medical problems such as viral hepatitis, diabetes, congestive heart failure, liver damage, bile duct problems, infectious mononucleosis, or myopathy, so ALT is commonly used as a way of screening for liver problems. Elevated ALT may also be caused by dietary choline deficiency. However, elevated levels of ALT do not automatically mean that medical problems exist. Fluctuation of ALT levels is normal over the course of the day, and they can also increase in response to strenuous physical exercise.
+When elevated ALT levels are found in the blood, the possible underlying causes can be further narrowed down by measuring other enzymes. For example, elevated ALT levels due to hepatocyte damage can be distinguished from bile duct problems by measuring alkaline phosphatase. Also, myopathy-related elevations in ALT should be suspected when the aspartate transaminase (AST) is greater than ALT; the possibility of muscle disease causing elevations in liver tests can be further explored by measuring muscle enzymes, including creatine kinase. Many drugs may elevate ALT levels, including Zileuton, omega-3-acid ethyl esters (Lovaza), anti-inflammatory drugs, antibiotics, cholesterol medications, some antipsychotics such as risperidone, and anticonvulsants.. Paracetamol may also elevate ALT levels.
+For years, the American Red Cross used ALT testing as part of the battery of tests to ensure the safety of its blood supply by deferring donors with elevated ALT levels. The intent was to identify donors potentially infected with hepatitis C because no specific test for that disease was available at the time. Prior to July 1992, widespread blood donation testing in the USA for hepatitis C was not carried out by major blood banks. With the introduction of second-generation ELISA antibody tests for hepatitis C, the Red Cross changed the ALT policy. As of July 2003, donors previously disqualified for elevated ALT levels and no other reason may be reinstated as donors by contacting the donor-counseling department of their regional Red Cross organization.
+
+
+
+Aspartate transaminase
+Liver function tests
+
+
+
+
+
+
+Alanine transaminase at the US National Library of Medicine Medical Subject Headings (MeSH)
+ALT: analyte monograph; The Association for Clinical Biochemistry and Laboratory Medicine
+Alanine aminotransferase (ALT) at Lab Tests Online

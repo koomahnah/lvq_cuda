@@ -1,0 +1,45 @@
+Signal transducing adaptor proteins are proteins that are accessory to main proteins in a signal transduction pathway. Adaptor proteins contain a variety of protein-binding modules that link protein-binding partners together and facilitate the creation of larger signaling complexes. These proteins tend to lack any intrinsic enzymatic activity themselves but instead mediate specific protein protein interactions that drive the formation of protein complexes. Examples of adaptor proteins include MyD88, Grb2 and SHC1.
+
+
+
+Much of the specificity of signal transduction depends on the recruitment of several signalling components such as protein kinases and G-protein GTPases into short lived active complexes in response to an activating signal such as a growth factor binding to its receptor.
+
+
+
+Adaptor proteins usually contain several domains within their structure (e.g., Src homology 2 (SH2) and SH3 domains) that allow specific interactions with several other specific proteins. SH2 domains recognise specific amino acid sequences within proteins containing phosphotyrosine residues and SH3 domains recognise proline-rich sequences within specific peptide sequence contexts of proteins.
+There are many other types of interaction domains found within adaptor and other signalling proteins that allow a rich diversity of specific and coordinated protein protein interactions to occur within the cell during signal transduction.
+
+
+
+Genes encoding adaptor proteins include:
+BCAR3   Breast cancer anti-estrogen resistance protein 3
+GRAP   GRB2-related adaptor protein
+GRAP2   GRB2-related adaptor protein 2
+LDLRAP1   low-density lipoprotein receptor adaptor protein 1
+NCK1   NCK adaptor protein 1
+NCK2   NCK adaptor protein 2
+NOS1AP   nitric oxide synthase 1 (neuronal) adaptor protein
+PIK3AP1   phosphoinositide-3-kinase adaptor protein 1
+SH2B1   SH2B adaptor protein 1
+SH2B2   SH2B adaptor protein 2
+SH2B3   SH2B adaptor protein 3
+SH2D3A -SH2 domain containing 3A
+SH2D3C   SH2 domain containing 3C
+SHB   Src homology 2 domain containing adaptor protein B
+SLC4A1AP   solute carrier family 4 (anion exchanger), member 1, adaptor protein
+GAB2   GRB2-associated binding protein 2
+
+
+
+Wikipedia:MeSH D12.776#MeSH D12.776.157.057 --- adaptor proteins.2C signal transducing
+Wikipedia:MeSH D12.776#MeSH D12.776.543.990.150 --- adaptor proteins.2C vesicular transport
+
+
+
+
+
+
+TAB2 is an adaptor protein involved in the IL-1 signal transduction pathway: Takaesu, Giichi; Kishida, Satoshi; Hiyama, Atsushi; Yamaguchi, Kyoko; Shibuya, Hiroshi; Irie, Kenji; Ninomiya-Tsuji, Jun; Matsumoto, Kunihiro (2000). "TAB2, a Novel Adaptor Protein, Mediates Activation of TAK1 MAPKKK by Linking TAK1 to TRAF6 in the IL-1 Signal Transduction Pathway". Molecular Cell 5 (4): 649 658. doi:10.1016/S1097-2765(00)80244-0. ISSN 1097-2765. PMID 10882101. 
+Good article about adaptor proteins involved in protein kinase C-mediated signal transduction: Schechtman D, Mochly-Rosen D (October 2001). "Adaptor proteins in protein kinase C-mediated signal transduction". Oncogene 20 (44): 6339 47. doi:10.1038/sj.onc.1204778. PMID 11607837. Retrieved 2012-09-05. 
+A good article regarding the role of adaptor proteins involved with the T-cell antigen receptor: Samelson, Lawrence E. (2002). "SIGNALTRANSDUCTIONMEDIATED BY THET CELLANTIGENRECEPTOR: The Role of Adapter Proteins*". Annual Review of Immunology 20 (1): 371 394. doi:10.1146/annurev.immunol.20.092601.111357. ISSN 0732-0582. 
+Signalling discussed with regards to adaptor proteins: Pawson, T. (1997). "Signaling Through Scaffold, Anchoring, and Adaptor Proteins". Science 278 (5346): 2075 2080. doi:10.1126/science.278.5346.2075. ISSN 0036-8075.

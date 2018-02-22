@@ -1,0 +1,29 @@
+Not to be confused with PC speaker.
+
+Computer speakers, or multimedia speakers, are speakers external to a computer, that disable the lower fidelity built-in speaker. They often have a low-power internal amplifier. The standard audio connection is a 3.5 mm (approximately 1/8 inch) stereo phone connector often color-coded lime green (following the PC 99 standard) for computer sound cards. A few use a RCA connector for input. There are also USB speakers which are powered from the 5 volts at 500 milliamps provided by the USB port, allowing about 2.5 watts of output power. Computer speakers were introduced by Altec Lansing in 1990.
+Computer speakers range widely in quality and in price. The computer speakers typically packaged with computer systems are small, plastic, and have mediocre sound quality. Some computer speakers have equalization features such as bass and treble controls.
+The internal amplifiers require an external power source, usually an AC adapter. More sophisticated computer speakers can have a subwoofer unit, to enhance bass output, and these units usually include the power amplifiers both for the bass speaker, and the small satellite speakers.
+Some computer displays have rather basic speakers built-in. Laptops come with integrated speakers. Restricted space available in laptops means these speakers usually produce low-quality sound.
+For some users, a lead connecting computer sound output to an existing stereo system is practical. This normally yields much better results than small low-cost computer speakers. Computer speakers can also serve as an economy amplifier for MP3 player use for those who wish to not use headphones, although some models of computer speakers have headphone jacks of their own.
+
+
+
+
+Features vary by manufacturer, but may include the following:
+An LED power indicator.
+A 3.5 mm headphone jack.
+Controls for volume, and sometimes bass and treble.
+A remote volume control or a device that uses the similar function of mouse scrolling for adjusting the volume.
+
+
+
+In order to cut the cost of computer speakers (unless designed for premium sound performance), speakers designed for computers often lack an AM/FM tuner and other built-in sources of audio. However, the male 3.5 mm plug can be jury rigged with female 3.5 mm TRS phone connector to female stereo RCA adapters to work with stereo system components such as CD/DVD-Audio/SACD players (although computers have CD-ROM drives of their own with audio CD support), audio cassette players, turntables, etc.
+Despite being designed for computers, computer speakers are electrically compatible with the aforementioned stereo components. There are even models of computer speakers that have stereo RCA in jacks. There are more recent stereo systems that include USB ports (for thumbdrives), SD card ports, etc.; however low-end computer speakers tend to be powered from USB rather than offer USB power and data-transfer (for audio) on its own, seeing as a computer can have USB ports and SD card slots to play audio from anyhow.
+
+
+
+PC speaker
+Loudspeaker
+Loudspeaker enclosure
+
+

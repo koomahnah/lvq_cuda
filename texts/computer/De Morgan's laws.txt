@@ -1,0 +1,140 @@
+In propositional logic and boolean algebra, De Morgan's laws are a pair of transformation rules that are both valid rules of inference. They are named after Augustus De Morgan, a 19th-century British mathematician. The rules allow the expression of conjunctions and disjunctions purely in terms of each other via negation.
+The rules can be expressed in English as:
+
+The negation of a conjunction is the disjunction of the negations.
+The negation of a disjunction is the conjunction of the negations.
+
+or informally as:
+
+"not (A and B)" is the same as "(not A) or (not B)"
+also,
+"not (A or B)" is the same as "(not A) and (not B)".
+The rules can be expressed in formal language with two propositions P and Q as:
+
+and
+
+where:
+ is the negation logic operator (NOT),
+ is the conjunction logic operator (AND),
+ is the disjunction logic operator (OR),
+ is a metalogical symbol meaning "can be replaced in a logical proof with".
+Applications of the rules include simplification of logical expressions in computer programs and digital circuit designs. De Morgan's laws are an example of a more general concept of mathematical duality.
+
+
+
+The negation of conjunction rule may be written in sequent notation:
+
+The negation of disjunction rule may be written as:
+
+In rule form: negation of conjunction
+
+and negation of disjunction
+
+and expressed as a truth-functional tautology or theorem of propositional logic:
+
+where  and  are propositions expressed in some formal system.
+
+
+
+De Morgan's laws are normally shown in the compact form above, with negation of the output on the left and negation of the inputs on the right. A clearer form for substitution can be stated as:
+
+This emphasizes the need to invert both the inputs and the output, as well as change the operator, when doing a substitution.
+
+
+
+In set theory and Boolean algebra, it is often stated as "union and intersection interchange under complementation", which can be formally expressed as:
+
+where:
+A is the negation of A, the overline being written above the terms to be negated,
+  is the intersection operator (AND),
+  is the union operator (OR).
+The generalized form is:
+
+where I is some, possibly uncountable, indexing set.
+In set notation, De Morgan's laws can be remembered using the mnemonic "break the line, change the sign".
+
+
+
+In electrical and computer engineering, De Morgan's laws are commonly written as:
+
+and
+
+where:
+ is a logical AND,
+ is a logical OR,
+the overbar is the logical NOT of what is underneath the overbar.
+
+
+
+De Morgan s laws commonly apply to text searching using Boolean operators AND, OR, and NOT. Consider a set of documents containing the words  cars  and  trucks . De Morgan s laws hold that these two searches will return the same set of documents:
+Search A: NOT (cars OR trucks)
+Search B: (NOT cars) AND (NOT trucks)
+The corpus of documents containing  cars  or  trucks  can be represented by four documents:
+Document 1: Contains only the word  cars .
+Document 2: Contains only  trucks .
+Document 3: Contains both  cars  and  trucks .
+Document 4: Contains neither  cars  nor  trucks .
+To evaluate Search A, clearly the search  (cars OR trucks)  will hit on Documents 1, 2, and 3. So the negation of that search (which is Search A) will hit everything else, which is Document 4.
+Evaluating Search B, the search  (NOT cars)  will hit on documents that do not contain  cars , which is Documents 2 and 4. Similarly the search  (NOT trucks)  will hit on Documents 1 and 4. Applying the AND operator to these two searches (which is Search B) will hit on the documents that are common to these two searches, which is Document 4.
+A similar evaluation can be applied to show that the following two searches will return the same set of documents (Documents 1, 2, 4):
+Search C: NOT (cars AND trucks),
+Search D: (NOT cars) OR (NOT trucks).
+
+
+
+The laws are named after Augustus De Morgan (1806 1871), who introduced a formal version of the laws to classical propositional logic. De Morgan's formulation was influenced by algebraization of logic undertaken by George Boole, which later cemented De Morgan's claim to the find. Nevertheless, a similar observation was made by Aristotle, and was known to Greek and Medieval logicians. For example, in the 14th century, William of Ockham wrote down the words that would result by reading the laws out. Jean Buridan, in his Summulae de Dialectica, also describes rules of conversion that follow the lines of De Morgan's laws. Still, De Morgan is given credit for stating the laws in the terms of modern formal logic, and incorporating them into the language of logic. De Morgan's laws can be proved easily, and may even seem trivial. Nonetheless, these laws are helpful in making valid inferences in proofs and deductive arguments.
+
+
+
+De Morgan's theorem may be applied to the negation of a disjunction or the negation of a conjunction in all or part of a formula.
+
+
+
+In the case of its application to a disjunction, consider the following claim: "it is false that either of A or B is true", which is written as:
+
+In that it has been established that neither A nor B is true, then it must follow that both A is not true and B is not true, which may be written directly as:
+
+If either A or B were true, then the disjunction of A and B would be true, making its negation false. Presented in English, this follows the logic that "since two things are both false, it is also false that either of them is true".
+Working in the opposite direction, the second expression asserts that A is false and B is false (or equivalently that "not A" and "not B" are true). Knowing this, a disjunction of A and B must be false also. The negation of said disjunction must thus be true, and the result is identical to the first claim.
+
+
+
+The application of De Morgan's theorem to a conjunction is very similar to its application to a disjunction both in form and rationale. Consider the following claim: "it is false that A and B are both true", which is written as:
+
+In order for this claim to be true, either or both of A or B must be false, for if they both were true, then the conjunction of A and B would be true, making its negation false. Thus, one (at least) or more of A and B must be false (or equivalently, one or more of "not A" and "not B" must be true). This may be written directly as,
+
+Presented in English, this follows the logic that "since it is false that two things are both true, at least one of them must be false".
+Working in the opposite direction again, the second expression asserts that at least one of "not A" and "not B" must be true, or equivalently that at least one of A and B must be false. Since at least one of them must be false, then their conjunction would likewise be false. Negating said conjunction thus results in a true expression, and this expression is identical to the first claim.
+
+
+
+The proof that  is completed in 2 steps by proving both  and .
+Let . Then, . Because , it must be the case that  or . If , then , so . Similarly, if , then , so . Thus,  if , then ; that is, .
+To prove the reverse direction, let , and assume . Under that assumption, it must be the case that ; it follows that  and , and thus  and . However, that means , in contradiction to the hypothesis that ; the assumption  must not be the case, meaning that  must be the case. Therefore,  if , then ; that is, .
+If  and , then ; this concludes the proof of De Morgan's law.
+The other De Morgan's law, , is proven similarly.
+
+
+
+
+In extensions of classical propositional logic, the duality still holds (that is, to any logical operator one can always find its dual), since in the presence of the identities governing negation, one may always introduce an operator that is the De Morgan dual of another. This leads to an important property of logics based on classical logic, namely the existence of negation normal forms: any formula is equivalent to another formula where negations only occur applied to the non-logical atoms of the formula. The existence of negation normal forms drives many applications, for example in digital circuit design, where it is used to manipulate the types of logic gates, and in formal logic, where it is a prerequisite for finding the conjunctive normal form and disjunctive normal form of a formula. Computer programmers use them to simplify or properly negate complicated logical conditions. They are also often useful in computations in elementary probability theory.
+Let one define the dual of any propositional operator P(p, q, ...) depending on elementary propositions p, q, ... to be the operator  defined by
+
+This idea can be generalised to quantifiers, so for example the universal quantifier and existential quantifier are duals:
+
+To relate these quantifier dualities to the De Morgan laws, set up a model with some small number of elements in its domain D, such as
+D = {a, b, c}.
+Then
+
+and
+
+But, using De Morgan's laws,
+
+and
+
+verifying the quantifier dualities in the model.
+Then, the quantifier dualities can be extended further to modal logic, relating the box ("necessarily") and diamond ("possibly") operators:
+
+In its application to the alethic modalities of possibility and necessity, Aristotle observed this case, and in the case of normal modal logic, the relationship of these modal operators to the quantification can be understood by setting up models using Kripke semantics.
+
+

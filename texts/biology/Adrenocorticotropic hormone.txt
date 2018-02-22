@@ -1,0 +1,48 @@
+Adrenocorticotropic hormone (ACTH), also known as corticotropin (INN, BAN) (brand names Acortan, ACTH, Acthar, Acton, Cortigel, Trofocortina), is a polypeptide tropic hormone produced and secreted by the anterior pituitary gland. It is an important component of the hypothalamic-pituitary-adrenal axis and is often produced in response to biological stress (along with its precursor corticotropin-releasing hormone from the hypothalamus). Its principal effects are increased production and release of cortisol. Primary adrenal insufficiency, also called Addison's disease, occurs when adrenal gland production of cortisol is chronically deficient, resulting in chronically elevated ACTH levels; when a pituitary tumor is the cause of elevated ACTH (from the anterior pituitary) this is known as Cushing's disease and the constellation of signs and symptoms of the excess cortisol (hypercortisolism) is known as Cushing's syndrome. Conversely, deficiency of ACTH is a cause of secondary adrenal insufficiency, often as a result of hypopituitarism. ACTH is also related to the circadian rhythm in many organisms.
+In addition to its endogenous role, ACTH is used clinically as a diagnostic agent in assessing adrenal function.
+
+
+
+POMC, ACTH and  -lipotropin are secreted from corticotropes in the anterior lobe (or adenohypophysis) of the pituitary gland in response to the hormone corticotropin-releasing hormone (CRH) released by the hypothalamus. ACTH is synthesized from pre-pro-opiomelanocortin (pre-POMC). The removal of the signal peptide during translation produces the 241-amino acid polypeptide POMC, which undergoes a series of post-translational modifications such as phosphorylation and glycosylation before it is proteolytically cleaved by endopeptidases to yield various polypeptide fragments with varying physiological activity. These fragments include:
+In order to regulate the secretion of ACTH, many substances secreted within this axis exhibit slow/intermediate and fast feedback-loop activity. Glucocorticoids secreted from the adrenal cortex work to inhibit CRH secretion by the hypothalamus, which in turn decreases anterior pituitary secretion of ACTH. Glucocorticoids may also inhibit the rates of POMC gene transcription and peptide synthesis. The latter is an example of a slow feedback loop, which works on the order of hours to days, whereas the former works on the order of minutes.
+The half-life of ACTH in human blood is about ten minutes.
+
+
+
+ACTH consists of 39 amino acids, the first 13 of which (counting from the N-terminus) may be cleaved to form  -melanocyte-stimulating hormone ( -MSH). (This common structure is responsible for excessively tanned skin in Addison's disease.) After a short period of time, ACTH is cleaved into  -melanocyte-stimulating hormone ( -MSH) and CLIP, a peptide with unknown activity in humans.
+Human ACTH has a molecular weight of 4,540 atomic mass units (Da).
+
+
+
+ACTH stimulates secretion of glucocorticoid steroid hormones from adrenal cortex cells, especially in the zona fasciculata of the adrenal glands. ACTH acts by binding to cell surface ACTH receptors, which are located primarily on adrenocortical cells of the adrenal cortex. The ACTH receptor is a seven-membrane-spanning G protein-coupled receptor. Upon ligand binding, the receptor undergoes conformation changes that stimulate the enzyme adenylyl cyclase, which leads to an increase in intracellular cAMP and subsequent activation of protein kinase A.
+ACTH influences steroid hormone secretion by both rapid short-term mechanisms that take place within minutes and slower long-term actions. The rapid actions of ACTH include stimulation of cholesterol delivery to the mitochondria where the P450scc enzyme is located. P450scc catalyzes the first step of steroidogenesis that is cleavage of the side-chain of cholesterol. ACTH also stimulates lipoprotein uptake into cortical cells. This increases the bioavailability of cholesterol in the cells of the adrenal cortex.
+The long term actions of ACTH include stimulation of the transcription of the genes coding for steroidogenic enzymes, especially P450scc, steroid 11 -hydroxylase, and their associated electron transfer proteins. This effect is observed over several hours.
+In addition to steroidogenic enzymes, ACTH also enhances transcription of mitochondrial genes that encode for subunits of mitochondrial oxidative phosphorylation systems. These actions are probably necessary to supply the enhanced energy needs of adrenocortical cells stimulated by ACTH.
+
+
+
+As indicated above, ACTH is a cleavage product of the pro-hormone, proopiomelanocortin (POMC), which also produces other hormones including  -MSH that stimulates the production of melanin. A family of related receptors mediates the actions of these hormones, the MCR, or melanocortin receptor family. These are mainly not associated with the pituitary-adrenal axis. MC2R is the ACTH receptor. While it has a crucial function in regulating the adrenal, it is also expressed elsewhere in the body, specifically in the osteoblast, which is responsible for making new bone, a continual and highly regulated process in the bodies of air-breathing vertebrates. The functional expression of MC2R on the osteoblast was discovered by Isales et alia in 2005. Since that time, it has been demonstrated that the response of bone forming cells to ACTH includes production of VEGF, as it does in the adrenal. This response might be important in maintaining osteoblast survival under some conditions. If this is physiologically important, it probably functions in conditions with short-period or intermittent ACTH signaling, since with continual exposure of osteoblasts to ACTH, the effect was lost in a few hours.
+
+
+
+An active synthetic form of ACTH, consisting of the first 24 amino acids of native ACTH, was first synthesized by Klaus Hofmann at the University of Pittsburgh. ACTH is available as a synthetic derivative in the forms of cosyntropin, tradename Cortrosyn, and Synacthen (synthetic ACTH). Synacthen is not FDA approved but is used in the UK and Australia to conduct the ACTH stimulation test.
+ACTH was first synthesized as a replacement for Acthar Gel, a long-lasting animal product used to treat infantile spasms. Once relatively inexpensive, Acthar Gel is currently an extremely expensive pharmaceutical product. Prices per vial have been as high as $36,000. Acthar gel has been proposed as a therapy to treat refractory autoimmune diseases and refractory nephrotic syndrome due to a variety of glomerular diseases.
+
+
+
+While working on her dissertation, Evelyn M. Anderson co-discovered ACTH with J. B. Collip and D. L. Thomson and, in a paper published in 1933, explained its function in the body.
+
+
+
+Diseases of the pituitary, the gland that produces, among others, the hormone ACTH
+Hypopituitarism, the hyposecretion of ACTH in the pituitary, leading to secondary adrenal insufficiency (a form of hypocorticism)
+Addison's disease, the primary adrenal insufficiency (another form of hypocorticism)
+Cushing's syndrome, hypercorticism, one of the causes is hypersecretion of ACTH
+Small cell carcinoma, a common cause of ACTH secreted ectopically
+Congenital adrenal hyperplasia, diseases in the production of cortisol
+Nelson's syndrome, the rapid enlargement of the ACTH producing pituitary after the removal of both adrenal glands
+Adrenoleukodystrophy, can be accompanied by adrenal insufficiency
+West syndrome ("infantile spasms"), a disease where ACTH is used as a therapy
+POIS, through production of tyrosine hydroxylase and dopamine  -hydroxylase, which two enzymes comprise the biochemical mechanism by which norepinephrine and epinephrine are produced.
+
+

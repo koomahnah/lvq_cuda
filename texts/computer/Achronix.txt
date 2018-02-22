@@ -1,0 +1,33 @@
+Achronix Semiconductor is a fabless semiconductor company based in San Jose, California with R&D in Bangalore, Karnataka. It designs high-speed asynchronous field-programmable gate arrays (FPGA) chips, manufactured at Intel Fabs since 2012. The series of 22 nm FPGAs is called Speedster 22i and is manufactured using Tri-Gate process. Company was founded in 2004 by group from Cornell University: Dr. Rajit Manohar, Dr. Clinton Kelly IV, Dr. Virantha Ekanayake and John Lofton Holt. It was included in EE Times 60 Emerging Startups list in 2005. Prototypes of its FPGAs was made using 180 nm (TSMC, September 2005) and 90 nm (STMicroelectronix, April 2006).
+Achronix has raised over $120 million in venture funding. According to interview in December 2012 with company chairman John Lofton Holt, Achronix may do IPO in 2014.
+Achronix was the first company allowed to use Intel's fabs and had begun shipping of the product. There are 5 fabless companies announced at the middle of 2013 with agreements for chip manufacturing at Intel: Achronix, Tabula, Netronome, Microsemi and Altera.
+According to Kevin Morris, Achronix and Tabula may become #3 and #4 producers of high-end FPGA chips (First two are Xilinx and Altera).
+
+
+
+Early product line from Achronix was "Speedster" FPGAs of 2009, manufactured using 65 nm node. This chip used 4-input LUTs, grouped in blocks of size 8 LUT each. Total available LUT count was 25 - 164 thousands, and chip had maximum frequency of 1.5 GHz.
+"Speedster 22i" FPGA, the current Achronix product line, is series of asynchronous SRAM based FPGAs with 140-220 thousands of 4-input LUTs and running at 1,2 - 1,5 GHz clock. There are two sub-families: HD (high density, slower clock) and HP (high performance). In largest variant Speedster has 2597 pins total, 960 are used for GPIO, some are used for 80 SerDes (16 with speed 28Gbit/s and others with 13Gbit/s). Controllers of 100 Gigabit Ethernet, Interlaken, PCIe 3.0, DDR3 are integrated as hard IP cores.
+Since 2012, Achronix offers some licensable IP-Cores of embedded FPGA. For example, there were projects with BAE Systems to develop radiation-tolerant FPGAs for space.
+In the end of 2012, Achronix declared plans of Speedster 22i HD family. First FPGA of this family is the "HD 1000" with 6 billions of transistors, and 700 thousands of classic 4-input LUTs, running at 750 MHz. The chip includes only 12.75 Gbit/s SerDes HD1000 was made on 22-nm TriGate (FinFET) process at Intel Foundries and arrived to the market in February, 2013. HD1000 Development Kits are available for 13 thousand USD.
+Achronix products aimed to high performance communications segment of FPGA market, including networking solution.
+
+
+
+
+
+
+Official website
+Representative office in Russia and Ukraine
+Intel lets outside chip maker into its fabs. Achronix goes all red, white, and blue // The Register, 1 November 2010
+Exploring the Intel and Achronix Deal // David Kanter, Real World Tech, November 8, 2010
+22-nm-Chips von Intel heben Startup auf FPGA-Thron // Frank Riemenschneider, Elektronik Net, (German), 2012-04-24
+Intel s First Factory Customer Touts Made-in-USA Chips // The Wall Street Journal, Feb 20, 2013
+Breaking the Balance. Achronix FPGAs Disrupt the Status Quo // Kevin Morris, EEJournal, February 26, 2013
+My Take on Achronix & Its Products, Paul Dillien, All programmable planet, 3/11/2013
+Alexander Bachmutsky, System Design for Telecommunication Gateways, chapter "3.5.2.1 Achronix FPGAs"
+
+
+
+Altera
+Xilinx
+Tabula

@@ -1,0 +1,41 @@
+Computer: A History of the Information Machine is an history of computing written by Martin Campbell-Kelly and William Aspray first published in 1996. It follows the history of "information machines" from Charles Babbage's difference engine through Herman Hollerith's tabulating machines to the invention of the modern electronic digital computer. A revised 2nd edition published in 2004 included new material on the Internet and World Wide Web, while the updated 3rd edition published in 2013 includes contributions from historians Nathan Ensmenger and Jeffrey Yost. The 3rd edition extends the story to include recent phenomenon such as social networking and revises the discussion of early history to reflect new insights from the literature.
+
+
+
+Part One - Before the Computer
+When Computers were People
+The Mechanical Office
+Babbage's Dream comes True
+Part Two - Creating the Computer
+Inventing the Computer
+The Computer Becomes a Business Machine
+The Maturing of the Mainframe: The Rise of IBM
+Part Three - Innovation and Expansion
+Real Time: Reaping the Whirlwind
+Software
+New Modes of Computing
+Part Four - Getting Personal
+The Shaping of the Personal Computer
+Broadening the Appeal
+The Internet
+
+
+
+During the second half of the 1980s, the joys of 'surfing the net,' began to excite the interest of people beyond the professional computer-using communities ... However, the existing computer networks were largely in government, higher education and business. They were not a free good and were not open to hobbyists or private firms that did not have access to a host computer. To fill this gap, a number of firms such as CompuServe, Prodigy, GEnie, and America Online sprang up to provide low cost network access ... While these networks gave access to Internet for e-mail (typically on a pay-per-message basis), they did not give the ordinary citizen access to the full range of the Internet, or to the glories of gopherspace or the World Wide Web. In a country whose Constitution enshrines freedom of information, most of its citizens were effectively locked out of the library of the future. The Internet was no longer a technical issue, but a political one. (1996:298).
+The revised second edition ends, somewhat ominously:
+The Internet is simply too important for its continued existence to be imperiled by an antisocial and lawless minority. (2004:279)
+
+
+
+According to Michael Mahoney's 1998 review in IEEE Annals of the History of Computing, Campbell-Kelly and Aspray's account is "a highly readable, broad-brush picture of the development of computing, or rather of the computer industry, from its beginning to the present" which "sets a new standard for the history of computing."
+In his review in Technology and Culture, Robert Seidel writes that "Computer is a readable and comprehensive history intended to acquaint novices with a growing historical literature as well as to provide an overview of that history from Charles Babbage through Bill Gates. The authors are well-known contributors to that literature. They have gone beyond it, however, in their interpretation, adding insights that can arise only from a synthetic view of the origins, development, and use of the computer."
+
+
+
+
+
+
+Book citation, Association for Computing Machinery (ACM) portal
+0-465-02989-2 Book information, Google Books
+Book review, ACM SIGCAS Computers and Society.
+Book review, Project MUSE.
