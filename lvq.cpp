@@ -56,7 +56,7 @@ string convert_word(string in) {
     return out;
 }
 
-map <string,int> create_dict(fs::path target_dir, int text_per_category) {
+map <string,int> create_dict(fs::path target_dir) {
     std::ifstream file;
     fs::directory_iterator it(target_dir), eod;
     int word_index = 0;
@@ -68,8 +68,6 @@ map <string,int> create_dict(fs::path target_dir, int text_per_category) {
         cout << "on directory " << p << endl;
         int count = 0;
         BOOST_FOREACH(fs::path const &subp, make_pair(it2, eod)) {
-            if (count++ > text_per_category)
-                break;
             string word;
 //            cout << "on file " << subp << endl;
 
@@ -98,7 +96,7 @@ map <string,int> create_dict(fs::path target_dir, int text_per_category) {
 
 void build_text_array(fs::path target_dir, map<string,int> dict, int input_dim,
                       int **text_array_out, int **text_class_out, int *text_cnt_out,
-                      int *output_dim, int text_per_category) {
+                      int *output_dim) {
     std::ifstream file;
     fs::directory_iterator it(target_dir), eod;
     int word_index = 0;
@@ -123,8 +121,6 @@ void build_text_array(fs::path target_dir, map<string,int> dict, int input_dim,
         cout << "on directory " << p << endl;
         int count = 0;
         BOOST_FOREACH(fs::path const &subp, make_pair(it2, eod)) {
-            if (count++ > text_per_category)
-                break;
             string word;
 //            cout << "on file " << subp << endl;
 
@@ -213,7 +209,6 @@ int main() {
     CUdevice device;
     CUcontext context;
     CUmodule cuModule = (CUmodule)0;
-    int text_per_category;
 
     srand(time(NULL));
 
@@ -221,10 +216,7 @@ int main() {
     CHECK_ERROR(cuCtxCreate(&context, CU_CTX_SCHED_SPIN | CU_CTX_MAP_HOST, device));
     CHECK_ERROR(cuModuleLoad(&cuModule, "lvq.ptx"));
 
-    cout << "How many texts to use (per category)? ";
-    cin >> text_per_category;
-
-    map<string,int> dict = create_dict(fs::path("./texts"), text_per_category);
+    map<string,int> dict = create_dict(fs::path("./texts"));
     l.input_dim = dict.size();
     l.neuron_count = 4;
     cout << "Created dict. How many neurons to use? ";
@@ -232,7 +224,7 @@ int main() {
 
     cout << "Building text array..." << endl;
     build_text_array(fs::path("./texts"), dict, l.input_dim, &l.text_array,
-            &l.text_class, &l.text_count, &l.output_dim, text_per_category);
+            &l.text_class, &l.text_count, &l.output_dim);
 
     cout << l.text_count << " texts in " << l.output_dim << " classes." << endl;
     cout << "Input dimension is " << l.input_dim << endl;
@@ -273,7 +265,7 @@ int main() {
     CHECK_ERROR(cuCtxSynchronize());
 
     float attract_step = 0.9, repel_step = -0.5;
-    int limit = 100000;
+    int limit = l.text_count * l.neuron_count;
 //    cout << "How many training iterations? ";
 //    cin >> limit;
     for (int i = 0; i < limit; i++) {
@@ -306,9 +298,29 @@ int main() {
         if (l.text_class[i] == l.neuron_class[winner])
             success++;
     }
+    delete[] l.text_class;
 
     cout << "Random choice accuracy would be " << (1.0 / (float) l.output_dim) << "." << endl;
-    cout << "Neural network accuracy " << ((float)success / (float) l.text_count) << "." << endl;
+    cout << "Accuracy on training set " << ((float)success / (float) l.text_count) << "." << endl;
+
+    CHECK_ERROR(cuMemFree(l.text_array_d));
+
+    build_text_array(fs::path("./text_test"), dict, l.input_dim, &l.text_array,
+                &l.text_class, &l.text_count, &l.output_dim);
+
+    cout << "New text count is " << l.text_count << endl;
+    CHECK_ERROR(cuMemAlloc(&l.text_array_d, l.text_count * l.input_dim * sizeof(int)));
+    CHECK_ERROR(cuMemcpyHtoD(l.text_array_d, l.text_array, l.text_count * l.input_dim * sizeof(int)));
+    delete[] l.text_array;
+
+    success = 0;
+    for (int i = 0; i < l.text_count; i++) {
+        int winner = compete(i, false, NULL);
+        if (l.text_class[i] == l.neuron_class[winner])
+            success++;
+    }
+    delete[] l.text_class;
+    cout << "Accuracy on external set " << ((float)success / (float) l.text_count) << "." << endl;
 
     cuCtxDestroy(context);
 
